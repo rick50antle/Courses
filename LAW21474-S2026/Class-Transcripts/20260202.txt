@@ -1,0 +1,1625 @@
+
+0:03
+Pretty much. Um.
+0:25
+You know. So. Well, so far, no.
+0:29
+So. Where are you from?
+0:40
+Offers. Are not you? Yeah, yeah. What's the distance, ma'am?
+0:50
+Too obvious. I was doing. This.
+0:56
+Just doing. In terms of fishing.
+1:00
+Oh, yeah. And, uh. And then. I'm sorry.
+1:06
+In D.C., he's. Oh.
+1:12
+That's cool. And. You.
+1:15
+Wherever you are. The army has kept us from, like, public school also.
+1:19
+Well, summer internships are only like one license. One for 20 weeks.
+1:27
+That's wrong. So that's why I'm like. I'm thinking. I'm trying.
+1:31
+I'm like, um. It's good to know. Students here?
+1:35
+Yeah, I think so. I know she's work. Trying to ask that every time I ask him.
+1:42
+Like. I mean, because I'm, like, super freezing on campus. That's true.
+1:48
+And he didn't. Uh.
+1:55
+Alaska in Alaska is roughly 74.
+2:11
+Excuse me. Jack. All right.
+2:14
+I have a new plan for sinking everything we see that works.
+2:22
+So we're just going to practice a little bit, and I'm. You know, I'm sort of thinking also, I might change a few assignments.
+2:29
+I think I ask you guys this. Let me ask you, how often have you done like discounted interest calculations.
+2:37
+No. How many? Yes. Yeah. Okay.
+2:45
+The reason I want to do that.
+2:50
+Then I think we'll take some time to do it, is that it gives you a very clear idea of what you mean when you if you say the word value.
+2:52
+And it'll help us think about how we're tracking value versus cash.
+3:02
+So I'll re-engineer a little bit in the middle here and we'll see what you do.
+3:08
+Okay. But right now we're just practicing, uh, working with the basics of the accounting system,
+3:15
+which is the accounting identity assets, liabilities, equity.
+3:21
+And then the income statement, which is how do we, uh, for if you're trying to earn a profit in the nonprofit,
+3:25
+you call it the statement of activities, you know, because they're not really trying to earn income, but they're active.
+3:33
+They're doing stuff. Right. So they're doing stuff over time.
+3:36
+Okay. So here we have a company is going to issue some shares at par.
+3:40
+They're going to then there's going to be some interesting things. I don't know if I can increase that the size of this.
+3:46
+Let me try this. Uh has what's theirs.
+3:52
+Zoom zoom zoom. Let's let's zoom. Let's let's let's zoom way.
+3:57
+Oh, boy. I can almost see that. That's good.
+4:02
+I'm just zoom in. All right. So they're going to issue some shares.
+4:07
+Uh, then B is kind of an interesting one because I wanted to we're going to get you a little bit into, uh,
+4:14
+show you a little bit how the double entry system helps you when you start having more than one thing coming in and coming out.
+4:23
+Okay. It's a very handy device for that. So here we're just going to have three instead of one thing coming in and coming out.
+4:30
+Really everything's floating around. And there are some consulting services getting some cash up front um paying some cash for wages, rent.
+4:35
+But again, there's some stuff we have to say here.
+4:47
+The, uh, rent had not been. Okay, so rent is interesting.
+4:50
+They pay $20,000. Their charge rent at 13,000 a year before that.
+4:54
+Prior to July, though, they hadn't paid any rent.
+5:02
+So when they pay the 20,000, there's an issue of how much are they paying for stuff they've already used, how much is prepaid and so on.
+5:05
+Uh, then that pays some money to pay down a note.
+5:15
+We have declared some dividends, pay some dividends, received some payments for from outstanding customers.
+5:19
+So some office furniture, cost of goods. So interest expense adjusted rent okay.
+5:28
+So this is kind of, you know, just our standard, um, bunch of stuff, right.
+5:33
+That we that we do. Okay. So if you, if you have on your, uh, computer, if you're going to open to the shared file and look at the journal,
+5:40
+then we can follow along with what should go on here.
+5:54
+I'll just give you my.
+6:00
+Screen. So. Yeah. Okay. So, uh, the first thing is that issued some stock.
+6:07
+So what am I going to do there. Well I think I'm going to.
+6:15
+Hey, I'm going to recognize it. Right? It's going on here.
+6:22
+Okay, good. And they issued 2000 shares of common stock for their par value of $50 per share.
+6:27
+So that's 100,000 in cash. Prices are going to get some cash.
+6:36
+So if this is going to work right then cash of 100 is going to show up.
+6:40
+I'm going to put that in the oh look it did it right.
+6:49
+So that's an item that's going to hit our ending balance sheet.
+6:53
+Now the ending amount of cash is going to be all that.
+6:58
+You know what it ends up at after we do all the different, uh, entries.
+7:02
+But every time we make an entry into the journal, we're basically, you know, putting that onto our future balance sheet.
+7:05
+Let's go to the future balance sheet is going to be the sum of all this stuff right now.
+7:14
+Uh, we got thread going on here. Need more workspace.
+7:19
+Looks like your display is not optimized. Uh, will you please.
+7:23
+Okay, so. So, um, here.
+7:27
+All right, so we know something else has to go on.
+7:33
+And again, the debit and credit system is nice in that regard because it automatically handles it kind of a lot of of concern with the sign.
+7:38
+So uh, if they issue common stock that's issuing equity and it's at par.
+7:47
+So uh, it's just hitting common stock and that's 100.
+7:55
+Okay. And now notice then notice what's going to happen here is cash got changed and common stock got changed.
+8:00
+But also we have the statement called statement of changes in shareholders equity.
+8:14
+And that's what that statement does is take your total shareholder's equity.
+8:18
+And it says you know why did it go from zero to what it went to.
+8:23
+Okay, so one reason is what we just issues and stop.
+8:28
+Okay, so the stuff in here is going to give us all sorts of information about how we got from this to that.
+8:32
+So if you remember uncle Penny bags, the big secret there was that they started a bunch of companies,
+8:38
+started the same place and ended the same place, but they had different paths.
+8:44
+So this is where all the path information is coming in. Uh, I don't know if I did this or not.
+8:47
+This to see if. I might have.
+8:58
+Um, let me see. Unhide all of to see what happened.
+9:05
+Now, I didn't, uh. I didn't hook up the catch.
+9:10
+Oh, no, wait a minute, wait a minute, I. We'll get.
+9:15
+We'll do the cash flow statement later, okay.
+9:18
+But again, remember there's another statement that tells us about how we get from cash from the beginning to the end.
+9:20
+All right. Any questions about that one?
+9:26
+But, you know, in particular, there's nothing touched income.
+9:32
+One two. Okay. They purchased eight sets of office furniture that it's good that they're going to sell to customers.
+9:38
+And each set costs $20,000.
+9:47
+All right. They paid 10,000 in cash and then signed a note for the rest.
+9:52
+Doesn't really tell you how much the note was separately.
+9:58
+Right. But we can, uh, do this.
+10:04
+Conflicting statements again. Okay. If we go over here to the journal, I don't really know if I want to be doing this.
+10:16
+Can see the journal entry. Um. You know, you just start writing down what you do know, right?
+10:23
+And what we do know is that they paid out some cash. And so that's going to be a credit to cash of, uh.
+10:31
+They paid 10,000 in cash. Okay. That's good. But now we have kind of two other things outstanding.
+10:40
+It's like, well, uh, they got some office furniture.
+10:48
+So I suppose that that's going to sell it.
+10:53
+So that's inventories for them. And to balance out the entry entry, they took a liability.
+10:56
+Okay. They signed a note. That makes sense.
+11:04
+Sorry. Would it be possible to, like, maybe, like, zoom in? Yeah.
+11:10
+Thanks. Always remind me, because this is really. I say whoa, whoa whoa.
+11:13
+Yeah. Okay. Yeah.
+11:18
+All right. So we got to fill in this thing, right?
+11:24
+I mean, you know, we have to. We need to complete.
+11:31
+That was good. Okay. So that's that's separate from that. So what's the liability going to be.
+11:37
+It's probably going to be like notes payable. Okay.
+11:42
+But I need numbers. Well there's kind of only one number that we can work this off of.
+11:46
+Right. Which is that's because the only thing we're really told is that each set of office furniture costs 20,000.
+11:51
+There's eight of them. So I guess that's 160,000.
+11:58
+Right now. Once I say this is this big thing, once I say this is 160, then that automatically valued the note at 150.
+12:02
+Does that make sense?
+12:16
+You know, suppose there was some dispute or something, or some uncertainty about exactly what these sets of furniture might cost.
+12:20
+Maybe there's some litigation room going back and forth here, right?
+12:27
+Well, sometimes, depending on how fuzzy it is, what we might do is instead, we might value the liability.
+12:31
+You know, we might look at an interest rate. Yeah. If we if we looked at what the promise to pay, uh, the present value of that promise to pay,
+12:39
+this is what we're going to get into interest in a minute. And we put a number on the liability first.
+12:50
+And that would automatically say what the what the asset had to be.
+12:55
+Right. But we don't we can't make up both of them. We're not put it another way.
+12:59
+We don't have to make up two numbers. We're not trying to separately look at the inventory value and the receivable value.
+13:04
+Whatever we put in the account has to be consistent.
+13:10
+Story. So what we just did with the journal entry was a consistent story, right.
+13:16
+We got an asset for a 160. We're recording at 160.
+13:21
+We gave up an asset of ten. And we took on a liability of 150. That's a consistent story.
+13:24
+This is exactly the right story. Uh, I don't really know.
+13:29
+You know, I mean, maybe if. What if there's a cash discount?
+13:36
+If they could have that. Oh, just there's all kinds of stuff comes in there.
+13:39
+I just want to point out to you kind of, what are the key judgments that you have to make and have, but but how?
+13:43
+Once you once you put in one number for either the inventories or the notes payable, you can't make up a different number for the other side.
+13:50
+It is what it is. Makes sense. You.
+14:00
+Uh oh. Wait. So now let's see what we did to the financial statements.
+14:09
+Well, we should have just changed stuff on the balance sheet, right?
+14:16
+And we changed stuff on the balance sheet in accordance with the accounting activity.
+14:22
+Let me I guess I can also. You know, I wish we I wish I had an infinitely large, uh, screen here.
+14:25
+Let's just look at what we did. So. So look, nothing we do is going to affect the beginning balance sheet.
+14:37
+So there's no there's no real reason to show it. But what I always want you to do is remember that it's there.
+14:42
+Because all this stuff in the middle I want you to think of as explanations for how we got from the beginning to the end.
+14:47
+So that's why I keep that beginning balance sheet. Not there all the time. Okay.
+14:52
+And and you know, we know from working the accounting I didn't need that. This is going to make sense.
+14:57
+Right. One asset went down, one asset went up and liability went up.
+15:01
+And it balances. Cool. All right.
+15:05
+You. Know I want that.
+15:11
+Okay. So so now I'm going to go to the next transaction.
+15:18
+Says they perform consulting services for a total fee of 200,000.
+15:25
+And they got 50,000 in cash. Okay.
+15:31
+So it's another one of these things where there's going to be, um, more than one debit or more than one credit.
+15:34
+So I don't know. They got in, they got in some cash of 50.
+15:42
+Right. So in my journal I'm going to be debiting cash for 50.
+15:50
+Okay. So I just made cash go up. But my balance sheet isn't in balance now.
+15:57
+Right. Because I haven't put out the whole entry. And so cash went up.
+16:01
+What else happened? Well, I guess they owe us the rest.
+16:07
+So we got to receivable and account receivable.
+16:13
+It says we performed IT services. So I'm going to say okay, that's we've we've done the job.
+16:17
+The receivable must be for 150. And then.
+16:22
+Okay, now here's the cookie. What happened here?
+16:29
+Well, we performed a service, so we earned some revenue.
+16:32
+Okay, so the revenue is going to be. Now there's a couple of different kinds of revenue accounts.
+16:38
+There's sales consulting revenue. Sales of office furniture.
+16:44
+I guess it's sales of office furniture. Is that what it said?
+16:47
+No. Consulting, CBO, consulting, revenue rather. And that's going to be 200 bucks.
+16:50
+And when I hit this, what's the income statement? Hopefully I got to hit.
+16:57
+I got to put the 200 and I'm earning more. Okay, so that's what's going to happen.
+17:01
+Now I don't have the closing automated on this.
+17:11
+So what's going on. So the balance sheet is going to stay red until I close all these income statement numbers out to it.
+17:15
+But let's just watch and see what happens. Okay. Well first of all cash changed.
+17:23
+Receivables changed. And this is going to flow to my my retained earnings.
+17:29
+Right. When I close it it's going to be closed into retained earnings. So see where.
+17:37
+So that. So it's going to hit that here with retained to retained earnings when I move all the income in there.
+17:43
+But right now the income numbers are kind of stuck over here. Right.
+17:49
+Eye view. It's kind of like a almost think of a like a pipeline.
+17:53
+And some of the numbers went through. But some of them are kind of stuck.
+17:56
+We haven't moved them all the way through yet. This is just redundant with the income statement.
+18:00
+Right. Because one of the reasons that retained earnings went up would be because they earned income.
+18:06
+Well, you see what story is being told here with shareholder's equity.
+18:12
+It says look shareholder's equity is going to in the end it's going to go so far we've got one.
+18:15
+It's got went from zero to uh.
+18:22
+Uh 200. I don't know what's happening exactly.
+18:30
+It's okay. And the part of the reason is because they issued common stock.
+18:33
+Another reason is going to be that they earned income. Okay, I'm not worried about my number, but we'll figure it out later.
+18:38
+Okay. The company had 4000, in labor expense.
+18:47
+Okay. Incurred 4000 100,000 in wages expense.
+19:00
+But okay. So so that they didn't say they paid it. So what am I going to do here?
+19:05
+I'm going to. Uh.
+19:11
+I'm going to increase my liability of wages payable.
+19:17
+So I'm going to credit liabilities. Wages payable. Salaries and wages payable for 100.
+19:22
+Right. And you can see that's going to flow through to the balance sheet.
+19:32
+But what's the what's the debit?
+19:38
+Well the debit is wages expense. Right.
+19:41
+So that's wages that we must have. It says we incurred wages expense okay.
+19:45
+So I'm going to say now where's that going to hit. Salaries and wages expense that's going to hit the income statement.
+19:49
+Right in salaries and wages expense. Okay.
+19:58
+So what? I'm, you know, you guys will have to to sort of help me decide here.
+20:07
+But what I'm always trying to do is to keep the whole set of financial statements
+20:13
+as much as possible in front of you so that you can see how they work together.
+20:18
+There's not one. And then the other very common are you just keep your ears open when you hear people talk about accounting.
+20:22
+Here's a stupid question. What's more important, the income statement or the balance sheet?
+20:29
+What are you talking about? I mean, they both work together to convey information, right?
+20:33
+And so by using this display, what I'm hoping to do is to to kind of implant this more systemic, systematic view of the whole set.
+20:38
+Instead of just going from one to the other one. They're all connected. So, uh, hopefully that's going to work.
+20:51
+Hopefully it's effective. Okay.
+20:58
+But again, we haven't closed it. Now, you could do some thought experiment.
+21:05
+Things to say. Look. Total assets for 50. Total liabilities in equities 350.
+21:09
+It's off by 100. There's 100 right here.
+21:16
+Net income. Right. I haven't closed these net income account out.
+21:19
+And if I did close it, it would balance exact.
+21:23
+But my balance sheet would be in balance. Okay. But again, you know, typically you have seen the most of these things were no,
+21:26
+but these systems were put together when everybody was writing stuff down on paper at best.
+21:37
+Right. And you and there's no way that you could continuously process the information.
+21:43
+So the information would be batch processed, right. You get all have you ever seen those those.
+21:49
+Um, uh, they still do this on the New York Stock Exchange.
+21:55
+So do they still trade on the floor and write down stuff down and throw things down?
+21:59
+I don't know if they do. Do they don't do that anymore or do they do I don't know. Do you ever see a movie like that?
+22:03
+Like The Wolf of Wall Street is a good one? It's crazy.
+22:07
+The any of these, any of these, you know, uh, crazy Wall Street things.
+22:10
+They'll often show you a picture of the trading floor. And what happens is on the trading floor is, like I said, I want to sell whatever.
+22:15
+And you say told, you know, and so then you and I'll write it, write a ticket and throw it on the floor.
+22:21
+And at the end of the day, somebody comes along and sweeps up all those things and goes through all those tickets and sorts out.
+22:27
+Okay, you traded with you and you trade with you and they try to match up everything.
+22:33
+And then if they don't, they have to have some discussions or hearings. Well I traded that with no you didn't I don't know I don't or whatever.
+22:37
+Right. But the point is that the trades weren't, it wasn't like being on line.
+22:42
+It's everything can just be done in real time. Okay.
+22:47
+That also is handy for it's handy to understand that or have a little bit of that mindset for you guys because of this,
+22:53
+when you get a set of financial statements, what are you going to see?
+23:06
+You see the beginning balance sheet of the ending balance sheet and these explanations of what happened in between.
+23:09
+But guess what? Those explanations for what happened in between.
+23:15
+Those are not laid out in time. You all you know is that's the stuff that happened between the beginning and the end.
+23:18
+So it's almost as if the information is presented to you in a batch processing way, not a continuous meter of something.
+23:26
+It's just about. It's just. Okay. This is what happened over the whole period.
+23:35
+Okay. So it's useful to have that mindset. Okay.
+23:39
+Is it getting more? How is it getting boring?
+23:45
+Is it getting boring? Come on. Yeah, I think I could go.
+23:50
+Come on. It better be getting boring. Okay. It's supposed to be getting boring, right?
+23:56
+Because you. I'm going to push it till it's a little boring, and then I'm going to go off to something else.
+24:01
+But if you don't get to boring. You got trouble.
+24:06
+You want to keep going until you. Oh, I know how to do this.
+24:09
+Okay, good. Now you're where you need to be. Okay. But you don't really want to go much further than that.
+24:13
+Okay. So again, when make when you go further to the next thing, I'm going to take out all the simple transactions.
+24:19
+You just say assume that we can all do that. If you have trouble with one make sure you raise it though because you'll be surprised.
+24:25
+You'll be going along and you think you know it, and suddenly something will happen. And you, you might doubt.
+24:31
+Do I really wonder what it will go back over? Okay.
+24:36
+Five. The company paid the wages. Oh that's easy right?
+24:40
+This. Hopefully this one's boring, right?
+24:43
+Because what? Oh, the thing that has to happen is. Oh, wait.
+24:47
+What's still. It's kind of nice to think, you know, what's going to happen when they pay wages.
+24:51
+Well, this is going to go away and cash is going to go down 100.
+25:00
+Right. That's what's going to happen to the financial statements. Okay.
+25:07
+All right. So let's see that happen. Um cash I always do the cash part first.
+25:13
+100. And oh I don't want.
+25:24
+And salaries and wages payable goes down by 100 and sort of.
+25:30
+You know, I'm just I'm only out of every time I can check.
+25:37
+I'm out of balance by 100 bits in the temporary accounts.
+25:40
+Okay. We're all okay. I have a quick question.
+25:46
+Yeah. Um, does it matter in the Journal whether you put cash as a second entry or as a third entry for cash flow purposes,
+25:54
+like whether the operating at the top or is at the very bottom of the entry.
+26:05
+Uh, let me let me switch view and you can see where exactly time to invest.
+26:09
+So like in transaction two for example, the cash flow label is like in the middle.
+26:17
+It doesn't matter. It doesn't matter. Right. It doesn't. It does. The order of the things doesn't matter.
+26:24
+So the only thing we're trying to do with the notation here is to let you easily see what's been debited and what's been credited,
+26:29
+and but the order doesn't matter.
+26:36
+Now what's going to happen is if you if you put this thing down here, I've programed to worksheet so that the little blue thing goes with it.
+26:38
+Okay. Right. Yeah.
+26:47
+Um. I.
+26:53
+I just get off from watching the numbers? It's terrible.
+27:13
+Like I said, it's really kind of. It's kind of bad.
+27:17
+It's getting bad. Okay.
+27:22
+Uh, we might want to look at this next one. So let's go back to the six.
+27:25
+So the company is charged rent at a rate of 13,000 a year.
+27:31
+And then they. Hadn't recorded anything for the.
+27:36
+We know because we haven't done anything for the rent.
+27:42
+Right. Now we could stop right there and say, wait a minute.
+27:45
+We should have recorded a liability for that degree.
+27:54
+I don't know why anybody's letting us stay in the building without them paying.
+27:58
+I don't know, it must be our brother in law or something. This is talking about related party transactions.
+28:01
+We we don't even go want to go there, right? But, you know, we're kind of coming in, you know, in the middle of something.
+28:06
+The information that we're getting is, um, yeah, it's it's it's in the middle of something.
+28:15
+But let's think about what we have to do. Some of it.
+28:21
+Okay, so cash is going down. That's easy right?
+28:26
+So I would propose that without doubt, one of the things we do, first of all is we say cash.
+28:30
+Don't think about it. That's getting credited for 20.
+28:41
+All right. So now I have to have 20 and debits.
+28:45
+My. Yeah, I was going to ask why.
+28:51
+I noticed in the PDF you included the fact that he paid the 20,000, but in the description it's in a later step.
+28:55
+It's not there. The payment of the 20,000 000.
+29:01
+You know what I'm trying to do? I'm sorry. I changed the problem to keep it from not being so confusing.
+29:06
+This is actually what you should do, right? Probably right.
+29:12
+Thanks. Sorry about that. Wake up. Wake up.
+29:16
+Rick. Okay, good. Okay, so they're charged and they hadn't been paid.
+29:21
+Now again, there's more. Once we get through this, you'll see what I was doing.
+29:26
+There's more than one way to do this, right? There's, like accounting, jujitsu and whatever however you do it.
+29:31
+Because let's just think before it happens. Let's also go forward.
+29:37
+They're going to pay some amount. Right. Well, look, what's going to happen is cash has to go down.
+29:40
+There has to be prepaid rent somehow left on the balance sheet.
+29:46
+And rent expense has to hit the income statement route that all that stuff has to go on.
+29:50
+Cash is going to when you look at the bundle of transactions, cash is going to go down.
+29:56
+We're going to have something called prepaid rent, and we're going to have rent expense.
+30:02
+And how much of that goes to what. Well, hey, look, we don't care how you get there as long as you get to kind of the right point.
+30:07
+Now, the right point here again is one of those where prepaid rent we're going to consider just literally declining.
+30:17
+We're not going to get really quick. Well, wait a minute. You know, the store is worth more in December than that.
+30:24
+Talk to me and I'm going to do it. You could be right.
+30:32
+It doesn't matter. I'm not going to do it. Okay.
+30:36
+So this. So this is one way to handle it.
+30:39
+Uh, is the rent had not been paid.
+30:44
+So that means we have a live boot now. So that means what we've got.
+30:50
+Hmm. I guess we haven't. Well. Let's see.
+30:57
+We have a liability. So let me put that on the books first.
+31:01
+That's kind of easier for me to think about. You owe somebody some rent.
+31:05
+Okay. So, uh, rent payable. And that's, um.
+31:08
+If it's half a year, I guess that's 6500 bucks.
+31:13
+Okay. Mhm. All righty then.
+31:18
+Well now I know I have to have a debit for 6500.
+31:24
+But what do I want a debit. Well they've already used it.
+31:30
+Right. They've been in this the place. So I might as well say that that's an expense of doing business.
+31:35
+That's rent expense. Okay.
+31:44
+So that's that's kind of a consistent story. But besides being bored.
+31:47
+Besides starting to be bored, you should also be starting to be feeling how this system is helping you think things out.
+31:55
+Helping you say, oh, I know that piece. Now I have to focus.
+32:03
+What? What's the other way? You know, it helps you.
+32:06
+You know what the numbers have to be. But what are we going to call?
+32:10
+It's crazily beautiful system for that. You know, it's kind of.
+32:18
+I'm kind of okay. It's kind of disturbing that I find it.
+32:22
+Okay. So what happened here was basically a liability went up and equity went down.
+32:29
+Equity went down because net income went down. Makes sense.
+32:39
+So as you go through these things, it's always helpful to think what's happening to the statements.
+32:44
+Mhm. That's that's super high level to be honest with you to, to be doing that at the same time you're doing the entries.
+32:50
+You can't do that except with people like you. So I'm lucky.
+32:59
+All right. Oh.
+33:05
+All right. Reset. Reset reset. Now let's see what happens in seven.
+33:17
+Okay. They paid rent okay.
+33:21
+They paid rent. That's easy. They paid 20 grand.
+33:25
+So way. This is seven.
+33:31
+Seven. So, um.
+33:38
+Yes. I should go over there and look at the journal entry. Just.
+33:44
+Do the easy part first. They paid cash. Of 20.
+33:53
+That's great. What did they pay it for? Well, they had a liability.
+34:01
+I remember that. They had a liability because I just because I remember that because I just made it up again in practice,
+34:07
+you'd have to go dig up that information from the system every time.
+34:14
+Like, okay, do we have a have I recorded the liability? Yeah.
+34:17
+You had you recorded. You recorded rent payable of 6500.
+34:21
+Well, I'm 13,500 out. What do you want me to do with it?
+34:35
+I so I know I need, I know I need a debit of 13 five.
+34:41
+What do I call it? Prepay rent.
+34:46
+I can say prepaid rent, right? That makes perfect sense. I can say prepaid rent asset.
+34:50
+Now, accounting county jiu jitsu might be if you peek ahead.
+35:03
+If you peeked ahead and. You know that you're going to make up the financial statements as of December 31st.
+35:07
+You kind of could have just cheated a little bit, saved yourself an adjustment and wrote down another 6500 and rent expense.
+35:17
+Right. And, um. And then that would leave the prepaid rent balance, which is to be carried forward.
+35:28
+Okay. It doesn't matter. The point is, the journal entries don't matter.
+35:37
+The only thing that matters is when we get out here to the end.
+35:41
+That. Well, obviously the cash is going to be right, but what's in the prepaid rent is how much rent we're allowed to consume going forward, right.
+35:47
+Does that make sense? So we we got to juggle how much rent we're allowed to consume going forward versus how much we use this period.
+35:59
+Somehow that's got to be sorted out by the end by the time we make up the financial statements.
+36:09
+Okay. I'm said very.
+36:14
+Now. Uh, yeah.
+36:20
+Okay. All right.
+36:25
+The next transaction is the company paid down the holder of the note.
+36:37
+Uh. To.
+36:45
+They just made a prepayment on the note. So what do you what do you want to do with that?
+36:48
+Always do the easy part first, right? Cash goes down by the amount they paid.
+36:58
+So I'm going to credit cash. Four.
+37:03
+What did they pay? 15. Right.
+37:09
+Right away. So right away I know that I've got to have total debits of 15.
+37:15
+I'm hoping it's only going to go to one place, but really, it's all I know. Well, you know, they just put down the liability.
+37:29
+It doesn't say anything about interest costs or anything like that. Right.
+37:36
+So why don't we just keep it simple and just say that they paid their liability down their notes payable by 50.
+37:40
+Simple transaction. And.
+37:50
+All right. Let's go into the financial statements and see where they are.
+38:00
+Yeah. Cash went down and notes payable went down. They used to be 150 another.
+38:05
+Oh, getting the hang of this accounting stuff I don't know. Right.
+38:14
+They declared dividends. We've done this a lot. Right. So declaring a dividend means that they, um.
+38:22
+Their retained earnings go down. So I'm going to debit retained earnings.
+38:32
+And I'm going to credit dividends payable. That's a liability.
+38:39
+For 90. But wait, I didn't.
+38:54
+Capture. Okay.
+39:02
+So retained earnings is going to go down by 19.
+39:11
+And look I mean retained earnings is a mess right. Because I have it I got all these temporary accounts that I have closed in there.
+39:17
+I'm going to clean that all up later.
+39:23
+So we don't want to take very seriously the balance in retained earnings right now is we're still in calculation.
+39:24
+But notice also that appears in the statement of changes in shareholders equity.
+39:31
+Because that's one of the reasons Chevron's equity changed is because they declared a dividend.
+39:34
+Particularly notice in the US. The income statement is not affected.
+39:43
+So you look you look at the income statement that dividends to your own shareholders.
+39:50
+Uh, not an expense. How about interest to the lenders?
+39:56
+Yeah, that is an expense. Uh. People get confused about this.
+40:08
+Because if you think about how am I going to finance my company?
+40:15
+I'm going to issue some equity, and Bart and I'm going to go borrow some the payments then compensate the people for taking that risk with you.
+40:18
+Giving you, your giving you that money are accounted for very differently.
+40:29
+One is accounted for, its dividends and their owners not part of the income statement.
+40:34
+Interests. It's as if the owners then borrowed.
+40:41
+You know. Then. Yeah. Interest is an expense of doing business.
+40:45
+Good work. The net income is sort of what's left for the owners. That's the idea of it.
+40:49
+That's. You'll see. That's kind of. Right.
+40:54
+Given this parable 19. All righty.
+40:59
+So anyway, he's a super computer programmer and could figure out how I could do this with anything, even in some more elegant way.
+41:12
+That would be great. Okay.
+41:19
+They paid the cash dividend. I shouldn't even I shouldn't even do that.
+41:24
+Now. Then cash is going to go down and dividends payable is going to go.
+41:28
+So dividends payable is going to go down in cash is going. 92.
+41:39
+Okay. Now notice, when I paid the dividend, what hit the shareholders equity was declared dividends.
+41:57
+What's going to hit the cash flow statement when we see that? That's the that's the difference you actually paid through.
+42:08
+Usually almost the same, but not always especially what could happen to you is like I saw this one.
+42:14
+What what example we're going to see is Coldwater Creek. I think they were an S Corp.
+42:23
+I don't know much about S Corp.
+42:27
+They converted to a C Corp and they had some dividend deals and stuff and some of the dividends for some reason that didn't get paid.
+42:29
+They were hanging out over their head. So they had dividends and declared it reduced the retained earnings.
+42:37
+But but but the dividends declared were not the same as the dividends that were paid.
+42:43
+Okay. So but mostly I haven't found many annual reports where there's really much different or that much, much going on there.
+42:48
+But, you know, that's just who knows what what we're going to see.
+42:57
+So another good thing about an accounting course is that we just have to talk about all these different things that companies do, right?
+43:06
+You know, anything anything that hits financially is captured by the accounting system.
+43:15
+We have to analyze as to, well, what's the substance of that transaction, what's really going on?
+43:22
+Are they renting something. Are they buying it. Are they what's going on here?
+43:27
+Right. And you and you get to go through all the kinds of decisions that organizations make, or all the kinds of transactions that you enter into.
+43:31
+Okay, that's my sales pitch, one on one. All right.
+43:38
+Now, what is 11? They got paid for, uh, some of their outstanding receivables.
+43:43
+Uh, yeah. This is, you know, again, not such a big deal.
+43:53
+They're going to get cash for, uh.
+43:58
+What does it say? They got paid 30. Uh. And they be the right to receive cash, then kind of went out of the organization.
+44:03
+Right. They don't have that right anymore. Okay. So one asset went up and another went there.
+44:20
+You. Almost done.
+44:32
+Oh, my God, I'm tired. Uh, they sold three sets of office furniture for 168 in cash.
+44:36
+Okay, so I'm going to make an entry. Uh, first of all, I want to record the cash, which is three times 28.
+44:53
+Let's see. Asset cash. I'll show you it. This is a this is a big Excel trick.
+45:01
+Watch. This equals three times 28.
+45:07
+Boom! Uh 84. Didn't have to calculate.
+45:14
+Got a built in calculator right here. And what is that?
+45:18
+That's oops revenue a day.
+45:25
+It's going to if you go back to that identity that's going to drive up equity.
+45:30
+But it's an income item. So it's going to drive up equity by going through the income statement.
+45:36
+So it's revenue. Um. Sales of office furniture.
+45:45
+Before. Cool.
+45:51
+Let's go back. Let's see what happened. What do you think's going to happen?
+45:56
+Well, cash is going to go up. The income statement is going to have a night that goes, I think it goes up in particular to the revenue.
+46:01
+I'm sales of office. Virgin cash went up.
+46:12
+Income statement I think goes up when something goes up on the income statement that helps explain why its shareholders equity changed.
+46:15
+See, I think I described this in the first couple of days of classes, like Breaking Rocks.
+46:30
+I mean, I just have to. I have a feeling that with no prison movie where the guys have to go out and just know, just hammer thing where it is.
+46:36
+Hammer and I'm. It's okay to do that.
+46:43
+So. Okay.
+46:47
+And 13 says. Now I got a record of the cost of goods sold. All I recorded is the here I recorded the revenues.
+46:51
+But I know that there's anytime there's revenue, I have to look up and say, you know, are there any costs that we incurred for that?
+46:59
+Well, yeah, they delivered three sets of office furniture.
+47:07
+So if you go into, um, if we go over here to the tools change and we look at the inventory account.
+47:10
+We will see that, uh, not not not not good here.
+47:23
+Right. 160. That's the cost of what they put in, but they don't have a model anymore.
+47:32
+So I've got to take something out of the inventory account.
+47:38
+So I guess, um, you know, now here again,
+47:44
+I'm going to always because I'm not going to get into all the details of inventory methods where you set Fifo life.
+47:47
+Okay. You can, uh, you can have all kinds of ways that you trace things for how it went from here to there, here to there.
+47:53
+And I'll probably write a I think I've already written some type of interactive lesson thing.
+47:59
+If you want to do that, fine, because you have to be able to do it at some point.
+48:05
+But, uh, it's not important for what we're doing here. Okay.
+48:08
+So what I'm going to do is, uh, these this these are eight sets at 20 apiece, so I need to take out 60.
+48:12
+So if I go back here to the journal. Right.
+48:19
+So what I'm going to do here is I'm going to debit cost of goods sold.
+48:24
+And I'm going to credit inventory for 60. So let's see what's going to happen when I do that.
+48:29
+Let's let's take the let's take the, uh, asset account.
+48:38
+Inventories. I'm going to take them down by 20.
+48:45
+And why did they go down? Well, because we sold to people and that's what the income statement is telling us.
+48:50
+Why did things change? Because of the sales and expenses that we had.
+48:55
+Okay. So that's an expense account. The true. Cost of goods sold.
+49:02
+Oh, it's not 2060. I know some of you look a little puzzled.
+49:11
+You got to stop me and say. So.
+49:18
+So that's an expense on the income statement. And it's part of the reason why shareholder's equity changed and inventories just went down.
+49:27
+Yeah. Yeah. Good question. If by the time I'm doing the entry number 12 I already know the cost of the goods, but I'm done.
+49:35
+Cash goes out. No, it's in cash without any inventory.
+49:44
+Cash comes in, the cash comes in and then inventory goes out.
+49:48
+You could have done that directly avoiding the temporary accounts of no, you don't want to do that.
+49:52
+And it's a great question. That's all we're saying. So you might have been tempted to what debit cash for 84.
+49:59
+Credit inventory for 60. And then.
+50:06
+Credit. Then you needed what? You need another 24. Is that what you have to do?
+50:12
+That. Yeah. And then the 24. Yeah. It's revenues.
+50:16
+Right. Well busy. That's a I'm glad you.
+50:20
+I'm so happy you asked that. No. Because what you recorded was the difference between the revenues and the cost of goods sold.
+50:23
+You recorded the net? Yeah. Now, sometimes we do that.
+50:31
+And certainly that's all that's going to end up infecting the equity is the net.
+50:35
+Right. But when it comes to the income statement, we like to show people all the flows in and the flows out.
+50:41
+And we do that because I think go back to uncle Penny bags again and walk through those examples.
+50:48
+One of them they had I had two companies had the same net income, but they had very different revenues and expenses.
+50:55
+One of them had a huge revenues, a huge expenses just netted out to, I don't know, saying another one had small revenues but almost no expenses.
+51:02
+So you might think those are very different stories when you're trying to explain to people what happened during the year or the period, right.
+51:13
+And if it's your main line of business, but your main line of business,
+51:24
+we want to we want to show them the total inflows and then the outflows separately.
+51:28
+Does that make sense? So it's a matter of what it is we're trying what how we want to tell the story in accounting.
+51:35
+And we want the income statement. In particular. We want the income statement to show these were the inflows and these are the outflows.
+51:41
+We want to show those that we don't want to know, okay?
+51:53
+Now, if they do something peripheral, this will happen soon.
+51:59
+You know, they sold one of their office buildings or something.
+52:04
+They're not in the business of selling office buildings. They will do what you say.
+52:08
+Just just to keep everybody totally off balance. Then your entry.
+52:13
+Would it be made? It was. But. But the difference would be gain or loss on the sale of this thing.
+52:16
+But you know, again this is where like tax reporting let's say if minus taxes,
+52:22
+you know, you're kind of just focused on the the gain on that transaction.
+52:28
+So it's natural to do what you what your instinct was.
+52:34
+But I'm saying that in financial accounting we don't actually do that.
+52:38
+But and the deciding point on where we do or we don't is, is this is this a transaction that's in their main line of business,
+52:42
+or is this just kind of something that you're doing to support that business?
+52:51
+It gets really squishy, don't you think? Sorry. That helps.
+52:55
+Perfect, perfect. That's that's is why we have to go through these things to hammer our in order.
+53:00
+Because you just don't. It's just it's too complex to get, uh, all at once or to just be told about it.
+53:07
+You know, I have to. This helped me. This when I see it. You know, I'm a visual person.
+53:18
+I like to see if I say, this is going to impact this in this game like that.
+53:23
+Uh, it's a big deal to me. Okay. 14 and.
+53:27
+Interest expense on the note was nine. Thousand $180.
+53:35
+Okay. Prints. Now I want to tell you,
+53:43
+here's another thing that's going on that in a couple problems from now is going to I'm going to will I really be testing you on this?
+53:49
+I said the expense was this. I didn't say anything about paying anybody.
+53:58
+Right. So there are certain words that should start ringing in your ear, right.
+54:03
+And have a certain what the expense is. That's what's going on.
+54:12
+The income statement. What the cash is is a different thing.
+54:16
+The cash may be more or less than the expense, but the expenses we're trying to say what was, if you will, the interest costs.
+54:20
+Now. Uh, this is why I asked the question about compound interest.
+54:29
+Because to me, based on what we've just got so far in class, this is pretty squishy.
+54:36
+I don't know if it's it's too early, but I'm making some intuitive argument basically that, oh, the cash and the value are different things.
+54:42
+But I've never we never really gone through and said, what are you talking about?
+54:49
+You know, everything's just sort of loosey goosey and I'm saying, oh, the interest cost or something with that, you know?
+54:54
+So we'll go through and bother to develop a framework so we'll know what we're talking about.
+55:01
+At least, you know, the idea will be to see a framework where it's everything's very clear.
+55:05
+So your aspirations is this is what I'm trying to reflect. Of course, it's going to meet the real world,
+55:12
+and our aspirations are going to be going to be have to be implemented with all kinds
+55:17
+of different just conventions and rules and this and that and the other thing.
+55:21
+But, you know, what are we even trying to do? Okay.
+55:25
+Anyway. So we'll we'll come back to that. I think that'll be good. I'm writing.
+55:28
+Okay. Well. So interest expense is going to do what?
+55:34
+Well, it didn't say pay it. So interest payable is going to go up here. And interest expense is going to show up on the income stake.
+55:39
+All right. So interest expense is going to go on the income statement.
+55:48
+And. And that was 9.18.
+55:52
+And okay, so that hit my income statement over here.
+56:02
+And then uh, uh, I didn't pay it.
+56:07
+And then I was told I paid it. So interest payable 9.18.
+56:13
+Okay, so that's what's happening now. Uh, I need to take a break, because there's only so many entries I could make at one time.
+56:23
+I just take a deep breath, and I want to ask you another question, because, okay,
+56:32
+so that financial statement builder thing that we had, we had so much trouble with.
+56:35
+Can you see what I was trying to set up?
+56:40
+You know, I'm trying to set up for you to to know where the things are in the various statements when we start doing this.
+56:43
+But like I said, I, I don't think I've ever found a great way to do that.
+56:50
+So anybody with any ideas? I'm all ears. Okay.
+56:57
+Uh. Uh, 15 says adjust the prepaid rent if necessary.
+57:06
+Right. Because I got to go look and see when we're discussing a prepaid rent.
+57:21
+But we got to go see, look and see what's coming up. So we're at the end of the period, I guess.
+57:24
+And so what I have to do at the end of the period, hey, what's going on here?
+57:29
+And. Does anybody see any?
+57:33
+Oh, there it is. Well, let's just go.
+57:38
+Look, now, I haven't really laid this up for you too much, but let's look at the closing tool.
+57:42
+No, you know, it's also confused with that. That's not right.
+57:52
+Some of my closing tools broken. Don't look. No.
+57:56
+That's not true. Oh, God. All right.
+58:03
+What that's supposed to show is all of the open expense account and revenue accounts.
+58:07
+All right. I don't know why it doesn't. I'll look into it. You.
+58:14
+Okay. But. So right now.
+58:18
+This is so weird. Um.
+58:22
+Let me just do one thing. I know I didn't close the. I don't want automated closing.
+58:28
+It's okay. I agree. Okay, so we were looking at prepaid rent.
+58:32
+Okay, so with prepaid rent, what we have to do is we say, all right, we're at the end of the year.
+58:39
+And right now, if I don't do anything to this account, it's going to show up on my balance sheet.
+58:45
+We look at the balance sheet says 1350. Do you go home?
+58:50
+No, that's not the amount that we want to show as a future benefit that's under control by the company, because they've used up some of it.
+58:54
+They've used up 6.5. Okay.
+59:06
+So that's what. That's an adjustment. That's just like interest is just like depreciation.
+59:10
+Like I said a thousand of these things are the same thing. We got to write that off.
+59:15
+Right. And this is actually how you have to do it. You know you just go.
+59:18
+People just go through, you know, their accounts and say, well, you know, does that need to be adjusted.
+59:22
+Does that wound does that one does that one nightmare in practice.
+59:28
+So yeah I'm going to adjust it. Uh, what am I going to do now.
+59:36
+I can think of how I'm going to adjust. It is 1 or 2 ways.
+59:42
+Really. This sounds like I'm saying the same thing twice, but you're going to see it's not really.
+59:46
+One way I can think about it is I can think from the balance sheet of how much do I want left?
+59:53
+Well, uh, if they spent 20 and they used up 30, then I, I good argument could be made for I want seven left.
+59:59
+If I just look at this now let's look at it. Let's frame it a different way.
+1:00:09
+So so here what I, what I'm trying to set up is I can look at this number and, and make it be what I want it to be by crediting it.
+1:00:13
+Or I could look and say, well, how much flowed out and then let that number be whatever it is.
+1:00:22
+So, I mean, my way of thinking with this particular case,
+1:00:31
+it's easier for me to frame the problem as saying it's $6,500 every six months and there's six months of rent expense that I haven't recorded,
+1:00:35
+so I'm going to put 6.5 in there. Okay.
+1:00:45
+That's more straightforward. Usually when we talk about these kinds of prepaid and so forth than it is in, let's say, patents.
+1:00:50
+I. Oh.
+1:01:00
+So. Good.
+1:01:05
+So what I'm going to do is.
+1:01:10
+Well, let's just. Let's just just look at this. So what I just said I'm going to do is I'm going to.
+1:01:13
+Credit. The asset account. Prepaid rent.
+1:01:21
+I'm doing this in a journal. Prepaid rent six.
+1:01:25
+One five. So did you see what happened to the T account?
+1:01:32
+Right. It changed the balance to seven, which is what I wanted it to be.
+1:01:38
+So now what have I done? I've made my prepaid rent account.
+1:01:54
+I kind of brought it into line, but the journal tells me, hey, dude, you're out of balance.
+1:01:57
+So you haven't completed the entry. Okay, so let's go back here.
+1:02:03
+So this is the saving grace of the journal Journal entry.
+1:02:07
+It they won't let me half do something.
+1:02:11
+It makes me do the whole story.
+1:02:15
+Okay. So that's going to be what rent expense of 6.5.
+1:02:19
+I mean, the good thing about the journal entry thing is you can really help you a lot with the numbers,
+1:02:27
+but it doesn't really help you with what you call it.
+1:02:32
+You know, doesn't really help with that. Um, because in fact, the debit credit system is kind of designed not to have to worry about that.
+1:02:38
+You know, if I bought it, if I got an asset by giving up another asset, well, I have to have a credit for the other asset I gave up.
+1:02:48
+If I got an asset by incurring a liability, that's a credit again.
+1:02:55
+Right. So the journal entry form will tell me you need a credit, but it won't tell you what it is.
+1:03:00
+You have to reason through what it might. You know what? It makes sense.
+1:03:05
+And you know a lot, most a lot of things you can recent reason through and you get pretty close.
+1:03:08
+So the way I would put it is, um, the FASB makes a new rule on something, right?
+1:03:14
+They make some really esoteric thing. Now, I don't know what you accounting for stock options or whatever.
+1:03:21
+I'm usually about 85 or 90% right on predicting what they're going to hear, but not 100% right,
+1:03:28
+because that's a political process and you never know who's arguing for what.
+1:03:37
+And we'll see this app. But you can use your intuition, you know, for a long ways it is.
+1:03:41
+It'll tend to be pretty good. You just have to make sure that you don't believe that it's always 100% right.
+1:03:47
+It's like using ChatGPT. Look at, you know, be aware, but it'll help you.
+1:03:52
+Yeah. But don't be don't don't be surprised when it, uh.
+1:03:57
+When I say no, that's actually just not how we do it. Okay.
+1:04:03
+So prepaid rent went down, rent expense went up, so income went down.
+1:04:08
+And so our, um, balance sheet. Now I wonder how much we're off if we go down here on the balance sheet.
+1:04:13
+That's 327 to 25, I think.
+1:04:21
+Are we off 101? I don't know, let's see. Let's see what happens.
+1:04:25
+This is this is hopefully is 16. The closing uh, 16 says close the temporary accounts.
+1:04:30
+Now, I'm just praying that when I close this net income of 101 82 into here,
+1:04:37
+that my balance sheet will balance and into here that the balance sheet will balance.
+1:04:46
+And if it doesn't, then I have to go stream for a while and come in and settle down and go back and try to find out what's going on.
+1:04:52
+But you see, we've got a whole bunch of tools we've been working with to try to make sure you don't get at the end and have it not balance.
+1:04:59
+You know, when I was a kid, you had to take out your pencil, write everything down, add everything up.
+1:05:06
+And I guess if you go early enough in my life, it was before the calculator, so you'd add it up.
+1:05:14
+You made a mistake somewhere in the additions, and then you try to balance and does it work?
+1:05:20
+Or you add up the balance sheet. You made a mistake adding that up and that doesn't work okay.
+1:05:24
+So you got to think about it. So these systems were really, you know, they came into their being when those were real problems.
+1:05:30
+You know, when those were real problems that people made an addition mistake. And only what where is it?
+1:05:39
+How can I find it? These were big things. Okay.
+1:05:45
+So now I'm going to close things. So what should happen when I close?
+1:05:52
+Oh, I don't know why that's. I'm worried.
+1:05:57
+That's out of balance. I don't know. I'm going to try closing until we get.
+1:06:01
+Oh oh. I think retained earnings balance must be wrong somewhere.
+1:06:07
+Yeah. Right right right. I don't know I don't know. I don't know.
+1:06:10
+I've looks like I've got a half ass thing here.
+1:06:13
+I'm going to do the closing entry. So you might want to see that.
+1:06:17
+And in the last assignment we created like a separate retained earnings entry that represented the net income.
+1:06:21
+Yeah. That's what's going to happen. Um.
+1:06:29
+Oops. And this 16 inch 16.
+1:06:33
+Right. So what I'm going to do is I'm going to take all the temporary accounts.
+1:06:36
+Would make them all zero and take whatever the net is and put it in retained earnings.
+1:06:42
+So what are the temporary accounts. What are the revenues expenses accounts.
+1:06:48
+And I think we had some consulting revenue.
+1:06:54
+We had some, uh sales of office furniture I think.
+1:06:59
+Mhm. What was consulting. What was consulting revenue.
+1:07:08
+Let's see. Let's go over here to DTC. So we're here now I mean.
+1:07:13
+I wonder where that guy came from. Consulting revenue.
+1:07:21
+Challenging. So consulting revenues 200.
+1:07:31
+It's got to go to zero. All right. So I'm going to debit it for 200 on the journal okay I made it zero.
+1:07:36
+That's really good okay. What other revenue did we have.
+1:07:45
+We had sales of office furniture and that's 84.
+1:07:49
+So I'm going to debit it by 84. There we go okay.
+1:07:55
+Everything cool. So now close the I closed the um the revenue accounts.
+1:07:59
+But what about the expense accounts. You can always just do it this way.
+1:08:07
+And if you have a big enough, um, display, you can have two windows going at the same time where you.
+1:08:12
+Or you can. Yeah, you can split, um, the screen cost a console.
+1:08:19
+Okay. That's 60. So I have two.
+1:08:24
+Uh, expense. I've got a credit cost of goods sold for 60.
+1:08:30
+Okay, I mean that zero. That's it. All working. Okay, fine.
+1:08:42
+What's what other what else is interest? Interest expense is, uh, 9.1.
+1:08:46
+Oh, give me a break. Would you please do me right? No, we'll do it.
+1:08:57
+Expense. Okay, so we're good on interest 9.18.
+1:09:02
+Okay. So that's all. That's that rent.
+1:09:17
+That's 13. So I'm going to cut it.
+1:09:23
+Rent expense 13. So you can see, you know, you can see inch by inch how I'm wiping out all the expense accounts.
+1:09:28
+There's only one other expense account salaries and wages payable. That's 100.
+1:09:42
+But I'm going to show you the journal for what the journal looks like and how the entry.
+1:09:46
+So you see how this debit credit stuff gets me putting everything together into one little package.
+1:09:49
+Okay. So the rent expense is.
+1:09:56
+I mean, I'm sorry, there's another expense, which is salaries and wages.
+1:10:02
+And that's 100. Okay.
+1:10:08
+Now I go look at all my. All of my temporary accounts are now closed.
+1:10:16
+So that must say that the net income that's going to get close to retained earnings.
+1:10:21
+Is 101.82. That's the amount I need to balance.
+1:10:31
+Now look at that. If you look at that closing entry, um, that is the income statement.
+1:10:43
+Really. Right. It's the revenues and expenses that everything's there and the net.
+1:10:50
+So that is the income statement. So if you're real accounting nerd and you pick up an income statement, you'd say, what am I looking at?
+1:10:54
+I'm looking at the closing entry. So let's go see now what we got.
+1:11:03
+I don't know what is it? Why is my plan not working?
+1:11:17
+327 327. It's balanced.
+1:11:21
+Yeah. My balance sheet also wasn't updated. It's also like you with your money.
+1:11:24
+Yeah, I could have turned. And then I changed something and it turned yellow, but it was still actually balanced.
+1:11:30
+I'm going to jump off the roof. I don't understand.
+1:11:35
+Maybe it's because of the previous instructions that there's still a little lingering stuff.
+1:11:46
+I think I'll take it out. I'll show you what's, um.
+1:11:52
+You something wrong? Because, like, everything else is green.
+1:11:59
+So, like, what are the odds? See what happens.
+1:12:02
+Protect sheep. Wait a minute. Was it so dark? I don't.
+1:12:11
+What I don't understand is I was going to show you that. How many?
+1:12:19
+Oh, let's try this. Let's turn it off to the Japanese.
+1:12:24
+And I was not gonna let me do it. That's okay. Um, I'll show you the.
+1:12:38
+The dirty, the the insides sometime.
+1:12:47
+You know, I don't know how many sheets are behind this, but. So basically, what's going on is that the the statements are constructed from the answer,
+1:12:52
+and then the answer is compared to what we're constructing here.
+1:13:03
+And I it's. Yeah. I think I told you that, um.
+1:13:08
+Claude told me I have more than 20,000 formulas in this, so we'll fix them.
+1:13:15
+Okay. But this is a this is right. And I'm very sad that it's not this way.
+1:13:21
+Thank you. I think you're right. So everything balances, right?
+1:13:30
+That's the income. Total share was equities at 182 one 8282.
+1:13:33
+Hold on. All right. Oh.
+1:13:46
+Okay. So. We're going to do one more of these with you.
+1:13:51
+One more, and we'll just, uh, just try to do the, the highlights, because again,
+1:13:57
+you want to you want to end up being a pretty sick of the mundane things because,
+1:14:01
+you know, that frees you up to think then about, wait a minute,
+1:14:07
+something's not fitting the right way or whatever, but we're going to do one more of these.
+1:14:10
+In fact, we'll start doing it together right here, just so you don't have to do well.
+1:14:16
+But then, um, well, I yeah, you know what I'm going to do?
+1:14:20
+Well, I got to think about where to do the same kind of thing,
+1:14:26
+but in eventually what we're going to do with this kind of stuff is I'm going to give you a problem that you have to do the same thing to,
+1:14:29
+but the the words are all because this is this is what happened.
+1:14:34
+I told you I was an expert, uh, and an expert in a case.
+1:14:42
+And it was sort of confusing about what this company had done.
+1:14:47
+And I had their financial statements.
+1:14:51
+And so I decided to take their financial statements and kind of reverse engineer it like this and let me see what entries I think gave rise to this.
+1:14:53
+Yeah. Now, uh, but there's also going to be one where I'm going to ask you to do that on a simpler case.
+1:15:04
+Yeah. You'll see how you can actually start working backwards and just give you a hint right now.
+1:15:12
+Already. I already told you that, you know, the income statement.
+1:15:17
+That's your closing entry, right?
+1:15:21
+So if you know that if consulting revenue was 200, if that got closed, then you know, somewhere you had to credit consulting revenue for 200.
+1:15:24
+And if you credited consulting revenue for 200, what did you do it?
+1:15:38
+Well, I guess it could have been cash, could have been receivables.
+1:15:42
+It's kind of hard to say generally what's going to happen. There is some combination of cash and receivables.
+1:15:46
+All right. Let's look at this cost of goods sold. We say.
+1:15:52
+All right. To close it we had to credit it 60 which means it had a debit balance of 60.
+1:15:55
+What does that mean? Somewhere along the way there's an entry or that aggregated up to cost of goods sold 60.
+1:16:01
+What was it. Credit body inventories. All right.
+1:16:08
+So you can start pulling the thread.
+1:16:12
+Once you know how everything's connected then you could take the the statements and kind of start walking and backwards.
+1:16:13
+Right. But to do that, you know, you really have to be comfortable with where everything is and how it's all laid out.
+1:16:22
+Right, you know. And what am I looking at in these various places.
+1:16:31
+Okay. So or so for example, if you have this statement shareholder's equity.
+1:16:35
+Well look, I would know they issued 100,000 shares of equity.
+1:16:41
+So they credited common stock for 100.
+1:16:45
+I can look at the cash flow statement when we get it, and I'm going to find that.
+1:16:51
+They had financing cash inflow by raising stock of 100.
+1:16:56
+So what do I know? I know they made an entry. Debit cash 100.
+1:17:01
+Credit. Common stock 100. Okay.
+1:17:04
+Um. So anyway, that's kind of where where we're headed and why we're beating on this stuff so much because we're going to go backwards.
+1:17:10
+That's where we really want to go. And, um, so that's pretty hard.
+1:17:22
+It'll be fun. It will be fun.
+1:17:30
+Okay, but. But the first step is to really make sure we understand all the word.
+1:17:33
+Expenses, revenues. What's an asset? What's a liability?
+1:17:40
+What's at stake? We really have to be firm in firm control of that before we start heading into.
+1:17:43
+The wilderness of um. Just looking into finances.
+1:17:51
+So I always want you to keep in mind, and I say this because you guys are the mature ones here with law students.
+1:18:00
+Just always keep in mind that AIG financial statement we looked at on the first day.
+1:18:08
+Right? What I think a nightmare of stuff was is the impenetrable forest of stuff.
+1:18:13
+I think if you go back, you maybe will start picking off a few things.
+1:18:20
+You know, you're going to pick your own assets. You know, you know what they are. Well, there it was in the insurance business wire.
+1:18:25
+Those are the assets, you know. And but we're getting going to get come full circle.
+1:18:31
+But you know we're going to have to. Yeah it takes a lot.
+1:18:38
+Okay. All right.
+1:18:42
+So let's look at Ralphie's business.
+1:18:47
+Uh, merge. Get away from me.
+1:18:51
+Okay, so. By the way, when?
+1:18:54
+When, uh. If you talked to most accounting instructors, what we're doing is almost like what they would call a practice set.
+1:18:59
+So usually people just learn one entry at a time. Or one set of entries at a time.
+1:19:12
+And they're not trying to put it together all at the same time.
+1:19:18
+So this would be a very long problem for you for the for a standard undergraduate accounting program, not for our students.
+1:19:22
+So let's just see what we got going on here. Uh, my mentor, Joel Dembski, always wrote these problems where Ralphie was the protagonist.
+1:19:32
+Just why I know Ralph was the protagonist is Ralphie.
+1:19:44
+Switch it to Ralphie. And so finally, I asked one time, I asked your, uh, why is Ralph always the protagonist?
+1:19:48
+He had two reasons. Do you guys use the upper key management cases that Harvard's written?
+1:19:56
+Ever do this? Harvard? Harvard? Harvard HP?
+1:20:02
+Yeah. They write these cases that, you know, Rick was sitting in his office one day looking out the window, you know,
+1:20:06
+and he just he just felt uncomfortable about their strategy, about, you know, something something like that.
+1:20:14
+So Joel being an anti Harvard person, right. His protagonist was Ralph.
+1:20:19
+But then he told me that Ralph was actually his old college roommate back in the day in, uh, the University of Michigan.
+1:20:23
+He was an engineering student. And Ralph had gotten a t a d in a course.
+1:20:29
+And it came back to his complaining to Joel and Jules it Ralph says, I'm going to just go.
+1:20:34
+I'm going to go yell at the professor. You know, Joel said, I don't think I'd do that if I were you, but Ralph did it anyway.
+1:20:39
+This is again, back in the day. Two weeks later, he got a grade change for D to F getting just a game.
+1:20:45
+That's how tough it was when I was a kid. Yeah. All right. So they're going to issue some shares.
+1:20:52
+Uh, at par. The par value.
+1:20:58
+Par value comes up $5. But at 20,000 it's 100,000 bucks.
+1:21:01
+They're going to buy some equipment, they're going to pay some rate. They're going to buy some inventory.
+1:21:05
+I'm going to buy some Yahoo common stock here. Issued some bonds.
+1:21:10
+Yeah. Is that a good idea now I don't know. But I made up that there's a whole story behind why why I picked Yahoo two at the time.
+1:21:14
+Um, how you know, there must be in real trouble, aren't they?
+1:21:21
+And what happens to them? And, uh, so some inventory cost of goods sold, I think.
+1:21:26
+Okay. Now. All right. Some collected some stuff. Look at what's going to happen to us in, in in k a customer.
+1:21:34
+How does a couple hundred bucks paid $50 and declared bankruptcy?
+1:21:42
+We haven't had such a thing, right? So how are we going to account for that?
+1:21:48
+Such as loss. What loss? Yeah.
+1:21:52
+You know it's right. It's going to be some type of expense, I mean.
+1:21:56
+Depends how we want to think about it. It's going to be I'll tell you how we're going to think about it.
+1:22:02
+We're going to think of bad debts, expenses and expense of doing business.
+1:22:06
+Okay. I don't know why we do that. If you could say it's a contra revenue, because I count the the the, um,
+1:22:10
+the receivable got on there because, uh, I debited accounts receivable and credited revenue.
+1:22:19
+So why am I so. Because I'm your mother, and I told you to count as an expense.
+1:22:25
+Don't go further than that. Okay, so that'll be fun.
+1:22:30
+Cash for salaries. Oh, then the market value of the Yahoo common stock was 25.
+1:22:34
+Right. So I'm just going to introduce the fact that, hey, sometimes we like to look outside the transactions for other information that we might get.
+1:22:42
+Okay. We're not going to have too much trouble with that. Yeah.
+1:22:53
+And then we got to depreciate the equipment and then write off the rent.
+1:22:57
+And we've got to record in, uh, some interest.
+1:23:02
+All right. So this is just this should really start being.
+1:23:06
+Boring. But how could something to handle so much volume of transactions not have a bunch of boring stuff to it?
+1:23:14
+What would that mean if it wasn't boring? It would mean that everything is actually.
+1:23:26
+You have to think about everything and you're trends in your processing millions of transactions a week, a month today.
+1:23:30
+That can't be right. It's got to be mundane.
+1:23:39
+A lot of stuff has to be pretty Monday. So it is.
+1:23:44
+All right. That's a little thing. So it's the same drill.
+1:23:49
+I think I automated the next step through this time. Just make the entries.
+1:23:55
+Go for it. Go for it. Um, and we'll see each other win Wednesday.
+1:23:59
+Did anything exciting happen in the law school over the last couple days now?
+1:24:05
+Yeah, absolutely. Nothing exciting. Like, I don't have anything in mind.
+1:24:11
+I'm just hoping something exciting the new dean started. Oh, yeah.
+1:24:16
+That's true. Oh, yeah. Christina, right?
+1:24:20
+Yeah. Oh, yeah. You know, she was, um.
+1:24:23
+It's a very interesting work. I'm on the board of a thing called leap of Leadership, education, Athletics in partnership.
+1:24:29
+It's a local youth organization and have these yearly dinners.
+1:24:37
+And Christina was talking at one at my house.
+1:24:41
+What do you think? So this is good. I support her, she seemed great.
+1:24:46
+She was. It was a great talk. Although I can't really talk about. This.
+1:24:50
+That's not what. This is.
+1:24:55
+She just started.

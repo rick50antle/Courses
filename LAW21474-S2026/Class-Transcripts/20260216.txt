@@ -1,0 +1,1492 @@
+
+0:00
+Started by saying that I gave Claude a research problem, extending a research paper that I done a long time ago, and it, um, I first thing I said 4.6.
+0:08
+Right. So it opus 4.6. So I said to map out the work that I have that it would have to do, and it created a 20 week plan.
+0:22
+And then I said, well, just do it. And basically it did just like that.
+0:35
+Yeah. So I mean, this is going to be a lot for you guys to to watch it out of figuring out,
+0:41
+you know, how how is this going to get integrated into our lives.
+0:50
+You know, everything. Just a system, everything. I'll be doing auditing for example.
+0:58
+Uh. You know, basically, did you hear what KPMG did, uh, last week?
+1:03
+They have auditors, right. So KPMG, the big accounting firm, they have auditors, their auditors, Grant Thornton has been for a while.
+1:12
+It's so so KPMG goes to Grant Thornton and says, hey, with all this stuff,
+1:20
+we you should reduce our audit fees from $418,000 a year to like three, 53% or something like, you know, fairly substantial.
+1:27
+And, um, it's not known exactly how this got made public, but it is.
+1:37
+I'm guessing one of the Grant Thornton people leaked it, because what would you do if you were a KPMG client?
+1:45
+You know, hey, guys, you know, you're audit fees got reduced because you are you are you to another auditor that their costs have gone down.
+1:53
+Yeah. Didn't you know. And so I that seems like they opened up.
+2:02
+Well you would not want that to um have happened right.
+2:09
+I mean you wouldn't you wouldn't want that to get out if you're an auditor that you tried to reduce your own audit fees because,
+2:14
+you know, the costs have gone down. But anyway, this is just like the tip of the iceberg.
+2:19
+Things we're going to have to sort through. There's going to be lots of conflict.
+2:25
+It's good for you guys, lots of conflict.
+2:30
+But. Uh.
+2:37
+It's okay. I'm, I'm sort of thinking that for, you know, the academic world and the way we read papers and contributions and all that.
+2:43
+I don't, I don't, you know. You know, I don't, I don't know.
+2:59
+Like, in terms of papers are going to be shorter or people are going to publish way more because it's easier to.
+3:05
+I can I could write 20 next week. Exactly. And you could even do things like this, right?
+3:10
+Read. You know, I'm an accounting professor, right? So read these journals for the last five years.
+3:16
+You can create a team of agents and say, you know, you're reading this kind of paper,
+3:21
+you're just going to reread this guy and then, uh, give me, give me ten projects that I could do that carry on this literature.
+3:26
+And I'll pick five. And then you can do them and you can do that basically you can do that.
+3:36
+I mean, I mean, I'm in a little shock. I don't, you know, it's like.
+3:44
+I don't know. Anyway, um.
+3:49
+So the question then arose. Well, what about the final exam?
+3:55
+Yeah. Well, I tell you, I gave the final exams and questions I've been given.
+3:58
+Answer them all and no problem. And these are, you know, they were worthy of Gilbert student student exams.
+4:04
+You know, these were. This was tough. You have to know what you're doing.
+4:14
+And, you know, if you go digging and you have to put it together. But it's got to finance a finance skill,
+4:17
+which all they're all a skill is for these things is just a markdown file that gives it sort of specific instructions about a certain kind of problem,
+4:24
+you know. But okay, you might do things this way, this way, this way.
+4:32
+And so it's tailoring it to a specific thing. So it has a finance skill now.
+4:36
+You know we read financial reports. No problem.
+4:42
+But you still have to understand the problem you want. I guess I don't know.
+4:47
+I mean, for me, I think I still have to, um, it's like I have a, you know,
+4:50
+just like I have a huge team of very capable research assistants, and we're really, really good colleagues.
+4:56
+Um, so who knows what's going to be what's going on?
+5:02
+I predict one thing that will happen from an academia, academia standpoint is the journals are going to be flooded with papers, right?
+5:08
+Because everybody who's up for promotion, who needs papers to be written, they, they things need to be written like crazy, like.
+5:16
+And it's not hallucination and it doesn't give fake references all that's gone.
+5:24
+Um, and so then the next thing I thought, well, how are the journal editors going to deal with this?
+5:29
+There's only one way to deal with it. You have to get AI to review the papers.
+5:36
+It produces a volume that you can't keep up with. Anyway.
+5:40
+So I think, though, that in the human dispute resolution problem.
+5:47
+That I did see, you know,
+5:56
+I still think you're going to have a bunch of people in the room that have to make a decision and come down one way or the other, right?
+5:58
+It's not going to be it's not the same and say, oh, I fed it into the I, the I said, you're guilty or you're this or you're that, right.
+6:04
+Or you know, you're are you that's going to help us make arguments and so forth.
+6:10
+But I think that human process, because it's a human process involving issues affecting us,
+6:14
+then I don't think that I'll get totally supplanted, like, I don't know, you guys will get totally supplanted.
+6:19
+You know, I think part of my job will be totally supplanted, basically.
+6:26
+Um. What can you do?
+6:31
+So that's why I've been in shock. A little bit.
+6:37
+Um, but, you know, I might have a whole lot of respect for them because I don't, you know, at 72, I don't really need anything.
+6:43
+Right? But the question is, is like, what could I do?
+6:53
+There are still people who don't who are not really paying attention to this. So one thing I thought I would do is like, get it to write five,
+6:57
+five papers with my name on it for next week and then send it around to my colleagues.
+7:02
+Oh, you have five new papers. What do you think?
+7:08
+But that's because I work with I. Did I send you the link to the to the, uh.
+7:13
+Did I post the link to the voice tutor? I didn't.
+7:18
+I forgot you guys. I'm sorry, I'm sorry. Um.
+7:23
+I don't know. Well, you know, uh, I'll.
+7:31
+I'll post it later. I've made. I made conversational agents that can help you work through problems.
+7:34
+Okay? They'll. They'll tutor you conversationally. Right.
+7:39
+And another one like that. Too late for you guys now, cause you already know how to do this.
+7:43
+But I have a user manual for the daily to teach people. If you want to have a problem.
+7:47
+If you don't know an entry, or how do I make this work? Or what kind of tools are available?
+7:51
+It just explains it.
+7:55
+Now the question is how many tokens this thing burns up because it's got a few a few layers, but it's not, uh, you know, it's not huge.
+7:57
+I'll post that. Okay. But today is exciting, though, because of the ideas that we're going to see.
+8:06
+And a lot of it is what we've been doing. Um, and so we're headed into, uh, the area that once you master this once,
+8:12
+you can really explain the difference between net income and cash flow from operations.
+8:26
+And, you know, you know that it's more like the nature of the differences.
+8:30
+The the particular examples of which are near, you know, more than we can remember, but you'll understand kind of how they all come from,
+8:35
+because in the end, everything's either an asset, a liability, an equity, a revenue expense, a gain or loss.
+8:43
+That's it. All right. So now I don't care what, you know, whether it's, um, you know, a car dealer or a law firm or whatever.
+8:51
+It's everything goes into those categories and the way those categories fit and most things together, that's what we're doing.
+9:01
+Okay. So what's the definition of cash flow? Well the cash flow is easy.
+9:08
+It's just the change in cash. So if you can count you can do it.
+9:12
+What's the definition of net income. And we've kind of.
+9:16
+You know, played around with that the um, the stuff on discounting and things tried to add at a real specific,
+9:21
+um, example of a value creation process where the value is evolving differently.
+9:31
+It's, it's tied into the cash flows, but it's not doesn't evolve in the same way that cash flows do because of the way the time value of money works.
+9:38
+Okay. So that was that was kind of the most conceptual thing about income we've developed most of the time.
+9:47
+We've just been kind of been doing it intuitively. Right.
+9:52
+Like we get we began, remember, with this whole long list of things, would you recognize it and how does the identity get, get, um, changed.
+9:55
+Right. And those things were laid out in a way to sometimes get you to see that, that something's either inside the identity or outside.
+10:03
+It's not going to happen. You recognize it once you recognize it.
+10:12
+But now you you know, you know, if you're gonna recognize something, you're going to make a journal entry.
+10:16
+That journal entry is going to hit in a consistent way. Assets.
+10:21
+Liabilities. Equities. Revenues. Expenses, gains or losses in some way okay.
+10:24
+That that that's consistent with keeping the identity in balance.
+10:29
+Um, but but what we did was, you know, remember I had this thing where, uh, you know, you decide that you're going to bid for a job.
+10:33
+Do you want to recognize anything? No. Uh, you you write the proposal?
+10:41
+No. You send the proposal, and. No, you you're informed that you made it through the first round.
+10:46
+No. Okay. They accept your proposal. No.
+10:51
+You do the job. Yeah. Okay. And that, you know, and that was meant to kind of unfold this process of recognition that we have these rules,
+10:54
+these conventions and rules that in practical cases,
+11:04
+we just have to decide where to draw the line, you know, and, um, you know, of course the law is full of that kind of stuff.
+11:07
+Um, but the idea of net income, the idea of it really is that net assets,
+11:16
+really that that are generated, are consumed if the loss is consumed over time.
+11:22
+So we sold something at a profit. What does that mean?
+11:28
+Well, that means the resources we got in were 80 to earn in excess of the resources we sacrifice to take to do that activity.
+11:31
+This is good. Yeah. And, uh, and that's what I mean by net value.
+11:39
+And that has a lot of different, a lot of different, uh, it's dressed up in a lot of different ways.
+11:43
+So for example, somebody pre pays you and then you have to earn it.
+11:49
+They give you a retainer okay. Well you don't you didn't earn anything when they gave you the retainer.
+11:53
+But as you start performing services for them basically what happens is you their retainer is your debt to them, right?
+11:59
+You're it's their money you're holding. Right. And so you're they give you money and you promise to give them services.
+12:08
+Right. But then what happens is the as you do the services, uh, your obligations are fulfilled.
+12:15
+So your liabilities go down. Right? Okay. Either way, either where you say some combination of assets going up in liabilities going down.
+12:22
+That's why you always used it for the phrase net assets just to preserve that flexibility.
+12:32
+And my stuff could be going on with the assets or the liabilities or some combination of both of them.
+12:37
+And the only thing that matters is when, when we, uh, subtract when we do the arithmetic in the right way.
+12:43
+If you end up with a positive number, then equities going up, if we end up with a negative number, that equity is going down.
+12:51
+Okay. Okay. Um. And this is now accounting words.
+12:58
+See, we've we've studied this thing and, uh, I've been doing this for a while, but I should I should just.
+13:06
+Tell you what we've been studying. You know, what we've been studying is what's called accrual accounting.
+13:17
+Oh, wait up in this building. It's not cool.
+13:33
+It's a cruel account. And really, all that means is that we're trying to track value.
+13:37
+Financial value. Not just cash line, but anybody who had an economics course.
+13:50
+Ever. Yeah, people. So what are they talking about?
+13:59
+Are they talking about they say stuff like your profits or are they talking about accrual accounting or cash or or cash?
+14:03
+No not cash okay. What do you don't know.
+14:14
+Well, without lots of without many of them really understanding what you're talking about.
+14:19
+They're talking about the kind of accrual accounting that we've been doing. Right.
+14:23
+That is that we aspire to do.
+14:27
+So what accountants aspire to do is present the economic picture, the way the economist might just sort of assume we'd have.
+14:29
+Anybody take a finance class answer. Let me tell you all they talk about is cash.
+14:39
+They don't want to talk. But when do you get the cash? When you spend the cash. As cash.
+14:46
+Uncertain. Is it cash? So if they know they're talking about cash, they think accounting is crazy.
+14:49
+Just. Just looking for words of cash.
+14:58
+So what we're going to do today actually spreads, expands the the difference in perspectives of an economist and a finance person.
+15:02
+Okay. The cash picture versus the value picture.
+15:13
+Okay. So these are some of the examples of why we separated the two things.
+15:18
+We we recorded sales revenue at a time when we decided we made the sale.
+15:22
+Not necessarily when we got the cash. That's why we have an account receivable.
+15:28
+Like we gave somebody something. We transferred a good or service to somebody.
+15:33
+And what we got back was their promise to pay us. Right.
+15:38
+And then later when we collected that receivable, that was just changing one type of asset into another.
+15:44
+We said, okay, that's there's no we didn't earn anything.
+15:50
+We learned we didn't create any value from that transformation.
+15:54
+So. Okay, but notice the notice.
+15:58
+To do this we use an account.
+16:02
+We use the accounts receivable is what lets us separate when we count the sales from when we collect the cash cost of goods sold.
+16:04
+That's an expense versus let's think about cash paid to suppliers.
+16:13
+We're going to do this a lot right. So what do we do with, um, accounting.
+16:18
+Classic goods sold. What we count in stuff is your inventory that your assets, regardless of when you paid, you might have already paid for it.
+16:23
+You might have prepaid for it. You might not. You might still owe for it.
+16:29
+We didn't care. Right. When the asset went down.
+16:33
+We said, oh, that's been used up right.
+16:36
+So that asset inventory kind of is one of the things that stands in the way between us saying, you've used up something valuable from here.
+16:39
+You paid for it. Of course, more than just the asset account,
+16:50
+inventory separates cost of goods sold from payments to suppliers because a lot of that is done on account.
+16:55
+So we also have accounts payable. So there's a case that accrual accounting the way business is done it uses two steps.
+17:01
+It uses an asset account and a liability account to sort of separate the value picture on the one hand from the cash picture on the other.
+17:08
+Wages. This is one of the first things we did. And we talked about many different ways, you know, uh, but we had a lot of discussions on,
+17:18
+well, what what's the wage liability, what's the expense and how much was paid.
+17:26
+And we did that for a reason.
+17:33
+Like, we saw we played around with all kinds of different ways that we could think of it in terms of the recording of it.
+17:35
+Right. We decided, uh, a few times I debited the payable before I even had a recorded a a payable.
+17:41
+So I had like a negative payable. I said, don't worry, I'll fix it later.
+17:50
+Because the only thing that matters in the end is that the balance sheets, right.
+17:54
+That is the cash is correctly stated in the uh,
+17:59
+salaries and wages payables correctly stated and on the income statement, salaries and wages expenses stated.
+18:05
+But that got us to thinking about, okay, uh,
+18:12
+there's the cash we give to people versus when we say we actually used the value of their services and a liability account lets us count.
+18:16
+We use the services before we had to spend the cash.
+18:27
+Okay. Um, rent expense versus rent paid, you know, property plant and equipment, you know, versus depreciation expense.
+18:32
+That's a even better. So I thought some colleagues of mine made up this little problem a long, long time ago.
+18:45
+And I, um, adjust it up by just embellishing it.
+18:52
+Uh, here's the idea. I'll give it a little company.
+18:57
+It only has operations, you know, it doesn't do any investing or financing.
+19:01
+Uh, right. It has only operations. And it has a very simple, uh, model.
+19:05
+Ridiculously simple. You couldn't possibly be real. That's okay.
+19:13
+They buy dollars for $24 and sell them for 30. That's it.
+19:17
+It's definitely got no other expenses. No other. Anything else? I posted this around.
+19:21
+I think it was around 2003. Um, and maybe even before I got excited about the web and I started posting things on the web.
+19:28
+And this was before anybody had any good firewalls or anything.
+19:36
+So I posted this thing about buying the dollar.
+19:41
+And then I don't know whether it was, uh, Beanie Babies or Tickle Me or there's some doll fads had gone on.
+19:44
+Right. And one day I get an email from someone in Houston saying, where can I buy these dolls?
+19:50
+And that was my first clue that, whoa, this internet that's a wide open, wide open thing.
+19:58
+I said, well, yeah, it's not a problem for my class anyway.
+20:03
+And the only of the only the only, uh, story here is cost of goods sold.
+20:08
+So there's a million economic things wrong with this, you know, like, I'm not considering if you're an economist,
+20:12
+you'd say, well, what you should do, how about you change the price or this or that? I'm not going to any of that.
+20:18
+But what we are going to do is model the cash flow. Okay.
+20:22
+So we now have a very simple cash flow process going on. There's no rent, there's no labor, there's no taxes.
+20:26
+There were marketing and the whole thing's going to last a year. And nobody wants these stinking dollars anymore.
+20:31
+So what you have, you're going to be able to sell 1404 one, 14,400 over the year.
+20:37
+This is what an economist would picture here.
+20:47
+And given that given what they're interested in, why, you can see very easily why this is not the kind of picture that an economist would.
+20:51
+A draw because you should just sell an infinite number of dolls if this is really true.
+20:59
+Right? So. So what you end up is, you know, they might talk about down here costs.
+21:04
+Then the cost comes down at some point.
+21:09
+And then you have economies of scale and economies in other cities.
+21:12
+Story about curves. Right. And the idea is they would say, oh no, no, we're going to maximize profit.
+21:16
+Their decision was just let me maximize profit. And they don't ever have to think about the cash and how you do it.
+21:21
+That's just the that's just the day to day. Right?
+21:26
+Okay. Now in order for this to work, I gotta say there's a, um, well, let's let's think about how economists would view it.
+21:30
+They'd say, if you sold this number of dolls, then your total revenue would be there.
+21:43
+Right? And that's the amount of revenue we recognize.
+21:49
+So we've been measuring this right by, by trying to figure out when did the transaction take place, when did we sell something.
+21:53
+But as soon as we sold it, it wasn't that hard to read off the chart for what the total revenue was.
+22:00
+And then how did we do cost of goods sold. This is this one's hard.
+22:07
+Would say, okay, look, take the same number of dolls you sold and go up to the cost line.
+22:12
+And that's the cost. That's the cost of goods sold. So the accounting it was so process was so obviously it's hard to even see don't take
+22:19
+a different number of dolls is if you're saying this number was sold then that's,
+22:30
+that's the number driving your sales number. And that's also the number driving your cost of sales number.
+22:35
+Right. It's just it's. Okay.
+22:40
+And then we say, all right, you know, that was your profit. That's your net income. Now, what I'm going to do is let's put some numbers on it.
+22:47
+Over the year, they're going to be able to sell $14,400.
+22:56
+And again, an economist would say why you should lower the price. And somebody I can't do any of that.
+23:01
+Forget it. Okay. And your total revenue is going to be 432,000.
+23:06
+And then what's the cost going to be. Well the dogs costs $24 apiece.
+23:13
+So that's 345,600.
+23:18
+And so over the year your profit is going to be 86,400 bucks okay.
+23:23
+That's right. But pretty simple operation.
+23:28
+You know, and if you were going to borrow money, let's say if you had to.
+23:37
+You'd show the banker this, right? Hey, look, I create value.
+23:40
+Why? Why are you going to a banker? Because value is not the same thing as liquidity.
+23:45
+You could create value without being liquid. That's what this problem is all about.
+23:50
+Okay. So to get that, to get a liquidity problem, we have to add some real world details.
+23:54
+You know we have to we have to talk about how you go about paying for things.
+24:01
+And when you collect cash, it's the only way we can analyze liquidity.
+24:05
+Okay. So what I'm going to do is I'm going to have the year.
+24:10
+It's going to evolve in three different phases. The growth phase where demand is increasing.
+24:13
+So let's say it starts at zero and then people see these dollars. Wow.
+24:21
+This is great. And then a few people at six people buy $600 the first month.
+24:24
+And then after the first month, then, uh, they buy 600 more and 600 more.
+24:30
+Did it. When you hit $1,800, then you've kind of saturated you.
+24:37
+Yeah. There's no more growth anymore. But you got you.
+24:41
+You keep selling $1,800 a month for a while, and then people start getting sick of them.
+24:45
+And I want the decline phase to be the same as just a just the reverse of the growth phase.
+24:50
+So demand decreases by 600 a month. Okay.
+24:56
+Until you get back to zero. Okay.
+24:59
+So we're now we're talking about month by month how you have to actually run this thing and not just, you know, not just the picture.
+25:02
+Here's what it all look like. No no no. We got to get into the details.
+25:09
+And so this is the demand, you know, 612 hundred and 1800 for a while we have this is so common that,
+25:13
+uh, I think some Harvard people might have been the first people a long time ago to sort of label this.
+25:21
+You have steady, steady state. You have growth phase.
+25:26
+Most most things that start have a growth phase. They have a steady state and then they have a decline phase.
+25:30
+You know, where they're you know, we try to stave off the decline that might be like go into a different business or something.
+25:36
+But if we did a business line by business, like you'd see this over and over.
+25:42
+Now the fun part. We got to add some operational details and here's what I want to say.
+25:48
+You got to have inventory. People got to be able to come into the store and see the dolls.
+25:54
+And you want to have inventory equal to next month's sales. They have to believe there's plenty of these things and you just don't have time to.
+25:59
+I don't know what the story is, but you have to have inventory equaling next month's sales and you're new,
+26:07
+so you have to pay the suppliers immediately if they're not selling to you on credit.
+26:13
+Inventory sits there for 30 days, and then you sell it and you sell it to people then, but you sell on account and they pay you 30 days later.
+26:20
+Okay. So the purpose and only purpose of this is to is to add some details about cash coming in and coming out that could potentially cause a problem,
+26:29
+right?
+26:40
+I mean, if you if you set everything up so that you never have to have cash in your pocket to run the business for a minute, well, that'd be great.
+26:40
+You basically you would have gotten your suppliers to finance your business for you.
+26:48
+But that doesn't usually happen at first, right?
+26:52
+Now there are hope. I want to say let's come back to something like a big grocery store later, because it does get tricky.
+26:57
+Okay, so this is what's going to happen. You got you take your 24 bucks and you get a doll and it sits there and you sell it.
+27:05
+60 per month, and then you sell it and then a month later you collect.
+27:16
+Okay, so you started off with $24 and you did this doll thing and you transformed that to $30.
+27:22
+But it took you a couple months to do it. I taught this case for such a long time.
+27:32
+With the graphs you're going to see, I mean decades.
+27:43
+And I was teaching here a few years ago, and I saw one of your I don't know if you call them class, it would have been your classmate.
+27:46
+The person is here, Nancy. That was grass art, right?
+27:55
+And he was right. Nobody. Nobody in literally 25 years had seen this.
+28:01
+But they're not to scale. So they're, um, they capture kind of the magnitude roughly what's going on, but they're not to scale.
+28:09
+Okay. So I tell people the difference between teaching in the management school and here is that in the manual school,
+28:17
+you can pretty much say anything and just keep going.
+28:26
+And and then if you ever, if you ever speak to somebody and, you know, if something comes out of your mouth is not quite right.
+28:28
+And usually here with you guys, I can see I'll say something maybe not quite right.
+28:35
+And I see somebody going, and they caught me in the resin.
+28:40
+So I love coming here. Yeah. You can get caught. All right.
+28:48
+So let's take March okay. So march as they grow they're growing.
+28:53
+This is in the growth phase okay. So they're going to sell $1,200 and their revenue is going to be 36,000.
+28:58
+All right. This is $30 $30 a dollar times $1,200 okay.
+29:09
+What's their expenses. Well $1,200 times uh, 24.
+29:14
+So that's 28,800. So the income we're going to say that month, their income is going to be 7200 bucks.
+29:20
+But what about their cash flow. The cash they collected.
+29:31
+Oh, that's from last month's sales. Last month they only sold 600.
+29:38
+Because there's a delay in people paying. Then the cash flow is going to be less than the income or less than the revenue.
+29:45
+What about their cash outflow? Oh, they got to buy dollars for next month.
+29:55
+So their cash outflow has got to be for $1,800.
+30:01
+This is why we mean this is this is what growing companies get into, right?
+30:05
+Their customers are paying them, but the customers are paying them for a lower volume than their ramping up to do.
+30:10
+So this is like why startups burn money, even, you know, and this.
+30:19
+And keep in mind, this is not one that has to figure anything out.
+30:22
+This is just a mechanical process of of cranking, cranking out the money from these deals.
+30:26
+Right. So most startups you don't know, are they going to be profitable or they're not going to be profitable at all kinds of stuff, right.
+30:34
+This thing that this is this one's clear. But look, you still have a problem.
+30:39
+Now. So the way to say that is going to go back a second.
+30:46
+The way to say that here is that your revenues exceed your cash receipts.
+30:53
+And your expenses are less than your cash disbursements.
+31:03
+So think about that income. Revenues are higher than receipts.
+31:11
+And expenses are more because I kept them here then.
+31:18
+I mean, yeah, the expenses are less than the cash flow that you have to pay for to replenish your stock.
+31:24
+Okay. So you got a double whammy. And what does that result in here?
+31:32
+It results in a cash outflow. Since this is a liquidity problem.
+31:38
+They're producing value. That's for sure.
+31:49
+But the process of producing value is consuming cash.
+31:53
+Not in the same. Not step by step. Not in lockstep with the process of producing value.
+31:57
+The cash process is different than the value process. We seen that when we did the discounting and all that.
+32:03
+Okay. And here the problem is so bad that, um, you actually have cash outflow.
+32:12
+So again, startups are famous for burning money. Burning through money.
+32:24
+In fact, they call it the burn rate. What happens?
+32:28
+That's okay. What happens in steady state, steady state fund by July is a steady state month.
+32:35
+What do they sell? 1800, um, dollars.
+32:42
+Okay, then their revenues are 30 times 1800 or 54,000.
+32:48
+What are their expenses? Well, it's just cost of goods sold. $24 at all times.
+32:55
+18. That's 43. Two. So their net income is 10,800.
+32:59
+Now, let's do their cash. And this is fine.
+33:08
+Look, they this in June last month.
+33:11
+They're in steady state. They sold last month the same amount as they're selling this month.
+33:18
+That's what steady state means. So what does that mean?
+33:25
+Is, even though they're collecting cash from last month's sales,
+33:29
+the total amount of it is equal to this month's sales because the sales aren't growing.
+33:34
+And what about August? I just changed the month down here.
+33:44
+That was the month before. The month after.
+33:48
+It's August, but they're not growing. So their inventory problem isn't to add to their inventory balance.
+33:52
+It's just to keep it just just to maintain it. So the inventory they purchased just replaces what they sold.
+34:00
+So their cost of goods sold is actually equal to their cash disbursements.
+34:08
+What do you think's going to happen in decline. In clients.
+34:20
+Well wait a minute. Stop before I do that. There are all these rules of thumb and and, um.
+34:27
+Uh, imprecise language people use.
+34:38
+Like, have you heard of this one? Um. Earnings before interest, taxes, depreciation and amortization EBITDA.
+34:42
+Have you ever heard that one. Right. So people oh no. No we don't deal with EBITDA, EBITDA.
+34:55
+But you discount the EBITDA a lot. Well look, if you're in steady state,
+35:00
+you don't have to be careful about the difference between accounting income and cash flow in steady state because it's pretty much the same.
+35:08
+So earnings before interest taxes and we haven't talked about taxes.
+35:18
+Forget about that. Or you know this is like a gross cash inflow in steady state.
+35:22
+Okay so I absolutely. But you have to understand that steady state.
+35:31
+In steady state is exactly true. That, you know, the net income and the cash flow are equal in steady state.
+35:38
+They weren't in growth. And they're not going to be in the decline phase either.
+35:47
+So let's look at decline. What happens in decline.
+35:57
+Well in October they sell 1200 units and their revenue was 36,000.
+36:03
+And their expenses in $24 a dollar. 28 a again.
+36:09
+So again, the net income was 7200. So I'm just showing you, you know, the same picture that was going up.
+36:13
+And it's going down, right. Uh, we looked at a month where you sold 1200.
+36:20
+Okay. But here the times reversed, right.
+36:26
+So last month, our collections are driven by what we saw last month.
+36:29
+Well, last month we sold more. So our cash collections are going to be higher than our revenues.
+36:34
+How can that be? From a balance sheet standpoint?
+36:45
+The balance in accounts receivable, it's got to be going down. You know, you're collecting down the total amount that your customers of you.
+36:54
+Okay. And how about your inventory. Well how do you.
+37:07
+You don't have to buy as much as you sold this period.
+37:11
+You want to manage your inventory so that it's exactly zero when nobody wants these stinking dollars anymore.
+37:16
+So you're not going to you're not going to buy 1200 units of inventory.
+37:22
+You're only going to buy 600.
+37:26
+So now we're in the opposite situation, where our cash receipts exceed our revenues and our expenses exceed our disbursements.
+37:31
+Okay. This is a well, yeah, there's a lot of words for this.
+37:40
+So one of them. So the word cash cow.
+37:46
+Again Harvard people got to say, you know, this business is a cash cow.
+37:52
+I think mostly what they mean by that is steady state. So it's just you don't have any liquidity problems.
+37:57
+The business finances itself. There's inflows and outflows.
+38:03
+Okay. This is, uh, this is the this is the domain of the vulture investor.
+38:08
+Because what's what's happening here is you're kind of eating into the flesh, right?
+38:20
+You receivables. If you looked at the balance sheet, your receivables balance is going down and so is your inventory balance.
+38:25
+Your you could think of it as in the growth phase we were investing in working capital or people call it receivables and inventory and things.
+38:32
+I'd call that working capital. And in the growth phase, those things are building up.
+38:42
+So if we think about the balance sheet, those are going to be those are the balances are going to grow and then they'll hold steady in a steady state.
+38:48
+But you know so there's a kind of growth. It's a kind of investment phase.
+38:57
+And then and then what it's decline. It's a disinvestment phase.
+39:02
+And if you do it all right, well if you're going to maximize shareholder value, you better do it.
+39:08
+All right. You know, the decline phase in many ways is as important as any other, maybe even more,
+39:15
+because this is when you're really converting, uh, money that you've got tied up in the business.
+39:22
+You're really converting that back to cash. Okay.
+39:28
+So if you look at the cash flows, this thing's going to produce.
+39:31
+You know, when when we hit the decline phase, you know, it's kind of it's going to bounce.
+39:35
+Not the same time we're declining. So it's it's confusing. Okay.
+39:42
+So here. The point is you collect on more than you buy.
+39:50
+You collecting on last month's sales, which is sitting in your accounts receivable,
+39:56
+and you're building your inventory to a smaller value than, than it was at the start of the period.
+40:01
+So inventory balance is going down. It's okay.
+40:07
+Everybody okay so far? I'm getting encouraged, though, because I think I see on your faces that there's a lot going on here, is there or not?
+40:16
+Yeah, the coffee is, you know, this was this is sort of bread and butter for, uh, MBA students for a long time.
+40:26
+So when we, you know, if you know, the history of Yale.
+40:36
+But in 1989, we had a big redo of the management school.
+40:39
+And coming out of that. Uh, we talked to a lot of, uh, business people about what they wanted and so forth.
+40:44
+So a guy from General Electric, when it was still a Connecticut company, came and talked to us.
+40:54
+And I remember he only wanted to know one thing. Where do your people learn about managing work and go?
+40:59
+And I didn't I was young then. And I said, well, you mean like, don't have more inventory than you need and collect on your receivables?
+41:07
+Yeah. Yeah, yeah. Where where did they learn that?
+41:16
+I said, well, you know, kind of everywhere, I guess I could mention, but it's like that's all they wanted, you know,
+41:18
+because they had identified at the time that GE had too much tied up in working capital and they were trying to become more efficient.
+41:24
+Right. So one way you become more efficient is you have the same volume of business, um, less investment in the business.
+41:34
+And they're the the investments that they had identified were, um, were in working capital.
+41:41
+But I don't think he ended up being very satisfied with my answer because I just sort of,
+41:49
+you know, the intellectual content of that is almost zero now actually doing it.
+41:54
+You got to negotiate with your suppliers and you got to you got to feel around for what you're, uh, who are we extending credit to?
+42:00
+Does that make sense? Can we cut that back? Yeah.
+42:08
+So, you know, those those are the kinds of things that from my office in 55, realize I didn't really have any comparative advantage in talking about.
+42:12
+Okay. So this little thing is well worth thinking about a lot.
+42:22
+Uh, a lot. Um. You know, we know that since we're talking about financial value, cash flows and financial values are connected over the long run.
+42:32
+But at the dynamics of it, how they're how the connection evolves over time is complicated.
+42:49
+And in practice, we have to pay close attention to the timing of cash flows.
+42:56
+Okay. And that's the relation. Okay.
+43:02
+So let me go back a second to this.
+43:05
+Uh. So there's.
+43:11
+So what can we safely conclude.
+43:20
+About the growth phase, namely that we ask you this is cash always an outflow and a growth phase is what determines that.
+43:25
+Yeah, I will say so because you have more disbursements of cash.
+43:47
+Yeah. Now, when I'm receiving actually I have receiving account receivables, but not cash.
+43:52
+So yeah, it's a one.
+43:56
+Is that the difference between the receivables, the receipts and the disbursements is going to be less right.
+44:00
+Because if you're if you're not I mean let's do it this way.
+44:07
+Okay. So first of all let's talk about how what would happen if you're not growing as fast.
+44:11
+That would mean basically that these two lines move closer to this line.
+44:17
+Right. That last month is not that much different than this month is not that much.
+44:21
+We're not that much different than next month. Well, the closer we get to that, this blue dot goes down and that green dot goes up.
+44:25
+You know, it's as we could have a situation like this. Right.
+44:34
+And so so we have in fact, if this was this this is accurate.
+44:41
+This is where the guy caught me. It's not to scale, which is true.
+44:48
+But as we as we move these lines closer together, which represents the growth rate slowing down at some point,
+44:51
+you know then that the cash flow is going to be zero and then it can be it can actually be positive.
+44:58
+But here's what we do know. The cash flow is less than the net income.
+45:04
+Like the cash flow is less than the net income. So if you go back to the first day of class, which I do often.
+45:11
+We saw GME and we saw AIG. And one of the big bad what about actually about the only thing we could look at there
+45:21
+is let's look at the net income and let's look at the cash flow from operations.
+45:32
+Right. And what we saw was AIG had net net income of -100 billion, but positive cash flow from operations of 755.
+45:38
+And the only way that can happen is if a bunch of accountants made a bunch of different entries.
+45:50
+Right. But you remember GM, I pointed out, oh, they had $30 billion loss, but they also burned up 12 billion in cash.
+45:55
+Okay. Now the AIG story doesn't exactly fit the growth story, right.
+46:06
+It's it's a convenient way, though, to think about the difference between cash and income.
+46:10
+But the first thing, what's one of the first things I look at is cash flow relative to net income.
+46:14
+The cash flows higher than net income. Then are they just investing?
+46:21
+Where's that coming from?
+46:27
+Are they becoming more efficient because they run their business on lower inventories and lower receivables and all that stuff,
+46:28
+or are they in a real state of decline and.
+46:35
+Jettisoning everything they can. Well.
+46:40
+Okay. So one thing is the growth rate and that's, that's affected by this bringing this in.
+46:47
+Right. Another thing was is the spread here all right.
+46:55
+Because like if the if the cost line was very low relative to the revenue, then replenishing next month's forward doesn't cost you that much.
+46:59
+Okay. So I think I, I don't know if I do this for me until talking in.
+47:08
+Oh, look, I did, uh, I made a spreadsheet so that you could play around with this and you can look at, um.
+47:18
+You know, different, different growth rates. Uh, you can pick which phase the business is in, like right here where we're in a growth phase business.
+47:29
+Um, and if I can make the growth faster, does that word this is what happens when the growth is faster or at least lines get steeper.
+47:41
+Um. Oh, hey, wait a minute.
+47:51
+What's that? Okay, get out of here. Uh.
+47:55
+Or if it gets. If they get slower.
+47:59
+Right. So. So now I'm approaching, like, zero growth. So you can play around with that.
+48:07
+You can play around with. Let's go back here to some reasonable numbers around.
+48:12
+600 let's say. Mhm.
+48:21
+Yeah fine. Let's close it up. Okay.
+48:28
+So that's what a graph should look like. And then we can say well what if the price is you know really a lot more.
+48:32
+The cost of goods sold, right? Or what if.
+48:40
+What if the cost gets up? Whoa. That's too much, right?
+48:45
+If the cost gets really low or the cost goods if it's dirty, that's what I would do anything with it.
+48:49
+So you could play around with these parameters and kind of see, like what's, uh, what's going on.
+48:56
+And then also off to the right there's the, um, net income and expenses of, uh, the month.
+49:01
+So let's do 30. Let's do $30 and $30 and 24.
+49:10
+Okay. And the growth is 600.
+49:30
+And I suppose the decline phase is also 600. Going to work.
+49:35
+Okay. So so that's a growth phase. What is steady state look like.
+49:43
+Okay. That's boring. Question is everything's just cranking along at the same rate.
+49:48
+And what does the decline look like. Looks like that. All right.
+49:52
+So and you can see also the the chart over here on the right is going to map out like, uh what the cash flow consequences of this stuff.
+50:03
+Okay. Any questions. What do you use cash flows to these.
+50:21
+Graphs. Okay I we'll a quick question about the number in the and you were playing with the number four.
+50:35
+Um, it's like when it's growth and it's decline and it's 600.
+50:43
+What does that represent. And the numbers it's actually growth right.
+50:49
+So 600. And the number of dollars you're selling is increasing by 600 a month or 200 a month or 500 a month or something.
+50:52
+So slower or faster growth rate. And just in terms of the number of dollars you sell every month.
+51:01
+Okay. All right. Well, then you really, uh, you leave me no choice then, but to talk about what's going on more in general.
+51:11
+Do you want to take a rest for our brains for a second? And then we can dig more and more in general, because.
+51:25
+Let's think about it before we go. What we we had we didn't have any liabilities in this example.
+51:33
+Like we only had assets. And in one, one of the assets, the receivables,
+51:39
+I'm thinking about the the events that cause the value creation in that receivable happened before we collected the receipts.
+51:49
+And in the other case. We had to shell out the cash before we had to recognize the expense of inventory point.
+52:01
+But in both cases, what happened was an asset account helped us.
+52:16
+Absorb the difference, if you will. It was the buffer between the cash flow process and the value process.
+52:24
+What we used was we construct we use this construct of an asset account to hold that difference.
+52:31
+Really. Okay. So so let's suppose that a company does something and we create value here.
+52:37
+And that in time is going that way. So they create value in this period.
+52:45
+And so the if that's the period in which recognized then that's that's going to be the period in which we recognize revenue okay.
+52:51
+So our whole our whole intuition was that if this is when the value if this period in the value was created somewhere in this period,
+53:00
+that's the period we want to recognize the revenue. But there are a few logical possibilities that we can walk through.
+53:08
+But one is suppose that all the value is also received in cash in the same period.
+53:16
+Okay, well we'll look just count the cash.
+53:24
+You're done. You know you don't have any balance. There are no effects on the incoming.
+53:27
+But the incoming balance sheet of the outgoing balance sheet doesn't have to do anything special.
+53:32
+Right? Just. We sold something for cash. Great.
+53:39
+Just counting the revenues equal to the cash you got.
+53:42
+But what if. All the cash is going to receive and be received in the future?
+53:47
+What happens to our picture? So we sold something here, but we're not going to collect it till here.
+53:56
+This is a financial statement, Dave. What is what's the financial statement?
+54:07
+What's going on? One of the properties of the financial statement here.
+54:12
+Yeah, that was insane. I got to look with a bunch of account receivables and executives coming up all the time, you know?
+54:23
+Cash. Yeah, but, yeah, don't say more than that.
+54:30
+Yeah. So what happens when we sold it? What did we do? We made an entry that debited accounts receivable and credit and sales.
+54:36
+Right. We created this thing called oh, I'm counting the sale.
+54:42
+And and and I'm going to, uh, count that because this, that's when you did the activity that created the.
+54:48
+What did you do, what you created that tell the song and dance. You created the right to receive cash.
+54:57
+That's what that's how the value was created. So if the right to receive it was created here, we had to have a balance.
+55:03
+We had to have an asset or a balance sheet here. And when the cash is collected, that asset goes away and cash is collected.
+55:10
+Right. That's how that worked. So that's kind of the fundamental accounting plumbing function of an asset account.
+55:17
+Okay. Got to have an asset account right here.
+55:28
+All right. What if what if what if all the cash had been created here back in the period before somebody paid a retainer?
+55:35
+What do we have on this balance sheet? Let's go into liabilities.
+55:47
+Do you have a liability? Right. The way we handle that is you say, all right, we got the cash.
+55:52
+We'll have to count that back. But you learn it yet because the value, you're going to earn it here.
+55:57
+Therefore, you have an obligation to perform services just right.
+56:04
+Yeah, but liability here. Right.
+56:08
+So this is how the asset in the liability accounts. Now I'm talking about value being created in this period.
+56:16
+So this is how the asset and liability accounts dance between where's the cash collected versus the value created.
+56:22
+Well we just make the asset the liability accounts dance.
+56:33
+That is to how they have to to figure out whatever cash flow pattern it is.
+56:37
+If we got the cash first, we have a liability. If we're going to get the cash later, we have a and here we have a liability here.
+56:42
+And if we got the cash we're going to get the cash later. But we've earned it. Then you've got an asset there.
+56:49
+Okay. What's the next slide.
+56:55
+Values consumed okay.
+57:02
+So we talked about value being created revenues basically.
+57:06
+Now let's talk about expenses okay.
+57:10
+How do we uh if we recognize an expense in the middle period.
+57:14
+What if it's all cash? We'll just count the cash.
+57:21
+Right? Right. That's easy. Now what if.
+57:25
+All of the value for the asset was, well, the asset.
+57:35
+If you spent the cash like by buying the property, plant and equipment or by prepaying the rent or, uh, what else have we done?
+57:40
+Causing or buying the inventory? I don't care what it is.
+57:51
+Right. The essential thing is cash was spent or that the cash is spent here.
+57:55
+But the expense depreciation, expense, amortization.
+58:05
+And this is really areas that's happening in here. And how did we do that.
+58:08
+Well we just made an asset account. Right.
+58:14
+We said when you spent the cash to buy the property, plant and equipment, you didn't consume the value of your equipment.
+58:19
+You bought yourself an asset. That's what we said. But what were we setting up, really?
+58:26
+We're setting up the fact then that that asset cost is going to have to be written to expense as time goes by.
+58:30
+So I think we've discussed that too, about reading financial statements.
+58:37
+And I said, well, if something's on the financial statements and it's an asset I'm starting to look around for,
+58:40
+how are they taking that asset to expense?
+58:47
+Because like, just like we said, you know, we've done a lot of things sort of implicitly where this is these things are unclear.
+58:49
+You bought something for five that's going to last five years. And how do we assign the expense?
+58:57
+Well, hey, you know, we don't have a great causal model for that.
+59:02
+We might just say it last five years. I take a fifth of a year, something like that.
+59:06
+So we try, but because but we don't have, you know, good causal models of exactly what's how value changes.
+59:12
+And you're again, you're not going to unless people start having markets for half used equipment and all kinds of other stuff.
+59:24
+Okay. There's only one other case, I think.
+59:33
+So, you know, this is the case of, like, uh, people worked.
+59:39
+You consumed the value of their labor, but you didn't pay them. Well, then you have the liability going out of the period.
+59:44
+Okay. To create a liability account here, I can't.
+59:53
+Go. All right. So.
+59:59
+So this all fitting this whole story together is what the, um, the cash flow, the statement of cash flows in direct method does is it says,
+1:00:01
+okay, you you know, you here's what you just told me the income was that's the revenue and expense story.
+1:00:16
+Now how does that relate to cash?
+1:00:22
+Well, the the relationship is going to involve.
+1:00:28
+Let's go back again to uh. The relationship between the cash unit period and uh, the income.
+1:00:38
+It's going to involve changes in the assets and liabilities accounts from the beginning to the end.
+1:00:53
+There's just going to be it's just algebraic. Um.
+1:01:01
+So let's let's work that, uh.
+1:01:15
+Okay, so so we said what we're, we're going to do is focusing on we're focusing on the change in cash.
+1:01:39
+Right. So let's write the cash at the end of the period, plus non-cash assets at the end of the period minus the liabilities at the end.
+1:01:45
+That's equal to the equities at the end. We also have the same equation at the start of the period.
+1:02:03
+Equity begins okay. So now just subtract these to see what you get.
+1:02:20
+So what we're going to get is. That the change in cash.
+1:02:37
+Right. We do this the right way.
+1:02:48
+What am I going to get? Well, I'm going to get the cash at the end.
+1:02:58
+Minus the cash at the beginning. Okay.
+1:03:03
+And that's what that's like cash flow. And that's going to then be equal to.
+1:03:07
+Not. Equal.
+1:03:17
+Uh. Equity at the end.
+1:03:23
+Minus equity at the beginning. Now, I got to be careful about this.
+1:03:33
+Uh, plus, I got this right. Liabilities at the end.
+1:03:40
+Minus liabilities. You know, you got to be careful with which.
+1:03:48
+What's the beginning was the end. And are you adding or subtracting?
+1:03:51
+Right. But this just shows you that the accounting identity just tells you that you can always express the change in cash as a,
+1:03:54
+as the change in all these non-cash things. You have to because the balance sheet balances.
+1:04:02
+Now, what we're going to do with this, however, is I just like to write a little bit and for some of you is.
+1:04:12
+You know, we're going to break this up into changing cash.
+1:04:25
+Well, we're going to call this. Cash flow from operations plus cash flow from investing plus cash flow from financing.
+1:04:31
+So we're going to be and you know, we've sort of uh.
+1:04:43
+Skirted by this many times. Right.
+1:04:50
+Because we had that if you notice, that column was there and sometimes we followed it and I would and I said, oh yeah, we'll come back to this later.
+1:04:52
+But you can just think, you know, just for now, it's kind of fun to just keep that in your head.
+1:04:58
+Okay.
+1:05:04
+Now it's going to really come back because what we what we do is we take the changes in cash and we try to sort them into these three piles financing,
+1:05:04
+investing. And what's left is operating.
+1:05:14
+And let me show you where that kind of comes from.
+1:05:20
+It comes from a of a.
+1:05:24
+Almost like a simplistic view of how.
+1:05:30
+We do business. So. So so what you're going to do is you're going to put your dollar of equity in here.
+1:05:37
+And then you're going to lever it up. And borrow to.
+1:05:55
+So now I'm up to $3. Okay.
+1:06:05
+And then that's that's like my I then I convert that into assets.
+1:06:08
+Right. And then I sell them I see uh oh no.
+1:06:15
+Converted into assets plus $3 cash, $3 assets.
+1:06:20
+And then I use those assets to say to sell things to people like, uh, like $4.
+1:06:28
+If you know that I end up with $4 and that excess.
+1:06:37
+The Nexus One. You know, is the compensation to the equity holder.
+1:06:43
+So. So what that so the raising equity and borrowing these two steps.
+1:06:57
+That's called the financing. Setting the firm up with its asset base.
+1:07:04
+That's called investing. And then actually running the firm to uh to sell things.
+1:07:12
+That's operations. So that's where the, the, um.
+1:07:22
+That kind of model is is the source of why we break up cash flows into these three piles.
+1:07:32
+Now, of course, all these activities can be going on at the same time, right?
+1:07:39
+You can be running the business, you can be investing things. You can be. So it's really kind of fun that whole year.
+1:07:44
+It's really kind of funny that if you go to the rules, the official rules, they never actually define in a good way any of these terms.
+1:07:53
+They just sort of give you examples. Well, you know, financing that's like issuing stock and borrowing money and all the stuff about that.
+1:08:03
+How about investing? Well, you know, uh, yeah,
+1:08:10
+that's that's the way I'm stumbling because I'm trying not to say this because the inclination is the way I said this to was,
+1:08:16
+oh, you build your plant, your property, your plant and stuff. So you think that, well, these are long term.
+1:08:28
+That's not necessarily true. Right. So you can have investing that's not long term at all.
+1:08:33
+So the so the so the split between investing and operating is not just short term and long term.
+1:08:41
+You can have long term things that are operating things. So for example if, if uh a seller well, well we sort of had this right.
+1:08:48
+We had over buy some desks and over paid some cash, but then the seller financed the rest with a note and we didn't get too picky about it.
+1:08:59
+But how long was that note? We didn't say, you know, that note could have been a three year note.
+1:09:11
+That's an operating thing. Versus a mortgage on a building.
+1:09:17
+If you're not in the building selling business, that's investing.
+1:09:24
+So it's really you know, what we had when we the categories of things we had before revenues, expenses,
+1:09:29
+uh, assets, liabilities, equities, gains and losses that were kind of logically defined things.
+1:09:36
+But cash flows from investing, financing and operating as this were just kind of, uh, it's a rougher kind of category categorization.
+1:09:43
+But if you come back over here, I could do that.
+1:09:55
+But what what I want to do is take this side and characterize it as having also come from operating, investing or financing things.
+1:10:01
+That's a mess. All right. That's a mess.
+1:10:15
+But that's that's sort of what we do.
+1:10:18
+The way we're really going to do it is it turns out not to be that hard because the financing oh, I don't have the I need more the financing.
+1:10:21
+And the investing, we're just going to look at directly the cash that was spent.
+1:10:37
+So we're going to say you spent $100 million on a manufacturing plant in wherever.
+1:10:45
+Okay. And the and the cash flow statement is going to say exactly that.
+1:10:55
+So when you start looking at cash flow statements, look at the three sections, investing in financing or just what's called very direct.
+1:10:59
+You say you spent cash for this. You got cash for that.
+1:11:06
+It's the cash flow from operations that, uh, is actually the reconciliation of net income and cash flow from operations that gets into this mess.
+1:11:11
+Right. So so what I'm going to do is I'm going to pull out any sort of, um.
+1:11:22
+Oh, I forgot something.
+1:11:28
+Wait a minute, I forgot I forgot something because this has to be, uh, this has to be minus non-cash assets at the in minus non-cash assets.
+1:11:29
+I know something's wrong to be doing. Okay.
+1:11:45
+So these three pieces.
+1:11:48
+You know, so what we do with the with our approach to trying to figure out cash flow from operations is to pull out the investing and financing stuff.
+1:11:52
+If we pull out all the investing and financing stuff from this side, then any remaining changes we haven't made have to be operations.
+1:12:01
+So it's going to be one of these work backward things. And that's why we're going to have a great big worksheet to do it.
+1:12:09
+And you may not have seen this part of the year yet, but it's time to see another part and see version.
+1:12:22
+Two so. Okay, here we go.
+1:12:34
+This is what you'll do. Oops.
+1:12:46
+Um. So this is Ralphie's business.
+1:12:56
+And let me see if I can show you a good review.
+1:13:02
+Next time you look at it. You will get to see this wonderful thing.
+1:13:20
+And what does this wonderful thing do? Well, this wonderful thing helps us take the change in cash.
+1:13:34
+So for Ralphie, that was, um, cash went from 0 to 40.
+1:13:43
+40,000, $50. And you can go look.
+1:13:51
+And you can find that cash flows from investing.
+1:13:56
+We're 85 bucks. Okay.
+1:14:01
+Um, well, how are you going to do that?
+1:14:05
+Well, yeah, I can't, because how can I do that since I've labeled all the things in the journal this way?
+1:14:09
+Uh, let me see. Let me see my tools.
+1:14:16
+If I've done this properly. Uh, cash flow tool.
+1:14:20
+Do do do do do. Oh, look. This is our t account.
+1:14:25
+We Ralphie's business. But what I've done is I've just carried the, um.
+1:14:35
+The things from the column that I labeled. So every cash flow you go through and you ask yourself, is it financing, investing or operating?
+1:14:43
+So the first thing they did was raise them, raise them, uh, with cash by issuing stock that was financing.
+1:14:51
+The second thing they did was borrow money that was financing.
+1:14:59
+Uh, they bought property, plant and equipment that was investing, and they bought some Yahoo common stock.
+1:15:03
+And that was that was an investing decision. Okay.
+1:15:09
+So once I've done that, then anything I haven't labeled has to be operating.
+1:15:13
+So in terms of the total, I know I can figure this out just by looking at the cash t account with the appropriate label security.
+1:15:18
+And that financing is 120 Investees 85 operating 5.05.
+1:15:27
+So we're going to go through all this in some gory detail.
+1:15:35
+But um. But even though net income was negative, if we go back and we can look and we can see that cash flow from operation is going to be positive.
+1:15:38
+Why? Well, for a few reasons, right? One is that, um, they had some labor that they use that they didn't pay for yet.
+1:15:48
+And so that means their wages expense was higher than their cash paid for wages.
+1:15:58
+Right. So this is why we did grow with all, with everything going every way.
+1:16:04
+This is your experience. This is your way. This is it. Okay.
+1:16:07
+So so from from just looking at the cash account, we can figure out what's going on.
+1:16:12
+Whoa, whoa. What's happening? Yeah, right.
+1:16:19
+We can figure out the totals here. You know, 120 -85 and 505.
+1:16:23
+So we know what we're trying and what we're trying to get. We're trying to explain why was this 85.
+1:16:30
+Why is this 120. And for you.
+1:16:36
+Yeah. Why is this one okay.
+1:16:44
+Reconciliation. All right.
+1:16:50
+Uh, and I'll go through this next time. You're not going to have to do it the first. I want to show you how to do this a few times.
+1:17:01
+Right. But I just want to set by having by the nature of a large overview,
+1:17:06
+what we're going to do is we're going to take out all the investing and financing stuff, okay?
+1:17:12
+That's the idea. We're we're going to take the investing and financing stuff out of all this stuff over here.
+1:17:19
+And that's what the rest of the worksheet helps us do, is going to take it out and then we know it well.
+1:17:27
+Everything else belongs to operations. And then we'll try to figure out why.
+1:17:32
+And it'll be fun because sometimes it's like, oh, I mean, you know, we're working a giant system of your math person.
+1:17:37
+You'd say you got yourself a lot of linear equations going on here.
+1:17:45
+They're all connected and all these ways, you know, because every T account is beginning,
+1:17:48
+balance plus the additions minus the subtractions equals the ending balance.
+1:17:54
+That's just the linear equation, you know, okay.
+1:17:57
+So that's that's that's where we're going.
+1:18:02
+But the intuition is just like total toy right.
+1:18:08
+That is like let's take the difference between uh.
+1:18:11
+Let's take the course, Mike. Back and we go back to.
+1:18:19
+So. Let's go back to the beginning.
+1:18:25
+Whoa whoa whoa whoa whoa whoa whoa. Let's go back to this one.
+1:18:32
+And just talk and just talk through it. Okay? So, uh.
+1:18:42
+That's the income picture. And now we're talking about the expenditures.
+1:18:50
+I don't know the the revenues we're collecting from last period.
+1:18:56
+Now, this difference between the revenues we were recognizing and the cash we collected.
+1:19:00
+What's that doing that's serving to increase the balance of accounts receivable?
+1:19:11
+Because we're recognizing more. Well, just think of it in direct entry sensors as we sell things.
+1:19:16
+We're debiting accounts receivable, crediting sales as we collect things, we're debiting cash, crediting receivables.
+1:19:25
+What I'm saying is that if if the sum of the revenue entries exceed the collection entries,
+1:19:31
+then what that's going to mean is that the balance in accounts receivable is going to grow.
+1:19:39
+Okay. So I could take the difference between revenues and receipts as reflected by the accounts receivable, the change in accounts receivable.
+1:19:44
+And I'm going to do the same thing with inventories.
+1:19:56
+The difference between the expenses on the balance sheet and the cash we had to spend well building the inventory.
+1:20:05
+That's why we had to spin. We didn't just replace the inventory, we added to it.
+1:20:14
+So if we look at the ending inventory, how the inventory balance change that's going to increase.
+1:20:18
+And what we have to do is work at work through that.
+1:20:24
+For every asset account and liability account, whether it was involved with creating value or consuming value or once.
+1:20:27
+Okay. So that's what we'll do. And when you're done with that it takes a while.
+1:20:35
+But you will get done. Then you will understand the accounting.
+1:20:43
+You know, not not the how they make the judgment calls of what do I call here and what do I counter?
+1:20:51
+That varies in by context all over the place, but you'll be able to answer questions like, if I recognize it, what will happen?
+1:20:55
+Okay. Any questions? Can I go home and go to sleep?
+1:21:05
+I have clawed insomnia. And, uh, I need to go to sleep.
+1:21:10
+Foreign. How's it going? Besides questions? Oh, I'll post the.
+1:21:19
+The guy. The. The, uh, tutor.
+1:21:28
+Uh oh, I don't know. What he does or, like, posted.
+1:21:42
+Uh. Well, we can email.
+1:21:49
+Here we go. Let's see if it works. Okay.
+1:21:54
+I know, it's got to agree.
+1:22:05
+We're going outside the other. You know. That is Rick, the accounting tutor.
+1:22:11
+What are you working on today? I'm trying to figure out the accounting equation.
+1:22:21
+What do you think about that? We call it the accounting identity, not equation.
+1:22:26
+It's true by definition, not something we solve. It's expressed as assets minus liabilities.
+1:22:32
+Equity. What specifically are you trying to understand about it?
+1:22:37
+You're an [INAUDIBLE]. Just like real Rick, not Rick by definition.
+1:22:42
+So yeah. So there's that. And then I didn't get to scroll out in time.
+1:22:45
+But this is this is a technology flow. This is Rick, the Yale I user manual.
+1:22:50
+How can I help? I'm trying to make an entry in this thing, man I can't figure out what you know.
+1:22:54
+First of all, they're these tools. And they say they're tools, but they're all just like black lines.
+1:22:59
+What the hell's going on? Oh, sounds like the tools on the tools tab are collapsed.
+1:23:04
+You need to click on the little buttons to the left of the row labels to expand each tool section.
+1:23:12
+Once you click those, you'll see the T account viewers. Can you ask you how and how to access the answer sheet?
+1:23:18
+Yeah, that's what he says. Hello, this is Rick, the daily I user manual.
+1:23:25
+How can I help? I think that the answers are embedded in the spreadsheet somewhere.
+1:23:31
+How can I look at them? Great question.
+1:23:35
+Yes,
+1:23:39
+the answers are built into the yearly and there are several tools to help you check your work and peek at parts of the answer when you need guidance.
+1:23:39
+I want to begin parts of the answer. I want you to tell me the answer. I understand you're looking for the answer, but I can't do that.
+1:23:46
+My job is to help you learn how to use the Yale to find answers yourself, not to give you the solutions directly.
+1:23:56
+The whole point of the Yale is for you to work. Anyway.
+1:24:02
+You start that thing with an insane amount of tokens now.
+1:24:08
+Uh. It is. We're going to see. Okay, we're going to see how many tokens it brings up.
+1:24:15
+But what happens is that, uh, first of all, I had 11 labs deepfake my voice.
+1:24:21
+So I gave him an hour and a half of conversations and, uh, of me reading stuff and a deep fake by voice,
+1:24:27
+but don't think it's really happening is then the, um, the interface, as you talk, as I speak, it's just translating that into text.
+1:24:33
+It's voice to text, then it's sending it off to, in this case, Claude Sonic 4.5, which is an expensive model.
+1:24:42
+I did it this way because I don't want it. Let's make sure we burn up tokens a lot before we start trying to change them.
+1:24:50
+That then it sends it to that. It also sends a system prompt.
+1:24:58
+So this trick.
+1

@@ -1,0 +1,1493 @@
+
+0:55
+I use them with. Uh, if you want to be nice.
+1:12
+Yeah. Does everybody have great fun?
+1:16
+Did you make any headway? Yeah, all the way.
+1:23
+You know, blows me away. For the record, I did ask.
+1:30
+Yeah. Uh, I didn't do it by myself.
+1:38
+No, seriously, though. What'd you ask it? So the one that really got me started was the amortization question.
+1:42
+Yeah. Just what is it? Right. And then to, like, how do I calculate that?
+1:48
+First I was trying to like, do like the net. And then I read the notes and I was skeptical of the notes for some reason.
+1:53
+Yeah. This is an issue until you get used to the whole thing.
+2:00
+It's like everything is like you're kind of walking around thinking, uh, whatever, but it's.
+2:03
+So let's talk about the amortization thing first. Right.
+2:09
+So I had never heard of, you know, Coldwater Creek as a Kellogg company.
+2:12
+Like they store, I guess the copy of an online site, you know.
+2:17
+But anyway, uh, so I never heard of anything called catalog costs, but this is a thing we constantly have to do.
+2:20
+You have to infer from context what the heck is going on?
+2:30
+So the first thing you should see when you look at is, oh, it's an asset, right?
+2:34
+So that's some sort of benefit. Now unless that asset has some infinite life, there's got to be some way that it's written off into income.
+2:40
+So, so so what we're going to have is, you know, it's a little different than this because it's changing it.
+2:52
+It's a map. They're spending all the time on these catalog costs and so forth.
+2:59
+But let's just pretend. Yeah. So they're sitting here with I don't I can't remember how much on the balance sheet.
+3:02
+Um, but look we've got we have this again. It's got to be written off over.
+3:09
+It's like some half. Okay.
+3:16
+So they call it amortization because it's an intangible, I guess, uh, there's a real issue as to sort of how do they acquire those things, assets.
+3:19
+We can talk about that because some of them were long term.
+3:32
+I don't I think I might have. Okay.
+3:35
+So I for your debt to help you, there were actually two catalog costs and the actual statements if you looked at them.
+3:40
+One was short, one was a current and the other is non-current.
+3:50
+It's like, wait a minute, how could you have if you make a catalog, how can that be a non-current asset?
+3:53
+I don't even know what was going on. So anytime you see something like that.
+4:03
+So you're looking at the assets and anytime you see something that you don't really get,
+4:07
+you should start probing around for, hey, how's it going into income?
+4:13
+Where where's it going to go? Now the catalog costs, you think okay, those are going to go into, uh, SGA, right?
+4:18
+But, you know, this is a good, um, example of that, but you didn't.
+4:26
+You figured it out, right? Because there's a footnote that just tells you what it was.
+4:32
+Yeah, right. Originally, I thought for some reason this was a fiscal year 98.
+4:36
+So I was like, what does 97 help me with?
+4:42
+Uh, you know, I actually I think I always had trouble with this because first of all, notice they're ending their year in February, right?
+4:44
+February 28th or something like that. And it may even, oh, I guess in 90 from 97 and 97, they ended on March 1st in 98.
+4:52
+They ended on February 28th. Why would they have such a weird fiscal year and.
+5:03
+What kind of business are they? Retail catalog sales.
+5:13
+What do you think their peak season is? Christmas.
+5:20
+The holidays. Right. So you don't want to close.
+5:25
+You don't want to have your fiscal year end in a business like this.
+5:29
+At the same time you got goods flying everywhere.
+5:33
+All kinds of stuff going on. Right? So usually what you want to see is you want to wait till things settle down.
+5:36
+All right. So for them, they wait until after the holiday season is over. Yeah.
+5:46
+When you're looking at stuff like that, you got to realize. What does that mean about their.
+5:50
+Inventories. They're probably low relative to the rest of the rest of the year.
+5:54
+Right. Because they've tried to sell everything out.
+5:59
+So just this kind of rhythms of the business, you know, this is kind of stuff you pick up after a while.
+6:04
+And the first thing that I saw was the weird year. And now what it does is created a naming issue.
+6:13
+What year are we talking about? They might, you know.
+6:19
+I'm not sure if they can call it that. It's either 98 or 97.
+6:26
+I'm not sure the way they would name it, because it's actually the holiday season of 97.
+6:29
+Right? Just picking up an extra couple months.
+6:36
+So this is really most of what we're seeing here is stuff that probably took place in 97, not 98, in the calendar year.
+6:39
+Right. Okay. So cool. Um, we passed ChatGPT and anything else that was in.
+6:47
+What? How did it what did it say? That it helped you? Oh, you don't want to hear it.
+6:57
+Uh, so I we kept debating, right.
+7:01
+Like, I got going with my model and it was like, I don't know when that number is working.
+7:05
+I don't know whether or not working. And at some point it just, like, analyzed the file and then was like, oh, there's an answer.
+7:10
+She can just use this. Okay.
+7:15
+That's that's good right now. So it'll do that. Right.
+7:18
+And uh, but I not sure one of our projects I'll show you is one of my more research projects is to try to get it to do this kind of thing,
+7:22
+you know, on its own, basically. And we we made a pretty good effort like a year ago, and it wasn't really that ready for it.
+7:34
+Yeah. In particular what it couldn't what what did it had trouble with like the amortization costs.
+7:42
+That's in a footnote. It couldn't find that and we knew it was there.
+7:48
+So why isn't it finding it. You know because it it doesn't it read well at that time.
+7:54
+No it didn't because this is why you have to you want to get on the inside a little bit about how these things work.
+8:02
+Okay. And it's changing so rapidly I don't know. Now it might it will probably find it now.
+8:09
+But at the time, one of the things it does in order to process massive any of these things,
+8:14
+whatever I think we were using GPT for maybe is it it looks at indices like looks things up like you would look it up what
+8:20
+chapters and and and you should get it in this section or that section at the at the time when it read things that you gave it,
+8:28
+it was doing that. And so it was if you told it to read everything word by word, it took an enormously long time.
+8:36
+That's I'm sure that's much better now than it was then. So I'm just saying this is one of the problems that that it have.
+8:45
+But I think this is pretty temporary because you can see you'll see that we get going, kind of you get in the rhythm of the thing.
+8:52
+There's a structure to it.
+9:00
+Uh, it does have to you do have to make some sort of hypotheses or sort of guesses sometimes this could this be it or that, be it.
+9:02
+But with this particular one, the reason we at reason I stick with this one is it works okay.
+9:11
+Because the other thing we've done in this research project is search around for more than this one.
+9:18
+That would actually completely, pretty much completely work out. They're hard to find.
+9:24
+And we'll I'll show you sort of why that's the case. So basically here there's kind of there there's a lot connected to a lot,
+9:28
+but nothing like sales for the actual statements where everything's connected to everything else.
+9:37
+Um. So that's great that, that, that's.
+9:42
+And then. Oh, yeah. So, so so this is one thing I haven't figured out because actually the spreadsheet itself is probably locked.
+9:49
+Right. Try to try to right click on it on the tab right click and see if you can unhide the answer.
+9:57
+You can't. Right? It did. Let me unlock the actual phone. Okay, so you're happy, but you have it on your desktop, right?
+10:10
+Yeah, but I also can't see the answer sheet. That's why I was surprised.
+10:17
+I'm like, oh, you. Okay, so this is, this is generally I want to do this is a digression a little bit.
+10:20
+But you're you've obviously got to be really clued in on confidentiality and you know, stuff like that okay.
+10:27
+The when you somebody you protect an Excel spreadsheet, let's say uh, with a password, uh, you can crack those.
+10:37
+Okay. So, uh, it is, but it's, it's Excel.
+10:46
+It's a, it's just a big data file. And somewhere in that data file, it has to store what the password is.
+10:51
+Otherwise it wouldn't know how to open. Okay. So those things can be cracked.
+10:57
+Since I'm 72, I'll tell you what. One of the ways I really learned this, okay?
+11:04
+In the late 90s, the public accounting firms there were they started off being eight of them.
+11:09
+This was before Arthur Andersen went broke. Or when they didn't go broke, they got demolished.
+11:18
+Okay. So I think by the time I was doing this, there were six of them.
+11:24
+But the Securities and Exchange Commission, uh, the commissioner at the time was a guy named Hal Levitt,
+11:27
+and he was very upset about the accounting firms consulting practices and their auditing practices.
+11:35
+And he thought that that they really sacrificed their independence a lot when they when they did this.
+11:41
+Right. And so they were fighting all the time about what, what other things they can do besides auditing for their clients.
+11:47
+But it's it's kind of funny that nobody ever complains about tax services and auditing going together.
+11:54
+But consulting, okay, it's a big deal. And, um, so, uh, and it was at the time, this was before the Public Company Accounting Oversight Board,
+12:01
+and this is actually that was formed out of sort of from the bear.
+12:11
+Okay. But the accounting firms were still under a heat from Washington.
+12:15
+They were going to get what they wanted to regulate.
+12:19
+So one of the things that that, um, I don't know, the SEC or somebody did, they set up a thing called the Independent Standards Board,
+12:22
+and the former head of the Delaware Chancery, William Bell, um, I can't remember his last day was in charge of it.
+12:30
+And the first thing they wanted to do was they had a bunch of hearings about the public accounting firms,
+12:40
+what their practices were, independence, blah, blah, blah, blah, blah, blah.
+12:46
+So the public accounting firms hired and the AICPA hired me to analyze the data for,
+12:50
+um, compile the data because they couldn't they couldn't see each other's data.
+12:56
+Right, because that'd be that it would be an antitrust problem. Right.
+13:00
+So they hired me to process the data, and I got all this data coming in, and I put it all in Excel files.
+13:04
+And I know, you know what I did. I embedded some things and then I, I, um, I hit them.
+13:11
+Then I got a call from a partner who KPMG said, this is one of the greatest public of it.
+13:19
+And Bob Elliott, he said, Rick.
+13:25
+You've embedded all the data of all the firms in this spreadsheet and you get, you know, so I could see all my competitors spreadsheet.
+13:29
+Uh, all I see and you could, you know, I could tell at the time because the file size was too big.
+13:38
+And this was a really smart guy. Right. And he didn't he didn't rat me out.
+13:43
+Okay. Which thank God.
+13:47
+But, um, that really got me sensitive to when you send around electronic documents, you know, how much security is there, really?
+13:50
+And, um. Uh, so this doesn't surprise me.
+14:01
+It doesn't surprise you. Um, you know, until you are empowered with a I, I don't know how good at Excel you are, but you might not.
+14:07
+You probably would have never found that. Now, if you go YouTubing around now, there are people that will show you how to strip out their projects.
+14:17
+But anyway, let's just leave it here. There. So this is, uh.
+14:27
+Um, yeah, sort of a good lesson, but this is what we're dealing with now.
+14:31
+Uh, the, uh. Ford actually taught me an interesting thing.
+14:37
+You know, I've been trying to get you to think this way.
+14:44
+Right? Where there's a beginning balance sheet in any balance sheet.
+14:48
+And if you pick up a paper statement, I think I said this last time, maybe, but it's not the way to present it.
+14:52
+You have a balance sheet beginning in it,
+14:58
+and then you have income statements for different years and a statement of changes in equity for different years.
+15:00
+And it takes you out of this thinking, you know, it gets you to compare the balance sheet year to year, the income statement year to year.
+15:06
+You're thinking one statement at a time, basically, without you're getting lulled into that without even really realizing it.
+15:13
+But this is the way you want to think when you really start analyzing. They started somewhere.
+15:19
+They ended somewhere. And this is a lot of information about how they got from A to B.
+15:23
+Yeah. When I say they started, what do I need? I need the records.
+15:29
+The records started here, the records ended there.
+15:33
+This is these are explanations about how the records got from A to B.
+15:37
+So that's why you're studying how accountants keep records. Because that's really all you know will tell.
+15:41
+Yeah. Sometimes they tell you they tell you things that are just by themselves.
+15:48
+Interesting. Like sales was reported to sales for 246,697,000.
+15:52
+Okay, that tells us something about the volume of activity they did, uh, the tells us things and so on.
+15:58
+So some of it is directly relevant. But to really get information, the most information out of the statements,
+16:05
+you need to understand that it's the it's a it's a system of interlocking things.
+16:11
+So I'll show you another picture that in a minute. Is this kind of what we've been working up to? Okay.
+16:16
+Anybody else? Uh, yeah. Sorry. I'm confused about the logging the spreadsheet thing.
+16:23
+I saw that we were supposed to have access to this spreadsheet to do the. Oh, you are.
+16:27
+But what do you say?
+16:31
+What you're saying is that you could actually unlock the answer, or ChatGPT can read if you if you load the spreadsheet in the chat,
+16:31
+GPT, it'll read the answer which is contained in the spreadsheet.
+16:40
+It'll it'll read the answer to the journal section. The all the answers, everything are in this okay file.
+16:43
+But we're supposed to have filled out the journal section. Yes. Okay.
+16:51
+Without seeing the answer. Without seeing the answer, we were supposed to be able to see the actual financial statements.
+16:54
+Yes, because I use those a lot. Oh, no, no, no, that's what the deal is.
+17:00
+So this is different right. So this is a complete change now it's like okay now let's talk about how we really do things.
+17:04
+Here's the financial statements. What the heck happened. All right.
+17:11
+We're ready to do that now okay. Um.
+17:14
+Okay. So, uh, yeah, just quickly logistical thing, is there a way that I know this is like a picture?
+17:22
+Is there a way to convert it into such a like, are we going to be doing this in the future?
+17:29
+I do know if there's a way like you kind of just copy paste this into like the numbers on the actual.
+17:34
+Okay. All right. All that by now completely automated.
+17:39
+Right. So you can download financial statements from all kinds of different places in Excel format.
+17:43
+All right. Now, sometimes it's kind of clunky or whatever, but there are there are also a lot of the what's the big word,
+17:52
+coffee stad or places like that or, um, their data providers who give it all to you in electric electronic form.
+18:01
+Not such a big deal anymore because these AI things can read a PDF.
+18:09
+So that you can take a picture of it.
+18:17
+You should try to take a picture of the financial statement, paste the picture in and tell Claude to make an Excel file with this financial statement.
+18:19
+And then, um, do it now. We don't know, but it does.
+18:31
+Okay. But yeah, back in the when I first started doing this, I had to take the paper things, convert them in and so forth.
+18:37
+Right. Um.
+18:45
+Okay. So let's start going through things a little bit here and see what we can for anybody else before we get going.
+18:51
+Have the special problem with any particular thing you want to give me a problem is number one, which is why, uh.
+19:00
+Liabilities for, for the acquisition of catalog costs.
+19:11
+Yeah. Okay. Okay. So when you're looking at a set of statements like this.
+19:14
+Oh, not that I jumped out of the wrong things.
+19:22
+Okay, look at this one thing.
+19:27
+We I'm going to show you some PowerPoints about this too.
+19:30
+But one thing we kind of want to know is such things are connected to a lot of other things.
+19:33
+So for example, cash I mean cash has got to be connected to like almost everything in the whole set of statements.
+19:41
+Right. Because of receivables. Yeah. Because you collect them payables.
+19:49
+Yeah. Because you pay. How about property, plant and equipment. That's a bad word because you can buy some, but you can also sell stuff.
+19:53
+So that's that little case that cash is connected with an in arrow and an out arrow if you will,
+20:02
+that has the potential to cause a lot of trouble because that'll make a cycle.
+20:10
+I'll show you a cycle in the graph. And, you know, if they had a big flow in that was canceled by a big flow out,
+20:13
+the only thing we can see here without information about the flow, the cash flow itself is just the net.
+20:21
+Just one reason we're going to have a cash flow statement. But if it wasn't, cash it everything, you know, it was connected in a loop.
+20:27
+You couldn't really. You could never count in very much on what happened,
+20:36
+because they could they could have made a lot of entries that just traveler counted themselves out.
+20:41
+The king of making is that we know of so far of making impenetrable financial statements.
+20:46
+So impenetrable means what? The only thing you could tell was what was on the surface.
+20:53
+You couldn't tell anything below the surface. You're pretty young for this.
+20:59
+How? You're too young. You're too young to remember Enron or know about Enron.
+21:04
+Enron was this wacky company that blew up in the U.S. around 2003, and what they were really good at was accounting shell games.
+21:10
+They play games with the entities and so forth. You know, they made they supposedly they made entities that were actually part of them,
+21:21
+but they pretended they were not part of them, which meant they could sell things to these entities.
+21:28
+And, you know, right. But they also had a set of statements that you couldn't drill into anywhere, you know,
+21:32
+and this is like the most, the, the most nontransparent, you know, things we've ever, we've ever found.
+21:41
+Okay. So. So so I want to just sort of start walking through this a little bit.
+21:49
+You know, what we're doing obviously is working backwards.
+22:01
+And you know, it's kind of why we have financial statements, right, is to find out what we know what happened.
+22:03
+And, um. You know, again, what we're looking for is what kind of transactions were done and what were and what recorded events occurred.
+22:12
+Um, you know, what what what what drove the the accounts to go from one state into into another?
+22:22
+You know, I should say I try to be careful here.
+22:29
+You could almost never nail it down to to.
+22:33
+There's almost never just one set of transactions that would work, you know,
+22:37
+because again, things can cancel themselves out in weird ways, but that's okay.
+22:43
+You know, you can narrow it down. And a lot of times they don't. But you do have to you do have to be aware that you can't find okay.
+22:49
+Now this is the balance sheets that you see right again. So it's like side by side column or this is what you see the balance sheet.
+22:57
+Oh there's the income statement. There's. All right.
+23:03
+And in that given the constraints of presentation and that's what you would do.
+23:07
+But it's not good for really thinking about that okay.
+23:14
+So as I said you know what we got is financial statements.
+23:19
+We got a balance sheet a balance sheet an income statement. And let's see okay.
+23:23
+So we have a beginning balance sheet. And this is it summarized.
+23:26
+And we have an ending balance sheet. Right.
+23:30
+And then we've got we want to know how do we got from A to B here.
+23:34
+Right. So some things you know you like right away.
+23:38
+Oh thank God. Common stock and additional paid in capital didn't change.
+23:43
+Of course they could have in the middle of the year issued a bunch of stuff bought it back.
+23:50
+Everything just so happened to cancel. Okay fine.
+23:54
+But again we're going to actually if they did that, some of the other statements we have that will tell will tell us they did that.
+23:58
+Okay. So one of the problems we had early on was that with revenues and expenses, right.
+24:07
+And everybody you sort of want to record the game right off the bat.
+24:12
+So one of the first things we encountered was they sold something for eight because six or something.
+24:17
+And you said they're going, what the heck,
+24:22
+go I want to say that got in a they put out six or two's the gain and you want to you know people want to do that.
+24:24
+And we had a discussion actually don't don't that's not how we do that.
+24:31
+Right. You bring the inflows and outflows separately. This is why okay.
+24:34
+This is why. So if you go back to uncle Penny backs you'll see a story for that.
+24:40
+Because there are, uh, companies three and four had the same net income, but they had vastly different sales and cost of goods sold.
+24:44
+Okay. So the flow is important.
+24:53
+Now, I think when we talk about this, this probably means something different to you than it did the first time you see it.
+24:56
+This is just this is just the way it is. Okay?
+25:01
+So that's something we know we're not going to have to mess with. Uh oh.
+25:05
+Here's an interesting one. Revolving line of credit.
+25:09
+Does anybody know what that is? A revolving line of credit.
+25:13
+Notes and said something about like think on three different loan offers and they
+25:26
+have like different terms and you can choose to use them at different times.
+25:30
+You can get all confused about this, but this is a revolving line of credit, right?
+25:33
+It has a maximum I can this is Yale's.
+25:39
+So I probably over my back is probably going to get rejected in here.
+25:43
+But you know I have a spending cap and I can spend up to that.
+25:47
+I can get that balance on it, but I can't use it. After that.
+25:52
+I have to pay down the balance and then get back. That's what a revolving loan. You know.
+25:55
+Okay. What else?
+26:08
+Oh, so it started at zero, right?
+26:19
+It started the revolving line of credit started at zero.
+26:22
+So it looks like they instituted such a thing.
+26:26
+Or if they could have had it before, and maybe they just had a zero balance.
+26:30
+But when you read the notes to say no, we we instituted a revolving line of credit this year.
+26:34
+Oh, there's another one. This one should catch your eye. Is this catch anybody's eye?
+26:44
+Now, these are executive loans. Is this loans from the executive or to the executive?
+26:48
+2 to 2. How do you know? From the notes to financial.
+26:54
+Well, yeah, I don't have to look at them. Yeah. Your assets were not. It's an asset, right.
+26:59
+So this is how the context we've been trying to develop.
+27:05
+You know, you're saying, oh, this is listed as an asset. This must be something that represents resources that are going to be paid back to them.
+27:08
+So they must have loaned something to the executive. You have to do this all the time.
+27:16
+Now, you asked me about, um, Excel.
+27:20
+Well, I'm going to work this up because my, my friend at Carnegie Mellon, uh, because they teach a lot of engineers and stuff.
+27:25
+Right. And so one of the things that accountants will do is use negative numbers and parentheses and statements in weird ways.
+27:32
+Okay. So, um, for example, there are a lot of people that say, well, why do you have these debits and credits?
+27:44
+You know, why don't you use negative numbers? Well, think about this, right.
+27:53
+What that means that a that equities and um, and liabilities would be negative.
+27:56
+And in fact if you go look into the look into the.
+28:03
+Bowels of the computer system that operate that implements a double entry system.
+28:07
+That's what you find. It doesn't mean they're negative. It means they have a credit balance.
+28:11
+Right? It means that they're on the other side of the entry.
+28:16
+Why is that? It's because the accounting identity gives rise to this issue.
+28:19
+Right. Good things on either side of the the equal sign.
+28:24
+Okay. So you often have to look and see if you see a set of parentheses somewhere.
+28:28
+Uh oh. Be careful. You know, what exactly are they subtracting something really.
+28:34
+Or and there's all sorts of in the electronic data. There's all sorts of abuse of that, that they'll just pull out something.
+28:40
+And, you know, I just saw one the other day that if you literally just added the column,
+28:47
+it didn't add up because they because of the, you know, the words and the sign would go together.
+28:52
+And that's one reason we do debits and credits is to strip that out and then come back and ask Krusty's what's going on.
+28:58
+Because that's it's just useful okay. It's just handy.
+29:06
+Penny net. All right. You can see right away. They must have bought some.
+29:12
+I mean, we you know, we know that that balance can't go up unless they bought some.
+29:17
+Right. We're not going to let them just willy nilly increase the value of penny receivables.
+29:24
+Mhm. Well receivables went up. Now what does it mean that receivables increased over the years.
+29:32
+What does it mean about the sales and collections for this period.
+29:40
+You know on account it. Well it must be that whatever they sold they, they added roughly a couple thousand to their receivables.
+29:49
+So their customers at the end of the year owed them like a couple thousand more than they did at the beginning,
+30:04
+which meant all of their sales must not have been for cash, anything that's in fact, in.
+30:10
+And we're going to see the difference between the cash sales and so forth is the change in the receivable.
+30:20
+So this is what we're really getting up to an end. And I'm going to yeah.
+30:29
+So so there's many different ways you can when you start unwinding financial statements that you can think about it.
+30:33
+I'm going to I'm a very straightforward guy.
+30:38
+I like to think they sold this. They did it. Okay.
+30:41
+So let's let's back up a minute. Um. Oh I'm going to I'm going backwards.
+30:45
+I don't know, I want to go back because I'm going forward. Okay. So where do these things come from?
+30:50
+Where do we see. Let's cover. Well, they sell stuff. Okay. Well we have information about that.
+30:55
+We have the income statement. So this is what I mean when I say the stuff in the middle.
+31:00
+The other statements are explanatory. How you got from point A to point B.
+31:05
+Okay. So the, the, uh, increase in receivables is, is got to be explained by sales.
+31:09
+Okay. Now here's some t account pictures of the same thing.
+31:20
+Um, these three accounts are related sales accounts receivable and cash okay.
+31:24
+And I want to use the arrow, the head of the arrows, the debit and the know the what's ahead and what's the tail of where the arrow starts is.
+31:32
+And where the arrow goes is a credit. Okay.
+31:42
+So this is actually what we've been doing is playing with vectors.
+31:47
+You know who else plays vectors like mathematicians.
+31:54
+Mathematicians. So did ChatGPT when it was answer your question.
+32:00
+This is except I won't go into it. Okay.
+32:05
+But that's where every time we've had a debit and a credit, you know, that's like it's two numbers.
+32:08
+It's not one number, it's two numbers. We always had to deal with at least two, sometimes three.
+32:17
+But it had the balance right. And so when we started processing information in our accounting system we're processing it in vectors, not in scalars.
+32:22
+Um, there are three other people in the world that would tell you that.
+32:33
+But anyway, it's beside the story because we're we're trying to work at the same graph.
+32:37
+I'm going to show you that we we put up we're trying to sort of push that view further to help,
+32:44
+uh, to, to try to extract even more information out of financial statements.
+32:52
+We'll see if it works. Okay. All right.
+32:56
+So let's look at this. So we go up and what what's what am I going to do.
+33:00
+I'm going to think I could say to myself, I'm going to assume for this right now that all sales are on account and then a cash sale.
+33:07
+I'm going to think of it as on account collected immediately.
+33:24
+There's no problem with that, right at this level.
+33:28
+If we were running Coldwater Creek and they had to grant credit to people, we would want to know.
+33:32
+You know, maybe everybody they grant credit to is the people we have trouble with, right?
+33:39
+But that's not what we're doing. The only thing we can tell is where they start, where they kind of generally what happens.
+33:43
+Okay. So let's talk about that.
+33:49
+So I'm saying can I go the right way.
+33:53
+Okay I get the up arrow and the down arrow. All right.
+33:59
+So this is reflecting the first entry that you know, that we might have made, which, uh, this is what I did.
+34:03
+I debited accounts receivable in credit and sales for the amount of the sales.
+34:15
+Two 4672 4670.
+34:20
+Right. So now I've explained sales on the, you know, the sales number on the income statement.
+34:28
+I've used that, but I've changed what's in accounts receivable.
+34:32
+So look at look at this account. Now at this stage it had been started at 2.3.
+34:37
+I just added 240 6.7. It ends at four.
+34:44
+What is that. What is that?
+34:47
+Oh, wait, I did it again. This is a big fat to learn how to work.
+34:52
+Look at that. That is an amazing case.
+34:56
+It's an opportunity to get information. So if you know how the system works, you can say, hey.
+35:01
+I know you can really get excited about it.
+35:12
+Okay. You could. You could say that.
+35:16
+What number has to go in there? Oh, I can do this.
+35:22
+Okay. You can calculate the 245 actually, if you've run the whole thing.
+35:26
+245 oh, which one had to get into accounts receivable?
+35:30
+All right. Now, because, you know, the only way anything gets into accounts receivable is with the journal entry, right?
+35:36
+So, you know, accounts receivable had to be credited by 245.
+35:45
+What's that? Well, it's another opportunity to get information.
+35:50
+Right. So we got an amount in one place. But we know accounting doesn't work with this amounts in one place.
+35:59
+It's always two. So what we discovered here causes us to say when we know how the system works.
+36:04
+Hey. What's debited? Right.
+36:16
+Well, you know, without evidence to the contrary, I'm going to think it's cash, because why do you think it will go down?
+36:21
+Well, usually because people pay.
+36:30
+You know, I got I realized that other stuff could go on, you know, they could have bad debts and stuff like that, but let's just do that.
+36:32
+Okay. Uh, now I gotta.
+36:42
+I gotta go here somewhere else. I'm going to go into the journal for a second.
+36:48
+Then if you're sure. And then. The Journal tab.
+36:57
+Let's see. So what do I want to do here? Uh, I want to go over here.
+37:03
+Now I'm going to go into the financial statement. Okay.
+37:10
+So what I'm what I, we just decided was I was going to debit.
+37:16
+Accounts receivable. It's the first thing I did.
+37:26
+And that. What was that number 240 672 46 seven.
+37:34
+And I credited sales.
+37:42
+246 seven. Cool.
+37:52
+Why don't you change your color? Oh, I don't know why you're not changing.
+38:02
+Hang on. Sir. Okay, don't do that.
+38:08
+Right. 240 67I think so. Actual financial statements again.
+38:13
+Oh, maybe you know what? I did it in thousands.
+38:22
+That's not what I need to be doing. Okay. It was 246, to be precise.
+38:25
+246, 697. That's what, that's what.
+38:38
+246. 697. 246.
+38:44
+697. Oh, there we go.
+38:49
+I turned green right now, so I feel good about myself, right, I explained something.
+38:53
+Now what do we do? We just keep going, okay?
+39:00
+We just keep going. So what's the next thing we might want to look at?
+39:06
+Well, if we're going down the income statement, you see cost of goods sold.
+39:13
+I did that right. Let's do let's let's do cost of goods sold.
+39:20
+That's related to inventories, right? Because when you sell something that's in your inventory, you debit cost of goods, sold credit inventory,
+39:24
+you take it out of the inventory and you write down the reason you took it out was because, hey, we sold it as the cost of what we sold, right?
+39:35
+But now that we've got inventory in the picture, we got a little more complicated.
+39:45
+Thing going on because if we bought anything on credit.
+39:49
+If we bought inventory on credit, which was, surely they did. This is also then tied into accounts payable.
+39:52
+Okay. So. The change in inventories and accounts payable is what we're going to want to be investigating here.
+40:01
+Now let's let's be let's think a little bit about this though. If they buy something on account that goes up and that goes up right.
+40:15
+I didn't highlight cash okay. But I but I should have.
+40:25
+Right. Because if they pay their if they pay their suppliers, that's going to take cash.
+40:29
+Uh. All right.
+40:44
+So let's let's see a. A picture of this.
+40:48
+It's going on. Okay.
+40:53
+So now we have, we have more things going on. Right. And we said all right.
+41:02
+When they buy inventory the inventory goes up.
+41:07
+Payables go up. When that is what uh, when they recorded their cost of goods sold, that comes out of inventory.
+41:11
+And when they pay their accounts payable, that comes out of cash.
+41:20
+Okay, let me go to these. Okay.
+41:25
+All right, I go I go to the like I said to do.
+41:28
+It's like I said. Okay.
+41:31
+So now I'm in I'm in the journal and I'm going to record.
+41:35
+First thing I'm going to do is I'm going to record the cost of goods sold. Right.
+41:41
+And so that's an expense and then that's cost of goods sold.
+41:44
+Debit that. And I'm going to credit inventories.
+41:49
+Inventory. And what's the cost of goods sold I forgot the number.
+41:58
+Forgetting the numbers. Actual financial statements I know better than this.
+42:04
+I've done this problem so many times we.
+42:09
+Think. Lower cost of goods sold is one 2126.
+42:21
+All right. So I'm going to go to the journal and we say one 2126 okay.
+42:29
+Bingo. Cost of goods sold.
+42:39
+Now, where's the offset of that inventory? One 2126.
+42:43
+Okay. I recall that. And if I wanted to show you the same kind of picture, I would go over and show you the T account of inventory.
+42:51
+Oh, wait, I didn't I didn't do the collection. I'm sorry. Hang on.
+43:08
+I'm sorry, I didn't I didn't put the, um. I didn't put the collection.
+43:13
+No, of accounts receivable in which I should have done so I would say.
+43:19
+Okay, so. Uh, so what I had done before I figured out before was they, uh, collected cash and.
+43:41
+Used their inventories. And we figured out that was 245 oh 20.
+43:54
+Three. Okay.
+44:03
+Oh, look, uh, I had to back up, and I just.
+44:12
+I forgot to report the cash, and now my accounts receivable is is explained.
+44:16
+All right, so before we did this, right, so when I, when I worked on sales and, uh,
+44:23
+um, sales, receivables and cash, I ended up explaining what I really explained.
+44:32
+I explained the change in accounts receivable. So I notice you did it a different way.
+44:39
+Right? You probably thought, well, what if all the sales were in cash?
+44:44
+And then you look down, you see receivables grow? Well, they must have had some sales.
+44:48
+Yeah. So, so, so in a sense, the, uh, the increase in the value says that's the lowest amount of credit sales they could have made.
+44:51
+Right. They could have made. They could I mean cash, yeah.
+45:01
+Credit sales, they could have made or they could have made them all on credit and only collected them all but dead right.
+45:04
+So nothing wrong with thinking of that either way. As long as you're consistent.
+45:11
+Right. This is this is why you need the system. Because you can think of these little pieces.
+45:20
+But is the whole puzzle going to fit? That's the scary part.
+45:25
+Okay, so then I also just recorded cost the cost of goods.
+45:32
+So now, you know, look at what's happening to the um, the amounts on the, on the balance sheet.
+45:36
+You know, they're definitely screwed up like right. I mean we that's now that's we expect that we're going to be spending a lot of cash.
+45:44
+Well, here's the thing. I'm not expecting the cash number to be right until I get way almost at the end.
+45:53
+Maybe the end. Why? Because it's tied into everything else here.
+45:59
+What I've done is I messed up the inventory number. Now I can correct that inventory number right by going over to the.
+46:04
+Um, sorry. The what I'm going to look at image one.
+46:19
+Just shortcuts are they look good. Thank you very much.
+46:25
+Um, to you.
+46:30
+Okay. Uh, well, I had what's the desired I fix this thing where you could put in the desired balance here, and it'll calculate it for you.
+46:40
+Right. So let's go look and see what the ending balance is of the inventory account.
+46:52
+It's, uh, 5053 oh 51.
+46:58
+351 so if I want, I want it to be a debit balance, actually.
+47:06
+Right. 53 oh 51 and so what do you do?
+47:12
+53 000 sorry. Oh 153 oh 51.
+47:19
+Okay. So now I just calculated that I need a debit of 147 898.
+47:30
+That must be what they purchased. Right.
+47:37
+Because I'm going to now I'm going to I'm going to go back to the Journal one 147 898 especially the Journal, whatever you want to see me do this.
+47:40
+Okay. So I. So in order to make the inventory account work, I have to do the asset inventory.
+48:03
+What was that number? My mind's is John 147.
+48:16
+Anything? Okay.
+48:22
+Well, uh, I'm not in balance, right.
+48:31
+So I have to have a credit. 147 898.
+48:35
+Well, let's just assume, just like this is the reverse of the receivables.
+48:44
+Let's just assume that they bought everything on account, which they almost surely did.
+48:49
+I mean, you know, they don't have a guy with a suitcase full of cash going over to my closet.
+48:54
+So. Okay, so that's a liability. That's accounts payable.
+49:01
+Move that. Let's go see where they've put the financial statements.
+49:12
+Builder looks like now. Oh, hey, look, I've explained two balance sheet accounts.
+49:16
+I'm on a roll. I'm on a roll. Once you get the hang, you know, once you get the hang of it.
+49:22
+Because implicitly, you might be knowing that we've been dealing with a lot of structure.
+49:29
+Right. And we've been hammering away at it and we've been going away and you know, and it's, it's.
+49:36
+But when you start doing this, you realize, oh, that means I can take it apart.
+49:42
+That's why it's that way. Okay. So now what do you know?
+49:49
+What is. Um. I just did what?
+49:56
+I just I just hit accounts payable. I mean, that's messed up now.
+50:01
+Accounts payable. So let's look at that. Accounts payable.
+50:05
+And now you can also see why.
+50:10
+Um. Uh, yeah. Always get the right computer, which is very transitory.
+50:13
+Okay. So but now you can see why we've had both the journal entry and the t account tool's going to kind of go back.
+50:20
+And they're very powerful when you're just like. I didn't really take biology where that I had to dissect the frog or something.
+50:30
+But my brother was a veterinarian, so he could have told me all about that.
+50:39
+But this is these are like your instruments to, uh, to start dissect, you can say, okay, so let's see where we have to end up with accounts payable.
+50:42
+Uh, go to the actual financial statements. One of the accounts payable in up at can't see 27 to 75, 27 to 75, 177.
+50:52
+And that's a credit balance. We want 27 to 75.
+51:11
+Um, okay. So I need a debit of 138 684.
+51:16
+Right. I need to bring the balance down. Well, that's what our handy dandy thing.
+51:25
+Uh. Looks, uh.
+51:35
+So I said I got a debit accounts payable.
+51:40
+138 684. One, three and 64.
+51:57
+Which means I need a credit of 1386 84.
+52:07
+Mhm. What could that credit be? Well, they paid their bills.
+52:11
+Right.
+52:16
+I'm. Just a builder.
+52:26
+Now we have accounts payable, explained cash. We're not expecting to be able to.
+52:31
+So, you know.
+52:36
+So we're attacking such a complicated thing here that the way you go about doing it, some of the strategies that's like learn by experience, right?
+52:38
+And if you think reflect on it a little bit, what did we do?
+52:48
+We started with things that most likely had the fewest connections to other things.
+52:52
+And we stripped those out. And then we just keep going.
+52:58
+That's like the thread that you just keep pulling, pulling, pulling, pulling.
+53:01
+You know, in most cases in practice, you're not going to be having to deconstruct a whole set of financial statements.
+53:05
+You probably be interested in one particular area.
+53:11
+You know, like maybe something happened with this executive loan and there's a lawsuit involved in that.
+53:14
+Well, let's just analyze all this, the ins and outs there and see what happened and see what else has been recorded where and so forth.
+53:18
+Um. Right.
+53:26
+So, so, you know, you wouldn't have to do everything, but you would want to bring some things, um, kind of in balance.
+53:31
+Alrighty then. So now I've handled, you know, and my trick was that the particular that the income statement some very direct things about flows.
+53:39
+Right. So what else is it telling me about?
+53:52
+Oh, selling general and administrative expense. I think I'm scared of that one.
+53:56
+I'm scared of that one because it's too aggregated, right?
+54:02
+I mean, cost of goods sold is just connected to inventories and that's accounts payable.
+54:09
+But man, that's salaries.
+54:14
+And, you know, all kinds of stuff is piled in there.
+54:17
+So once you've got some experience with this, you would probably just look at this right off the bat and say.
+54:22
+I'm not going to try to work out cash or SGD till the very end.
+54:29
+I'm going to pick off everything else that I can pick off. So here's another one.
+54:33
+Tax expense. Let's pick off tax expense.
+54:38
+All right. We got a so.
+54:42
+So tax expense is probably related to what.
+54:45
+To taxes payable. Tax expense was 7857.
+54:49
+Okay. Now since that's what was closed out onto the income statements, that must be what was in the account.
+54:55
+So there's an expense. Tax expense? Seven.
+55:01
+Eight. Five seven. 67817.
+55:08
+And for every debit, there is a credit. Seven.
+55:20
+857. The only thing we don't know is where to go.
+55:26
+How about taxes payable? So this is why we had so many discussions about having a liability account.
+55:31
+How about how there's more than one way to work the liability you get cash and liability account.
+55:37
+We've done that several times. We've done that.
+55:41
+So it de-escalated when you were in this position, now we kind of become more comfortable with the fact that,
+55:44
+you know what, there's more than one way I could probably do this. I just have to make sure that how I do it matches up with the statements.
+55:50
+All right. So what I'm going to do is use the liability account to receive all the expenses.
+55:59
+And I'm that. So my, my my, um, explanation is going to is going to be why did we, you know, uh, how did, how how did we handle this tax expense?
+56:06
+Well, our taxes payable went up okay.
+56:22
+But then what I do that that leads me over to.
+56:27
+So your taxes paid. Okay.
+56:31
+Uh, I got to look at the actual desired ending balance in taxes payable, which is taxes payable in the third 1 to 9 four.
+56:38
+Looks like. It's two.
+56:51
+I want the ending balance to be one, 294.
+56:57
+Okay. So 7320 their taxes.
+57:05
+So based on the information that I have from this view, we would say they must have paid 7320 in tax.
+57:10
+Okay. Good. So the tax liability went down.
+57:18
+Now you'll see there's there's a title there payable and deferred.
+57:26
+Don't worry about that yet. We'll talk about deferred taxes uh for the end of the course.
+57:30
+What I just figured out. So I'm have time for this old geezer, 73, 20.
+57:41
+It's one thing. And I need a credit. 73.
+57:52
+What do. You go.
+57:55
+That's an acid. Rash.
+58:01
+It's a sickness builder. I'm making all kinds of progress here.
+58:10
+But now. But what else? On the income statement.
+58:16
+Interest. Net and other. Let's just handle that.
+58:22
+That looks. That looks like that might be, uh, an easy thing to do.
+58:26
+So let's look at that. Now since it's net and other let's not get too worried about exactly where where we can track things.
+58:30
+You're going to be able to nail this down better when we do the next part of the course on cash flow statements that you can right now,
+58:37
+but I'm not going to get too bad in shape about it. It's it's look, it's 57 and it's listed as a revenue.
+58:42
+So I'm going to think that's interest I received.
+58:49
+All right. So maybe the executive pay paid off paid him some interest on the loan okay.
+58:53
+So 57. So what I'm going to do here. Now see what I had done up to this point was kind of fairly logical and orderly.
+58:57
+Now I'm starting to scramble. Okay. Now I'm just starting to grab what else can I find.
+59:05
+And um, okay.
+59:12
+So. I'm going to say that they they got cash.
+59:16
+What was it, $57.57. And that was revenue.
+59:29
+Interest. Revenue. Um.
+59:39
+So you do that, right? Could this happen?
+59:46
+Right. Um. 57.
+59:49
+Okay. Right. Here. Look and see what we got.
+59:57
+Financial statements. No. Oh, I'm making such great progress.
+1:00:00
+I'm so happy. I'm so proud of myself. But, uh.
+1:00:07
+But now I got to, uh, start, like I said, scrambling.
+1:00:13
+Okay, so here's one. So there are a couple of things we saw right off the bat that seemed like they would be pretty like.
+1:00:20
+Easy to deal with. Um, the line of the line of credit, right.
+1:00:29
+It went from 0 to 12 something or ten something.
+1:00:35
+Right? So, so whatever they whatever they bought, like with the credit card, they didn't actually pay cash and wasn't through payables.
+1:00:38
+They had a credit card. They might have bought stuff and paid for it.
+1:00:49
+I don't know, but I do know that the, um, the line of credit net went up by.
+1:00:52
+I think it's ten 126, I think. So this year the line of credit went up.
+1:01:00
+Oh 10 to 60. 10 to 64.
+1:01:11
+Okay. So from the information that I have the line of credit.
+1:01:18
+Involving lending carried out by. 10 to 64.
+1:01:33
+All right. And so for every debit creditors a debit 10 to 64.
+1:01:39
+And what I want to say to that. Well. I mean I'm just going to say they got cash for it.
+1:01:47
+And exactly where it went or whatever.
+1:01:56
+Hopefully that will be settled when I tidy up all the rest of the accounts.
+1:02:01
+Because here's the thing. We know that the double entry system makes sure that our story is consistent.
+1:02:06
+It's a consistent whole. Right.
+1:02:11
+And so if I'm out of whack in one place for a while, then something else that I'm going to adjust later will have to make up for it.
+1:02:13
+Plus, I've done some really wacky thing. It has to. Why? Because we know the system off balanced.
+1:02:23
+So what I'm going to just think of is that that when they use their credit card that they get cash and then they pay their bills,
+1:02:30
+then they use the cash to pay their bill. Okay.
+1:02:39
+So statements, uh, got that. Okay.
+1:02:47
+Uh. Executive loans.
+1:02:53
+Those executive loans. Oh, I have them new.
+1:03:01
+Nothing. But we know from the real financial statements that they ended up at 1620.
+1:03:07
+Okay, so we decided that the executive loans was an asset, right?
+1:03:17
+So that's where it's listed. So it was a loan to an executive.
+1:03:29
+How much was that again? 10 to 64. Um, yeah.
+1:03:35
+And no. 16 2001.
+1:03:41
+Yeah, right. Yeah. That was. I just that's what the numbers are starting to roll around in my head.
+1:03:44
+1623. So this is also the problem where you really start getting the sense of how this organized system really helps us keep a lot of things straight,
+1:03:50
+right? Because it just indexes it. The numbers are swirling around the plan.
+1:04:07
+So if they made a loan to an executive, I'm guessing that they had to give that person some cash.
+1:04:11
+1620. Okay.
+1:04:20
+Um, um, track and stuff down. So now I've got.
+1:04:29
+One of what's missing. Well, cash and doing a prepaid expenses.
+1:04:36
+Um, okay. Well, I'm guessing that, you know, those are probably related to SGA, right?
+1:04:40
+Because, you know, look, there's there's nothing else on the income statement that could that could be related to.
+1:04:50
+All right. So think about what?
+1:04:57
+What prepaid expenses like rent we've had. You pay cash for it, and that's good.
+1:05:01
+But then. And then as you use it up, it's expensed into something else.
+1:05:06
+Here. It's got to be G&A. Okay.
+1:05:11
+But let's try to handle something else first like.
+1:05:16
+Depreciation. How did I forget. How did we handle accumulated depreciation.
+1:05:23
+Was there a footnote about depreciation. Because because we know that it's in SGA somewhere.
+1:05:28
+Actual financial statements. Oh it's here.
+1:05:38
+Accumulated depreciation went from 435 to 8 sometimes up okay.
+1:05:44
+So let's go. Let's go look at the T account. And let's let's put it on our balance calculator.
+1:05:55
+And let's see what we got going on here. Uh, it ended up, uh.
+1:06:14
+Eight oh 73. 80.
+1:06:31
+Seven. It's a credit now. 8073.
+1:06:43
+No, let me do that. Oh, okay.
+1:06:47
+So. This one could be tricky, right?
+1:06:53
+If they sold some property and bought some more, we can have stuff going on here.
+1:07:00
+I don't have any way into that. Now you're going to see that there are other places we could look in the disclosures and,
+1:07:07
+and in the in particular, we're going to have a cash flow statement.
+1:07:13
+And if they sold some property, plant and equipment, then if they sold it for cash, that's going to appear on the cash flow statement.
+1:07:17
+Hey, you got some cash for selling equipment. There's no indication of anything like that here.
+1:07:25
+Furthermore, cold water is a young company.
+1:07:30
+I don't think maybe I don't think they're in the. I don't think they're going to be selling too many things.
+1:07:33
+Uh. But, you know, too many buildings and stuff like that.
+1:07:38
+Okay. So I'm going to try to just make it.
+1:07:45
+I'm going to make an assumption that the asset account accumulated depreciation.
+1:07:49
+Was credited by. 37.
+1:08:01
+38. Okay.
+1:08:07
+And, uh, where did it go? There's no, uh, there's no other expense account other than Cigna.
+1:08:18
+So I'm going to put it in to selling general and administrative expenses.
+1:08:25
+3738. All right.
+1:08:30
+Yeah. All right.
+1:08:37
+Uh, tax expense. I'm still off of Cigna, but I started.
+1:08:41
+Oh, well, now we we also, uh, property, plant and equipment is not, um, doesn't balance.
+1:08:47
+And if they didn't, if I'm saying that they didn't sell any equipment, then everything they must have had, it was bought.
+1:08:55
+All right. If my assumption about accumulated depreciation is right, they didn't get rid of or sell any property like equipment.
+1:09:03
+Okay. So let's go look at the PPD account. And I want to this is not the right balance for it.
+1:09:10
+That is balance I need to get to.
+1:09:27
+Balance I need to get to. 34 730.
+1:09:34
+Also 34 730.
+1:09:50
+Right. Uh, so they, by my calculations, must have bought $10,319,000 worth of property playing clip.
+1:09:56
+All righty then. So they got assets.
+1:10:05
+Property. Plant. Equipment. I came to you.
+1:10:18
+Okay. Now some has to be credited.
+1:10:34
+Ten three. 19. Mhm. It's in this balance sheet and see like what else could be credited over here.
+1:10:38
+Well they don't have any liabilities sitting down there in the balance sheet.
+1:10:48
+So if they would have taken out a mortgage or a long term loan or something like that, we would have seen it in the liabilities.
+1:10:51
+We don't see that. So I'm guessing what they did was pay cash.
+1:10:57
+Okay. Uh oh boy.
+1:11:16
+I bet I'm down to the nitty gritty. Can we find out anything about these catalog costs?
+1:11:21
+I mean, uh. Besides, whatever, to know what exactly was in the notes?
+1:11:29
+Yeah. Now, at this point, we're really starting to get desperate.
+1:11:38
+Okay. So actually, the depreciation might have been in the notes, too.
+1:11:42
+I'm not sure. But, um. Well, but there's another place I would tell you.
+1:11:46
+Right. Yeah. There's another place we could have. We're going to be able to find depreciation expense.
+1:11:52
+Uh, we're about to get into. The reconciliation of net income and cash flow from operations.
+1:11:57
+So anyway. Okay. So you dig around in the notes, and I think you find that.
+1:12:03
+They, uh. Amortized.
+1:12:15
+Catalog costs. I think the number was was 66.7 or 60 7 million or 66.6.
+1:12:27
+66.6 million. Now, here's a problem we have when we pick up something from a footnote like that.
+1:12:38
+That number is almost surely rounded to a different level than what we're dealing with here, right?
+1:12:50
+I mean, that almost surely wasn't just didn't happen to work out good if we don't know.
+1:12:55
+But whenever you're pulling something out of the footnotes, they might tell you that they're telling you the difference.
+1:13:00
+Just to be completely helpful, right? They tell you they might.
+1:13:05
+They might tell you the different, uh, dollar amounts.
+1:13:08
+Okay. This is kind of all weird. Now, where did it go?
+1:13:13
+Well, uh, and assets going down.
+1:13:18
+We have that picture over there, right? We've done this with depreciation.
+1:13:24
+We've done this with rent and prepaid and all kinds of stuff like that.
+1:13:28
+It's the same thing. It's just an asset with a name we've never heard of.
+1:13:31
+I don't care what the name. It's an asset. It's got to be expensed unless it has an infinite life.
+1:13:36
+There's only one of those that I know of. That's my rule. That's good.
+1:13:45
+Well, sorry. Okay. So that's get a.
+1:13:48
+66 points them. All right.
+1:13:55
+Oh. Out of balance. Out of balance. Out of balance. No.
+1:14:01
+Oh 666? No. Well, they are in Sandpoint, Idaho.
+1:14:15
+Sandpoint, Idaho. Yeah. This is way before your time.
+1:14:21
+So, the O.J. Simpson trial. Everybody watched that ever.
+1:14:26
+Right. Uh, Mark Fuhrman, the detective that did weird things.
+1:14:29
+He ended up moving to Sandpoint, Idaho. So it's in the top ten.
+1:14:35
+My sister lives in Moscow, Idaho, which is close. Right? So you got a bunch of those, um.
+1:14:40
+Libertarian guys, but doomsday preppers and stuff like that.
+1:14:47
+Anyway, former LA detectives, he's probably dead.
+1:14:51
+It's an interesting group. Oh.
+1:14:59
+Oh, but look, I've whacked out my catalog.
+1:15:03
+Cost this weird. Now that's an asset.
+1:15:07
+I've, uh. I got my. So I need to look at my asset account.
+1:15:11
+Prepaying deferred catalog costs. Okay, let's.
+1:15:18
+Check that out. And I that's.
+1:15:26
+I've got it in the balance. In the balance sheet that that has to hit.
+1:15:32
+No. It has to hit nine, eight, nine, eight, 14, 9,000,008 or 14,000.
+1:15:36
+It has to hit. 9 million.
+1:15:50
+814,000. Right. So to have that right, we need to err.
+1:15:57
+We need. They must have acquired 71, six, 92 of prepaid catalog costs to make this account balance.
+1:16:03
+Let's make sure this right 76. Oh wait.
+1:16:18
+No excuse 9814. Just to make sure 9014.
+1:16:22
+I don't like to get to the end and have it be wrong. So I get I get the increasingly.
+1:16:27
+98th for it to be good.
+1:16:34
+Okay. So I have to increase I deferred catalog cost 70 169 to.
+1:16:38
+71. All right.
+1:16:54
+So for every debit as a credit 71 692.
+1:17:04
+Yeah. Now look, let's go see.
+1:17:09
+Let's go see what's, uh. Not in balance yet.
+1:17:12
+Okay. So however we tell the story here, it doesn't, you know, we don't know exactly what happened,
+1:17:16
+but cash, prepaid expenses and accrued liabilities all work together to handle this issue, right?
+1:17:24
+We don't know whether they, you know, we could for the [INAUDIBLE] of it, throw it all into accrued liabilities.
+1:17:34
+But then when we when we screw that up, back to its balance, whatever it pays will come up here.
+1:17:40
+Okay. So, you know, there's no at this level we can't tell exactly what's going on here.
+1:17:45
+But what's happening is the asset account and the liability account are working together at the asset.
+1:17:51
+The liability and the cash are working together to to explain the rest of that expense.
+1:18:02
+That has to be the case because there's only four things left. Right.
+1:18:10
+Okay, so, um, let's see what we can do with that.
+1:18:17
+Where do you want to put it?
+1:18:26
+You want to say we paid cash for it or does it does it say maybe accrued liabilities or accrued expenses or something like that doesn't really matter.
+1:18:29
+Let's just suppose that we're thinking of them all as, um, what would these catalog costs be anyway?
+1:18:37
+I happen to know something about because my nephew from in Moscow, Idaho,
+1:18:45
+there's a place called northwest River supplies, and he worked there for a long time.
+1:18:50
+And one of the things he did was he took all the pictures for their catalog. Right.
+1:18:55
+So you have all these design costs and photography, photographic costs and all that stuff to make an actual paper catalog.
+1:18:59
+And, um, so, uh, put it in a crude library.
+1:19:07
+But now when we go look at the accrued liabilities account.
+1:19:12
+That thing's going to be out of whack. Globally by let's let's look and see where it has to end up.
+1:19:22
+Accrued liabilities. Career earnings. The statements the accrued liabilities have to end up at ten, five, 17.
+1:19:37
+Credit cards. Ten. Five. 17.
+1:19:48
+Right. So they must have paid 61,144.
+1:19:52
+And, you know, um, stuff related to that expense okay.
+1:19:57
+So accrued liabilities 61. 6167 144.
+1:20:03
+57 144. And. 67 140.
+1:20:16
+And we're saying that that's the liability went down that we know.
+1:20:26
+How is the liability goes down? I propose that we pay him.
+1:20:34
+There's almost no other assumptions left on the balance sheet because, again, we've explained so much stuff here that, yeah, there's the only way.
+1:20:38
+The only way it could really go down is operating cash.
+1:20:48
+Okay. Let's see.
+1:20:59
+Well, you know, I guess we're down to three things or something, right.
+1:21:04
+So prepaid expenses. Let's, um.
+1:21:13
+You know, we couldn't say how much is SGA altogether here?
+1:21:20
+Wow. 070 83 hmm.
+1:21:31
+Well. 107083.
+1:21:37
+Oh, well. And we know it's got a lot of seven.
+1:21:56
+Oh. Okay, so where did that come from?
+1:22:02
+My student account seems to be messed up. Okay.
+1:22:17
+All right. We're gonna have to do it this way. So we know that this thing got closed, right?
+1:22:28
+And we know that it started at zero. So we just have to track down what do we put in it?
+1:22:41
+We put in 66, 86 our designation.
+1:22:50
+And we put in. What else? What else in SGA.
+1:22:55
+Uh I'm looking I'm looking through the journal. Let's let's go over here in June 2011.
+1:23:01
+It's 1111. This one. Okay.
+1:23:11
+There's another that the depreciation. Right. We put that in 30.
+1:23:16
+738 and what else did we do.
+1:23:25
+Anything else we put in. Um. That's it right now, did we?
+1:23:31
+Do we handle the prepayments or not? I'm. Absolutely sure.
+1:23:49
+Okay, let's do with the prepaid expenses first before you do that.
+1:23:57
+So go over here to prepaid expenses.
+1:24:01
+What do prepaid expenses have to end up at? Prepaid have to end up with 27, 29, 27, 29.
+1:24:06
+That. They're looking up at.
+1:24:23
+2729. Okay.
+1:24:37
+So the amount needed to balance them is.
+1:24:41
+So so what I'm saying is that whatever we paid for prepaid expenses, we actually paid more than they use because the balance and prepaid split up.
+1:24:45
+So I'm going to go over here to the journal and I'm going.
