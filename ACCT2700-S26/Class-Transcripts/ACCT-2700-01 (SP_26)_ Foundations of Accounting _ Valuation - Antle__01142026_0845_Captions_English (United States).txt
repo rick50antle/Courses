@@ -1,0 +1,1361 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+The days of the stock market in 1929, in particular.
+
+And so the way everybody was getting information was that this ticker tape, if you ever see anything,
+
+you ever see a movie or anything with a ticker tape in it, it's a little machine that punches holes and it streams out a table.
+
+And when a when a trade would be made on the New York Stock Exchange, then somebody would enter something in this ticker tape.
+
+And everybody, no matter where you were, and rich people and people were trading so much in the market.
+
+They had brokerage offices on cruise liners in the day.
+
+You know, it be like the Titanic type of thing.
+
+And so, so that so that the people who are doing, uh, you know, have a week long trip from New York to London could see that information.
+
+Uh, so, um. So Standard and Poor's is one of the companies that sort of sprouted up early on to provide data on bonds.
+
+A lot of good. But what sort of corporate and government bonds and stuff like that.
+
+So they're what's called a rating agency, you know, um, and, and uh, they we talked a little bit about T-bills last time.
+
+So government bills, government securities would be rated like, you know, very highly or a company that um,
+
+probably right now if you if you look at the rating of something like Apple Computer,
+
+if you looked at if it issues bonds or issues debt to the public, it would be rated by Standard Poor's,
+
+probably very, very high, probably almost as much as it's safe as a government.
+
+Right. That's what they did. So what this is, is they, they they maintain this an ongoing basis.
+
+They pick 500 stocks on the US on the US stock market.
+
+That are they picked them to try to be representative of the economy.
+
+Right. So, you know, way back in the day when the US automakers and US steel was what was really driving value.
+
+Oh, there were no computer companies back in those days. The S&P 500 would consist of steel companies and auto moving and stuff like that.
+
+Now, if you look at it, there's a lot more tech stuff. And so they changed the composition.
+
+But the idea of it is it's representative of what's going on in the US economy.
+
+Okay. And actually my own personal investing. All right I have cash and I have S&P 500 index because I'm sort of invested in the country generally.
+
+But but without taking risks in any particular stock. We'll talk about later on in the class about why you do stuff like that.
+
+Okay. Okay. So so this is the performance from 19.
+
+What is it 2428.
+
+So that's actually before the crash. Uh, I don't think I can point to anything here because I couldn't.
+
+Look, I have to make a point of this getting no know book to this.
+
+Oh, look, I can. Okay. Look. So. So this is where I'm reading about right now.
+
+1929. Look at that. Jesus Christ, that's a terrible.
+
+If you if you blew that up, where, you know, this is all distorted by the fact that now we're in the S&P 500 index is more than 6000.
+
+Now it's like more than that. I think it's almost it's seven or almost eight or something crazy.
+
+But, um, if you think you know, this would be your year to year returns or the way your wealth would grow back.
+
+And just like that picture I showed you last night, right? This is not counting dividends.
+
+Now, here's my question for you. Uh, what kind of math do we need?
+
+For this kind of process.
+
+You might know. What's the first thing you notice about it?
+
+Just start noticing things. Yeah. The trend is generally positive.
+
+Okay. Trend is generally positive. That's one thing. And we could develop some intuition for that.
+
+Well let's see if people like well this is what happened in 1929.
+
+That what was crazy about that is how long it took that fall to occur.
+
+You just things just kept falling and follow and follow.
+
+It was like so crazy, you know, because when you buy a stock, you got to expect that you're going to get some positive return from doing it right.
+
+Otherwise you could just spend the money on something else. Right.
+
+So we can we can say why there's pressure, that why the markets would work in such a way that that this kind of an index would trend upward,
+
+would tend to go up because people will buy stocks if they don't expect to get a return, make sense?
+
+Or they will buy them at prices that they don't expect to get a return.
+
+All right. So so generally it trends upward. What else about it?
+
+Yeah, it's like almost exponential. Well, it kind of looks like it's.
+
+Well, you put it in. Put it in. Suppose you're explaining it to a ninth grader.
+
+I guess it's getting bigger and bigger in my kid.
+
+It's accelerating. Maybe growth. It's curved. Yeah.
+
+It's curved. Right. It's not a straight line.
+
+Does that. Okay. It doesn't just go straight up.
+
+So I think I have some slides for that. You're not going to get the sound effect.
+
+So that's you know the time period the value the index. So if you go through the slides on this or the PowerPoint slides I this.
+
+No, I'm really pointing out the steps that you should. Any time somebody puts a graph before you what is it.
+
+What's the x. What are the axes. Right. It's thing number one.
+
+Okay. So years. And then the value of this index.
+
+Okay. It's adjusted for inflation, blah blah blah. So over this period of time, it started off at 320 and it ended up at 58, 81.
+
+And I started to update it through December 25th. But I kind of gave up, like when I clicked on Macro Trends to try to do it.
+
+It put me someplace I didn't like to be with. Okay.
+
+So it's got that kind of shape right now.
+
+There's, uh, on the resources page. I haven't updated this thing for a long time, but there's a lot of kind of, um,
+
+a few books and stuff that I've read that I find very helpful in various things.
+
+There's a book called How Not to Be Wrong by s l l something or other, the references in the reference,
+
+because there's other resources page of it that you can get it by clicking on the home page of the course.
+
+And one of the ways not to be wrong is not to make the mistake that I'm about to make.
+
+Okay. That is, assume this is our first guess.
+
+It's like we just knew it trended upward. If that's all you knew, what would you what would you tend to do?
+
+You would tend to draw a line like that. If if all you knew was it goes up.
+
+Well, that's not a very good. Oh, you can hear that.
+
+Oh, I can hear you, Sam.
+
+Uh, source. Let's try that again.
+
+There we go. Okay. Not good. You need something that looks like that.
+
+Okay, now, uh, you guys probably went to really good schools.
+
+I went to a small country school. Oklahoma. You know, where the football coach was?
+
+My was my senior English teacher. And I remember one day this was he was explaining what types of words are.
+
+And so his example was a noun is a word like table or chair or a tree.
+
+I said, that's not a definition. This may be very popular in a small country school, Oklahoma, but I can't remember what.
+
+I got into this probably sometime around the eighth or ninth grade. You know, you might have done it seventh or something.
+
+You know, you start doing a little algebra, right?
+
+And, uh, and a lot of the things you start, start off at first is kind of straight lines.
+
+And most people you can you remember this. This makes any sense.
+
+And then the growth and you can do stuff and play with it you know.
+
+And then to knock you off the straight line thing.
+
+What kind of thing do they introduce? Remember way back in the day?
+
+Math people. A parabola. Excuse me.
+
+A parabola is right. They start doing things like. What's x squared?
+
+Stuff like that. Right. Instead of just being a straight line which goes as a x plus y equals x plus speed is oh what have y equals x squared.
+
+Right. And it produced a thing looking something like that.
+
+That's what you said exponential because you got the squared. It's got to multiply things right.
+
+And, uh. Do you remember? The first time you encountered it.
+
+How much trouble you had with the parabola as opposed to a straight line.
+
+You know, I don't know. I, uh. I, uh.
+
+If you want to brush up on your math skills, here's the thing I use all the time, and,
+
+uh, I use it to also to see, like, how are they teaching kids this kind of material?
+
+It's called brilliant. Dawg.
+
+And it's got some interactive. Math stuff.
+
+Math, actually. Computer science stuff. As well.
+
+And some physics stuff. And some whatever.
+
+Okay, so so so it's been interesting for me that I go back and I look at how do they take kids from, you know, separate stuff.
+
+And that's a that's a tough step. You're right.
+
+Why? Because the growth. It's hard to say.
+
+It's hard to describe the growth here. Right on to something that's linear.
+
+You just say it's growing at a flat rate per year, right?
+
+Or per period. And you don't have to know where you are.
+
+Right? Yes. No. Okay. That's it. The amount of growth is the same every every time.
+
+And here. That's this is not happening, right? That is growing faster as it goes through time.
+
+And so took a long time. People figured out how to model this kind of stuff.
+
+Probably. Well, I think I think the Mesopotamians sort of knew how to do it.
+
+Uh, even though I don't know that they knew about multiplication.
+
+Um, is to to think of this as the growth.
+
+Maybe it costs a percentage, but it's a percentage of where you start.
+
+So once you grow to a certain point, the growth is applied to not the original place you originally started,
+
+but the place that you started the period with. Okay.
+
+That's that's kind of a trick. All right.
+
+But I was trying to dredge up some of the.
+
+If you could find any of the emotions from your junior high or whatever you first encountered.
+
+Parabolas and all this square roots and zero.
+
+And we're not going to stop there. Did you go to Cubic Equations and you're going to.
+
+It just got a lot harder. I'm telling you all this to say.
+
+Don't. Underestimate.
+
+The weirdness of the math.
+
+That's good that we're going to do good with compounding, discounting. It's going to be something that you could do the calculation.
+
+So we're going to do a bunch of stuff in Excel so you can do it.
+
+But one of the things we're going to do and the reason we're going to do it in Excel is it
+
+provides you very quick way to kind of follow things along bit by bit and see what's happening.
+
+It's an is right in the formula. You kind of experience what's happening with it.
+
+Okay. So that's what we want to do.
+
+So this is sort of a multiplicative growth process.
+
+All right. It's a curve. Hey.
+
+Oh, well, wait a minute. That's too hot. No, that's not the podium.
+
+Here we go. Let's try this. I won't be this corny every time.
+
+It's not too early anyway. Okay, now here's another plot.
+
+Uh, from Ibbotson Associates.
+
+Come on in. Good morning. Uh, and look, these lines are straight.
+
+Right. So it says S&P five, small company stocks.
+
+Large company stocks. So that green line that's like S&P 500.
+
+Kind of like five straight. Lines.
+
+Yeah the scale is different because the scale is different right.
+
+Because the axes are not the same. But look at that vertical axis.
+
+Axis. Right. You don't go it doesn't go 1234.
+
+It goes 110, 100, 1000. That's what I meant.
+
+You got to be careful when you're looking at a graph. Right. And you know this kind of an exponential or large scale scales Y is the way.
+
+Uh, people, especially when they had to calculate everything by hand.
+
+You know, the way that they would do calculations that are converted into this cinch,
+
+this thing that made you do like linear like calculations within unconverted on linear lines that very clever, don't have to do that anymore.
+
+You know, my phone can do it, but I mean, my watch can do it, right.
+
+My watch can connect with things. Okay.
+
+So we have we got year. But on the y axis we have uh multiple.
+
+It goes up multiplicative one times ten. And every time.
+
+Oh. I'm sorry. Okay, so that's why sometimes you can look at some, you know, you can some grass is all.
+
+This is straight. You got to really be careful. That's him.
+
+Being sensitive to the ax is going to be important to you for a lot of reasons.
+
+One is we pick up a set of financial statements. What's the time period between the beginning and the end of the period?
+
+Is it a quarter? Is it a year? Is it a month? Is it nine months?
+
+Is it three days? Because people make up financial statements all the time with all kinds and all kinds of different.
+
+You know, we have a regular process which puts things out every quarter.
+
+But again, every year this is so sort of special. Things get wrapped up yearly.
+
+But you can make up financial statements any time you want. Okay.
+
+All right. So anyway but we're not in financial statements yet.
+
+So right now we want to talk about cash flows time and uncertainty.
+
+And who's a philosophy major. Oh, you got a philosophy.
+
+So do you. Uh, I don't know what people do in philosophy now, but do they talks about people's values and philosophy sometime.
+
+Sometime? And what are they talking about? I mean, not not they don't talk about value in regards to, uh, the financials themselves.
+
+Yeah. It's not at all about that. Right. It would be like, well, you know, what kind of what do I value personally now?
+
+I like my life to be quite in a supportive environment and uh, uh, or I value kindness, be kind and be like,
+
+we're not talking and like, or the opposite of your philosophy, people are 100% the opposite, right?
+
+So when you get into this world, you're it's not that these other things are.
+
+They can be way more important than money, but we're only talking about the mind.
+
+Okay. So we're only talking about financial value. So.
+
+You know, uh, it is sort of strengths and weaknesses of that, you know, like, let's talk about the value of this building.
+
+Yeah. Well, what are they going to do? What is she going to do with it? It just it the cash value.
+
+Well, you know, the real value. It provides a nice environment for our education and all that stuff.
+
+It gives me a nice place to work. You know, what's our tuition revenue going to be and what would it have been without?
+
+You know, this is the kind of this is the kind of value we're going to talk about.
+
+So that's obviously the clearest we've we're talking about just sort of a for profit company.
+
+The only thing you're in business to do is take people's money and turn it into ultimately
+
+more money for them and whatever they personally value or however they want to conserve,
+
+that's their business. Okay. So we're clear about that.
+
+So. So, you know, sometimes I'm pretty good. And every once in a while I'll say financial value.
+
+But, you know, that's the only kind of value I'm talking about right now.
+
+The financial value of something. Well, that's a money concept, right?
+
+So it's not surprising that the financial value of GM stock.
+
+We say that in monetary terms. Right.
+
+And so what? What would we think about. Well like a Bitcoin value.
+
+This is this is kind of getting more confusing now than it used to be because people
+
+about trade in many more different kinds of kinds of currencies in these things.
+
+But we put up that Bitcoin value like $90,000 or something.
+
+Right. So when Bitcoin 90,000 started what does that mean?
+
+That means if you had 90,000 plus dollars you could go buy yourself one Bitcoin.
+
+Or if you had one bitcoin you could convert that into 90,000 something dollars right.
+
+But we didn't talk about what are you going to do with it. Right. We just talk about the money part of it.
+
+Money is a weird thing. Well willing to talk about that.
+
+So actually if you go through these those tutorials and it gets you the money because.
+
+Okay. So we're going to talk about cash flows.
+
+There are three properties of cash flow strains. When we look at a debt we pay attention to what is how much it is.
+
+Good that how much money you got. Second thing is when.
+
+And what we're going to start off working on is only worried about that.
+
+And the next thing is if. Right.
+
+Uncertainty. What if. It's, you know, you might get it something or you might not.
+
+Nevada adds a completely different kind of kind of complexity that we're going to put off for a while.
+
+Okay. So to actually build in uncertainty formally in our heads.
+
+Okay. So we're going to talk about. I'm going to talk about cash flow streams amount and time.
+
+All right. Ready. Here we go. There's only one idea before we work the crap out of it.
+
+That's compound interest. Okay.
+
+And it's going to give us the kind of chart that the S&P 500 would look like.
+
+That kind of growth is a compounding kind of growth.
+
+There's a zillion terms here. We're going to want to get we're going to want to build a vocabulary of these terms because everybody uses them.
+
+And uh, you know, some of them like the difference between present value and future value.
+
+Those are conceptual. They're trying to specify, if I talk about value, at what point in time am I talking my talk right now?
+
+Am I talking about what will something be worth a year from now? A period of three years?
+
+Whatever. Right. I just sort of specify that a bunch of other kind of, um, that language will pick up is really,
+
+um, just shortcuts for defining different cash flow problems is more a matter of convention.
+
+So for example, if you take a lease payment.
+
+If you rent an apartment for a year. That's the thing we're going to call an annuity.
+
+It's a series of equal payments, right?
+
+Yeah, that that was really important when we didn't have so much computational power.
+
+And people did special cases all the time.
+
+And then and then there they would kind of make their deals correspond to the special cases that you could calculate.
+
+Okay. What idea? Compound interest.
+
+We're also going to work it forwards and backwards. Well all right so let's let's see how we go.
+
+That could be inflows. Outflows. Here's two cash flow streams.
+
+I give you $83.96 today. All right.
+
+Another one is I'm going to give you $100 three periods from now.
+
+Suddenly what. What period is that? Okay. All right.
+
+It'll be very helpful for you to start thinking in terms of this kind of a diagram.
+
+This is like a time diagram. When is stuff happening?
+
+And, uh, you know, we're not going to deal in this class with sort of continuous time and calculus stuff.
+
+Accountants are pretty simple. You know, it's just things happen at a point in time basically,
+
+or we have points in time or we can talk about stuff happens in the middle of it, but we don't get particular about say, well,
+
+okay, so that's that, that causes actually sometimes if I have somebody in class that knows too much finance,
+
+it can cause a little problem because we have to keep track very carefully.
+
+When did that inflow occur and when did that outflow occur. And they might just think about every outflows are occurring continuously anyway.
+
+Forget that. So here's here's the first one right.
+
+That um notice I drew three periods because my alternatives the longest was three periods.
+
+So we get $83.96 today. Or did you get $100 three periods from now.
+
+Now which one would you prefer? I go back.
+
+You're back. Now, I got to say, there are some rules here that.
+
+That what you have to do is take the money and within 30 minutes, buy yourself as much of your favorite thing to eat.
+
+Or drink as you can and consume it right there.
+
+Okay. I want to get I want to get a round of.
+
+What are you going to do with a buddy? Right. Yeah, right. So, you know, if I like Hershey's with almonds, I take my $80.96.
+
+Today. I got to run over and spend it all on her.
+
+She was always. And you liked it? Or if I could wait, I could.
+
+If I wait, I could buy more horses. I had to do that.
+
+So which one would you prefer? Which one would you like?
+
+I think it depends on how long the period is. Well.
+
+Uh. Why? I mean, that depends how much I discount the money.
+
+But I like money now, so, um, I just go with. You okay?
+
+So. Yeah, I can see what you say. So, you know, so if you're talking about three periods big a nanosecond.
+
+Yeah, it's it's kind of not a lot can happen. Right.
+
+So this is very important. Very good. Nobody's ever said that to me was 100% right.
+
+Because, uh, what I'm thinking is kind of years, right.
+
+Uh, but that but that is important for that, for that reason.
+
+Although I would say it's important because of a presumed setting you're putting in order for that to be important,
+
+you're putting a lot of stuff in her head. Right? I'm trying to try not to put all that on.
+
+I'm trying to put those things in one at a time. Okay, so.
+
+But here let's just talk about a year. So you're like one year. They have three years.
+
+So I'm taking that I'm taking the money out. Anybody for being.
+
+Anybody want to wait? You want to wait? Yeah. What you do?
+
+You know I need somebody to wait. I got to plan it out, you know? You got a planet?
+
+Yeah. You got. Where you gonna get these verses? Oh, you know what going to do?
+
+You know how to do this. And I'm not really hungry right now. If I have to eat in 30 minutes, I want to learn how.
+
+Okay. Who's right? I mean, if I wanted to talk about the value of these two cash flow streams A or B.
+
+Who's right? Yes. Um.
+
+It depends on the discount rate. So if you just look at the absolute value of 100, it's definitely better than.
+
+Yeah, but it's in a different point in time. Yeah. So it's right.
+
+No. Go ahead, go ahead. I mean, we're not sure about the present value of 100.
+
+No, no, you're talking about you're using stuff we haven't, even though we're going to get there.
+
+But you're ahead. You're too far ahead. I do think that getting more money earlier on means more value.
+
+So what would you get in? Less money? So here you've got a trade off between the two.
+
+You can invest the money. No you can't. You have to give it.
+
+Um. Okay, I'll go ahead.
+
+So who's right? It's out there.
+
+No, you got to just say it. Yeah. Yeah. I mean, nobody's right.
+
+They're both right. They're both right.
+
+You're not in this setting value.
+
+If I said value, that's personal. So do you.
+
+$83. $83.96. Today is worth more than 100 recruits, right?
+
+How do I why do I say that? Because you pick that, right.
+
+And I'm trying to measure your preferences. Right.
+
+So I say, okay, whatever I put down, you know, if I'm going to measure the value, I'd say, all right, uh.
+
+I'm going to have some measurement process, you know, call it, um, I don't know,
+
+some function of a and some function of cash flow stream B, and that means this is a complete definition of what it is.
+
+Right. So so in your mind picture you know.
+
+To do it this way I should have like uh, uh, 8396.
+
+000. And be a function of this cash flow stream.
+
+001 variance. Oh, uh, 100.
+
+Pretend he's my daughter's an artist, and she could actually make this look good.
+
+But, you know, it must have come from her mother, because I assume so.
+
+So if I were to sort of measure the value, I should.
+
+I should call it the function. I should say the value.
+
+Value. So to capture your preferences, then I have to have v of a uh greater than or equal to v of V.
+
+But to capture yours I'd have to say no no no.
+
+V of I should say here that V of V has got to be greater than V of A, and there's no function that can do that.
+
+So that I have to say, well I got a uh. What's your first name, sir?
+
+Mr. Mason. Mason. Oh, yes. I'm sorry.
+
+Mason. Mason's valuation would be different from Gabriel.
+
+Gage. Gabriel. Gabriel. Gabriel.
+
+Right. I'm sorry. Jay. There's just nothing we could do about that.
+
+Right. So.
+
+Well, okay. Class is over. There's nothing we can do.
+
+But. We got to figure out a way.
+
+In order to have meetings, sensible conversations about financial value.
+
+We got to figure out a way around this, right? Because I don't want to have a conversation each time.
+
+It's basically a philosophy class about why do you take this and what's in this area, but what should your value?
+
+You know, you could. Yeah. We can't do that.
+
+Right. So how are we going to do this? How are we going to do this?
+
+How about this? Suppose we every every.
+
+Both of these things are defined by two characteristics.
+
+Right. It's. Amounts and timing.
+
+Suppose we had some way to physically go and construct one sequence out of the other one.
+
+Okay. Then I got to make them comparable somehow.
+
+Right. And if I, if I don't do something to the setting, they're not comparable.
+
+I. So okay. Now tell me what to do.
+
+Now tell me what to do. I'm going to have a richer setting.
+
+Right? I'm going to say. Oh, you're.
+
+You're not confined just to eat it. What if you have another opportunity?
+
+You can eat it. You can spend it on eating now. Or you could put it in a machine that can convert current dollars to future dollars.
+
+How about that? Did you see what an abstraction that is, by the way?
+
+Right. Okay, so let's assume that there is such a machine.
+
+And how does it work? Well, I'm going to say it's a compound growth process.
+
+You know, you know, the reason people really started thinking about these are what what risk way you would have to think about it.
+
+Even if you're you can't even write anything if you're an if you are.
+
+Um, if you've invented agriculture and domesticated some animals in particular.
+
+Okay. Your herd might grow, uh, an expert at a compounding kind of rate.
+
+Right? If it if every two cows has a calf and you got 100 cows, then you grow it, and then you get 50 more.
+
+But if you had a thousand calve cows, you get 500 more.
+
+Okay. So that kind of this kind of growth process people would experience in what they saw,
+
+the things that they would see just by counting and what's happening in these different circumstances.
+
+Okay. All right. So borrowing and lending.
+
+So here we go. Uh, my.
+
+I don't know what I want. I want you confused with different colors.
+
+If it's chalk, then I don't actually like to second. Okay, so let's suppose you got here 80.
+
+Oh, look at that. Well, I guess it's Yale.
+
+There's not even a trash can. Hello?
+
+Who? Um. Who's who's in her first year? Anybody?
+
+Few people in their first year. Okay. Um, how about seniors?
+
+Got any seniors? The seniors. That would ask the question.
+
+What have you learned about Yale in the four years you're here?
+
+Way better than Harvard. Well, of course that didn't.
+
+You didn't know that. That's why I came here. But at Yale, I don't follow this.
+
+But you take care of yourself. But we're not so good at making sure that it's the right.
+
+That the ink that dry erase markers actually write.
+
+So I usually carry my own. So when we built this building, this is like ten years old now.
+
+And I had an office on Hillhouse Avenue and I saw this visitor.
+
+And I was actually the first faculty member to move my stuff into this building.
+
+Right. And so I remember over Christmas, I had a little box, and I had this old fan that had a very long.
+
+And you pushed it in a little fan really like that.
+
+And I'm carrying this box over and one of my junior colleagues have. What?
+
+Why are you taking the fat? I mean, using the brand new building is $250 million.
+
+You know, I said it's still Yale. Here's the thing about the building.
+
+The offices on that side got to 107 degrees.
+
+We had to come back and completely coat all the windows. Feel all over the building.
+
+Now, like I said, it's still Yale, so, you know.
+
+But there's pluses and minuses. They're also not in here, you know.
+
+Owner telling us what to do. Okay, good.
+
+But anyway, so every once in a while, I'll say.
+
+All right. I wish I had. Oh, no. There's another reason. We'll see about that.
+
+All right. You have? Um. I was so surprised.
+
+I screwed it up. All right, so we have $83.96, and it's here at this point in time.
+
+Like. And I want to go one, two, three periods later.
+
+Let me pick an interest rate out of the air.
+
+Okay. Hmm. How about 6%?
+
+I should soon as an infection set growth rate. So what I mean by that is that's a growth rate per period.
+
+So I got this machine. I put in $83.96 in.
+
+And it grows at 6% every period. How much do I have at the end?
+
+Well we figure it out if I put 83 and 96 in here.
+
+That's my beginning. Balance. 80. Six.
+
+Per year. Okay. Oh, hey.
+
+50%. That's nothing. So I have 83, 96.
+
+And it it actually did. Sorry.
+
+That 8396. What I over this over this period of time.
+
+It grows by. 6%.
+
+So how much is the growth? Anybody can calculate for me.
+
+What's what's 83, 96? I suppose it was like $5.
+
+It's what is it about $5 and five and a half.
+
+Exactly. Give me two decimal places. 035.03.
+
+Sorry. Uh, 5.04.
+
+You had to rewrite it as we did. Okay, so that.
+
+So it grew by this. Right. So now let's think about.
+
+But but I also had I don't know, my 8396 is still there.
+
+Right. So I have this plus I have this.
+
+Right at the end. So I have been to, uh, I've got, uh, $89.
+
+Right. Everybody okay with that?
+
+Okay, here's the kicker. And by the way, if you if you look at this, what would it what would it be like.
+
+It's, um, 83, 96 times one plus 6%.
+
+That's a formula. If you want to. Now what am I going to do?
+
+I'm just going to do the same process two more times.
+
+Okay. But I kind of got to keep my head and head on my shoulders. What do we mean, do the same process time over time?
+
+I'm thinking about walking my way through this timeline.
+
+Okay. So now for this period.
+
+I don't start with 83, 96. I start with 89.
+
+Okay, I start with 89. And again, I have, uh.
+
+What's what's my 6.6% of 89?
+
+6% of any. Let's. That's a 5448.
+
+Let's be five. So 15.
+
+So 48. 55.35 34 okay.
+
+So now I have, uh, what is what do I have in round terms?
+
+534 A and I have that is that $94?
+
+And, um. $0.34.
+
+Right. You see what I did? I just turned the crank.
+
+Turn the crank. What am I going to do? I'm going to do it again. That's why I said one idea.
+
+Okay. One idea. But you have to pay a lot of attention to.
+
+Okay. Like I said in the in the couple businesses I started,
+
+they never let me calculate the actual numbers we were going to like really do anything with because I make too many mistakes.
+
+Okay. But the same thing here. 9434 I said.
+
+So I was .06 and I'll let you work that out.
+
+But I won't tell you. What do you think you get. And just guess a hundred.
+
+Yeah. You guessed based on test taking abilities like that.
+
+But I see where this guy's going. Right? 100.
+
+All right. So now look at what I did.
+
+I actually changed the decision of the person receiving the money in a way that appeared to make it more complicated.
+
+Right? But before you could just consume it, you had to consume it.
+
+Now you have to consume it or invest it. I made your life more complicated.
+
+I made the setting more complicated. But look at what it did for me.
+
+It now it says, oh, there's no reason for anybody to prefer the 100 strictly.
+
+I mean, getting option A is at least as good as being for everybody that has this opportunity.
+
+Okay. Hmm. So now what can I say?
+
+I could say in this setting, I've shown that, uh, the value of.
+
+Of A has to be at least as much as the value of, be it simply because if you have A, you could get B.
+
+As I said, it's sort of a physical reconstruction. Oh, okay.
+
+How cool is that? Well, now let's go the other way.
+
+The financial markets. What if you can?
+
+How do I have to go this way in the diagram?
+
+I loan money to somebody. To somebody else I invest money.
+
+Right. So what about going the other direction? Well, instead of investing, I have to talk about borrowing.
+
+Right. In accounting terms here, you would spend your 8396 on another asset, you know, sort of financial security or something.
+
+Then that whose value grew. And what now we're talking about?
+
+What if you can borrow from the future? So that's a liability now.
+
+We think what I'm doing here is trading money through time.
+
+And the 6% says, if I want to trade some money going forward, the right kind of price is 6%.
+
+So an interest rate is sort of just like a price to the market, right.
+
+But the price of money through time. We don't care that.
+
+Okay, so I'm going to work it backwards. Um. Uh, you know, I could I could write this down.
+
+Uh. Let me see.
+
+This is 100 equals and that. Really? You do all the math and you can say 83, 96 times 1.06.
+
+Uh, well, I actually, this time I, I used, I multiplied these things three times, right.
+
+In this, this whole process, uh, cubed.
+
+That's why we had all this discussion about quadratics and stuff like that.
+
+We just we got something worse than a quadratic.
+
+We got what? You. What if I what if I had cash flows that lasted a hundred periods?
+
+What kind of math would I have to do? Yeah, you'd change the 3 to 100.
+
+So if we were 100, I'd be taking something to the 100th power.
+
+Right? Which Excel could do very easily, you know, but when you're back writing with a quill.
+
+And so it's gonna be tough to do.
+
+Okay. So that's that's where all the problem comes in.
+
+Or the, the more difficult math comes in. And I keep in mind we're just we're just talking about time here.
+
+We have an introduce risk. I'm going to pull that off.
+
+Now what if I want to go back the other way. There's a nice way to think about an easy way to think about it is going forward.
+
+We pretended we were here and we walked through this way. Now let's walk backwards.
+
+So if and but when we walk backwards, I'm going to think about it from the perspective of the person that loans us the money.
+
+So if they can, if they will, if we can borrow money also at 6%.
+
+Okay. So also at 6%. Let's think through the problem.
+
+All right. The person that loads us the money is going to end up with 100, right.
+
+They got to get fully their loan has to be fully repaid. So how much do we have to owe them at the start of the last period?
+
+So when it grows by 6%, they'll end up with the 100. Well, I tell you, it's $94.
+
+I'm just going backwards the other way. I mean, you know. So how much how if that if that has to be 106%, what does that have to be?
+
+It has to be 94, 34. So instead of working on the 9434 here.
+
+I'll say 100 divided by 1.06 is equal to 3434.
+
+Right. And if I keep doing that, what I'll find is that 100 divided by 1.06.
+
+Cubed is equal to 8396.
+
+So as if we just have enough problem multiplying. Now we got these.
+
+Things in the Dominator. Okay.
+
+All right, so now I just completed the argument.
+
+If you can borrow and land at the same rate, these two things have the same value.
+
+This had the same value, meaning there's no reason that any rational decision person decision maker should prefer one over the other.
+
+Because in the setting, if they have one, they can get the other one. So all I have to know, right?
+
+You decide you want to wait to consume. Just investor 8396 to get the 100.
+
+You decide. I'll change my mind. I'm getting kind of hungry. You just go out and borrow it.
+
+It doesn't matter. What.
+
+Which one of these you you start with to make sense?
+
+But more importantly, do you see that we have defined value in an unambiguous way?
+
+To do that, we had to change the context. Now let's talk about the context.
+
+Well. Here's some more.
+
+Also present value 8396. The idea is an idea of physical transformation.
+
+You put something in and actually that it gets transformed.
+
+I wish I hadn't said physical because I was.
+
+I wrote this stuff a long time ago when mostly people were just dealing with cash, paper money.
+
+So I thought physically, but that's not really what's happening. Okay. What's happening is the rights are changing over time.
+
+Your rights to acquire goods and services is changing.
+
+That's what that's what we're moving back and forth.
+
+You can have your rights if you have a lot of rights now, or you can have more rights if you're willing to wait.
+
+All right. But no cash flows or certain borrowing lending at the same rate.
+
+And the economic context, I had to assume, was it was frictionless.
+
+Like I didn't say, you have to pay a fee to borrow the money or you have to pay.
+
+You can invest somebody in, you know, there's an investment fee.
+
+No, no, I just none of that. It was a machine that just converts things.
+
+No friction inside the machine or whatever. Does that make sense?
+
+Well, that's neither. None of these things are real. But what if I do it?
+
+Why did we? We had three examples. I think the first class of, uh, why did we frame the investment problem in terms of opportunity costs?
+
+Because it caused us to think about the problem in a certain way, right?
+
+I mean, the opportunity cost rule itself is just kind of silly. Why did you pick that?
+
+Well, because, uh, my, uh, the opportunity cost of waiting, you would say this.
+
+What about that? Pretty cost of waiting for you is just too high. Yeah.
+
+Okay, fine. But really, that's just a way of saying you actually had two choices and you picked one.
+
+Okay. So this is a framing that when we start investing and borrowing and lending, you know,
+
+this is the the first thing in your mind is that time is a very powerful factor.
+
+And here's how we're going to deal with it. Uh, let me go back to this.
+
+Like this graph. You know what's sort of clear when you back up enough that we noticed is that over time?
+
+Yeah. In any particular times you can have Jags, it moves up and down, but over a longer period of time.
+
+Hey, you grow like that. Like you grow like that.
+
+So the first thing I see when I look at the graph this far, this from this distance, is the powerful effect of time.
+
+Now if I'm looking if I'm stuck back in 1929 and I don't know this thing and I'm just then I'm saying wow,
+
+up and down or right, or if I'm in here just this period of time, I'd say, hi.
+
+What are you talking about? The effects of time. It's moving all over the place. Something else is going on.
+
+But when you back up far enough, did it look smooth like this?
+
+So Mason's response was better than I even realized at the time.
+
+Right. Because you back up if the periods are long enough in some sense,
+
+or the number of periods is long enough, then things kind of give it out or smooth out.
+
+So another way to say it is this force that investors only get by things that they expect a positive return on is kind of the predominant force.
+
+Okay. Oh I see.
+
+So to see where we are figurative. Well, to.
+
+Two cash flow streams. We did all this with all that was all that.
+
+We did all that. It's really frictionless.
+
+No transaction. Okay. So, uh, how about this one?
+
+It's a different one. You get $31.41 every period.
+
+You really want to guess the present value of it? $83 and 96 because I made up the numbers to be that way.
+
+Right. But we can take that.
+
+There's another cash flow pattern. This is. See? It has the same present value as A and B.
+
+We'd say, well, they're all worth the same thing. Why?
+
+Because if you give me any one of them and I want another one, I can just go borrow the LED to reconstruct it.
+
+So very useful exercise is to go back and verify that, say, all right, if I started with 83, 96.
+
+Uh. Is there?
+
+Is there any thinking about what happened compared to Monday, which we had a very different kind of class, right.
+
+This is kind of the way accounting also goes is, is it's like schizophrenic, right.
+
+Because last time we were talking about these conceptual things,
+
+I don't know what I was going order is do a bunch of numbers, then we're gonna go back and that'll happen.
+
+That keeps that keeps going. And we start when we do some calculus, we said, well, what do we do when we did this calculation.
+
+Right. Okay. So let's think about the problem here.
+
+Don't be afraid. If your math skills are rusty we're going to do it all in Excel is.
+
+And you need to understand a little bit how to do this stuff in that book.
+
+So we're going to do we'll start this next time. I will use very simple Excel features to do these kind of calculations.
+
+And there's some stuff about how to who's up who's like not used Excel much.
+
+Anybody not used Excel much YouTube. Oh you got great.
+
+It's super super. So just an added benefit you'll get.
+
+This is going to walk you through just some very basic things that let you make a track who's used at a time a lot.
+
+What a bunch. Where. Oh yeah. Oh in psychology that's good.
+
+No, for philosophy. But I used to be like, my dad has me learning how to use Excel.
+
+I've learned a bit, but what does your dad do? Uh, he does, uh, real estate, finance, affordable housing.
+
+Oh, yeah. Yeah, yeah. So he's he's talking about all the time.
+
+He's thinking about money or back. He learned the. Oh, yeah.
+
+So we can set the calculator up. This is definitely one of those in a long time.
+
+Yeah okay. So this semester did you get to that just for this class.
+
+No. No. It would be like two years ago. I just didn't get around to learning it for a little while, so I was actually working in.
+
+It's a nepotism thing.
+
+In the administration's Obama state, where I was an undergraduate for for my brother in law who was head of the university computing,
+
+or he actually eventually went to Idaho to become head of all the University of Computing.
+
+When he was Oklahoma State, he was just administrative computing.
+
+And I remember one day he came back with the thing, the calculator that looked like that in your mind, if you have any of these things,
+
+and it was and he paid for, I think I remember he paid $489 for that calculator because, oh, look at this.
+
+Isn't this wonderful? I can do this thing. And then, you know, within a couple of years, banks are giving him away for, like, walking by the stores.
+
+Yeah. Much cheaper. It's pretty efficient, though. Yeah it is.
+
+And so I'm glad you see you have that because probably if your dad's doing this to you, it's probably not just letting you calculate.
+
+He's probably asking you to explain what you're doing. Right. Why you should do that.
+
+Why that's what we're all about here is that part about the calculation.
+
+Part of accountants are very simple people. We add, subtract, multiply, divide.
+
+That's it. You know no giant other though whatever these things are we add subtract, multiply, divide.
+
+But we do it repeatedly. So you have to watch this.
+
+All right. So so let's just think about um, what I the problem and how I lay it out 8396.
+
+So if I have that and then over one period it's going to grow to 89.
+
+Right. And then what I have to say is what if at that point we took out.
+
+3141 so then going forward we'd have 89 -3141 and it grows.
+
+Okay. And then we do that again. So.
+
+Yeah. So so so going forward we have.
+
+89 -3141.
+
+That times 1.06. And then we'll then we're going to take out another.
+
+I don't know what that number is. I'm going to take out another 3141.
+
+Then we'll let that grow. And if we take out the final 3141.
+
+And we end up with nothing. Right. So try that. Absolutely.
+
+If you learn some Excel tricks, you can try that out. Or you can do the other way.
+
+If you do nothing and you wait, you get 3141 here.
+
+Invest invested at 6%. Then you spend another 3141.
+
+So take your the value of the first 34.
+
+Compound it up at 3141.
+
+You get here. Compound that up. You get 100 bucks okay.
+
+So this main trick of.
+
+Embedded the decision problem in a market context.
+
+And, uh, and, you know, I loved your response because, you know, because, uh,
+
+what I started off saying, we're so used to the context that we kind of can take it for granted.
+
+Sometimes it's just, you know,
+
+we take it for granted and we automatically frame our problem in ways that we make assumptions we don't even know we have.
+
+You know, when this, like, killed us. The financial crisis of 2009 killed people.
+
+Because they're used to thinking about the capital markets of being very liquid.
+
+That is, you can buy and sell any time you want to buy. There are all kinds of financial markets were very liquid.
+
+Guess what? It froze up. The shadow banking system froze up and so forth.
+
+And and then people like up. Uh oh.
+
+I guess. I guess I was making some implicit assumptions I didn't think about.
+
+And as long as the world continues the way that you're sort of consistent with your assumption, you may never even know you make it.
+
+But if a big enough change that happens, you get slapped upside the head.
+
+Right in a not a good way with if you're not sort of don't understand what's going on.
+
+Okay. So so so this is a special case called an annuity.
+
+Uh, level payments. This one is what's called an annuity in arrears okay.
+
+That is it's level payments for a certain period of time. And then you get the payment at the end of the period, not at the beginning.
+
+If you got the payment at the beginning of the period, it would be an annuity in advance.
+
+Bonds. What's a coupon bar?
+
+We're good at it, you know. How many of you have ever been on a field trip in a class here?
+
+You know? Anybody? Nobody.
+
+Oh. You have. Where'd you go? We went hiking on the canal trail.
+
+What class is that for? It was for American environmental history.
+
+Uh, damn. Okay. With one person? Anybody else with it?
+
+What field trip? Uh, went to the met. Yeah.
+
+Oh, yeah. And what did you. What did you see?
+
+Uh, they're just a bunch of painting sculptures.
+
+Well, for all of you who haven't taken a field trip, this is your class.
+
+Because we're going to take a field trip to the fourth floor of this building.
+
+Because we got a whole bunch of financial instruments.
+
+A couple of my colleagues have collected examples of financial instruments like coupon bonds, and we'll be able to see them.
+
+That's what it is. Okay. This piece of paper with this, see that we've talked about it.
+
+Okay. So it's a field trip. You know, it's going to be a field trip.
+
+Going to be great. But a coupon bond.
+
+What it does is it is it promises to pay.
+
+It's got an annuity. That's the coupon rate. But it's also got, uh, like a balloon payment at the end.
+
+So it might pay you, for example, consider a coupon bond.
+
+And don't worry, we'll we'll talk a lot about this language so that you're accustomed to it, but it has a face value of 100 bucks.
+
+So that just means, you know, 100 is the calculation figure we start with and it pays a 6% coupon.
+
+What that means is, as you're promised, this cash flow straight.
+
+So if you bought a bond with a $500 face value and a 6% coupon.
+
+All it means is it's just a language for saying this is what I'm promising you.
+
+Okay. Now, once we have it, once we understand that language, then we just have cash and then we just cry forward,
+
+backward, present value, future value of all that stuff. One of the people that pioneered that.
+
+Anybody know anybody that sort of pioneered all this discounting stuff?
+
+Yale person Irving Fisher,
+
+unfortunately went broke during the Great Depression and people had to take him in their home because he was a big speculator.
+
+But he did a lot of stuff with present values and, and, um, and what's a bond worth?
+
+You know, but mean the first person that looked at it and said, oh, this is two streams,
+
+you know, an annuity of the coupon payments plus the face coming back.
+
+Okay. That's the that's the cash, I promise.
+
+Now let me go figure and think about what I know about interest rates and figure out what's the value of that bond today in this world,
+
+in this imaginary world, we can borrow land at the same rate.
+
+That's a benchmark for it. Yeah. At the end of period three, shouldn't the amount that you've seen be greater than $106?
+
+Uh, no. Why should it?
+
+I was just thinking, if you're getting 6% at each period and you're starting at 100 at the first period, would you be getting like, $6 on top?
+
+It was the first period. It'd be like 100. Well, uh, okay.
+
+So right now I haven't talked about the present value of this thing, but let's do talk about the present value of it.
+
+But this is just a language to describe the cash flow pattern that I'm promising you.
+
+So I'm promising to give you $6, $6, 106.
+
+Oh, so we don't know that the start that the starting amount. No, we don't know the starting back.
+
+I'm sorry. Yeah. Anytime you have some idea if you can email me or whatever I often get I've just done this too many times.
+
+I have to get the. You're seeing it for the first time.
+
+But let's think about that. Suppose I had $100 today, and I loaned it to this person in the first period.
+
+If that 100, I would would grow to 106.
+
+But they pay me the six. So how much goes forward?
+
+100. So if the interest rate is, we'll get to be very careful with this.
+
+If the interest rate is equal to the coupon rate this thing will sell for 100.
+
+Now what happens? Well we will explore what happens when the interest rate is greater than the coupon rate or less than the coupon.
+
+Right. Because remember,
+
+I'm really trying to get you to really lock in on the fact that all this language is just about how I'm going to promise you a cash flow stream.
+
+It's not about the economics of what it's worth or anything else.
+
+It's just these are the cash flows you can expect to get. Yeah. Um, so if the interest rate is higher than, um, the coupon rate, would it?
+
+Yeah. Selling at a, uh, discount.
+
+Yes. It. Well, because you would be getting paid less or sorry, you would be getting paid a lower coupon than what the.
+
+Well, yeah. So, so like let's suppose let's take a simple example.
+
+Again we'll go through a uh, a lot of that stuff in great detail.
+
+But let's suppose the interest rate real sort of like 10%.
+
+So if I, if I, if I bought this blog for $100 and I go forward, well it's going to it should be worth 110 at the end of the period.
+
+But I only get paid six. So that means it doesn't.
+
+It's not going back to its original state of 100 every time.
+
+So if you work how this all comes together and this is where it gets, gets complicated, how this all comes together is,
+
+I will tell you that the present value of this stream, if the interest rate is more than 6%, is less than $100.
+
+If the interest rate is less than 6%, it's more than $100.
+
+Okay. This is the kind of stuff we have to feel. Yeah.
+
+Let's go to another. Yeah. Super quick. So that that means at maturity you would get, uh, a lot.
+
+So if you paid $85 for the bond of maturity, you did 100 on a discounted bond.
+
+Well, yeah. Because remember, the only thing I'm talking about here is the promised cash flows.
+
+So you are getting those cash flows. Okay. What that's worth depends on the interest rates.
+
+Right. And then, you know, people start playing off the difference between, you know,
+
+if we're going to be had to be very careful between the coupon rate which determines the cash flows,
+
+and the interest rate, which determines the economics of the price of borrowing money.
+
+Really, when I said interest rates, the price of borrowing through time. Okay.
+
+So we don't have class Monday, right? Oh, gee.
+
+All right. That's okay. Um, I've developed some of these little interactive things also that gets you to work through these.
+
+Inch by inch. Just like I really just like I did in class, I had a little.
+
+I had a, uh, momentarily stressful personal thing that I did, a little interactive artifact, and I did.
+
+Working through this, I thought, why not have a class so you can just sit there?
+
+But part of it is it's, you know, you need to go through stuff, take the time to look at it, but I will see if I can develop an artifact.
+
+It just takes us through this whole thing. And then, uh, I'd like your reaction time.
+
+So, you know, class versus that. I'm expecting, by the way, if universities adapt to the new.
+

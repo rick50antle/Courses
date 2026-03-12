@@ -1,0 +1,1505 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+That ID is a little bit off.
+
+There are a one, right?
+
+Now, that doesn't mean I've been here since they started the university. Just since they've had computers.
+
+Okay, so I'm the, um. I'm actually I've been at the management school longer than any other faculty member.
+
+I came in 1985. So, you know, in today's world, you can find out everything about me that you want.
+
+By just doing it or ChatGPT or whatever, right?
+
+Okay. So let me then go in here, room output laptop and see if I get my laptop going.
+
+Only this laptop one. That's good. All right.
+
+Well, we're in trouble now. We're going now. If you see power pointing.
+
+What? Why? Well, I'm getting booted up. What are you.
+
+Why? Why are you making this trek to the management school? Anybody.
+
+I don't know. Require much of your students.
+
+I have people written down here like Lachlan, Lachlan or you.
+
+Why are you. Why are you interested in class? Um, I think it's going to be very important for jobs next summer.
+
+And I think it's just a good skill to have generally.
+
+Yeah, I got everyone I've talked to that says it's a great class they've taken and also other schools,
+
+I think a really important skill they've taken away.
+
+So yeah, accounting. You know people used to have several things they used to say about it.
+
+They say it's the language of business. For one thing, that's okay.
+
+But more than just business, it's also the language of non-profits.
+
+So, like, you know, anything financial, you know, uh, there is an accounting system behind.
+
+Now, what are the issues we're going to have this semester?
+
+I'm Rick Ansell, by the way, is that I've been developing so much material, I could we could be a little overwhelming.
+
+But for the people who are, um, more liberal arts oriented.
+
+Um, I've been developing Claude and I have been developing a, uh, a series of sort of interactive things about the history.
+
+Imagine the history of the Caribbean. How did how did we actually even get started?
+
+And there are people who think that writing was invented to do accounting first.
+
+Like one of the first things you'd need to have is a record of things. And, um, and so, you know, as soon as people started writing things down.
+
+Like a lot of those cuneiform tablets they've found in various with, you know, hundreds of thousands of them.
+
+Thousands of them are accounting records. Okay.
+
+And, uh, you know, so that was like way back in antiquity.
+
+They sort of built this up over time. The system obviously has evolved, evolved a lot over time.
+
+Right. Presenter Ken Rudin laptop. No I don't. Find it.
+
+Okay. Accounting. It's evolved a lot, uh, over time.
+
+But. Some of the basic things have stuck.
+
+Okay. So we're going to try to do is learn like basically how accounting works.
+
+And um. You'll see kind of what that means.
+
+You know, there's the system that we work at. Yeah.
+
+Because one of the things also you have to really keep in mind about accounting is it was only required.
+
+It was only invented when things got too complex to remember.
+
+Like when things when complexity started ramping up. You know, people had all sorts of problems with information, right?
+
+You know, get it, store it, organize it and all that.
+
+No matter what's happened in the world since writing was first in, you know, since we had those clay tablets pressed down.
+
+There are some features of accounting systems that remain the same.
+
+They remain the same through, for example, the invention of negative numbers.
+
+Zero computers. You know, we'll see where it goes with, uh, with AI.
+
+So how many of you are like big AI users? Keep your pajamas, okay.
+
+Medium. I never use it.
+
+Never use it. Okay. Okay. Well, I'm a huge AI user.
+
+Okay. And I'm going to tell you some tricks already to start before you.
+
+First of all, let me say I don't believe in withholding anything that anybody that wants to learn can use to learn.
+
+That's my only concern. I'm too old to worry about all the other stuff.
+
+But if you want to learn how accounting works, I'm the guy. Okay, so I don't withhold any resources from that.
+
+So, um, one of the things that I find when I'm learning something, I do a lot of, um,
+
+sort of for sport, learning how to read, learning back through the way they teach little kids.
+
+There's a great math website called Brilliant.org,
+
+and you can work your way through these things a little at a time when you see the way they use interactive exercises and visual,
+
+you know, things and stuff like that. So I've been, uh, yeah.
+
+But one of the things I find, like I was just stuck on a very simple, you know what?
+
+If you're a math person, a very simple I don't have a very good background in linear algebra, it turns out.
+
+So I was reading some stuff, and I got lost in the brilliant lectures because I wouldn't know what's happening.
+
+So I just went to ChatGPT and I said, hey, I'm taking this brilliant course to learn this math stuff.
+
+And I noticed this, this and this, and I just I'm having trouble grasping the big picture.
+
+Can you tell me what the big picture is? And it really did.
+
+If you haven't used this stuff lately, this is mind boggling.
+
+This where I put it is this I don't know what you're going to be doing with your careers,
+
+but I know what you're not going to be doing anything by that.
+
+What's Monday? Monday is somebody that, like I said, I said already, I like this guy who's my tax attorney, right?
+
+Or no, I was still limited to only three people, the other in law.
+
+But, um, uh, my a lot of what management schools used to teach people with sort of.
+
+Well run or standard techniques for dealing with various problems.
+
+So think about this. So you have an oil refinery. How do you raise that.
+
+So right now what is that. That's taking information that's sort of known if it exists at one time in place.
+
+And transporting it to another time and place where it's needed.
+
+Right. So my tax, my tax account, I don't do my own taxes.
+
+So one of the best things happened in my life. And I just talked a little on taxes.
+
+But what would they do. They would take their knowledge of the tax law and all of that that I would get, you know, then in my returns,
+
+they would bring that knowledge to my specific, my house, let's say, sit down, you know, and help me do my taxes.
+
+That's dead. I mean, I just asked ChatGPT about taxes, right?
+
+And in fact, what my CPA does is they have an automated system do that.
+
+Okay, so that's what I mean by Monday. What I mean by Monday is kind of information arbitrage, if you will.
+
+Right. Oh, this is known. But these people don't know it.
+
+And these people, it it's accomplish their job.
+
+Any Monday and information now is available to everybody all the time in a way that you can, uh, easily access.
+
+So my wife, uh, is this way. So my wife teaches or.
+
+Well, she's worked with Afghan women for a long time, way back into the first days of your service in there.
+
+And, uh, she started with the thing called the Afghan Women's Writing Project.
+
+So over time, uh, she's developed a lot there, a lot of people in Afghanistan that she talks to,
+
+people that left have fled the Taliban and all that stuff. They're all over the place now.
+
+So she my wife got a an essay, she publishes a website from a young woman and said,
+
+um, I think this woman's used, you know, this ChatGPT of this, okay or.
+
+No. So my wife asks her, yeah, this is an Afghan refugee living in Pakistan.
+
+Okay. This that's the number one. Yeah, she had to use ChatGPT.
+
+And it's very. If English isn't your first language, it's very tempting also because it straightens out all your grammar and all your spelling.
+
+You think, oh, this is great, right? And for business communication it is great.
+
+I have this argument with my wife all the time because she, of course, for creative endeavors.
+
+What it did was it destroyed that woman's voice. It just, you know, it just it communicated the information, but it didn't have any the, you know,
+
+the feeling that that was that she was putting into it because a lot of the feeling
+
+comes in redundancies and all kinds of stuff that you don't really have to have.
+
+But, you know, but if I'm writing something to try to help you learn accounting, I yeah, I have a voice, but that's not the big issue, right?
+
+The big issue is the clearest explanation that I can find.
+
+So I use the things to engineer that.
+
+So this is one of the challenges you're going to have. And we were all going to have is how do we how do we deal with this.
+
+You know, how do we deal with these all these great tools.
+
+This is especially true in this class because of all the I'll ask you little accounting problems.
+
+ChatGPT could solve them all last spring. All and even what really blew me away.
+
+It kept it kept getting better and better and better right over time.
+
+Is the final, final exam, by the way, the grading here is really weird.
+
+Okay. There are, um, two problem sets and then a series of exams that you choose.
+
+You get you get to choose how far you want to go. Okay.
+
+So like let's suppose you you want a B-plus.
+
+Well, you do the two problem sets and you do a couple of the a two of the exams that are take home that.
+
+By the way, I will help you with. Okay.
+
+So I do a lot of tutoring at the end where, oh, you're struggling with this problem.
+
+You're trying to learn something. You're a progress.
+
+I'll say you work on it for so long, and then you come in and talk to me, or we get on the phone or we zoom, we do whatever we have to do.
+
+I'll say, oh, well, here's your issue. Right. So I committed there's no reason that anybody in this class should get less than a B-plus,
+
+other than you just didn't do it, because I will help you do it.
+
+And that is a different story, right?
+
+And hey, we're going to have, by the way, I developed, I know if you looked at this, try to look at this and canvas plot.
+
+And I developed a little interactive thing where it guides you through the game and ready.
+
+Did you try that? Yeah, I have it. Is that okay? Good.
+
+Yeah. I've always tried to explain it that people always ask me, like I said, well, I'll just tell Claude to do that.
+
+And it did. Right. And it'll guide you through the steps.
+
+So. So what grade you want. This is what you have to do. With, uh, two problem sets and all the homework.
+
+You can collaborate any way you want. You can use anything you want.
+
+But again, those last exams, you have to talk to me.
+
+And then the final, final thing, if you want to try for a day, that's a different game.
+
+Okay. So I'm going to give you real actual financial reports and ask you questions about.
+
+That's a different kind of thing that we're mostly that we're going to be practicing.
+
+You really have to take that yourself and work your way up into that.
+
+Okay. But anyway, so my point being obvious is that I actually got artificial intelligence to do the latter problem.
+
+Saying, here's a financial statement. Here's some questions.
+
+Tell me the answers. And I had to do a little bit of coaching.
+
+That's correct. Okay. That was a different.
+
+That was that was a different kind of thing because you get to see like anything else to learn little pieces,
+
+you know, anything you can break down into a little piece. Done.
+
+You know, this automatic. What you really have to understand is what the heck you're doing, right?
+
+What is going on here? How does the system work at the fundamental level?
+
+And that's what I just have designed this class to do.
+
+That's the way I approach everything, you know, which has its good and bad parts.
+
+But, uh, now I feel totally vindicated because, you know, because all those people that's been all the time memorizing things that change.
+
+That's not what you need to understand. Okay. So here we go.
+
+Uh, this is the handle. Any questions about any of that?
+
+That was. I've, uh. Um, it's the first course.
+
+I assume nobody has any background. Blah blah blah.
+
+Uh, but before we were, you know, I subtracted my I diverted myself because I really should have said before we do any of these things.
+
+Um, I have an investment opportunity for you.
+
+Right? Let me let me get a a, um. Confidence monitor going here so I can see what's going on with you.
+
+Okay. All right. So now I assume that everybody does.
+
+Everybody. So anybody live on this side of Whitney Avenue? You know, everybody had to come across Whitney Avenue, right?
+
+How did you feel this when you came across the Whitney across Whitney Avenue that you were kind of.
+
+Taking a little bit of a step into the real world. You know, you kind of got away from campus.
+
+I didn't like it when they built a school here, by the way. I want it to be over there. But no, no, like Harvard business schools across the river.
+
+We're not that far. But still, you know, we're pretty well grounded in reality relative to, uh, my arts and sciences colleagues.
+
+I mean, I like that. So a lot of the stuff that I tell that I'm going to show you, including this, is real.
+
+You know, I might I'm sure there's a lot of problems that I'm going to make up.
+
+You can see what where those are coming, but you can also see where something real. What I'm going to talk to you about today is right now is real.
+
+Again, it's an investment opportunity. And it's a thing called FSS.
+
+And here's the way it works. There's a $50,000 minimum investment.
+
+And you can put more money in every month if you want, but only monthly.
+
+I'm not a bank. You can't. You're going to come in and get two bucks back from me every five minutes.
+
+No no, no. This investment. Okay.
+
+I run it. You can get your money out at the end of the month.
+
+Let's say every month. You want your money out. Just tell me.
+
+I'll give you a check. I'm going to charge you fees, which are.
+
+This is a standard kind of hedge fund and private equity kind of fee.
+
+It's a little low for some things. 1% of assets under management.
+
+So if you give me a hundred bucks and I manage it for a year, I'm charging you a dollar.
+
+Okay, that makes sense. Does this follow anybody or some?
+
+Some. Yes. Some. No. How many? How many of us are familiar with this kind of structure?
+
+Yeah. So several of you. Yeah. You did you work in these things or you just talk about.
+
+Just in general general interest. Okay. But a lot of remember how many people never, ever seen anything like this.
+
+Yeah, that would have been me. I have never seen anything like this. Okay. All right.
+
+Good. So. Okay, so that's the deal.
+
+Yeah. Who's going to give me my. This could be somebody.
+
+Possibly. Possibly. I don't know, why wouldn't you give me money?
+
+I mean, I'm, you know, you're right. I'm I'm. I'm expert.
+
+You don't give. Just give me your money. We don't have any of your previous return, you know.
+
+Very good, right? The first question you should ask is.
+
+Wait a minute. You know money for what?
+
+And what you can do with this. Right. And you, you got a very astute question, which is just tell me about your past.
+
+Right. Do you have a past? Number one is, do you have a track record?
+
+All right, but it's not very good. Usually that takes a while to get out, right?
+
+Because at first people would ask me, well, exactly what are you going to do with the money?
+
+I'm not telling you, you know, I'm a I'm a financial wizard.
+
+And if I told you, everybody wouldn't be doing it. I give away my secret sauce.
+
+I'm not doing that. So you don't want to invest in me, just, you know, go ahead.
+
+But I can show you my past returns. Okay, so I do have a track record.
+
+Is everybody okay with that? Who's a data science? Somebody who's a data science major.
+
+Economics data in Manhattan? Yeah. You know, it's the first thing you should think of is.
+
+All right. So yeah, there's a track record. So here it is.
+
+Okay, so in year, the first year I started this, I produced returns of like 18.58%.
+
+And then the next year 14.67%.
+
+And again, keep in mind these are all real. This is all real. And then 11.68 and then 11 and blah blah, blah, blah, blah blah.
+
+So here it is. You know, my worst performance was 9.33%.
+
+Are you ready? Are you going to do it now? No. Why not? I don't have a benchmark about how how the overall margin for each year.
+
+Okay. So you just know a bunch of raw numbers, right? These numbers are broken.
+
+Yeah. It's still a lot of questions. Left, right. Like.
+
+Well, there are many, many questions, right? So one is, well, how much were you invested?
+
+You know, because maybe, maybe I know something that has a cap that I could make, could work 100 bucks with.
+
+But if I try to do it with 100,000, you know, it's just not there.
+
+Okay, so there's a scale issue, right? And I think I've also been very deceptive about the way I put the data.
+
+What's deceptive about it. Is it not good things do not include fees.
+
+Yeah, it does include things. Yeah.
+
+I didn't say when the years were. You just kind of indexed them.
+
+Yeah, I indexed the years. I didn't tell you what years these are, right.
+
+There are probably. If you really want to go crazy about it. I didn't tell you the economy I was in or anything like that.
+
+Right? So I know the first house I bought in 1982, my mortgage rate was was 20%, though most people have never seen it like that.
+
+I saw that, but, you know, interest rates were very high there, so earning 9% wouldn't be so good.
+
+On the other hand, you know, through most of your lives, interest rates a very low.
+
+So if I tell you an 18.5% in a year, it's like, wow, that's huge.
+
+But by just indexing the year and not giving you enough context, I destroyed your ability.
+
+Basically, I withhold care of your ability to make any kind of meaningful comparisons.
+
+Right? Because what you really need to understand is what these data look like relative to what who's who's in economics.
+
+Before you give me the money, are you relative to what you are relative to the market?
+
+Well, that's a specific example. It's a relative to the market, but that's a specific example.
+
+So you're about to take an action which would be say to invest with me.
+
+What is what's the economic theory telling you about how you should work.
+
+How should you decide whether to invest with me or not?
+
+Yes. Based on if the earnings are more than the S&P 500 or that's another specific incident.
+
+So the market, the S&P 500, those are specific examples of a concept.
+
+Yes. Opportunity cost. Opportunity cost. Ding ding ding ding ding ding ding.
+
+You left right. Opportunity cost right. Now that's kind of tautological in a way because how do we define opportunity cost.
+
+We define opportunity cost as what you could have earned with the next with the next best alternative.
+
+Right. So that's why I said you guys that you had part of it, but you don't know that the market was the best alternative.
+
+Everybody see that? Do you see what? What we just did.
+
+We didn't take an idea that seems esoteric and only and only, um, almost logical.
+
+Why did Migrant Chicken cross the road? To get to the other side? Why did you do that?
+
+Well, because it was better than all the rest. That's basically what I'm saying.
+
+But you'll notice that. Notice what? How powerful that framing of the problem was.
+
+It put me in the right mindset to ask for my service.
+
+Great that because in order to access the opportunity cost, you have to.
+
+It gets you to thinking about what? What else can I do with the money?
+
+You know, it's not that that mental framework of opportunity cost or that economic logic was anything other than a tautology, but it was a useful one.
+
+It led us into a different way of thinking. So, yeah, let's let's let's, um.
+
+Let's let's get rid of all that by. Uh, saying here's bye for four times.
+
+Okay. And if you started with a dollar in my account, I've run this thing for, like, you know what, 13, 14 periods, years, years?
+
+Actually, these are years, I'll tell you that. That's another thing I didn't tell you, right?
+
+Was how long the period was coming.
+
+I got to say stuff like I say stuff like this all the time. I mean, you know.
+
+You know who else made that mistake? Hammurabi. You know I'm right.
+
+Yes. These laws. Right. And one of the laws he was writing that was about interest.
+
+So they capped the interest rate.
+
+I guess if you look at that giant stone steel in the cipher, he kept the interest rate, but he didn't say what the period was.
+
+I mean, probably if you did it in a way that disagreed with him, you'd probably just get executed anyway for the loan or something.
+
+So I think should go time anyway. I didn't tell you that here, but it's years.
+
+So if you started with a dollar and you kept it with me, you didn't take any out.
+
+You didn't put any more in. By the end of the time, you'd have five bucks.
+
+So what else could you have done? Well, one thing is you could have loaned it to the US government.
+
+And we're going to talk about how do you how we do that. One way we do that is through Treasury bills and Treasury bills.
+
+And U.S. government securities are widely viewed as like the safest things on the planet.
+
+This is true even though occasionally we have people now saying we'll just default on our debt.
+
+Yeah, you never want to think about what that would what that would do.
+
+Right. But T-bills. So if you put a dollar in T-bills at the same time now.
+
+So I will tell you now I've lined up the dates.
+
+So it's the same period one, if you put your dollar in T-bills then you would end up with um.
+
+You know, $1.72. See.
+
+So I just beat the crap out of T-bills, right?
+
+But then you also mentioned S&P 500 or other types of indices.
+
+Right. Okay. So anyway, you know I don't need to go through this right there.
+
+No. Okay. That's this is what would have happened if you would have invested in the S&P 500.
+
+Okay. And you would have ended up.
+
+Look at that. About the same place.
+
+Okay. Now, it's true that some periods of time like around period nine, the S&P 500 outperform me.
+
+But on average, look you ended up with the best place. So we're gonna fold all the pictures together and this is what we get.
+
+I actually beat the S&P 500 over. So now you ready to give me some money?
+
+No. Why not? Because you could have them.
+
+If you had just invested the S&P, you would have sold at around, like somewhere near the high and reinvested it into something else that higher out.
+
+Oh, well. 000.
+
+So the argument is if you're invest in the S&P 500, maybe you could have sold it.
+
+The high reinvested it. That's market time.
+
+That's still market target. There is a lot of research that says that's just not possible.
+
+Okay. And furthermore, I would say if you couldn't do that, then why don't you stick with me where I outperform?
+
+Go into the S&P 500 when you know all it's going to be good because you can get you can get your money out at the end of the month, right?
+
+So why don't you just take the backseat to those things. That's what you'd like to do.
+
+But this is where the efficient markets hypothesis comes.
+
+It's gotten a lot of flak lately, but it came from a time when everybody,
+
+a bunch of people, they were all cells and thought that they can beat the market.
+
+And just like the idea of the opportunity cost or the idea of efficient markets get you to say, be very skeptical.
+
+Be very skeptical of anybody who says, oh, they have time market, whatever.
+
+Okay. Because all the academic research we can say that can be done.
+
+You know, now, is it totally impossible? Well, John Simons with Renaissance Capital has an incredible record realized.
+
+But, you know, on average, people are not doing that and they're not telling us about any of this.
+
+Okay. So in fact, if I give somebody investment advice or they come to me.
+
+And so the first thing I ask is what's the. And I got this from my colleague and business partner at the time.
+
+He's one of the titans of finance who passed away informally. But the first thing I want to ask is what's your horizon?
+
+How long are we talking about? Okay.
+
+So we're talking about a long period of time then that you're going to do something differently than if it's a short period of time, right?
+
+And so if it's a long period of time, you're best, you know,
+
+unless you have inside information somehow, uh, your best bet is you just put money in an index file.
+
+What I do with my what I do with my money is just put it in the S&P 500 index and just forget it.
+
+Although at 72, I got to start paying attention to, you know, the my horizons shortening anyway.
+
+Okay. There are other things you could ask about.
+
+You could ask questions about my organization, like, um.
+
+Well, you know, before we go back, I want to talk about these three graphs up here.
+
+Right. Because one of the things you want to.
+
+It's working. All right.
+
+So one of the things you might want to notice is some properties about these lights.
+
+And there's two properties of the lights that sort of are stand out to me.
+
+One is how they grow like that, the growth over time.
+
+And the other one is how wiggly they are. Right.
+
+So the lights are different in this respect. So like the US typical line, as you would expect, it's very smooth over time.
+
+You know it's those are processed by the U.S. government. And so they're very smooth.
+
+The market line, the red line, it ends up higher than the T-bill line.
+
+But it moves around a lot. Okay. So if you bought it, you know, if you buy it the right time and sell out at the right time, hey, you're making a lot.
+
+But if you bought it at the wrong time and sold at the wrong time, you're gonna lose your shirt, right?
+
+So if you bought at the peak there in nine and you sold out at 12, you've lost a lot.
+
+Okay. But those two properties kind of the how it behaves over time and expected, which you know, in a good way.
+
+We're going to talk about an expected return way versus what's its wiggle factor.
+
+We'll get into that. Okay. Now you could ask you could ask information about my organization.
+
+So I'll tell you right now I have $5.1 billion in assets I'm doing this with.
+
+So your investments not going to mess around at all.
+
+In fact, my I have other strategies and all together I manage $8.3 billion.
+
+Yeah, this is all true. Okay.
+
+Now, are you ready to invest? Hey.
+
+Yeah, it's starting to be a pretty good case, right? Okay.
+
+So anybody know what these numbers where the numbers came from.
+
+Yeah. Is it S.A.C. after all?
+
+Who S.A.C. or SAC capital? Stephen Cohen back in the day.
+
+Yeah. Before he became Bering Point or whatever it began.
+
+No, no. I'll show you.
+
+It's actually a thing called the Fairfield Century Fund, and it was headquartered in Greenwich.
+
+The time period was 1990 to the middle of 2004.
+
+Okay. And their wizardry was this hedge fund type where thing took all its money just without gathering a bunch of money and gave it to that guy.
+
+We know that guy. A bunch of don't know that guy.
+
+It, um. You know, teaching people that remain the same age after years.
+
+Very instructive. Right? That's Bernard Madoff.
+
+You know, the perpetrator of the biggest Ponzi scheme, uh, that has been caught.
+
+Okay. And, uh, he did he did actually.
+
+No investing. No. He first got sent into the Butner, uh, Correctional Institute, and, uh, he eventually died in prison.
+
+Okay. And there's a bunch of stuff if you want to go back and read the slides, I always post the slides about the Madoff recovery and all that,
+
+the fees to clean up his mess, the legal fees to clean it, clean it up.
+
+Right. $1.25 billion. All right.
+
+And, um, you can watch that video if you want to see some stuff about it.
+
+So the interesting thing about this story is there's two parts.
+
+Uh, the defining story is that if you know financial theory, the picture that I gave you of my returns was too good to be true.
+
+So there was a guy named Harry Markopolos that tried to tell the SEC this for years.
+
+They didn't listen. They didn't really audit Madoff the way they should or check up on it.
+
+Anyway, the. And so, uh, he said, look, these are two.
+
+This is too good to be true. So what are you good at?
+
+But but it's too good to be true in a very interesting way. The interesting way is.
+
+Well. Um.
+
+You know. What do you think about risk in return? If you take a risk, should you get a high return?
+
+You might expect a high return, but you don't necessarily get a high return.
+
+That's what risk means. Okay, so if you take risks, should you expect a high return?
+
+Yes. But can you get a lot of risk?
+
+So. So I can put it up right now. What does that really mean?
+
+It means that in a market there's going to be competition for these investments.
+
+So prices should adjust in a way that, uh, that means.
+
+That there's, like, no free lunch, right? I mean, if you're going to get a higher expected return, you have to take more risk.
+
+That's. The property of the line I showed you that fails.
+
+It's got the smoothness of the government, but it goes up at like the market.
+
+That's a that's an impossible combination of risk and return.
+
+It's a combination of risk, which are the only way that you should be able to get a higher expected return is to take more risk.
+
+You can take risk without getting a high expected return.
+
+We could all just load ourselves up and go down to Foxwoods and start, you know, or the Mohegan Sun or whatever.
+
+We don't even have to do that, right? We'll just get on the 8 million FanDuel.
+
+Right. So you can take risks without getting a high return, but you can't get a high return with high expected return without taking risk.
+
+Okay. That's all like sort of finance theory. Okay.
+
+All right. That's too good to be true. Combination of risk return and Ponzi schemes.
+
+Okay, let's see now. I got a I got to do one more bit of surgery here with the, uh, investment game here.
+
+I thought what we would do today is if this going to work.
+
+I got to be careful that. Oh, I see, I got it.
+
+I set up my slide show. I know.
+
+Oh, I got it. I got to change the slideshows.
+
+Slideshow since. Slideshow.
+
+Let's see. Let's see what happens there. That's right.
+
+Mhm. Mhm. Mhm. Okay. All right.
+
+So that's it's called a Ponzi scheme. Do you know why it's called Ponzi scheme?
+
+From a guy named Ponzi. Okay. And with Madoff.
+
+Until a side story. Then I got to stop with these slices.
+
+Went with the same friend of mine that was a finance expert when the Madoff thing came to light.
+
+His mother in law was in, like, an old folks home or whatever.
+
+And so Steve and his wife were talking about Madoff, Madoff, Madoff, and all of who's like 100 years old said, uh, what is this?
+
+What is this? Oh, that was kind of crazy.
+
+And and they said, well, and these, like, personal alarm, you know, this is about a Ponzi scheme.
+
+You know what a Ponzi scheme does? It helps. It do, I don't know, a clumsy scheme is I knew Mr. Ponzi.
+
+He lived on the corner. Whatever. He stole this word for money. Okay.
+
+So that's where it came from. And and so, um, let's just see how these things work and what's really going on.
+
+Okay. The idea of it is to convince people to make basically an accounting mistake.
+
+And the mistake is to confuse the creation of wealth,
+
+which is what a good investment should do with the redistribution of wealth, which just means moving money around to people.
+
+Okay. All right. So I selected 11 of you at random, and each of you will have an absolutely.
+
+All people should have one, two, three, four, five, six, seven. Oh, we got a good chance.
+
+Okay. And I'm going to give you an endowment of Bitcoin. And, uh, you get to play along.
+
+Okay. We'll make some investments and you'll see how it works. Me too. Do I have Nina here?
+
+Nina didn't show up. Who wants to be Nina?
+
+Hey. Come on. If your name's not on the list, will you be Mina?
+
+Okay. Thank you. Aaron. Oh, God. Aaron.
+
+Okay. Sidney. We got Sidney. Good.
+
+Sidney. Clipboard there. Oh, that's not good.
+
+Uh, Olivia. Olivia. Who wants to be Olivia?
+
+Come on. Be Olivia. All right. Thank you for Olivia. I forgot to do a Kylie.
+
+Do we have all these people? No. Kylie. Oh, my goodness.
+
+You'll be Kylie revoir, Kylie. I know you're on that.
+
+You're on there already. Anyway, you'll be Kylie. Okay, good. Uh, Isaac, are you here?
+
+Isaac. Rubin. Rubin. Girl. Joya.
+
+Joy. Uh. Emma, do I have Emma? Who's going to be Emma?
+
+Come on. You'll be okay. All right. Uh, Lucas.
+
+There's a. Oh, there you go. All right, so here you go. And there's your bitcoins.
+
+Now, um, so here's the investment company rules.
+
+Then it's Rickie Lee Ansel investment securities. That's my legal name.
+
+I'm from the South. I can't do anything about it. You can call me Rickie.
+
+And. My mother did. But don't.
+
+No. You can't. But anyway, that's a deal. That's my legal name.
+
+That's it. I had to face up to this when they. You know, that security changes, you know?
+
+And I had everything. Had to agree. My frequent flier miles and my airline ticket had to agree with my passport and all this stuff.
+
+Usability savvy. Rick can't do that anymore anyway. Okay. And I'm going to start with 20 bitcoin.
+
+And I'm going to tell you that the investment that you get to get is pays off 100% for a period.
+
+So you just double your money every period basically. And we're not going to take any fees.
+
+This is actually a little bit of that is I don't take any fees. Minimum investment five Bitcoin.
+
+And again I'm not a bank. So you put the money in at the beginning of the period.
+
+Then you have to take it out at the end. Oh you. Okay.
+
+So just so we understand what the stakes are what happens if I do this.
+
+This is Bitcoin. That's the price of bitcoin. $90,000.
+
+Uh. I don't know. I'll do it. I got some too many cookies.
+
+Okay. And you can see. And this is even. What is this? Oh, this is just this morning.
+
+So right or left from last night? I didn't create an account. No no no no no no.
+
+But right now, the price is, let's say $90,000. Okay.
+
+So you have five Bitcoin. You have. What's that for. Um, 40 $450,000 right.
+
+If you have five do that. And if we have ten Bitcoin you have like $90,000.
+
+Okay. All right, so here we go.
+
+Now, uh, who. Who agreed to be meta? Uh, you would you invest with me?
+
+Yeah. Yeah. You will. You will? Yeah. Okay.
+
+Well. Round one. All right. Mina, invest with me.
+
+Okay. So this this little movement, I.
+
+I got to stop doing this. But, you know, the little borders around things indicate the boundaries of some entity.
+
+Right. So what happens is Lina took five bitcoin that was under her control and transferred it to me basically.
+
+And so I try to give you that feel by putting it inside the boundary of the label of the thing.
+
+Okay. That's a big deal in accounting. Just to warm up.
+
+I mean, you can't sell somebody. You can't sell yourself something and make a profit.
+
+Right. You've tell somebody else anyway. Okay.
+
+Aaron. Aaron, give me your five o. Give me your five.
+
+Sure. You trust me? What? You know why not, right with Sidney.
+
+Sidney. Give me your Sidney. Give me your five. This is not a hard day for sure.
+
+Right? And Playboy. Clay. What? Give me your five.
+
+Okay, so what did we just do? Well, all right, you know.
+
+All right, I guess. Madoff did his thing through the Bernard Madoff investment.
+
+Bloom. As they call it. Okay, so now I.
+
+So what happened was I took all of the people's money, and now I have the money, right?
+
+The bitcoin. What do we think? And that's what happened at the beginning of the period.
+
+What's supposed to happen during the period. During the period I'm supposed to invest it, right?
+
+And therefore in that take, I'm going to take the 40. I'm going to take the 20 I got from you, and you would expect me to use my own as well, right?
+
+If I'm if I can really make 100% returns, what am I going to have to sit there with?
+
+20 Bitcoin not at work. Okay. But let's be clear.
+
+So far the total group of all of us, me and all the investors, if you add up all the wealth in the group it's 200 Bitcoin okay.
+
+Now earnings occurred during the period.
+
+So what's supposed to happen. So what's supposed to happen is that.
+
+More money through interactions with other parties.
+
+Not my investors. Or else. Oh, really?
+
+Is this supposed to bring in a bunch of money? So it's supposed to get bigger, right?
+
+That's what's supposed to happen. That's what I meant when I said a 100% return.
+
+Right. I use the word return. And return kind of indicates that it's like an investment, right?
+
+What is an investment? An investment is you put some money in and you create more wealth than you put in, and you get back more than you put in.
+
+Why do you get back more than you put in? Well, because something was created. Right.
+
+That's that. That's the mindset that you start when you use these words, invest in return.
+
+You get people to frame the problem as one of a productive investment.
+
+Step number one. I. This is now twice.
+
+We've got a framing thing. Opportunity cost what three times.
+
+Action. Opportunity cost, risk and return.
+
+And now this. Okay. If you get people on the right.
+
+If you get if you get them to frame a problem the way you want them to frame it, they're much more likely to give you the answer that you want.
+
+This is salesmanship, right? You get them to think about it in a certain way.
+
+Okay. All right. So the reported wealth of the group, we asked 240.
+
+But what's the dirty little secret? The dirty little secret is I don't do anything with this money except maybe consume whatever I want.
+
+So in reality, the actual return is zero.
+
+So in reality, this is the picture. It just stays there. I got in, I moved money from the four of you to me.
+
+I didn't do anything with it. Anything productive with it.
+
+That's what I mean by redistribution.
+
+Taking it from some people, giving it to others, or taking it from some entity, giving it to others, saying it from me, giving it to you.
+
+That's, you know, if that'd be a redistribution.
+
+Okay. All right.
+
+Next round. Olivia. And, uh, Kylie, I don't know.
+
+What do I got? Lucas and Emma. Oh, no, wait. I got some withdrawals.
+
+I'm sorry. At the end of the period. Mina.
+
+Hey, what are you looking at? You gave me five at the beginning.
+
+I'm telling you, you have 100% return. You looked at me and say I've got ten.
+
+Give me my ten bucks. I'm out of here. Okay. There you go. Mina, you got your ten?
+
+Uh, I think Aaron also. Aaron. 1 in 5.
+
+It's a five back. Okay. And, uh, that's all I think, right?
+
+Okay, fine. Now, something very, very important also just happened.
+
+Aaron. Aaron. Remind me. Aaron. Again. I'm very good. Aaron.
+
+So you talked to your friends, right? And you tell your friends, like.
+
+Well, I invested with RL, I guess, right? How they work out.
+
+For you. I didn't do anything. What?
+
+It didn't do anything. Well, you gave me five. You got your five back.
+
+But you still have money in your account. Okay.
+
+Do you see that? Because your accounts grew to include the hypothetical earnings.
+
+So let's see what your statement would look like. Okay.
+
+So so so so. Did I get that wrong?
+
+Right, Eric? Right. No.
+
+Whatever. I don't know. Anyway, this is what the statements would look like, right?
+
+So Mina cashed out completely. Uh uh.
+
+Aaron put in five. I would say you earned five and then you took out five.
+
+But then you look at your stick when you say, I got five left. You could have gotten ten, right?
+
+Or if I talked to him or if Mina talked to her friends. How?
+
+How'd that work out? Oh, that worked out really well, right?
+
+I gave five, I got I doubled my money in one period.
+
+Hey, I gotta get some of that. Now you're talking to people that have actual experience of getting back more than they put in.
+
+See how powerful that could be in a community?
+
+These are called opportunity frauds, where you take advantage of people's networks of other people or their friends.
+
+Okay. You know, people invest in something else.
+
+You didn't earn 100%. We just going to say, what the [INAUDIBLE] do you do that for?
+
+You could have given it to Rick. You're 100%. I did it.
+
+Got paid off. I'm done. Okay, but you see what I've done?
+
+I've redistributed wealth among the group. I haven't done anything with that.
+
+But the people who got back more than they put in.
+
+Didn't think of this as I'm accepting stolen property.
+
+They thought of that as well. That's their fair return on their investment.
+
+Right. After all, I promised 100%. I gave you 100%.
+
+You have experience. Fine. So okay so there's the balances at the end.
+
+So notice that. What happened in aggregate was, you know, I started with nothing.
+
+People put in 20. I say they earned 20 and the withdrawals were 15.
+
+So with the in the balance on all the statements, if I add up the balances, they end up to be 25.
+
+But what's actually happening? Let's look at the cash I actually have.
+
+Well, I started with my 20 people put in 20.
+
+I dealt back out 15. So I ended up five.
+
+Bitcoin ahead. Right now.
+
+I don't know if I did this on purpose or not, but notice what? Notice what people think they have and what I could actually pay.
+
+Would work if everybody now suddenly says, hey, I'm out of here, I'm done.
+
+And cash. Cash in. Then I would have enough.
+
+To, um, pay them, but only because my endowment covered their contributions.
+
+Okay with that? Everybody okay so far, you know?
+
+Yes. Um. Does that mean that a Ponzi scheme can be, like, sustainable?
+
+As long as a bunch of people don't cash out at the same time?
+
+And more people eat less. So the question is.
+
+Whoa. Uh, because you're anticipating what's coming.
+
+Right. So this is a very special property where I could just happen to cover it.
+
+Let's go one more round and see what happens. Okay. And one more round.
+
+And I'm just going to talk to this. So we're about out of time. I'm going to get ten from Olivia.
+
+I'm going to get ten from Kylie. I'm going to get ten from Lucas and ten from Emma.
+
+Okay. And then I'm going to pay out some stuff people want to cash in.
+
+Uh, this is what I say is happening, right?
+
+That it goes further than that. And let's say Aaron wants to cash out.
+
+Okay, fine. Uh, now you end up with 50, right?
+
+So from your point of view, hey, you put in five. You and you walked away with with 15.
+
+So imagine what the talk is in.
+
+Among certain circles. Okay. And Sydney gonna give you back your ten.
+
+And Kylie, you're going to take your ten. And so now here, let's look at this.
+
+Um, this is these are people's statements. And to sum everything up, um, the statement totals 100.
+
+Now because I've had two I've got I'm checking people have had earnings.
+
+It's total earnings of 65 actually it happened didn't have anything.
+
+And I only have 35. Okay.
+
+So you you're seeing ahead right.
+
+Because if everybody comes and demands their money I can't do it.
+
+Can you imagine the character of this guy, Bernie Madoff,
+
+who for 13 years could run this scam and be in a position where he knew he couldn't cover it if everybody wanted their money back?
+
+What kind of person could do that? You know, think about if you psych people.
+
+Think about that. Um, and there's a real chilling interview.
+
+He finally talked to somebody who reported who called him from prison. There's a podcast about this which I recommend, and he talks to this person.
+
+It's very, you know, clear that this guy's a sociopath or something.
+
+I don't know them. All right. Okay. So now you see the risk right now.
+
+Okay. Let's go to round. Let's go to round three okay I'm going to get joy is going to give me your 40 and Reuben is going to give you the 40.
+
+Do you feel the do you feel the money the Bitcoin going out of your.
+
+And Isaac's going to give me 40.
+
+So did you hear that. But this is saying.
+
+You know, it's just like part of the game.
+
+I don't suit you.
+
+Okay. That's what a smart Ponzi scheme does, right?
+
+Who leaves? I mean, that's the only way you're ever going to get away with this is if you take off at the right time.
+
+Right. He didn't didn't do it.
+
+We don't know how many people have, but we know some cases of people who've taken off and gotten away with it.
+
+Ponzi didn't. Madoff didn't. I don't know if that's the idea.
+
+Okay. Of the of the Ponzi scheme. Now, if you look at a lot of the numbers really carefully, you can find that.
+
+That, uh, look at the earnings line in these to these two, uh, summary tables, right.
+
+I'm telling the investors that, well, where we've earned 65, but in actuality, I've in actual earnings were zero.
+
+Now here, everything's just in cash. So there's no question what do you mean by earnings or by blah, blah, blah, blah blah.
+
+We'll get into that. This is this is all fairly clear. Is this cash is coming in and out.
+
+This just cash basis accounting is just keeping track of the cash.
+
+It's not fancy right. But you can see what's happening.
+
+The fraud is because I'm committing an accounting fraud. Really?
+
+By telling you. By mischaracterizing. What's happening with all this money starts around.
+
+Right. What's really important is what's really going on and basically how it how is
+
+how are the numbers that I'm looking at reflecting what's really going on.
+
+Or what's going on underneath. And here, like I said, it's actually a very simple, um, accounting system you have to have.
+
+I didn't I didn't do any fancy accounting for this, although I did uh,
+
+it started when I started keeping track of so many cash flows going in and out of
+
+get a little worried that maybe I should have done a more formal accounting system.
+
+Because we can imagine for 13 years, all the all the manipulation, the manipulation that Madoff must have done,
+
+sending out statements to thousands of people and all this stuff anyway.
+
+Okay. All right. So here's what happened to everybody.
+
+Right. And notice that we have um, and now, you know, imagine that I had left.
+
+Okay. Or when Madoff, uh, absconded.
+
+So what happened was basically the investors all started off at 180 as a group, and they ended up with 45.
+
+So they're down 135. And of course, where is the 135?
+
+Will I have it? So basically all I did was I transferred 135 Bitcoin from the group of you to me, right?
+
+That's what I mean by a redistribution of wealth. I didn't create anything.
+
+I just moved around. Who has it? Okay.
+
+Um. Now how how can we how can we compensate for the loss?
+
+Wait a minute. When I did more of this, but I thought. I thought I said oh.
+
+First of all, we could ask, what? What's the loss of the investors here?
+
+I made a little, I didn't. I tried to in order to make the spit.
+
+I didn't tell you the ending balance in their statements, but you can imagine, right?
+
+So for everybody to put in 40, they're looking at a statement that says they have 80.
+
+At the end of the period. So one issue we have here is how to define the loss of the investors.
+
+Is it hot relative to what they thought they had?
+
+That's how most of them were going to say, yeah, I was a good faith investor.
+
+This is, you know. It's this.
+
+Bye. I didn't know. Well, yeah, it's.
+
+You got stolen goods. I if you to back more than that.
+
+Okay. So one question is how you define a loss. And you could define it relative to what investors thought they had.
+
+You could define it relative to an opportunity cost.
+
+Well if you would have put in this money at this time in government bonds or this or that, what would you have ended up with?
+
+You know, if you would have known it was a fraud to avoid it going into it. Or you could just look at, hey, how much cash are you out?
+
+That's what we do. Okay.
+
+This is a this is not an accounting question or an esoteric, but this is a legal question of how are we going to deal with this situation.
+
+And we can't, you know, all these other things about what people thought they had or what they could have had and or a different thing.
+
+That's all hypothetical. Let's just look at how much they lost, how much cash.
+
+They're down. They're down 135 okay.
+
+But as a group, you're down 135. But it's not all a uniform experience, because some of you pull out more money than you put in.
+
+Others have you pulled out nothing. Right.
+
+Some of you pulled some out. Still have some in.
+
+So let's do this. Let's look at, uh, look at Mina.
+
+Put in five. Took out ten. Aaron.
+
+Oh. Big winner. Right. Put in five. Took out 15.
+
+Sydney. Put in five. Took out ten. Okay, so all those people are what we would call the winners.
+
+We only have one other.
+
+But Kyle, who's all the other person that took out, um, anything and Kylie just sort of broke even put in ten, took out their statement, said.
+
+But they still have money in there. But it's not. Okay.
+
+So. So Kylie did not a winner or loser. So what we do is we we go into the investor pool and we separate the winners in the losers.
+
+Just based on the cash, how much cash you put in. And so what are we going to do?
+
+We're going to take these net winnings. I'm not going to try. I'm not going to get back more from somebody.
+
+I'm not going to impose the loss equally on the investors, which we could do.
+
+Right. You could say, all right, everybody, give me. You know, take all the money you got that I got from our.
+
+You got ten. You got 15. You got ten. Give me all that.
+
+I'll divide that up and all the losses will be shared equitably. But don't do that.
+
+Instead, what we do is take the gains from the winners. And we distribute them to the losers as a group.
+
+Okay. So allocate that somehow. And that's what we're going to call.
+
+You know, it's over. Boom.
+
+Done. Okay. So, you know, there is a mixture of all kinds of stuff and what we just did.
+
+Right? Some of it ideas, some of it getting people to frame a problem in a in the incorrect way, which made them susceptible to my fraud.
+
+Right. Thinking that they were investing and getting their fair share of a return instead of stolen property.
+
+If I came to you and said, hey, uh, would you take this stolen?
+
+You know, if I would have been honest with you with Aaron and said, oh, here, would you take some stolen property?
+
+You see, now let's take that, but I wasn't.
+
+Okay. So, um. So there was sort of a mixture of concepts.
+
+But then also there's a mixture of really practicality in there, especially when we got down to how are we going to deal with the losses.
+
+Right. Or the winners, you know. Am I going to take the group investors as a group?
+
+What did they lose as a group and make that shared somehow equitably among the group?
+
+No. Why? That's mainly because that's not going to work, right?
+
+The people that were then winners with. Really feel like they've been ripped off.
+
+Because all they, all they did was get their money back. Good.
+
+I mean. I mean, I mean, if we. Yeah, if we just take away their winnings, we just say, okay, uh, you put money in, you took it out.
+
+I'm going to stop that accounting at the time when you were equal, when your withdrawals equaled your your, uh, deposits.
+
+Okay. So, uh, sort of.
+
+So in the end, this thing ends up being very practical. Now, I want to ask you this.
+
+Who lost the most money? Yeah.
+
+Um, anybody? That's for you. Yeah.
+
+And when and and well there's investing 40 but also there is another property to it which is those are the late investors.
+
+So you can see that it might work this way. Like at first you do with a little bit.
+
+And then when word starts spreading hey, you get 100% return on this.
+
+Then people start investing more and more and more and more.
+
+But really, you would think of it this way, the people who lost were the people who were late investors.
+
+And that's correlated with the amount they invest in here. Right. But the people are late investors.
+
+Now, part of the reason is, you know, I was actually the liquidating trustee for not the whole Fairfield Century funds,
+
+but a sub fund of that, um, called the Greenwich Century Funds.
+
+So what that meant was they'd gone through the bankruptcy and all this.
+
+And my job was to do an attorney take money away from the winners and redistribute it to the losers.
+
+That's what I did. Yeah. But if the winners spent their money already.
+
+Well, this is a big problem, right? What if they spent the money?
+
+What if it doesn't exist? So when we start this kind of a clawback, another big issue is over.
+
+What time period are you allowed to clawback the earnings? Right.
+
+I mean, could you really go back 13 years from somebody and say, hey, you withdrew 13 years ago more than you put in or 12 years ago?
+
+Yeah. So there's kind of a statute of limitations even on that. Okay, even on the clawback.
+
+If you could only do this kind of calculating winners far enough back in time.
+
+Also, you might not even have the records to do it. Like far enough back in time.
+
+And you certainly don't know what anybody's done with the money. But how did I get to this?
+
+How did I get this appointed as this trustee? Well, through a law firm that I worked with on another matter.
+
+And, uh, they were plaintiff's attorney. And so, uh, we could go into this.
+
+How could you get away with this so long? Where were the auditors? There was also an auditing fraud going on here.
+
+Um, and so the person wanted to maybe sue the auditors.
+
+So they brought me in as an expert to try to figure that out. That didn't go anywhere.
+
+But then they decided, okay, um, you know, let's let's nominate this guy to be the trustee.
+
+So that's how I got it. The reason I got the job, though, also was the person that they had that they represented.
+
+The total losses of the whole group might have been like 400 million. This is a guy that lost $55 million in a month.
+
+He gave $55 million to Madoff one month before the thing crashed.
+
+So that's like I took the I took the losers and, uh, data and sorted it by where did they invest?
+
+And it's just like the most recent people.
+
+It's almost. I want to say I don't think this is the right analogy. If you guys could think of the right analogy, let me know.
+
+So was sort of like musical chairs or something. You know, the last you kind of get the do, it's not the right.
+
+It's not the right example really. But the last people are really the ones holding the bag.
+
+It is kind of redistribution thing. Okay, so there's two parts of the story.
+
+What are we. Oh, what are we doing to do with Rick? There's Rick. And so it really is Rick canceled.
+
+But it's not the wrong. It's not the right one. That's a he was president of Chatham in law.
+
+And I know it's not probably related to me in some way. I don't know this one.
+
+Well, it's an old picture, but what are we going to do with this guy? Let's throw him in there in the sand.
+
+Okay. So we're going to develop more of the background.
+
+This is kind of an extreme case.
+
+I have a tendency to to show you some extreme case so that you can get a perspective on what it is we're really trying to do here.
+
+There is not a big problem associated with defining earnings or any of this is all just cash displayed around one big fraud.
+
+Okay, now there's two parts we're going to cover. The first is the finance part.
+
+And we're going to start off next time by talking about and I'm sure a lot of you have done it already before.
+
+And I'll present values and things like that. Because in accounting what we aspire to do is track value.
+
+And how can we talk about that once we know what value means. So we're going to spend some time really developing that.
+
+And then we'll also, uh, over time we'll get into all the details of all the accounting that could be done.
+
+All right. So thanks for coming. Sorry about the classroom mix up.
+
+This is another problem as we always like to have this class in Evans Hall where we have the theory behind it, but, um.
+
+Oh, it's good activities to go, and I'll probably get us a little smaller, but.
+
+Okay. So I'll see you Wednesday. Thanks.
+
+So. Much.
+
+You're welcome. Why don't you go? Let's go.
+
+There you go. Thank you.
+
+I think it's okay. It's okay.
+
+I think that's me. And it's like, I don't know, I don't I don't really it's it's taken me to see something else that, uh.
+
+It's a long time to get the right audience. And see what's going on with the rest.
+
+If I might just shock. Oh, you know, because the first time I did the the random, the.
+
+Sorry, you were like the number one investor within like within other people and the class.
+
+And really, did you have any random numbers with you?
+
+Yeah. Yeah. That's right. Yeah.
+
+I think once you really start, I lose a lot of students.
+
+So not sure what it was, you know, that sort of thing.
+
+Well, okay. So, um, on the canvas side, there's a textbook that I wrote has all the basic stuff laid out.
+
+So there's also a website called learning Dash.
+
+It's a Yale website, and I think it's cited on the canvas site.
+
+And that's a that's also a good way to get going. I just agree.
+
+Okay. Yeah, I think you should, because a lot of the readings and stuff are going to be off the shelves.
+
+Um, I, I just want to say, um, I did internship and, um, this like, recommended me one class against this class.
+
+Oh, yeah. It was like, two years ago. Uh, like, I actually bought your textbook, and I used it during.
+
+Oh. Did you go to. Thank you, by the way? I have.
+
+It was like the red one. Yeah. Oh, the red one. Yeah, yeah.
+
+So I just want to say. So who was the person that recommended, um, auto to you?
+
+And, I mean, he was. He's part of the Yale club in Pittsburgh.
+
+Oh, yeah. His daughter. Oh, his. Oh, yeah. Okay, so his daughter took my class.
+
+Yeah. And she recommended. Yeah. Just one class if you take this one.
+
+Right. Okay. So yeah, I used to be the only person that taught it, but but but again this semester we had a junior faculty member and I said,
+
+uh, you know, I don't want to teach in the fall when you teach this section.
+
+So there's a little bit of, yeah, he's a good guy. I saw it in the fall.
+
+And I was like, oh, like, is he like where we can't go, right?
+
+All right. Yeah. Good. Good for you. Good for you. Thanks.
+
+Uh, I just wanted. I guess I'm your investor. I just wouldn't exactly introduce myself, but it's nice.
+
+Nice to meet you. Thanks for the investment. You know, sorry I had to clawback, so.
+
+Well, I actually won, so I'm not too. No, no, I would have called that. That I would have gone back there.
+
+Well you're winning, so you broke even. So.
+
+So what I invite capacity is that the trustee, through a lawyer, I wrote letters to a bunch of the people who had had, um, you know, we had one.
+
+I'm saying give money back, right? And so one of the people who was investor was a dentist in Stanford, and he wrote a check,
+
+a paper check, and I don't know, do you write paper checks anybody's done?
+
+There's a little place where you can write a memo on a paper check about what is this for?
+
+And in the memo he wrote extortion slash theft, you know,
+
+which which actually kind of pissed me off because I was dealing with all the people who really like this one guy who lost $55 million in a fight.
+
+Yeah. Okay. Yeah. You didn't get back what you thought you had.
+
+That's terrible. You shouldn't. But, you know, you don't get to keep it.
+
+But anyway, that was a real kind of eye opener thing for me.
+
+So what type of law did you practice then? Oh, I mean, everything that I've done is just through it.
+
+As an accounting expert in various types of, you know, things from, uh, you'll, you'll see it actually,
+
+you'll see several of the things that I did, I made in the cases for the class.
+
+Okay. So there's a, there's a whole series of problems that came about because of a management buyout, um, and litigation after that.
+
+And so I did some of the analysis for the plaintiff's attorney on that.
+
+And so that we were going to have like a couple of different aspects of that.
+
+Um. Uh.
+
+Have I ever. Oh. Um. You know.
+
+So the most recent damage.
+

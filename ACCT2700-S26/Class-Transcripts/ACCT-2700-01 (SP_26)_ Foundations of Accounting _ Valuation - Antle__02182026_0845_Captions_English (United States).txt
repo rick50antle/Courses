@@ -1,0 +1,1517 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+We do have a master file available for that.
+
+Then I can because I look at the parts of my and they change the problems or something that, you know, didn't did everything I share that way.
+
+So then everybody has it. Um, and then it's like, um, but it's a little update.
+
+Yeah, exactly. Yeah. Yeah. So, so also, if I copy the canvas course next year, um, you know, if I keep the same, it's a little delay.
+
+If it keeps some of the same links, then, uh, pretty soon I don't have to worry about next year.
+
+Danny, did you try it? Uh oh, I need to. No. It's okay.
+
+Sorry. I have somebody, like, three hours, so I was focusing on that. No, you shouldn't, because nobody.
+
+Somebody tried it, and I didn't know if it was you. I got to announce that, uh, I can actually try it this afternoon.
+
+No. No worries. I'm fine tuning. Uh, it's, uh, I was interested.
+
+I'm excited for it because I've used the, like, just, like, chat, like regular,
+
+uh, think sometimes for, like, finance concepts, and it's very helpful.
+
+Uh, yeah. That's an issue. It's. How helpful is it?
+
+It's like crazily helpful. What are we doing today?
+
+Recording studio. Okay. And I'll show you.
+
+Then another window. Another window.
+
+Okay. Because I built this, this, this.
+
+Oh. What's going on here?
+
+There's this idea that there's a flood of stuff in here.
+
+Which was classified. I'm sure. SharePoint.
+
+It's. I'm a little surprised.
+
+We try again to the wrong time.
+
+No, I mean, you're right. There's reasons to.
+
+Okay. You.
+
+Know better. You try on.
+
+You go to full screen. You go to this.
+
+And now see, I can't wait. You know, I don't know because it's a windows machine.
+
+I don't know that I use the keyboard commands either on Excel, but since it's the real keyboard, I don't really know if I can do that.
+
+I mean, it's a. I guess.
+
+No. I'm right. I guess. You're right.
+
+Yeah. Backspace.
+
+Delete. Backspace. Okay.
+
+Okay. What's the key of the loop. So let's say that you know let's say.
+
+First. They start here. Okay, so I didn't lose.
+
+Everybody get the problem set. So we have to wait for us, right?
+
+I think this is good news for everyone.
+
+We have it to ease. I think it's fine.
+
+Oh, yeah. Okay. Um. Boris is our one.
+
+Two. Yay! And he's here. Finally! We've got it.
+
+Besides the. Uh, you don't have to admit this, but somebody's chatting with the chat bot appear to be a little less than successful.
+
+Uh, that's maybe something I didn't teach the chat bot.
+
+My explanation of debits and credits and the flows.
+
+So with the chat bot, somebody was asking about debits and credits.
+
+And how does this work in the chat bot answered with kind of the standard answer.
+
+Yeah. You know, from wherever Claude gets his information.
+
+So that's kind of cool. But if I think it's going good, what should happen is, uh, you know, if you and anybody that interacts with it,
+
+I can have the transcripts downloaded and have to care about the individuals.
+
+But I can say, like what? What questions have been people been asking, what do they have trouble with?
+
+What it is. It's unbelievable tool I think. Okay. So now we're really going to take off.
+
+Right. And we're going to do the uh, some things we don't do the accounting identity and we're just going to start, uh.
+
+This is. This is like. Our push ups or something, but.
+
+This is just a we're going to go through about a month of pushing things around,
+
+or a few weeks of pushing things around so that we really understand how accounting systems work from the inside out, and then we'll pop back up.
+
+Okay. So, uh, before I do that, just to give people time to get over here, um,
+
+the what what we're what this is all about is compiling a set of financial statements.
+
+And some of the homework problems have been looking at some of these.
+
+The point of this is, by the way, if you just go in and look at some of these financial statements to see,
+
+you know, what's on about what's on their balance sheet, what's the income statement and so forth.
+
+That'll that'll do you good. Okay. There's a million of those on the web, but this is what you're going to find.
+
+We use the accounting identity at a point in time to make up a thing called the what we call, I call it a balance sheet.
+
+Uh, now I know why.
+
+Okay? Because a lot of the official name is statement of financial position.
+
+Well, I'm going to show you some examples.
+
+Um, uh, so did you do did you look at Nathan's Famous yet?
+
+I can't remember any of it. Okay, so what are the what are the things you go through as Nathan's Famous, the hotdog people?
+
+We'll come back to this name, financial position.
+
+This is a physics analogy that you don't really want to use. Okay.
+
+So really what we're doing is we're checking out our accounting identity.
+
+Have we preserved it? Okay. And so, uh, that's at a point in time and, uh, yeah.
+
+So I said I recall the statement of financial position in a for profit.
+
+When you look on that statement, that balance sheet,
+
+you're going to see assets and you're going to see liabilities, and then you're going to see equities.
+
+So assets what are those benefits obligations. What are those obligations to pay in the future.
+
+So we talked about this when we went through the that big list of things.
+
+So promises and obligations that you have to fulfill in some way and equities I will try
+
+to get you to say that's the difference that why do I why am I so crazy about this?
+
+Because we use the same system for not for profits.
+
+So what do we have? Well, not for profits have assets.
+
+They have liabilities. They have obligations to pay people like I don't think they paid me this material.
+
+And so now I'm in the middle of the month. So they owe me. And but they don't have any owners.
+
+It doesn't make sense to talk about what's so left over is somehow the value of the company is on hold off.
+
+We don't have to have any of that balance. We just call it net assets.
+
+And the trick is in both equities and net assets.
+
+That's a place we're just going to convey information about what we've reported, okay.
+
+Information about what we've recorded.
+
+And in a for profit you're going to see what we we're interested in distinguishing is did we record something that,
+
+uh, record something that was just contributed by the others?
+
+You know, like when we set up, uh, 165 women associates or are recording something that's a result of operations of the entity trying to create value.
+
+That's what we reported when we recorded interest revenue in, what, 65 Whitney Associates.
+
+Okay. So that's that's what we use the equity section for to distinguish basically when we're when we recorded this, uh, where to come from.
+
+Okay. Before and not for profits, they do a little a little bit differently because they don't have equities.
+
+They have net assets. But we hope to find out and I'm sure you'll be given many, many, many, many opportunities to give to Yale.
+
+And then you're going to have a choice. If you do that you can give it in two ways.
+
+You can you can give. We give gifts in two ways.
+
+One of them is people just say, all right, I want to generally support the university.
+
+You know, here's a thousand bucks. That's a that's a gift without any restrictions on.
+
+Right. But you could also say, oh no, I'll give you this thousand dollars, but you have to use it for scholarships for, you know, whatever XYZ.
+
+Okay. Now that's, that's got of donor restriction. So that's what we use the right hand side or the net assets side to convey.
+
+We use the net asset side to and not for profit to convey.
+
+Well how are we doing on meeting people's restrictions. Okay.
+
+That's information that's appropriate for the type of organization in this.
+
+Okay. So, uh, information's on the right hand side.
+
+Oh. Assets. What are those? Those are future benefits or benefits.
+
+I guess they struck the word of the future from the from the official thing.
+
+FASB Financial Accounting Standards Board definition. But who cares?
+
+Benefits. And it's got to be owned or controlled by the entity.
+
+So this is a big deal for you know who was it.
+
+All right. So there's a car sitting out there in the Lion Club parking lot is in mind.
+
+What does that mean? Does it or is it owned by by consulting business or whose is it?
+
+It's got to be the entity that that I'm reporting on. And there has to be some evidence of it in that we usually say arising from past transactions.
+
+But, you know, the most I should change the slide out and say, you know,
+
+that you have enough evidence that it exists, that you're willing to record it.
+
+What are liabilities? Those are sacrifices. They're probably future sacrifices.
+
+Obligations again, some evidence of it okay.
+
+Equity that assets or go okay, uh, you know, here's sort of the standard definition of assets and liabilities.
+
+Now, I don't know, for the people who are, who are uh, it may be more political science or social things.
+
+You're going to recognize what starting to go on here is kind of like law.
+
+Okay. So what happens?
+
+What would happen if my wife suddenly gets sick of me and kills me?
+
+Okay. And she's arrested for it. What she charged with.
+
+Murder. Murder? Maybe.
+
+Right. But let's say murder. What's that?
+
+What distinguishes that from, uh, manslaughter?
+
+You know she meant to kill me. Okay, well, we don't stop there.
+
+Well, what kind of murder? Okay. Did she just lose her temper?
+
+And finally had it with me. That's probably like second degree.
+
+I don't think there's 32nd. This works differently with Burns.
+
+The smaller the number, the worse. Okay, so that might be second degree murder.
+
+Oh. Did she. Did she plan this out for a long time and catch me?
+
+That's first degree murder. Okay. So how do we how do we make those categories?
+
+Well, they're just kind of arbitrary. You know, I told the story so a you'd remember it.
+
+But B just because it's kind of, uh, lazy.
+
+Oh, exactly. Uh, you know, exactly what we how we make that distinction.
+
+Okay. But so this kind of exercise, something happens and we start classifying it.
+
+Is it an asset? Is it a liability? And so forth.
+
+It has that same flavor of a kind of human imposed rules and an accepted, uh, uh, accepted definitions.
+
+Okay. So that's all there. I don't know, equity the difference.
+
+And I realize it's frustrating for me just to define something as a difference and not say in here.
+
+But keep in mind that once you have two of these things, the third one is determined.
+
+Once, once I have assets of liabilities, I don't have a choice about how much is going to be there for victims.
+
+Right. That's that's, uh, determined.
+
+So I don't know. Of course. Did I introduce you well enough? Boris is going to.
+
+He's going to make an announcement with sign up sheet. I've already posted.
+
+You posted it, right? So you you can talk to people if they want or whatever.
+
+Uh, my name is glorious. I am senior ATL. I had a major in economics and mathematics.
+
+I took this course my first year. This was a very, very nice course and I enjoyed it very much.
+
+I hope you will enjoy it too. And, uh, I posted the announcement.
+
+I have an email. I also posted there a full number and like you don't, I'm always answering the email.
+
+But if someone just like you have a trouble getting my office hours so you can, uh,
+
+schedule which you can schedule a link which is posted for Google Calendar appointments,
+
+just like shoot me a text or you have a trouble finding me there.
+
+Like shoot me a text for easier communication. Thanks.
+
+Same thing for me. You can still talk to me any you know, email me, text me, whatever.
+
+We'll have office hours in person by zoom, whatever you want.
+
+Okay. Uh, now, this is, like, the most important figure of possibly.
+
+Well, maybe my whole life I don't know about yours, but, like.
+
+So this is showing you how things, how we're going to do the financial reporting over time.
+
+We actually produced kind of a web of financial statements.
+
+We don't just produce one. So we produce we produce balance sheets and points in time.
+
+And then there's also a bunch of statements that try to explain how did you get from one balance sheet to the other?
+
+Okay. So the statements that I'm going to show you are explanations of the changes.
+
+Right there. Explanations. How did you get from here to there?
+
+Well, we you know, and 165 Whitney Associates, we, uh, one of the things that happened was time passed, and we earn interest income.
+
+And one reason that our balance sheet changed that,
+
+that we ended up with more total assets at the end of the period than the beginning of the period was because time had passed.
+
+We had an investment in permanent source revenue. Okay.
+
+That's a that's that's an example. And we also saw an example of something that what that by the way that that so called
+
+the income statement helps explain why retained earnings change on the balance sheet.
+
+We also have a statement that explains why the cash change. That's an interesting because cash you don't have to do any fancy accounting for right.
+
+If you just count it. Hopefully you just add it up.
+
+And there is there is still some there are still ish issues about what you count as cash for example, is Bitcoin cash or an investment?
+
+I don't. I'm not sure that's completely been settled yet. And how we're going to do it.
+
+Okay. But still. Um. And then the statement of changes in shareholder's equity says, okay,
+
+the difference between assets and liabilities changed and increased or decreased over the period.
+
+Why did you do that? Okay. We do the same thing with nonprofits on this thing.
+
+Just but we don't have quite the same. You know, they don't they're not trying to do things to earn a profit,
+
+but they're trying to have they have a bunch of activities that maybe serve their beneficiaries or whatever.
+
+So we don't have an income statement. We have a statement of activities, net assets.
+
+Again, it's trying to explain how did their balance sheet change from one point to the next.
+
+Notice I said how did their balance sheet change? I didn't say how did they really change.
+
+Right. Something could have happened. Oh, I don't know. They discovered a gold mine in their property.
+
+Okay. Then it dramatically changes the economics of their situation.
+
+But if we don't, if it doesn't pass the recognition test, it's not going to be on their financial savings.
+
+Okay. Not good in it. So we have to understand that we got this big filter called recognition.
+
+And stuff happens all over the place. And we're filtering out and some things we write down and some things we don't.
+
+Okay. Uh, all right. I did that already. I'm not gonna do it.
+
+Okay. So record stands business. Oh, no.
+
+Wait. I've got I'm going forward. I need to go backwards. How do I go backwards?
+
+Okay, Rick at Stanford. So let's just start doing a problem that this is, um, account learning.
+
+Accounting now is like, uh, experiential in this sense that you have to just do stuff, right.
+
+You have to do stuff. You can't watch me do it. You can't just leave at the end.
+
+You gotta you got to, uh, you got to do something.
+
+So I'm going to do something. Okay?
+
+Now. Uh, as soon as I get everything cooking here.
+
+Well, that's just what you're going to see.
+
+Hang on one one second. Sure, I.
+
+Oh, did you do? Gotta love this.
+
+Know. She.
+
+Now. Um. Some of the problems you're going to do.
+
+I hope I have time to correct these. Um, there's what's going to happen is if everything we input to the system is going to be here in the journal,
+
+and then it's going to populate out to the financial statements, okay.
+
+Nothing's going to be on the financial statements. That doesn't start in this journal.
+
+That's a key thing. It's a key thing. Everything like any financial statement that you see in anywhere, I don't care if it's Amazon or whatever.
+
+There's a journal entry that got it there. And every time they make a journal entry that journal entry has to balance.
+
+Okay. So so uh, so stuff is going to go here and it's going to appear on financial statements I
+
+think today I have and eventually you'll have the automated financial statements.
+
+Where would I put something in the journal that puts it in the right place? But that's not where you want to start.
+
+Okay. Where you want to start? Uh, I've never been able to figure out a really good, um, format for this, I don't think.
+
+Or maybe I'm just explaining it incorrectly. But while we're doing this, let's let's look at, um.
+
+Uh, what you're going to see for a while. Do do do do do do.
+
+Anybody. Anybody got. Oh, there it is. So what you're going to see for a while.
+
+Is hopefully the silver. Unhide.
+
+So you're going to see this on the Financial Statements Builder tab.
+
+And uh eventually.
+
+So what I've done is automated all the financial statements because I'm going to show you how it goes.
+
+What you're going to have to do at first is set the problem up right is actually build the financial statements from down here.
+
+So in other words, if I'm an if I'm going to build a beginning balance sheet, what kind of stuff's on here.
+
+Current assets. Let me see what kind.
+
+Um, uh, I've set this up so that every, every accounting items in here, uh, let's say, uh, accounts receivable.
+
+And then you put an amount in and then it'll show up on the financial statements. Let's do that.
+
+So just for the fun of it. In fact, let me show you the whole.
+
+Now it also these are these things are shared with you.
+
+I will, uh, share it. So if you look on your own computer, if you open the file, you'll be able to see, um, it on your screen.
+
+Maybe if you open the file, you might want to look at something that I'm not looking at here.
+
+That's okay. The only thing you have is if you if you open the file and go into it, it'll start showing.
+
+Because I'm showing the web version, it'll it'll start showing your where you are okay as well.
+
+But let me go back down here just for a second and show you some more about the building.
+
+So the idea of this is to give you some exercises.
+
+That, uh. Some exercises that help you learn the structure of the financial statements.
+
+Okay, here we go. So for example, when I, when I select over here, uh, beginning balance sheet immediately over here,
+
+uh, in the statements, it'll be something that remind you of what that is.
+
+Oh that's assets liabilities and equities. Okay.
+
+If I pick up an income statement. That thing pops out.
+
+Oh, that's revenues and expenses. I can keep going, but let's don't keep going.
+
+Right. Let's go back to, uh, the income statement and say, what am I looking at?
+
+Oh, I'm looking at. The current assets.
+
+Oh, when you see current assets on an income, stay on a balance sheet.
+
+This is what it. Oh, the asset section. It popped out the whole asset section.
+
+So we're going to classify the assets as corona or non-current.
+
+We'll talk about what what that's about.
+
+You know if I, if I said instead of current assets I said current liabilities, it would have popped out the liabilities section.
+
+See what I'm trying to do.
+
+So I'm trying to give you something that where you can learn the structure of these statements just subconsciously without having to,
+
+you know, beat it down and write it down 50 times and all that stuff.
+
+You know, my thought is if it just appears before you at the right time, that it'd be great.
+
+The wider the screen you have, the better.
+
+Uh, if you have two screens, it's really good because do you know, you know how to open Excel in two different windows, right?
+
+So you ask it to produce, you go to view here.
+
+You ask it to produce a new window right here.
+
+And it'll help in the same file. And you can put that one on a different tab.
+
+Okay. Um, again, I'm still not completely happy with this pedagogically because it's the best.
+
+I've gone through several iterations, but it's it's a little it still seems to me to be a little awkward,
+
+but I like the idea of when you pick something like a statement, it shows you what's on there.
+
+Yeah. You know, then you you just kind of get into it. Okay, cool.
+
+And then once you're once, we're, um, you know, we're you're really up and running and you kind of understand what,
+
+you know, what's on the statements, then, uh, which you'll just be able to automate them like this.
+
+Okay. And it's a it's a it's a choice.
+
+So if you think you still need more practice, you just don't automate it and build a bit of, you know, the hand carry sort of the stuff.
+
+But, you know, pretty soon you won't be needing that at all. Okay.
+
+So that's the financial statement builder. That's the thing about this software that most gives people the most trouble.
+
+Notice there's also. A chat bot.
+
+That's the user manual for this thing. Okay.
+
+That chat. Uh, I think I the user manual is probably available on that on the resources page.
+
+Somebody can look it up. That's a word or a PDF you could look at if you want.
+
+But uh, the talking user manual uh will help you use that will help you use the software.
+
+If something happens, you don't understand what's going on. As long as I have tokens left in my living labs account.
+
+You could just call that agent and say, how do I do this? Or what's that?
+
+And the agent knows the user manual inside out. Isn't this a great thing about, uh, the technology that we have?
+
+Not the speaking part, but how? I knows all the user manuals of everything you want.
+
+Have you have you have you encountered that yet?
+
+If you have any problem with any device, you just start asked ChatGPT or one of some of them, how do I or any of them how to fix it?
+
+And, uh, it'll it'll have to do it right instead of going to the manual, which I never did anyway.
+
+And I kept them all hallways. You know, there was a stack of books somewhere that that I forgot that they were there and blah, blah, blah.
+
+Okay. So, uh, so this is how we're going to, um, do it.
+
+Okay. And is this the full screen view?
+
+Oh, yeah. Yeah. Okay. Here. Okay. Now, I got to go back now.
+
+Now let's start wading through the problem, and I'll show you how that is done to to return.
+
+This is what I want. What you see here.
+
+And I'm going to go into full screen again.
+
+Okay. So what you can do is first thing you start by, uh, picking a transaction number.
+
+Okay. So like I'm going to start with one. Okay.
+
+Now the dropdown list shows you that's. So this thing's got 16 different transactions.
+
+Okay. One. They issued some common stock.
+
+For cash. See that? Am I get it?
+
+All right, so forget the software for a minute. Listening. Anybody going to recognize this?
+
+They issued common stock and got cash. Yes.
+
+Yeah. I'm going to. If I don't recognize this, we're we're in trouble.
+
+Right. Okay. We're in trouble. So I'm going to recognize it here.
+
+Let's make it big. Now, what you could do is you could go to the the analysis help and work your way through the whole thing.
+
+Right. So that's why the analysis help is there. Like, what am I doing?
+
+I'm doing transaction number one issued common stock that I did.
+
+The first thing I have to do is decide whether to recognize it.
+
+Yeah I'm going to recognize it. No I'm not going to recognize okay.
+
+Oops. Uh, wrong. Mr. Potato Head is I like to say that's that's not cash has been received and an ownership share has been created.
+
+Oh, yeah. Okay. Then it explains to you why you're doing what you're doing.
+
+That's the most important part.
+
+The most important thing as you use this analysis tool is not to get the answer is to understand why you're getting the answer.
+
+So what this little tool does, unfortunately I have to apologize for you.
+
+It starts putting accountant think in your brain. Okay, so this is a counting thing.
+
+Um, here are the steps, blah blah blah blah blah. Okay.
+
+Anyway, and then, you know, you go on, just like we did before you try, you can analyze it.
+
+Uh uh, well, I should do it this way, right?
+
+So, what do we have going on here? Well, assets are going up by 110.
+
+And anything else goes up by 110. I don't know well.
+
+All right. And then you can work your way through all the way down to the journal entry.
+
+All right if you want to. So there's basically no reason not to get everything.
+
+You can also check the journal entry and see. Right. So you work your way through these things.
+
+All right. So so let's so let's those start recording. So this is transaction number one.
+
+And when I select a when I select the transaction number over here it lights up an area for me to to make in it.
+
+So what do we want to do. Well again I've designed this conceptually.
+
+So the first thing you want to think about is what kind of account is affected.
+
+Well cash is what an asset account is okay.
+
+Which asset account cash is it increased or decreased.
+
+Well I already said debit right. They got in cash.
+
+So what you said last time increases in assets or debits.
+
+Things flowing in go on the left.
+
+That's debited okay. How much?
+
+110. Okay. Forget the blue thing.
+
+We'll come back to it. Right? Now, notice this little red guy up here in the Journal.
+
+Oh, there's a couple of things are read right off the bat.
+
+Right. One of the things that's red is in the journal.
+
+We're out of balance. Right? I don't haven't made a balancing entry yet, but it's also the case.
+
+What that would mean if I stopped here, my balance sheet would not balance.
+
+If my assets would be 110 and liabilities list equities would be nothing.
+
+Okay. That's why you have balancing entries. So the statements all work out.
+
+Now in my keep in mind we're doing stuff one thing at a time. Try for Amazon to control billions of transactions.
+
+All handle the side of this with this infrastructure. Okay.
+
+So now. Okay. So what else happened?
+
+You go to the you go to the, um, analysis tool, or you can just think yourself, you know, I always imagined the accounting identity in my head.
+
+And I think, okay, assets are going up. What else is happening? Oh, equity is going to go up.
+
+Now. Uh, this. I don't know, pedagogically.
+
+Is this the best way to do things, but less?
+
+Um. There's no better. There's no better time to introduce this, which is going to be a purely arbitrary accounting thing.
+
+Are you ready? Let's go back to the instructions. So and let's look at.
+
+Um. Oh, it's Rick and Stan business.
+
+It's a for profit company. It's in the retail business.
+
+Okay. And I got. I'm. I guess I'm doing this for three months from September 30th to December 31st.
+
+So it's a quarter, and I'm going to write down all the dollars and thousands they have.
+
+They're just starting off so they have no shares outstanding.
+
+But what I want to call your attention to now, I'm I'm not gonna make a big deal out of this in class.
+
+I just want you to in the course rather. But I just want you to see it because it's an example of some of the little.
+
+Whirlpools. The the that accountants put in for you.
+
+Okay. The par value per share is $5. Okay.
+
+Now what is the par value per share? Oh, boy, I don't know.
+
+Let's see. They issued a 110,000.
+
+They issued 10,000 shares. Okay.
+
+Now this is just what we do. Because I'm your mother and I'm telling you to do it.
+
+I'm going to put in common stock. I'm going to put five.
+
+Now, by the way, you know, you can also do this if you want what I'm doing.
+
+Uh, equals five times 10,000.
+
+You see that the spreadsheet calculate for you know, it.
+
+Uh. It decided. See, this is why I told the guy the change that got the keyboard.
+
+See me because I got an Apple keyboard here.
+
+Okay. Yeah. Um. So what is the par value of a stock.
+
+Well the par value of a stock. Is this the number they write on the you know back when stock was in paper.
+
+It would just be a number they would write on the bottom of the sheet. Okay.
+
+Yeah. Because of CompuServe. Because common stock. Because it doesn't give you the right to any particular payments.
+
+It's not quite analogous to the face value of a buy which which help determine what cash you're going to get.
+
+Not so in common stock, but still people would put something on there.
+
+I think there used to be historical reasons for it.
+
+Uh, the last time I checked in Norway. This is still a reason for it.
+
+It's like, let's suppose if you bought a share of stock, you buy share a stock.
+
+I think this is true. I asked my Norwegian friends in Norway, and it's got $5 par on you and you paid $4 one.
+
+Okay. I think what that means is that the company could come back to you and say, hey, give me another dollar.
+
+Not true in the US. Okay, so.
+
+Or any place I know besides Norway. Okay. Uh.
+
+So what does it mean? Most people will tell you nothing.
+
+I would tell you nothing. One of the world's experts in finance, that was, you know, uh, world renowned, hands down, would tell you nothing.
+
+Our business lawyer, who was a Yale Law graduate business lawyer would tell you, doesn't mean anything.
+
+So we all thought it didn't mean anything. We started a company. Uh, my buddy, the finance guy was very, uh, hopeful.
+
+Very, very, uh. So he he we started a company in Delaware.
+
+We had, uh, we authorized something like, um, how do we do it?
+
+I don't know, uh, a 10 million shares at, uh, or a million shares.
+
+I can't remember what it was. That's. It was $20 million of what the part of started off to be.
+
+Right? Maybe it was a, um. Uh.
+
+A million shares is a big par value. And I'm in my office one day and I got.
+
+I got a letter from the Delaware Secretary of State, and it was a bill for $275,000.
+
+This is a company that we started actually with $10,000. Everybody, because their their franchise fee in order.
+
+In order to get the birth certificate of the company where they broke through in Delaware and their Delaware franchise taxes,
+
+what are the ways they computed it is based on your state and par value. And we had a huge stated par value.
+
+So I didn't know that Steve Ross didn't know that Dave Ringgold or the suburban didn't know that.
+
+Here's our bill. Right. I turned it over and found there's another way to calculate your number.
+
+Your your taxes. And, uh, but like, I didn't do any tax planning.
+
+That depends on how much actual assets you have. I didn't do any planning to kind of arrange for the balance sheet to look the right way.
+
+So I think we still owed them a few thousand dollars. If I if we know that and done it.
+
+All right. 250 bucks. Okay.
+
+So you always have to be concerned that, uh, you know, that some thing could be made to mean something by some rule like this.
+
+You know, that maybe nobody even knows or somebody knows it, but maybe all the people around you don't know.
+
+I would think, by the way, this would be God with ChatGPT or with an app with an AI system.
+
+Right? We would I would the first thing I would do is go in and ask, oh, I'm thinking about incorporating in Delaware.
+
+This is what I'm thinking about it. Uh, what difference does it make with the part of our it?
+
+It would tell me what what I just said, what I had to learn.
+
+Okay, so that kind of routine stuff, uh, that, that sort of silly things we spend energy on,
+
+uh, I think it should be much, much, uh, less of a problem now.
+
+Okay. But, uh, but notice, you know, the balance sheet doesn't balance yet.
+
+I know it has to balance. Okay. So I need 60 more in credit.
+
+Okay? Now it balances, but I have to decide what to call it.
+
+Right. So here we have something where the entry the numbers balance in the entry.
+
+But the financial statements still don't know what's happening because the financial statement wants to know well what else was it.
+
+If you go through the, um, the the the.
+
+Analysis help. You'll find that where we put this thing is in an account called additional paid in capital.
+
+Really? Really. Yeah, yeah. What a name.
+
+It's additional paid in capital okay.
+
+And now our balance sheets and balance is yellow because that means it's in balance.
+
+But it doesn't agree with my answer. So if it agrees with my answer it should.
+
+The bar should be green. So you should know what you're doing okay.
+
+Right.
+
+So if we if we scroll through the balance sheet, we're going to find that we just put, um, this is where I, I don't like the set up so much here.
+
+Uh, because if I go down here, you'll see we also put equities on the balance sheet.
+
+And this is how we did it. Uh.
+
+Okay, so that's how it goes.
+
+Now. I'll tell you.
+
+One thing that happens is whenever we create a different category of things like additional paid in capital,
+
+what if we really we do some really esoteric transaction, we start making the entry and.
+
+There's a piece missing and we can't figure out where it should go.
+
+Well, because I've opened another category here. That's always.
+
+That's one possibility that we could throw it in. All right.
+
+So any time we open an account, especially in the equity section,
+
+that's a place that could absorb any weird bailout thing we need in some very complex there.
+
+Okay, just file that away. Whatever. But that's that's what happens to additional paid in capital.
+
+The common stock account always is. The par value never changes.
+
+But if we wanted to hit equity, some other that chose equity some other way, we would hit additional paid in cash.
+
+Yeah. So if your balance sheet like so like is additional paid in capital like a gain here that
+
+accounts like don't excess money or like Boyce's money for up to like forced balances.
+
+Yeah. I mean what I'm saying is that's that's possible right.
+
+So so if we go through the analysis and we decide if we want to hit equity, okay.
+
+And it's it's not something we want to say has to do with any earned thing, then we can't change the common stock par value.
+
+So we hit the additional paid in capital for it. Right. But you have to get used to it.
+
+I'm telling you this story so that you understand that we got this journal entry, this always balancing thing.
+
+It's a huge help. Just giving you a forewarning of oh, why?
+
+But what if I put everything in and I'm still not out of balance?
+
+Well, that can't persist, right? So whatever we do has to be thrown into some account that fits in.
+
+You know, one of these ends that ends up affecting the balance sheet?
+
+Cool. By the way, we might have to work on this problem more than one day.
+
+Okay, but this is the end of what we just. This is just sort of where we are.
+
+Any questions about that anymore? So all I did and all that was I raised assets and raised equity.
+
+Right. In terms of the accounting identity. Two.
+
+Uh, bought equipment to be used.
+
+For, uh, equipment.
+
+Okay. So go to what's going to what happens here.
+
+One asset comes in. And another asset goes out.
+
+So, boy, this really is massive.
+
+Uh, one asset comes in and another asset goes out.
+
+What comes in. Uh oh.
+
+Well. Property, plant and equipment. When you're doing these problems.
+
+Let's go back to the instruction sheet. We talked about looking at the the information about the entity.
+
+Here's another. You know this is all stuff you have to do.
+
+You should do. The first one down here says review the chart of accounts.
+
+What's that. The chart of accounts is the list of all the accounts that you have to you that you could use in this problem.
+
+And we didn't do that yet. So let me go down.
+
+Oh, here they are. We have these assets cash receivables inventory prepaid non property plant and equipment and accumulated depreciation.
+
+We have these liabilities. We have these equities.
+
+We have revenues. We will talk about this in a second.
+
+This is this because we know we're going to have to make up an income statement.
+
+We're going to set up the records going forward to capture the information we need as we go.
+
+Instead of trying to just capture, go back over everything at the end of the period and try to figure out what the [INAUDIBLE] happened.
+
+You know, it's better if we capture information as we go along.
+
+Again, keep in your mind. Amazon. Yeah, yeah.
+
+Something with a huge volume of transactions. You know, you want to you want to capture as soon as you can where eventually the thing's going to go.
+
+On the financial statements. It's better off if you're better off if you do that when you right away when you record the transaction.
+
+If you don't, then at the end of the period, you got to go back through everything and figure out what happened.
+
+This is bad. Okay. So that's why we're going to use these accounts here.
+
+Revenues and expenses to compile what we're going to call our income statement in a for profit.
+
+They're not going to like they're called temporary because they don't last.
+
+You know, they're used to compile inflows and outflows and then they're zeroed out.
+
+So I think of the temporary accounts like like um, so if it's supposed to rain today and I want to decide I'm going to measure it, what could I do?
+
+Well, I could get a five gallon bucket. I can put it out on my patio.
+
+I got to make sure it's empty first. Right? I mean, it's easier for me if it's empty for first, and then it rains and then I come out the next day.
+
+I get the bucket and I stick a ruler in and say, oh, it rained one inch last time.
+
+I think I'll do this tonight as well. What do I need to do? Throw that water out and put it down again?
+
+That's what a temporary cut looks like. It's always it's zero.
+
+And every time we make up a balance sheet, all the temporary accounts have been zeroed out.
+
+Okay. Then it zeroed out every time a balance sheet sped up.
+
+So what that means is people, you know,
+
+you you can often tell somebody is really that there's no accounting when they'll say something like the revenues on the balance sheet.
+
+No, they don't go on the bench. This is we have to sharpeners to this all this terminology and so forth.
+
+All right. Uh, okay.
+
+So now. Oh and in this problem we will learn.
+
+Oh we're going to get a bigger vocabulary. We're going to use the accounting identity.
+
+We're going to practice journal entry notation. And we're going to use t accounts I don't know that understand that.
+
+Boy we got a lot that we're going to learn here. So you know I feel like I have reviewed the chart of accounts.
+
+So this is just a little checklist for your own process if you want.
+
+Okay I completed it. Um I there are also notes of the financial statements.
+
+Uh. I just want to get you early on.
+
+It used to the fact that whenever you pick up a set of financial statements, you always want to look at the notes.
+
+That's that's a lot of explanation about what goes on. So I just wanted to give you the flavor.
+
+We're not going to end up doing anything with it. But I just wanted to give you a flavor.
+
+This is the kind of stuff you find in the notes, okay.
+
+You know, it tells you what cash is. It tells you what the value inventory is, tells you something about the property, plant, all this stuff.
+
+You'll see other accounts. Okay.
+
+So. Well, the amount seems pretty clear, right. So I'm back.
+
+Um. There is.
+
+This is. Process is also set up where I could start doing something and leave my work and come back to it.
+
+Without sort of loss, right? I see.
+
+I put the property, I put the account. Title property, plant and equipment in.
+
+And we put it in the amounts or whatever. It doesn't say they bought it for 60,000.
+
+Okay. And then how did they get it? Yeah.
+
+No. Let's see. I forgot the keyboard layer.
+
+This is ridiculous. Uh, they pay cash for it.
+
+Okay, now my balance sheet stays in balance. And look at what happened to my assets over there.
+
+I have reflected the fact that we brought in cash, and now we're changing the mix of assets.
+
+Yeah. Can I ask why the cash goes in the second line and why what?
+
+Why cash is in the second line of row 14 versus over here.
+
+Yeah. Like how come it's okay. Not all in the same row.
+
+And how do we determine that? Oh. Journal entry notation.
+
+Glad you asked. Right. So you're going to notice that I am very picky.
+
+Not. It's picky at first. Now it's just drilled into me to even think about it.
+
+All the debits I write first and all the credits I write second.
+
+Okay. And what that is, is a very much of a visual help when you start getting complex, complex things.
+
+I don't have mics. I don't have them all mixed up.
+
+I could have a journal entry to have ten debits and 15 credits, and imagine what would happen if I just pile those all in together.
+
+Just sort of. It's going to be ridiculous, right?
+
+So I just made that habit.
+
+Not that I'm naturally a neat person. You know, if my wife really did worry, it's probably why.
+
+Okay. Just a year. 50 years, 57 years.
+
+That's enough. I'm of your mess. I'm not that messy, but I'm not really that neat.
+
+But about this, you know, I'm like, uh.
+
+Because that. What's the pattern is there? Your brain doesn't have to think about that anymore, right?
+
+Pattern. Oh I'm sure. Debits I'm sure. Credits for me. Okay.
+
+So organization of your work. That's that's that's key.
+
+Now it used to be key because I actually do this stuff.
+
+Right. So when you're writing everything down on paper and everything, that used to be a key thing.
+
+Now. It's only it's it's not that important when you do it, because I could put this stuff in any order I want here.
+
+And the program. I wrote the program so that it. It'll figure it out for you.
+
+But what'll happen is your ability to process it will get slowed down if you don't have a standardized for.
+
+Right. So everything we're doing here is trying to have a system that gets us information
+
+about complex things and high volume things as precisely shortly as possible.
+
+You know, I'm sure you're probably feeling this way now if you're feeling overloaded now, information overload there.
+
+Yeah, right. Accounting is all about situations in which we've got information overload.
+
+And the last thing we want to do if we have information overload is try to is go through and restore everything by definition.
+
+You just want to have a standard practice. This is how I do it. I'll say this inquiry the other way around.
+
+If the credits are around first then the debits five okay.
+
+Second thing the indentation. Right.
+
+So debits I use a journal entry notation.
+
+To reinforce the fact that, oh, things are coming in to the T account on the left.
+
+They're coming in on the left and going out on the right. Yeah, I got to be careful about this because it was a liability.
+
+That means a promise is going out. Okay? Cash is coming in.
+
+A promise is going out that. That's why the indentation. It drives me crazy now because a lot of, uh, textbooks and so forth.
+
+Stop using it. They'll put all the account names in a row, and then they'll they might indent the numbers, but you can't.
+
+But then you have to say, oh, that one goes with this one. Is that why you do that?
+
+You know, there's a wonderful notation that's worked for 500 years.
+
+Why would you think you want to reinvent that? Why would you think there's not 10 million things that that this is good for is survived 500 years.
+
+All right. So, you know, some of my accounting colleagues and probably here in other places,
+
+think that you should teach accounting without doing any debits and credits. And with that journal entry notation, can you do it.
+
+Well, yeah. Why would you do it? How arrogant do you have to be to say a 500 year technique?
+
+Oh, I'm not going to tell. I'm a good teacher sitting just just in saying.
+
+Yeah. So one more follow up. Uh, I'm sure people might know this, but I was wondering if cash,
+
+if credit and debit are in assets because with cash in the credit account, it's in like the asset section, but it's going out.
+
+So yeah. What is um what is assets and what assets can come in and they can go out and liabilities could come in.
+
+They could go out when we make a promise and we're going to call it coming back in when your promise has been fulfilled.
+
+So it's like they give you your promise back, you know.
+
+So it's like our coupon payments within the bar. We got a coupon payment the government promised to pay us periodically a certain amount.
+
+Right. And it's like when they sent the cash, they also we sent them back.
+
+Okay, here's your problem. Well, actually, literally at a coupon board, we did send that.
+
+We did send the promise back. Your promise was a little piece of paper.
+
+It said you owe us 50 bucks or whatever. And what did we do? We sent that back.
+
+And that's emblematic of sending back the promise of forgiving the cross.
+
+Right. Okay.
+
+So the whole all the debits and credits are because every part of the financial statements can go up,
+
+they can go down, they can come in, they can go out or whatever. Right.
+
+And we have to handle all possibilities okay.
+
+Three. Paid $3,000, uh, for one year's rent of a building.
+
+All right, so you will quickly, I think I encourage you to quickly start putting in the journal everything you know.
+
+Right. So one thing that often is easiest for me, it was always easiest if cash came in or cash goes out, I got that.
+
+Here. Cash goes out by four. Well, okay, now something has to be debited by four.
+
+What is it? Well.
+
+Well I'm going to. Oh three. Sorry. Got the wrong.
+
+Now notice I could have a balancing injury. Could look fine. Just wrong.
+
+Okay, this one's wrong and inconsistent. Now I'm right.
+
+Okay. So the account, the accounting statements you look at will always balance as my point.
+
+They may not be right. But thank God you don't have to look at things that can't possibly be right because they don't even balance.
+
+That's. It's a big deal. Okay.
+
+So if you go through the analysis, I would think of it this way.
+
+When you when you spend cash, you could we could always think that we bought an asset.
+
+Did we use it? I don't know. Let's go look at the instructions again in the chart of accounts and see what our choices are.
+
+Okay. Well, they have a thing here called prepaid rent as an asset.
+
+That sounds good. Then there's something down here called rent expense.
+
+That's the rent that value the rent that we used up. Okay.
+
+So I would say if you can go through and analyze all these accounts, which you don't want to do right now is, uh, those are our two possibilities.
+
+But, uh. I'd like you to think of it.
+
+If you think of it in, you know, kind of kind of what would happen in real time.
+
+Well, first you get an asset. At this stage.
+
+At this stage, I want you to think of it this way. First you get an asset, and then later on, if some of it's used, we'll figure that out.
+
+Does that make sense? Are you having fun yet?
+
+Is I always when I start doing this? And this time even more so I'm just.
+
+Yeah, I'm kind of concerned about my mental health because I have so much fun doing it.
+
+You know? It's just satisfying in some strange way.
+
+Okay. Bought some inventory on credit. So again, all these transactions, you know, we had these transactions, um.
+
+Before I bought some inventory.
+
+But they did it on credit. Well, I guess on credit means that they promised to pay.
+
+So a promise goes out. So inventory and asset came in inventories.
+
+That's a debit for 35. And a promise went out.
+
+And that is. Accounts payable.
+
+35. You know what again you might have trouble as you as you go with some of the terminology and everything since there's,
+
+there's a lot of business and commercial terminology in this.
+
+Don't worry. We'll, we'll, we'll just keep that actually gets not so mysterious.
+
+Any problem. Oh, here's a goodie. Borrowed.
+
+Uh. $20,000 at 1% a month.
+
+Interest to be paid annually. Well, if they borrowed $20,000, then I guess cash of 20,000 came in, right?
+
+Now look at what's going to happen here. Right? What went out?
+
+A promise to pay a liability.
+
+Of loans payable 20.
+
+Anybody got any trouble with that? On this transaction, we're just in the.
+
+We're in the same shoes that the government was when 165 Whitney Associates, um, bought the bonds.
+
+Right? The government in that case, the government received cash from us and gave us a promise.
+
+And we had the same problem. What are we going to write down? What number are we going to anticipate the interest?
+
+No. Right. We've we.
+
+The, uh, we did that example in part to set up this kind of thing, because most people,
+
+if you hadn't done this, most a lot of people would say, wait a minute, what about the interest?
+
+Right. What about the interest? Aren't you going to pay back more cash than you got?
+
+Yeah. But if we're tracking value, interest is what?
+
+The charge for using money over time. No time has passed.
+
+Therefore, you haven't incurred any interest cost in that way of thinking.
+
+Right. So you're used to that now because we did all that stuff with the discounting.
+
+Okay. Doo doo doo doo doo doo.
+
+And. Uh, sold inventory.
+
+Cost is that cost 25 for 45. All sales are on credit.
+
+Recognized use temporary accounts recognize revenue now okay.
+
+So this is the first thing that's different than what we'd had before.
+
+Let's before we um, before I dive into the entry, let's just think about it in terms of the accounting identity for a second.
+
+So. 45,000. Now, people owe us that coming in.
+
+A promise come a promise to pay comes in 45.
+
+If you stop right there would say, why would that affect the accounting identity?
+
+Assets are going to go up and equities are going to go up. Well, what did we do to give them to.
+
+Why did they give us that promise to pay? Oh, because we turned over inventory to them.
+
+Right now that that inventory is on our books as an asset of 35.
+
+And why we're here. Well, I'll pick this up again and in the middle of the year.
+
+What you should do is just. You just keep trying these things and going.
+
+And the most important thing is, if you work it through yourself and you work, you know, you'll start, get the hang of it.
+
+Like, um, okay. But we haven't really talked about the tools so much that one does.
+
+So over here on tools. I should show you how it really is for you to start.
+
+At the start, the page looks like this. Okay, so these are a bunch of things that might help you do what you got going on here.
+
+Right. So one of them is what's called a tier count viewers.
+
+And a tier count just shows a particular type of type of a count.
+
+Like, uh, we were looking at inventories and it tells you that.
+
+Well, entry number for. Uh, increased our inventories by 35.
+
+Why? They came in on the left. And that's an asset. Okay.
+
+So if we actually sold some of that and I look at that, you know, right now look at the balance sheet.
+
+If I made up a balance sheet it would have to have inventories were 35.
+
+But but that's not true because some of that inventory doesn't pass the test of an asset.
+
+It's not owned or controlled by us anymore. It's owned by the people we sold it to.
+
+Right. So I'm giving you the very legalistic reasoning accountant.
+
+Think of this. It's like right now, if I made up a balance sheet, I'd have to put 35.
+
+But that would be wrong because 35 is not a future.
+
+All 35 of this is not a future benefit anymore. We gave up.
+
+We don't know why because we don't own it. We sold it to somebody else.
+
+So the inventory account has to also come down.
+
+So when the assets come down, how are we going to balance that.
+
+Go through all the work. Equity is going to go down. Okay.
+
+So that's how revenues and expenses ultimately affect the balance sheet.
+
+And all of that action is going to take place in retained earnings.
+
+Now I don't think I've set this one up so that, that uh so that that happens automatically.
+
+Oh, there's a reason why I want to go through the process with you of how this is actually done.
+
+Um, but it's going to have a little effect on our figures up here, so I can show you how.
+
+Okay. All right.
+
+By the way, if you make a journal entry, you over here like this list, check journal entry number one.
+
+Oh that's right. Journal entry number two.
+
+Well, it agrees with it. It agrees with mine. Okay.
+
+Sometimes we're going to get into we'll get into this. Sometimes we when we take a set of transactions,
+
+there's more than one set of journal entries that would cause the financial statements to look the same.
+
+And there's no rules saying about how exactly you have to do it.
+
+The rules are all about how the statements have to look on the end. Okay.
+
+We'll get to that. But anyway, you can always check your entries. Oh, don't worry about the closing tool, the cash flow tool, all that stuff.
+
+Those two things are the only things you're going to want right now. Okay, so I can.
+
+So I'm going to go over here and I'm going to say okay, I got to record two things for this transaction.
+
+First of all, this record that a promise came in of um.
+
+Uh, um. 445.
+
+Okay. And that's going to increase my equities.
+
+Why does that increase equities? Well because I sold something to someone right.
+
+So what I'm actually now entering is more like a verb than a noun.
+
+Right. It's why did that receivables come out?
+
+Because I sold something to somebody. But just to make things a little more, uh, confusing.
+
+We're going to have a count called revenue, and we're going to talk about it as if it's a noun.
+
+Right? But really, it's why did the accounts receivable come in to us?
+
+Because we sold something to someone. Okay.
+
+And that revenue is sales and 45.
+
+Okay, so now I've recorded the inflow of resources.
+
+Right. And I recorded that separately. Now, have I captured this transaction?
+
+No, because I haven't reduced the inventory yet.
+
+Okay. So what we just did here is a step in accounting called revenue recognition.
+
+That is revenue recognition means what it means. Stuff has happened in the world.
+
+I'm looking and I'm going to formally record something that's happened.
+
+I'm going to use the accounting. I did that only to recognize, you know, it could also have been called accounts receivable recognition, right.
+
+The record revenue. Revenue means yeah, this is going on the other income statement.
+
+Now. Notice I've made balancing entries.
+
+So my entries my entries are all balance of the journal. But the balance sheet that the balance sheet is read.
+
+The reason it's red is because we have set it up.
+
+45 of revenue didn't make it all the way to the equity section.
+
+I'm accumulating that in the income statement. I'm going to push it all into retained earnings all at once.
+
+That's called closing. Wow.
+
+I'd do it too much anyway. This is all by way of introduction. We're going to do this a lot, okay.
+
+Because you can just just to tell you how much is there. So let me, let me, uh, show you how that mathematically how that works.
+
+And then we can kind of quit. Okay. Uh.
+
+So let's look at the balance sheet and the income statement.
+
+Right. The balance sheet has total assets of 210 and and total liabilities and equities of uh 165.
+
+So what's the difference between 210 and 165.
+
+Oh this is cool because this work like that.
+
+Is it just my old eyes or can you not see that's just crazy, right?
+
+You see that? Oh. Thank you. Sure.
+
+You can see. You see? Is it possible? Right. We like. We're looking for trouble.
+
+So anyway. So who has this idea?
+
+All right. I hope this works.
+
+So our total our total assets were 210.
+
+And our total. Liabilities and, you know, like, well, I could've done it this way.
+
+All right. Our total liabilities were 55. Right.
+
+Uh, and so this is going to be, uh, equities have to be one set.
+
+Right. What's happened in the right to ten?
+
+55. In trying to write assets minus liabilities equals equity.
+
+So I think so most of the assets. How much are total assets?
+
+Come on. Rick. 210. Total assets. Total liabilities.
+
+Oh! Oh, I'm out of bat. Of course, the whole point of this is I'm out of balance.
+
+Okay, so, uh, so this is assets.
+
+Liabilities. And I have equity over here. Um, so my equity should be five, uh, one 155.
+
+Right. Equity should be. But what is the equities?
+
+It's 110. What it is now.
+
+110 difference. 45.
+
+Out of balance. Difference is 45.
+
+Oh, yeah, because the 45 in revenue is I haven't pushed it all the way through into the onto the balance sheet yet.
+
+It's just sitting there and reading, uh, the income statement.
+
+This is the way actually people do it. They don't they don't compile financial statements continuously.
+
+They do it, uh, in batch processing mode.
+
+So you so you just gather a crap ton of information's coming in, and you try to make your job as easy as you can.
+
+But then just before you make up financial statements, you have to go through and tidy up and,
+
+uh, do a bunch of stuff to kind of bring the records all up to date. We'll talk about all of this.
+
+Okay. So we'll keep going next time.
+
+Uh, there's some other little exercises that kind of help you build up to this that get you used to the framework,
+
+but there's a lot of stuff going on at the same time, right?
+
+There's a lot of terminology this new and different.
+
+There's a whole there's a whole, uh, quantitative structure, a whole structure of accounting that you're learning how to deal with.
+
+You're learning how to deal with arbitrary rules of your campus, and you don't count that.
+
+Okay. Uh, this is something you have to really pace out, and I'm just showing you that, giving you an overview of that, hopefully to motivate you.
+
+And the only way you can acquire this knowledge is that you have to acquire it.
+
+You can't watch somebody else do it. You can't read about it.
+
+You know, you can't. Uh, I was I was, uh, listening to what have I favorite.
+
+And that's one of my favorite, um, I commentators.
+
+Look this guy up really strange. Nate B Jones is and has a, has a, uh, a Substack.
+
+It's a great. He puts out so much stuff. I don't know, like I said, pretty strange guy.
+
+But what he's pointing out was that with the I would I is going you have to experience it.
+
+He said. It's like riding a bicycle, you know, you you have to start riding a bicycle.
+
+And more than like riding a bike, just also like riding a bicycle.
+
+If you have the tendency to go slow, you're going to fall down, right?
+
+So especially with the pace of change and these things, you just start playing around, experience it, experience it.
+
+And uh, you know, that was his advice for how to deal with I right now.
+
+But I'm telling you, that's exactly how you have to deal with the characters. You have to dive and you have to experience it.
+
+Unlike the AI is not changing that much. So you can kind of go slow, but you but you still have to do it.
+
+Okay, so Monday, anything exciting happening over the weekend?
+
+No. Nothing big. Okay. Well see you.
+
+I grew up. And you know, like I say, you can tap.
+
+I think it should work. You use the link on the class page or the.
+
+It should show you where we are in the problem right now.
+
+Okay. And you can download. If not, uh, it's because I didn't set the time.
+
+Yeah. Okay. But you know where to go with it.
+
+We just it is in Detroit.
+
+And that's the mistake. You should not be the property owner.
+
+Okay? Thank you, thank you. Are you still.
+
+Let's say you said I'm using. And you really have to keep an eye out.
+
+I'll tell you. What I really happy I like, uh.
+
+I think I just got really lucky to get out of the need for change of legislation.
+
+Thank you. Um, so, yeah, I think that was a.
+

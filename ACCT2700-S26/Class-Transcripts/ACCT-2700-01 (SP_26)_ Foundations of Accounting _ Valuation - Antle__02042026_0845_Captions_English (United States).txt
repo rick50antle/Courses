@@ -1,0 +1,1277 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+See? Good morning.
+
+Gordon. I mean.
+
+Reagan. Top.
+
+Oh. Got everything real in here. It's like you like hiding.
+
+Okay. Let's go. Oh, we're getting down to the few packets when you post videos.
+
+All right. So we're going to continue. 165 would be a socialist network.
+
+This is really going to be is it very uh I we're actually going to touch on basically in
+
+almost all a lot of the accounting issues that we're going to see the rest of the course.
+
+So but it's at a very high level. It's going to be very high level.
+
+Okay. But I didn't. But it's you know, you'll see. Okay.
+
+So uh, basically what we talked about, what we've been talking about are setting up over time,
+
+uh, over the whole semester is the ability to talk about cash flows, but value flows as well.
+
+Okay.
+
+So when we do all of those present value calculations, when you track how value moves through time in a very clean setting, let's just think of it.
+
+165 would you associate it just has one thing. It doesn't make stuff or perform any services or what.
+
+It has one asset and that assets again just generates it.
+
+Just a cash machine. Okay.
+
+But we develop the, uh, the tools and the bottles and the viewpoint so that we can see with that kind of cash flow generation process,
+
+how does value change over time versus when do we get to cash.
+
+So all the present value stuff, what that does is it helps you tie together the stream of cash flows with value.
+
+Okay. Now the stream of value flows we're going to show is different than the cash flow stream.
+
+But it's related to it. Right. That is that we know we use the cash flow stream to calculate the values,
+
+but the numbers we end up with are just different flow period by period than the cash flows.
+
+That's what we really want to get into, okay. Because that's the big idea.
+
+The biggest idea of financial accounting is what I just said, that yeah.
+
+You want to track cash flows, you want to track cash. But you maybe you'd also like to track what's happening to value as you go through time.
+
+Okay. Because, you know, in the long run that's that's what really is going to drive.
+
+It's going to drive your future cash flows. Right. So there's a sense in which just looking at the current cash flows, it's very myopic.
+
+And we're not we don't want to be biased. Now as a teaser, we're starting with a company that just has one asset.
+
+Just this one asset. But look, when you do financial valuation, whatever they're doing, you just try to convert to a stream of projected cash flows.
+
+Okay. So we're just taking the simplest possible case.
+
+So the financial value of the things we're looking at here is determined by the stream of cash flows amounts and timing generally also uncertainty.
+
+But you know we'll talk about that later.
+
+The only thing we've talked about so far with regard to uncertainty is just how to set up limited liability entities to do,
+
+to do your business activity so that somebody so there can come to your personal well.
+
+Okay. And then what we our main tool is to talk about the present value of a cash flow stream at any point in time, at any point in time.
+
+So that means that we can, uh, what what is that present value?
+
+Out of way, out of our way to define that money in an idealized setting.
+
+Any two cash flow streams with the same present value would be actually really just two legs for the same thing,
+
+because you could convert one to the other. That was like the first lesson in present values that with borrowing and lending take, it's all costless.
+
+The present value is the language. This discount stuff is the language you need to talk about value.
+
+Okay. Uh, no cash flows for us.
+
+And so far we've looked at financial instruments like bonds that promise a fixed cash flow stream.
+
+And then, you know,
+
+there's another thing we want to do is just get used to the terminology that people use in finance and the things we say about here,
+
+uh, the words they put on underoos the special cases of stuff.
+
+Really now. Uh, okay.
+
+So we looked at coupon bonds.
+
+Uh, we've we've talked very carefully about always make sure you distinguish the coupon rate from the interest rate, what the face value is,
+
+you know, the face value of the coupon rate and the term and all that stuff, or just a language to tell you what the cash flow stream is.
+
+So problem set one that I post that really tries to hammer that homework.
+
+First of all saying, okay, here's a bunch of things. Figure out the cash flow stream.
+
+You know you're not going to discount them. You know the first thing, you're going to figure out the cash flow stream.
+
+Then once you get the cash flow stream, you don't need to carry all that other stuff with you.
+
+You're going to use the interest rate and the compounding period to do the discount.
+
+Well, and also where are you discounting back to where is that?
+
+Okay. Now with the with the Excel tool we can do this so easily.
+
+We can talk about marching through time. We can say okay what happened to that?
+
+What about if if what are we going to see if we look from today, what are we going to see.
+
+If we look from a year from now, what are we going to see if we look for two years and so forth.
+
+And we can just calculate the crap out of that stuff, right.
+
+With Excel just by copying and pasting. All right.
+
+Uh, so this is the main point.
+
+And, and you know, you can say it and everybody will sit around and not about it, but we're going to get we're going to have to wrestle with this.
+
+This will be fully, completely absorbing this in the context of computer accounting for stores and manufacturers and stuff like that.
+
+That'll be I will venture to guess, the hardest thing in the course, and it will be when you get there.
+
+You got it. But this is the process.
+
+You go, uh, it's like a it's a complex thing. When we get into we have a lot of these are a lot of complex.
+
+And you kind of it starts taking shape for people.
+
+But then the most fun I have in class is when somebody says, oh, I got it because it's like a system.
+
+It all fits until you see how everything's connected is kind of mysterious, you know?
+
+Oh, it's I see how it all fits. And then you're done with it.
+
+Then you're done with learning how the basically how any accounting system works for doing anything, any financial accounting,
+
+whether it's taxes, the US law, US, GAAP, IFRS, whatever, they all run off this double entry in this accounting identity kind of framework.
+
+They make all the bunch of judgment calls differently. So when we get very soon, we're going to start in the real accounting part.
+
+And I'm going to have to I'll try to flag for you where real judgment calls are being made.
+
+Okay. Because some things are like trivial. Like I think just like this is how we started.
+
+165 Whitney Associates, right? Is trivial because what we did was the first thing I asked you to do, you're going to keep track of anything.
+
+What was obvious you want me to keep? Track cash. Only one thing had happened, but people had given me cash and given the company cash.
+
+And so clearly you want to keep track of that. All right.
+
+So, uh, uh, you know, so so we started off with something that's the recognition stage of accounting.
+
+We started off with, uh, with an easy example, which was receipt of cash.
+
+Okay. I found my personal plans.
+
+We'll see if that works at work. Oh, wow. Yeah.
+
+Recognition. Okay, that's the first step of doing an accounting process.
+
+And so we started with the simple example, receipt of cash, uh, by selling membership shares.
+
+Okay. So this was a big thing. Cash flows in value values related but not identical.
+
+We're starting off where the value is well-defined.
+
+We're going to get to places where. And we're just kind of have a somewhat intuitive idea of what we're doing.
+
+And we just still go forward. Okay.
+
+For example, if I just ask you, if we really ask you the financial sense, what will be what's the value of this class financially to you?
+
+Well, we had learned something. And somehow maybe, maybe if you just want to say financial value,
+
+of course it's making you more fulfilled human beings and educated and able to live in the world.
+
+And oh, that's great. We love that, that that's the biggest value.
+
+But if I just talked about the financial value, what would you have to do?
+
+You'd have to somehow try to figure out how much all your stream of future earnings was increased because you went to this class.
+
+All right. That's a that's a ridiculously impossible thing to try to do.
+
+But that's what you would trouble. You know, you'd say, well, okay, I guess that's what I have to do.
+
+Right. And so when we so, so what are the universities making financial decisions or you know,
+
+if suppose we're a for profit business and you're literally customers buying,
+
+you know, information from us, then, you know, we'd have to figure out, well, how much can we charge for it.
+
+Well, it's an economic decision. So people are going to tend to pay us what they think they're going to be able to get ready.
+
+You know, so the logic, the frame, the logic will go forward.
+
+It's just that we're going to apply it in a complex world where things don't mean exactly what you know, what they already well the finances okay.
+
+Oh so what do we do so far. What have we done?
+
+We formed an LLC. We issued some membership units I guess not really shares.
+
+And we used the $50,000 to, to buy some bonds.
+
+Okay. And um, I wanted to go through and figure out with you that a little bit about that transaction because again,
+
+the transaction has to be we have to understand and analyze the transaction in order to do any accounting for it.
+
+So accounting is what is telling a financial story or a story about what little Red Riding Hood goes, you know, it's a story about economic activity.
+
+So you saw this. So the way we write the story is a function of will.
+
+What kind of activity are you playing? You know, what am I looking at here?
+
+The seascape. Or am I looking at, you know, the mood or what?
+
+So the first thing I wanted to really talk about with you is this notion that, um,
+
+what we're going to do when we start telling the accounting story is doing the financial story using accounting.
+
+One of the first things we're going to do is we're going to talk about substance.
+
+Use. I want to carry this Raven stepson's verses for.
+
+Okay. That is what is, economically speaking, what's really what's going on here.
+
+You know, I know the form of it is we said somebody the government and they made a certain kind of promise to pay.
+
+But the substance of it is we're loaning the government money for 30 years does that.
+
+So that's the economic substance of the transaction.
+
+Now, how do I know these things? Well, this is kind of just like looting the world and having some economic intuition.
+
+And and and sorting through, you know, because people do a million different.
+
+They just they dress up borrowing in a million different ways.
+
+But look, it's just borrowing. Okay. So that's the first.
+
+That's a it's a big step in the accounting process as we analyze the transaction.
+
+And we try to try to characterize what's happening, the substance of it, not the form of it,
+
+because we're trying to tell the economic story, not, you know, how they did it all.
+
+Okay, so we drew a cash flow map, right?
+
+So so I wanted to go through with you all this transaction and carefully feel okay.
+
+This deform is we sent the $50,000.
+
+We they they we purchased bonds with the face value of 57 902 or 764 if you really want to know.
+
+And and the substance is they were going to yield us 4.85% compounded annually and had the, the four minutes rather.
+
+And then how much are they going to send us?
+
+5702 times 4% coupon rate divided by two is up 2% every six months.
+
+They're going to send us a wrap for 30 years. And then the last, they're also going to give us back the 57 902 okay.
+
+So that's the form of it. And then we started going through the substance of it.
+
+Right. And that's what I want to do today. So I want to draw.
+
+Like I want to think about the value map or how does value change through time with this.
+
+Um, including the receipt of the first few. Um.
+
+Uh, payoffs. But I also want to make up the financial statements as we go.
+
+Okay. So, uh, next time, what?
+
+I'm going to do what I want to do. Oh, I guess I guess I got to just start doing it.
+
+Okay. It's a it's a short slideshow to hear.
+
+Um, but. Okay.
+
+So that's that's a that's a brief review. The next time is also going to be uh, I'll try to remember this as well.
+
+Where we're going right now, we're just assuming that the interest rate stays.
+
+The change stays the same okay. Interest rate stays the same through time.
+
+But what are we going to do next? Well, we're going to make a change. Okay.
+
+It's not a. You know.
+
+So. So that's what we're going to do next. Oh, well, we already did this already.
+
+Uh, okay.
+
+Your chair. You know that stuff on the value map?
+
+All right. So let's let's just start going and, you know, sort of see what we do, what we can get up with.
+
+So I think there's if you go to the class page, you want to pull up the if you want to,
+
+you can um, use the link to the file and you should be getting my where's my cursor?
+
+Oh, man. I mean, it just it's just so ridiculous. Oh, you're on it.
+
+Uh huh. All right. Fine. Okay, so the, uh.
+
+Uh, so it got got going on in the spreadsheet.
+
+So this is what happened in more detail. It was February 2nd, right where we had class B, I think it was a.
+
+Was it a week from now? It was just one of Monday.
+
+Oh I don't know where you are. I'm so lost I don't know.
+
+But I think it was February 2nd. Okay. And, uh.
+
+Yeah, it was just last class. Just, uh, just on Monday. And so we have these bonds.
+
+We decided actually to buy a bonds that had a maturity of 30 years.
+
+Now, why did I do that? Well, I did that.
+
+I did 30 years because I want you to get a sense of real time and the fact that since you can copy and paste formulas in Excel,
+
+doing 30 years is just as easy as doing three. Right.
+
+Once you get it set up, you just drag. Okay. And, uh, so this is kind of a step of, uh, about getting out of the, um, you know,
+
+getting into an Excel type mindset where you can actually make models of your situations and, you know, some fair amount of detail.
+
+You know, back when, uh, you know, people were doing all this stuff by hand.
+
+You'd use examples of, like, 10% interest rate and you'd do it maybe once or twice, but there's no way you're going to show the way.
+
+Something's going to evolve over 30 years by hand. But now it's just as easy to do.
+
+It is. But that's that's my that's my agenda. Okay.
+
+So the first thing we did was we drew the cash flow map. Right.
+
+And the cash flow map just says what? Well, this promise, there's two types of things.
+
+There's a coupon. 4% semiannual, so it's going to pay 2% every six months.
+
+You know, now when you set up something like this, you know, notice I've set up time in six month variables.
+
+You can. You don't have to do that, right. You could have said zero one half one so that every time I saw an integer about two years.
+
+But what you have to do is make sure that the way you treat the interest rate is consistent with the way you define the periods, right?
+
+That makes sense. And what about that? The purpose of that is so.
+
+So you get kind of used to this notion that you really always have to pay attention to the periods of things that.
+
+And so I think I told you, uh, how would I be on this all?
+
+Still, having said something about interest, the maximum interest rate you charge but didn't say the period?
+
+Yes, I don't regret, but I wouldn't want to have argued with them back then.
+
+You know, it's no good if you said, you know, that's a year.
+
+And you said. But you didn't say that, I don't think that's something you'd want to say to the King back.
+
+Okay. Or, uh, relevantly, when you pick up a financial statement,
+
+that's for a period of time and you always have to look at what am I looking at, a year or a quarter a month?
+
+You know, you just always so, you know,
+
+some of the things I would want to do are just kind of build in automatic things you do without having to think about it,
+
+you know, like you don't think about to put yourself on autopilot to do that.
+
+And then that that means you're not having to use any of your cognitive brainpower to force yourself to do that, because you're used to it.
+
+Okay. Might as well get used to that here. All right, so, uh, so the coupon payment.
+
+Well, uh, that's just, uh, take the interest rate divided by two times the face value.
+
+And, uh, there we go. Okay, so we're going to get 60 of those.
+
+Oh, wow. This is fun. Uh, we're going to get 60 of those, and then we're going to get the face value back.
+
+Right. Everybody does that, so I just added them up.
+
+So then I added the total cash flow up.
+
+And I say look what's going to happen is they're going to we're going to get repaid over this 30 years, $127,383.61.
+
+That's how much is going to come back. Right.
+
+We load 50 days. Why does four come back?
+
+Then we load. Interest, right, that the government is paying us a rate, a fee to return our money over time.
+
+Right. So naturally they have to pay back in total, more than ever.
+
+First time you ever to buy a home and you get a mortgage and you look up how much?
+
+Well, a lot of times I think they they'll they'll show you this is the total cash you paid back.
+
+You go. Whoa, right. Why is it so much bigger than the principal you borrowed?
+
+Not only is it interest is compound interest. Right.
+
+So depending on how what your repayment schedule is, you could end up having to pay a lot more cash or less cash depending on when you repay.
+
+Okay. But you know, the story really is here.
+
+It's like we know this is a common accounting issue too.
+
+We know that over the life of the 30 years we're going to have earned, or we're going to have $77,383.61 of interest, right?
+
+That's the total time. That's what we're going to get.
+
+Okay, now, what we want to do, though, and tell the story of value unfolding over time is to show the process of earning that overtime.
+
+You know, not just say, oh, well, that's 77 383.
+
+Is that should I just take 1/60 of that and say we don't.
+
+Every six months we are in that well now. Right.
+
+Because we have a compound interest model going on here and we can do better than that.
+
+You'll see a lot of times what we do in accounting for like say depreciation of fixed assets and stuff like that.
+
+It's just what I just said. What's the useful life? Divide it up, chop it up, make it go down linearly.
+
+We start this. We start here by looking at this because we have a good model of how value declines okay.
+
+I'm pretty cool with that. So how am I going to tell the value story?
+
+Well, I have to track present value through time. So let's just look at the economics of the investment.
+
+So here I have the cash flow indie. Uh, and here I have figured out, like, the interest income and what has to happen to the bond value.
+
+So how do I do that? Well, it's all based on present values of the cash flows.
+
+I'm sorry. The cash flows are, um. This is just the present value of every cash flow.
+
+Um, so what is the value of the bond?
+
+Uh, six months in. Oh, just for health sake.
+
+I measured time differently in this window than the other one is. Well.
+
+Um. It's got to be the present value of the remaining cash flows.
+
+So if you did excel. What? I'm trying to get you into that notion that if I move time.
+
+Unless I'm dealing with the perpetuity, the cash flow picture.
+
+When I stick my head up above the cash, the timeline and look out.
+
+Well, if I'm one year further than I was, or six month further than it was, I see a different picture.
+
+I got to do everything again. Cool.
+
+All right. So we went through this a little bit.
+
+Right.
+
+And so, so I you know, I said the the real uh, point here is the difference between, oh, how can I, how can I select two things at the same time?
+
+Why? Why do I have, like, a mac? Okay, let me try this.
+
+Okay. So those two highlighted cells, the difference between those.
+
+That's just what we started exploring right.
+
+We started exploring hey we got $1,158.03 in cash.
+
+But what did I say? But what did we think that the value created was?
+
+Well, we said, here is when we had to go to the substance of the transaction.
+
+So what's the substance of the transaction? Well, the substance of the transaction was we loaned the government $50,000.
+
+And the interest rate. Was.
+
+That an interest and an interest rate of 4.87%.
+
+Divided by two. And so the interest income.
+
+Is we you know, do do the calculation right.
+
+The the interest interest income would be.
+
+1000. What is it? 217.
+
+50. Right. Yeah.
+
+What is the bond value like? Increased like the interest rate over the the bond.
+
+The coupon payment only determines the promised cash flow.
+
+Right. So they put 4% coupon. The only thing I use that information for is to figure out how much cash is if I getting.
+
+Once I get that figured out, all those terms go up.
+
+Now I'm talking about borrowing money. Yeah, that's the principle of interest, right?
+
+The principles like the amount you borrow. Right. Does that help?
+
+Yeah. So this is, you know, debt. Yeah.
+
+What you're going through is very is common, and you have to trip over it a lot.
+
+And people make it. You know, in practice, people just screw this up all the time.
+
+They'll say, what was the interest on the bond? Would that be the coupon rate?
+
+We don't want to do that. Right. You want to have it here?
+
+Be sharp. But wait a minute. Are they talking about the coupon rate or the interest rate?
+
+Because the interest rate is what? That's the price of trading money through time.
+
+The coupon rate is just telling. Use is a language to tell you what cash you're going to get.
+
+Okay. But, you know, if you got to do this a whole bunch of times and then you get familiar with it, right?
+
+You know, what's the input to what. You know, I can say you can listen to it, but I got we got like 6 or 7 things floating around here.
+
+And I'm just going back and forth, running all over the territory.
+
+Like, you know, I tried to remember when 1973 or something when I first ran into this and sitting in class and.
+
+Yeah, right. It's a bunch of different terms that I put out because I completely used to write.
+
+You know, I'll usually do a few things in along the way that if you have some confusion,
+
+we'll try to get you to trip on us, because that's the only way you learn.
+
+Oh, yeah, I didn't. I got that messed up.
+
+And once you once you do that a few times, then you got it right. Okay.
+
+So you know. So.
+
+So so a big deal when we started doing our balance sheet was to say, oh, okay, let me, let me do some real accounting for this now.
+
+Uh, I'm going to I'm going to do the accounting. The identity assets minus liabilities.
+
+That's going to be my. The key thing I work with.
+
+And I'm going to define that in this case to be equity.
+
+I mean, I'm not defining. I'm just that's the word I'm using. That's the name for the difference between assets and liabilities in a for profit.
+
+Okay. And you remember what happened after we went?
+
+Six months. We started telling us what we had.
+
+We said, well, we've got cash the government just sent us.
+
+And that's that. You know, cash was 115803.
+
+And and over here on our our equity side, we had what we we had, uh, members contributions 50,000.
+
+Contributed. People called us something like contributed capital against the words.
+
+Author. That's what we got.
+
+But we know what we meant. Right? But what we read is that's the money we raised.
+
+But if initially. And then look, if if we, uh.
+
+You know, if we, if we earn interest.
+
+Income. That in value terms, and I'm keeping that.
+
+I'm keeping the accounts in value terms. I know that I should.
+
+I should have added 1000. To 1750.
+
+This is sort of, I want to say value added during period.
+
+And so if I can add, I see that this is, uh.
+
+What, 51,000? Two, 1750.
+
+This identity says, hey, hey, hey guy. Then if that's what the equity is, the assets minus liabilities have to be that.
+
+We don't have any liabilities, so that makes it easy for this, right?
+
+No liabilities. Don't worry about that.
+
+So however I do it, I got to figure out that my total assets has to be 51 to 7050.
+
+That's that's got to be if I want to say good in a different way, if I want to say that their earnings, the value they added was $1,217.50.
+
+Then I want to account for that in the accounting identity. I have to get to this because that's all.
+
+I can count the cash, right? I can count that. I know that number 100%.
+
+But how do I get in?
+
+This is where we all are. Oh. Uh uh um uh.
+
+What happened? Well, what happened is the value of the bond.
+
+Had to go up. Or the TVA or whatever you want to call it.
+
+Whatever. The thing as we go was, uh, had to be 50,000.
+
+Oh 59. 47.
+
+Right. Who?
+
+Well, a good so. So what I just did is kinda general way you go about doing the accounting.
+
+Even even in less clear cases. Normally it would be.
+
+It might be something a little different. Like this. Like I could have done it in a different way and said, what's the value of a t-bill?
+
+Well, the value of the t-bill six months in is the present value of future cash flows.
+
+If you do the present value, the future cash flows are the remaining cash flows.
+
+You'll find that that's 50,059 47.
+
+And then if you add then you get the total assets being this.
+
+Then that will tell you when the total equity set to be. Just tell you what the interest earned has to be.
+
+Okay. Now here we have a nice model where it all fits together very logically.
+
+The present value, the bonds value at any point in time is the present value.
+
+But future cash flows the interest at any any period is the beginning balance times the interest rate.
+
+Okay. So all of that present value model makes all that stuff fit together, right?
+
+Okay. So now, uh, if any questions or talking.
+
+I tend to go too fast sometimes. In.
+
+So like I said, I'm just too used to it. Okay?
+
+Yes.
+
+I got a question about just how, you know, if you could put the all those numbers into the like, where would all those numbers fit into the assets?
+
+Minus liabilities equals equity right there. So the table of title is the 5050.
+
+Yeah. That's the assets that you are looking at the accounting balance sheet six months.
+
+And this is what you would see okay. It's a assets that plus that equity debt plus that totals that up.
+
+Good. Okay then that is the generally accepted accounting principles balance.
+
+Six months in assuming the interest rates stay the same.
+
+Okay. And even under other circumstances,
+
+there are circumstances in accounting where we're going to say we're not even going to pay attention if the interest rate changes,
+
+but we're gonna talk about that next time. Okay.
+
+But you can stare at this a long time and think.
+
+And. You had a way to think about the way the value was evolving, and that gave you a different number than the cash you got this period right.
+
+So if I want to. Um.
+
+I want to do this exact. Well, let's let's do what's called an income statement.
+
+You know, every time I do this with the Morse code.
+
+Up and down. When I was in graduate school at Stanford, has played tennis with a friend of mine,
+
+and he did a service to my back, giving them a bit of like this in my backseat stuff.
+
+And I got this in the summer. So we had stochastic processes.
+
+No, we had a statistics course where they actually went into how statistics really works.
+
+And I'd had a bunch of statistics. Quite a few, at least two in Oklahoma stated.
+
+I didn't want to say I did not learn a thing. So when I took the class at Stanford, I learned all these things about tests and of tests and so forth.
+
+I never heard this before. I looked up on my shelf. I used to keep all my books.
+
+I looked up on my shelf. I had a textbook. In that textbook.
+
+I had tabbed all the various tables you need to do this. I hadn't made an A in the course.
+
+I knew nothing because I didn't know how it worked.
+
+And this was they taught it more like as a cookbook, you know, and I knew nothing.
+
+And then when I found out, oh, this is how it works.
+
+Well, I'm still not a great statistics person, but I have a chance, you know, I remember it and other do this and this and this, this chemistry.
+
+But anyway, so I'm in this statistics class and uh, by the way, I found out something about my system.
+
+You know, we couldn't have a back. They gave me muscle relaxants and probably value.
+
+And, you know, you have to be careful with something like value. You know, this, it can take you either way.
+
+Really. Most people, it comes down with me at random.
+
+So every day in class, we would come in, in this guy, this visiting guy from Canada would come in and he would write on the board,
+
+the back, and then he would pull one down in front of it before I could write everything down.
+
+And he started to do that. I would stop it like that, I know.
+
+Anyway. So every time I pull the board down, I'll take it back to, to to my youth when I, uh, scared the [INAUDIBLE] out of some.
+
+So, professor, he didn't know because I was. I stopped taking development after that.
+
+Okay. But anyway. So. So what I want to do now is let's do what's called, like, an income statement, okay, for the company.
+
+So the income statement, what that's about is trying to show you.
+
+Yeah, I did it a little. Let me do this. Oh, here we go.
+
+So. So let's just. Let me let me go back a little bit if you look.
+
+So our beginning balance sheet. We had assets and all.
+
+Where we're going to have is assets in equity. Right.
+
+Oh. So that's. Oh, let me, let me do it this way.
+
+Assets. Equity. Okay.
+
+And to begin with, we had nothing.
+
+Right. And then this is it.
+
+Tiring, you know? Uh, this is before we started the company, and then we had cache of 50, and we had equity.
+
+So yeah. So we got we had cache of 50.
+
+And we had equity of 15. Right.
+
+That was the charge. And then after we did the blind, we had.
+
+Cash zero. Bond 50.
+
+Equity. 50. Okay, so every time I write something down, I'm keeping.
+
+Everything's in balance. Always right. Meaning that it was there.
+
+Absolutely. Positively. Right. And now then, this is just what we just did.
+
+We're going to go six months down the road. This is six months in.
+
+And now we've got cash of 1001 58.
+
+That's a coupon payment of three. Instead, we have a von, uh 50.
+
+This is my value story now. Oh 59. 47.
+
+Okay, so our total our total assets were what.
+
+And I the total assets. 5051.
+
+So our total assets were. Um.
+
+51. 1750.
+
+51 to 1750.
+
+Down in the equity, I'm going to say is now I'm going to split that into two parts, right.
+
+There's the contributed part. Which was the same 50.
+
+And then the third part.
+
+Of this. Undercard under.
+
+This 1 to 1 seven. And.
+
+Okay, so that it totaled out. The same.
+
+Okay. So. So what I want you to look at is.
+
+This is where. This is where our identity started.
+
+Here. Right.
+
+And then this is where it ended six months ago. Okay, so those are snapshots of points in time.
+
+Well we also have it. And that's that's the balance in accounting.
+
+But we also have statements that help us explain what the heck happened.
+
+Okay. That is what happened along the way. So one statement we have that does that is called an income statement.
+
+So let's look at an income statement. Not what the income statement is about.
+
+It's to see how, you know, implicitly our contributed equity was zero and our, uh, retained earnings as, uh, was zero.
+
+So what the income statement is about is telling us the story for how this number went from zero.
+
+To. $1,217.50.
+
+We have a statement that says tell tells that. Like I said, that's the the income statement.
+
+Ooh, that's so dark back there, I don't know. Uh oh.
+
+That's okay I. So let's do the income statement.
+
+Income statement. Before the six months in.
+
+Yeah. Now these I'm going to say for the six months starting earlier and ending there.
+
+Right. Starting February 2nd meeting in August.
+
+Okay. So in the income statement we want to track.
+
+Value. I say I should do what we want to track here.
+
+Is value flowing in. So how much is that.
+
+How much value? Are we saying it was created over the first six months?
+
+Yeah. Is it 1217 is the earnings.
+
+Is the interest revenue right.
+
+The only thing that only thing that this operation did was just sit there on the bar and that and because time passed then it's got interest revenue.
+
+Okay. So I'd say interest revenue. Would be 1000 to 1750.
+
+Okay. Now accountants always like to also say, well, wait a minute, what were our expenses?
+
+You know, usually if you if you have revenue, if you sell something to people where you have salesmen,
+
+you have all kinds of expenses associated with it. We're doing a very simple problem.
+
+Simple example here. Expenses. For expenses.
+
+Did we have zero right.
+
+I because we know we. I didn't tell you. We don't.
+
+We're not tracking a big story of you have to pay me a salary and blah, blah, blah, blah, blah, blah.
+
+Right. So this means the net income.
+
+For the period is 1000 to 1750.
+
+Okay. And what is that? What is that telling us?
+
+It tells us why our beginning biology number went from 0 to $1217.50.
+
+Because we the accounts here for the story have a model and we have a way.
+
+So we have a good way to think about this. And we're saying value created was 1000 to 1750.
+
+Nothing was paid out. That's the retained earnings added to that.
+
+This is an important perspective. This is an important perspective.
+
+Uh. It's kind of the highest level.
+
+The way we're going through this is that we put down an accounting identity here,
+
+and we put down one accounting identity here, and then we explain what we did.
+
+We explain the numbers we put down. Right.
+
+Well, I'm pretty confident here. The numbers we put down in this case should be really good, right?
+
+I mean, if the interest rate didn't change. And we go look at the market.
+
+We go look at the bonds that are trading on the market. So now they're not 30 year bonds anymore.
+
+They're 29 year and 29.5 year bonds.
+
+And the, uh and one coupon payments is gone.
+
+If we look at the price they're trading on the market at, well, the bonds traded on the market and their future cash flows, it's $50,059.
+
+That's what we're going to see in the market. We're going to say, hey, I, uh we got it nailed here.
+
+Okay. But one of the things I want to just, uh.
+
+Put down a marker for it. Is there actually two characteristics of this example we're doing?
+
+One of them is it's very simple that they only own one thing. And we have a good model for how value is created, but implicitly.
+
+Another thing is when we're recognizing.
+
+Here. Everything.
+
+Complete in 165 Whitney Associates.
+
+That is, there's nothing going on. Right now that I didn't build into the accounting.
+
+This is generally not true. Okay, so that's why when you look up, you should look up Apple.
+
+Did I do this? And we do this already before. Apple's a good one.
+
+You look at what their stock is trading four times the number of shares outstanding.
+
+That's called the market capitalization and that's over $3 trillion.
+
+Right now I think it's about $3 trillion. If you look at the equity on their balance sheet.
+
+Take a guess. I can look at their financial statements.
+
+I write down their equity.
+
+You think that the the that I could see 3 trillion in the accounting reports that I see a few hundred billion, maybe 360, as I recall, 360 billion.
+
+That's what's on the balance sheet. The market's telling us you guys left out a lot, but what did we leave out?
+
+The creation of all intellectual property, the design of the iPhone, the brands,
+
+the knowledge of how you maintain these things that you know, it goes on and on and on and on.
+
+What we're going to see is in complicated businesses that that recognition criteria really bikes.
+
+That is a lot of stuff that we don't put in and we know we're not putting it.
+
+So when I look at financial statements, I have to be keenly aware of that.
+
+I have to be keenly aware of what I'm looking at, but also I need to be keenly aware of what I'm not looking at.
+
+Right? So I just don't worry about that right now. But just note that here.
+
+Anything important happening? We're just nailing it because almost nothing is happening right by my side.
+
+Right. Knows nothing. Zach. Okay. Well, would you like.
+
+So here my net income was 1250.
+
+And I show that on an income statement. Hey, there's another number that changed quite a bit.
+
+What was that? What about this?
+
+Um. Oh! Catch it! Oh, I don't do it.
+
+Oh. What about cash? Transcript from zero.
+
+We had zero caps here to.
+
+115803. How did that happen?
+
+What's the story of that? So we have another accounting statement that tells us that.
+
+Oh. And what do you think that other income statement is called?
+
+Well, I'm going to write it in green because it's the cash flow statement.
+
+Okay. It's only telling us what happened in cash. Right.
+
+So cash flow statement. Well, look what happened to cash.
+
+Now I'd have to go back inch by inch and look at my cash balance.
+
+Started at zero, then it went to 50.
+
+I went to 50 because we did what we had a what's called a financing.
+
+Decision. We issued. Membership shares.
+
+Just issued shares. Right.
+
+And we brought in 50 for that. What else did we do with our cash?
+
+We sent somebody. We sent it to the government. Right. So for that we had.
+
+And investing cash flow.
+
+Right. And that was we said 50 and normally in accounting of, uh, all right things in parenthesis, we, we bought.
+
+Bonds. And then the final thing we did was we collected a coupon payment.
+
+Right. So I'm going to call that operating because that's all we do in our operations is collect fees from that.
+
+And then operating. We received a coupon payment.
+
+Of. 1001 58 003.
+
+Right. Okay.
+
+So the total change in cash. The change in cash was 1001 5803.
+
+Right. So this is another statement you'd have when you look.
+
+Yeah. Oh, I know this is like a kind of, like doing example here,
+
+but is there a reason we wouldn't like net income at the top of the cash flow statement in this in this one.
+
+Oh, you've seen the indirect method. I wouldn't do that right now. Okay I'll show you how to that.
+
+Okay. Clay work.
+
+Clay was talking about is seeing cash flow statements, but of a different looking for than this one.
+
+This one is this one in what's called a direct message.
+
+And it just tells you this is where you got cash, is where you spend cash.
+
+This is something we're going to be hammering.
+
+You know, when we think this is this is the thing that we fully understand that you really no accounting.
+
+So there's one winner.
+
+So what I'm going to I say that by virtue of the fact that to get you used to the fact that, um, it takes some real get used to.
+
+Okay, almost nobody does this in practice.
+
+Okay? They know it's they're still trying to tell you their cash flows, but they tell you a different way.
+
+And let me show you what that different way is now these two sections investing and financing.
+
+Those are always the same. So that's just what you brought in by in that by, you know,
+
+investing in stuff and what you took in by borrowing or, uh, issuing shares or something like that.
+
+Okay. Those are just always the same.
+
+But what can be different is this operating statement up here, because there is a rule that says, all right, you got to tell me one more thing.
+
+You just told me this to the financial statement person that.
+
+The income was 12, 1750. But you told me, and you know, how did I get that?
+
+Well, I had some theories and stuff to get that right. But there's something up here I didn't have to have any theory to get.
+
+And that is cash changed by 1158 over three.
+
+There's no accounting to that. There's only counting.
+
+We only have to go count that number. Just be careful.
+
+That's the only number we have that we can really count.
+
+Everything else I've created has been this story with a.
+
+I have a value, you know, a model for how it very rare that that.
+
+So to tell that accounting story I put in I brought a lot of stuff a lot of interpretive things in there.
+
+What didn't I interpret that guy? Right, cash.
+
+You could always just count cash. So there's a requirement that says, okay, now you got to tell me why is that number different?
+
+Then. That number.
+
+Why? Why is your income different than your cash flow?
+
+You have to explain that. So let's look and see what how that would go.
+
+Uh, so this is what's called, uh, a.
+
+Oh, boy. Well, uh uh uh, I'll put it in over here.
+
+I really I don't like to indicate that things are in some sense kind of parallel, but.
+
+Which. I have to do what's called a reconciliation.
+
+That is, I have to explain the difference between net income, which is 12 1750.
+
+And cash flow from operations, which is 115803.
+
+I have to explain that. You tell me why that is?
+
+How did you get there? No. I really like this, the way it's unfolding today.
+
+Things. Things like this unfolds differently in every class,
+
+but I'm glad we're taping because I'm going to take the stuff because this is working better than I ever thought that it could, because.
+
+You know, I think what's really hitting me today is how much baggage we brought in when we did the present value calculations.
+
+You know, that baggage was we have a certain model of how things are going.
+
+That's a model. That's a theory we have, um.
+
+Uh, you know, certain we we made certain assumptions to do that theory.
+
+Right. Like, we can borrow and land at the same rate and all that stuff.
+
+We brought a lot of baggage into telling our story. To get the 1000 to 1750.
+
+Right. I mean, you had you should be thinking this is pretty abstract, this kind of high flying stuff.
+
+And this is actually the kind of thing that Irving Fisher, the accounting or the economics professor here.
+
+And he just figured out how to, you know, think about.
+
+Okay, so how to do the reconciliation? Well, if I start with that income, then I have to do a bunch of I have to say something.
+
+I've got to end up with cash flow from operations 115803.
+
+Okay. So what is a reconciliation? A reconciliation is tying together two numbers.
+
+You know that, you know, two numbers are computed maybe, and say, well, what are all the differences.
+
+This is what you normally see when you see a cash flow. Statements like Claiborne's asks about that.
+
+So you see something that starts with net income. Okay.
+
+Why is it different from an accounting for you?
+
+So so what explains the difference between these two things?
+
+I want to tell you right now that the difference is 5947.
+
+And. The at $59.47.
+
+Right. So you can get that just by subtracting. But I know it for several different reasons.
+
+What is that number? 5947.
+
+Yeah. Um, well, 1217 minus what's being paid out in the bond each period, which is the.
+
+Yeah amount that the initial that bond value grows.
+
+Correct. That's what it is. But I this is what's weird about this.
+
+But where is it in the accounts. Where, where could I point to in the other balance sheet accounts and say there it is.
+
+There's only one other balance sheet account we have. Not another chapter.
+
+What about sheet? That. So the balance sheet is cash.
+
+And bonds, right? That's all there is.
+
+And so the answer to the riddle has to be in the body cavity.
+
+Yeah. Look, we started off with bonds on the books at 50,000.
+
+And our story said you actually earned more interest than the cash you got.
+
+And so the difference. This is the change in fog value.
+
+Now look at that. But that statement tells me it says okay.
+
+This is the cash you got. This is what you told me.
+
+Value is how. Don't you tell me that story. You wrote up the bond.
+
+Right. I increase the value of the bond. We'll get to the bookkeeping mechanics of all this.
+
+There, actually. You know, like I said, this is like super high level.
+
+We're going to go back and do it in the bookkeeping mechanics.
+
+And in many ways you can keep a lot of this straight or that because when we do everything I mean, I'm just sort of freewheeling.
+
+I don't have an accounting system set up for 165, wouldn't you say?
+
+I should do that over the weekend? I should put it in the accounting, um, software that we're going to use.
+
+And then so you can work through and see items that way.
+
+But the whole accounting systems of debits and credits and all that stuff is to actually do this without getting lost if you're lost right now.
+
+That's fine. You would be lost. Right.
+
+We need a system, especially. We've only got very little going on here.
+
+Right? What happens when you get at it? Imagine Yale's financial statements.
+
+Oh my God. You have tuition revenue. You have grant revenue.
+
+This is just. This is just how stuff comes in, right? You have, um.
+
+Uh, well, I guess they I guess they probably have rental revenue from the land they own and rent to stores.
+
+Right? Uh, they have earnings on the endowment, which this kind of thinking applies to.
+
+Right. So some of what Yale owns, they're just doing exactly what we're just doing right here within their accounts.
+
+Right. And, uh, what about their expenses?
+
+Well, they pay me. They pay upkeep, the classroom.
+
+That. I mean, it's mind boggling the details, right?
+
+So we really better what we're really what we're going to do is we're really going to use the heck out of.
+
+All of this structured assets that I raised, despite the damage, you know, were really going to use the fact that we classify things into assets,
+
+liabilities, equities, and it all has to be linked and nothing can just disappear or nothing could come in from heaven.
+
+Right? So I couldn't say. So this is a paradox up here.
+
+I couldn't say that that was income where that's the only cash you got.
+
+Unless I did something to some other account. This is telling you what I did.
+
+Right. So that's the whole system of financial statements that, um, you when you go to the world,
+
+you will hear a lot of really dumb stuff, like what's more important, the income statement or the balance sheet.
+
+This is stupid, right?
+
+It's a system that all works together to convey information.
+
+And the more you know about how it works together, the better off you are, right?
+
+So, you know, when I was learning this, I learned one thing at a time.
+
+You learn about the balance sheet, and then you learn how to do the income statement and then see all these things that seem to be disconnected.
+
+And that's still the way most people learn. Accounting is a disconnected bunch of stuff.
+
+It's not. And and then thinking that this disconnected stuff is very bad.
+
+Okay. It's very bad because we have to make all the connections.
+
+Then I wish when we start doing the accounting.
+
+Like for Apple, we talked about, you know, where they have their market to book capital, which is like, I don't know, 50 something or whatever.
+
+Well, if we recognize something then it's going to go into the system.
+
+Once we recognize something, it's got to go into the assets liabilities equities framework.
+
+And once it goes in, it can't just disappear a piece at a time.
+
+You have to tell a consistent story about what you're putting in and a consistent story about what you're putting out.
+
+Maybe you know what you're pulling out. Maybe you don't have all that information.
+
+Maybe it hasn't worked out yet, but has it all worked out yet? How am I going to change what the stock market does based on what's happening?
+
+Right? They don't have to fit anything together. If you think the stock's undervalued you say one going to buy it.
+
+You don't have to offset. You don't have to make an offsetting entry in any way.
+
+But when we keep records we're not allowed such freedom right.
+
+Yeah. This might not be the greatest question, but I was wondering why the 4158 isn't in the expenses column because.
+
+So that's that's it's interest income to us. Okay. They're paying us.
+
+They're paying us that amount. It's on the government's expenses.
+
+Okay. Yeah. So we're doing it for the government. But no, we're doing it for large.
+
+So this is another huge thing we'll have to straighten out. It's like, from whose perspective are we doing this?
+
+This is very confusing. And let me tell you, I just leave you with this and we'll come back next week.
+
+The reason people get so one reason my my theory about why people get so confused about debits and credits is because any time the bank talks to you,
+
+they're not talking to you from your point of view. They're talking to you from their point of view.
+
+So when you deposit money in the bank, I deposit $50 in the bank.
+
+They say what I present in your account? Yeah, they did, because they have a liability to me.
+
+Right from my point of view, I have a receivable back from them anyway.
+
+Don't worry, we'll get we'll get all this straight. But that that's going to be very important.
+
+And exactly who we're doing the accounting for. Okay.
+
+I'll see you in.
+

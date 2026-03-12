@@ -1,0 +1,1383 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+If you really see. Oh, because, yeah, I take notes while, um, solving the problem sets or.
+
+That's fine. Yeah. From a distance, this looks oh my look how many numbers are producing in.
+
+But there are such patterns that you could think of.
+
+So that was a. You know, that was a big help to me.
+
+Doing things on Excel instead of because. You know, I actually started before they really had calculators.
+
+And so what they did was they would take present value factors like one over one divided by, ah,
+
+one over one divided by R squared, all the different for different interest rates for the different.
+
+And then that includes tables. So you have to go pull out the discount factor.
+
+And then years. And by the time I got all done. What's the pattern.
+
+I know and I taught you an interesting thing yesterday.
+
+This is relevant to what we're going to do today. It's somewhat advice that my prompting but you articulate quite articulated the
+
+issue when you pick up a set of financial statements that are written on paper.
+
+Okay. What do you see? Well, every statement is on a different page.
+
+Number one. And the different years are in different periods are in different columns.
+
+So it makes you always want to look at the change in statement by statement, like what's the change.
+
+But what you can't see is how it's an all of interlocking system.
+
+So just what we're going to do. Okay. Uh, I never thought about how that presentation of tables on paper, you know,
+
+and multiple tables on paper really is an impediment to seeing, like, what's actually happening.
+
+And that has an accounting system actually work, right?
+
+So you get you you have all these people that talk about one statement at a time instead of the whole thing.
+
+Anyway, that's why. Uh.
+
+What the heck? I gotta get off the camera.
+
+I don't even know chat room control. How do I how do I get out of this camera?
+
+We're trying to reject residuum. Left or right.
+
+Anybody? I don't know how you.
+
+Here we go. Okay. So first of all, I'm going to wake you up by turning on the right.
+
+Lights. Okay.
+
+Go ahead and do it. Well, I'm.
+
+Well, that's a good. Oh, here we go.
+
+Okay. So I've been working on getting to.
+
+I have people. I just can't get them. Seem to be able to get them, um, deployed the right way.
+
+Okay, so we'll work on that. Um, how did office work up officers work again?
+
+Was it based on you? Email me. Okay. You call me.
+
+Leave me. Okay. So how do you feel? You know, I'm blocking unknown callers, and so, you know, any way you can get to me, I'll meet you in my office.
+
+I'll zoom or do something. Okay. All right. So that's actually.
+
+Or isn't the DEA for you? Yeah, I hired Boris.
+
+He said he met with you, right, but I'm just trying to get him officially on the payroll now.
+
+[INAUDIBLE] do it, or so I will. How do you say his last name exactly?
+
+Love or name? Collaborating. Go. Right. Well is available to answer questions.
+
+And, um, Sophie Thompson, I guess is another person that I have a wife, but.
+
+So. But Boris, you should feel free to. But I hesitate to go to David till I can actually get him signed up and paid.
+
+Yeah. Um, can we sit with, you know.
+
+Well, this will this will work. I think, uh.
+
+Uh. This.
+
+You. I have to sign up.
+
+Oh, and of course, today, if it actually goes to my watch, which you should do.
+
+Okay. So for this is not for you guys because you all came before the people who didn't come.
+
+We're heading into a two class. We're heading into a few sessions where you definitely want to be here.
+
+Okay. That's going to be a big. Yeah, you'll you'll see today.
+
+You know, today is actually we're we're polishing off some things with 165 Whitney Associates.
+
+But we're also, uh, I think most people are working on their problem set.
+
+It'd be way. So I thought I'd just take the time to do that.
+
+So let's see. What do I want to do? Uh, business ABC news.
+
+Is that where we are? Around? Yeah.
+
+Session nine. That must be where you are. Oh my God. Time flies.
+
+And here we need these class notes.
+
+What do you mean, cited? Oh.
+
+So, well, this morning, until the city of New Haven decided to block virtually every exit to the local parking lot, which meant driving around.
+
+Okay, that's good to me again. That's good.
+
+You already don't need. That's good.
+
+Okay. Uh, but we're gonna head into so vastly, vastly different territory.
+
+So I had Clyde redesigned my slides. You know how to work with the.
+
+Work with it a little bit. But anyway, let me know.
+
+Also, I might or might not to reach out to you.
+
+I got to figure out how to set this up. There is, um.
+
+I did for our MBA students, our executive, also our executive students.
+
+A whole pre-work course. Kind of an introduction.
+
+Now, the website learning accounting, it's got a lot of the same material in there, which I just, you know, stripped out.
+
+But I'm going to maybe try to get them to set up a canvas instance of that so you can go through it if you want.
+
+And if you do decide to do that,
+
+I'm redoing the whole thing right now with a team of people from the Carnegie Mellon Human Computer Interaction Institute.
+
+And, uh, one thing they need is some data. And so if you did that and you're willing to be interviewed or,
+
+or if we can somehow figure out collecting how to maybe survey people or stuff, that would be good for that.
+
+Okay. Because one of my big objectives is, you know, integrating AI into the thing much more in a in a good way.
+
+Okay. All right. So this is 165 Whitney Associates.
+
+I just want to back up and take a picture.
+
+Think about what is it that we did. So by us I mean each individual in the class.
+
+So we started off with just us. Right. And then what do we do?
+
+We formed I, we socially constructed an entity that's going to do some business for us, or we're going to have some commercial activity.
+
+It's going to be funneled through that. Okay.
+
+So that thing we called 165 Whitney Associates, and we talked a little bit about what kind of organization you want to put together and so on.
+
+Limited liability companies. Fine. You know, most startups, when they first start out, they're not corporations.
+
+When they first start, you know, their start up as an LLC or maybe a an S Corp special kind of a corporation or something.
+
+They only they only become a corporation after. It's kind of.
+
+Clear that they're going somewhere, right? So I think, um.
+
+All the a bunch of the AI people saw anthropic. And what's the other open AI?
+
+Is that another one of them? You know, I think they're talking about now going public.
+
+Right. So that'll be fun to watch and see. Like what? What happens.
+
+But what does that mean? That means they're going to convert the type of organization they are into a publicly traded company.
+
+They're going to sell actual shares okay.
+
+But that's a fairly you know, that's that's the typical path of um, uh, uh, the startup that actually becomes successful.
+
+Of course. What's the most typical path of a startup? LLC uh, no, I'll say no.
+
+The path after the other. You start with an LLC, and then they want you to start a business.
+
+Typically they'll go, where does it go? Or longer term? Oh, you raise money, you execute.
+
+Yeah. And then what happens? Create a valuation and you raise more money.
+
+Yeah. I don't know how you missed this step, but most I asked most what else these are.
+
+Do they go broke okay.
+
+You know a huge number of that right. I mean you know you see the so again this is very important to understand.
+
+Like what when what you're looking at when you look at the companies and so forth, it exists is you're looking at the survivors.
+
+So survivor bias is a big deal. And what we see here was oh that's easy.
+
+Well you know, you're like you said, you know what? How many of these, uh, I companies are going to actually live at percent, 10%?
+
+That'd be that'd be big, I think. Yeah. Right. Okay.
+
+So anyway, that's just a note on kind of how, how things, how business usually unfolds.
+
+Okay. Then then what do we do? Well, you know, as I said, we raised some money.
+
+Uh, we put some money into the business organization.
+
+Right. So at this point, it's not our money anymore as people.
+
+It's the money of this thing, this, this, you know, imagine thing.
+
+But we've, you know, we got we had paper or or electrons.
+
+Now, I don't even know if you have to have a piece of paper or anything. Uh, that is the company.
+
+Right. And then what did we do? Well, we took that 50,000 and well, I should say it was a transaction.
+
+What did we get back? Let me go back. So.
+
+So we the people said 50,000 of a all of our dollars of our money in there.
+
+What did we get back? What? We got back. Oops.
+
+His rights. Right. We bought rights for that.
+
+Really. Right. And the rights are worried about their rights to share in the ultimate profits that are created by 165 Whitney LLC.
+
+And, um, you know, uh, and also the rights we got were control rights.
+
+So up and down our I mentioned our operating agreement, uh,
+
+that we would have and that would determine how the organization is going to make decisions and stuff like that.
+
+Okay. So we see that we actually we had a transaction where as a person, as people, we gave money and in exchange we got rights.
+
+Okay, so what did we what do we didn't do? Well, we we bought some U.S. government bonds, which meant we shipped our that one.
+
+65 Whitney Associates shipped its $50,000 to the government.
+
+What would it get in an exchange? Rights.
+
+We got rights to receive payments.
+
+And those rights were very carefully delineated where we're supposed to get.
+
+So many payments have so and so many periods of time, blah, blah, blah, blah, blah, blah, you know,
+
+and, and, and and those rights are supposed to all be used up after 30 days, so we don't.
+
+Right? Okay.
+
+You know, another thing, another way word that I could have put on these scrolls is not rights, but promises.
+
+Right. That is when we put the 50 into 165 Whitney Associates.
+
+What do we get back? Well, basically, it's promised to pay.
+
+Right when we sent money to the government, what did we get back?
+
+A promise to pay. Okay. Yeah, I'm telling the story this way.
+
+So you realize how incredibly abstract what we've been doing is even from the get go, right?
+
+I mean, you know, it's not like we're dealing with, like, how much water can you put in a bathtub or something like that?
+
+Right. Okay. All right.
+
+Oops. I keep running it backwards. Okay, so this is the way I would sort of describe this.
+
+That there are transactions meaning things be going back and forth between the various parties.
+
+And, uh, uh, you know, we call the rights that we as individuals got in 165 Whitney Associates.
+
+We call that equity. We call the rights that the, uh, to payment that the government made to us.
+
+Well, it we didn't we you went 65 Whitney Associates shipped money to the government, but it doesn't own the government or the rights it got.
+
+We wouldn't characterize those as ownership. We characterize those as the rights of a borrower.
+
+Okay. What is. You know, a a borrower just gets to be paid back, gets to be paid back before the owners kick out all the all the money.
+
+All right. But but after the borrower was paid back, they don't get anything else.
+
+Owners. Not like that. But you can't get repaid as an owner.
+
+There's no upside. Okay. So that's what we did.
+
+And we talked about how to record all of that from the perspective of 165 Whitney Associates.
+
+Right. We made up financial statements for 165 would be assumptions.
+
+Now if you want to break your brain, you could do three sets of accounting records for this.
+
+You could do one for you as an individual. You could.
+
+We could do what? The 165 Whitney Associates. And we could do one for the government.
+
+And, you know, you'll see that, uh, as these transactions occur, like what is an asset to us?
+
+The bond is a liability to the government. Okay.
+
+And what's going to happen every six months? Well, it's a semiannual coupon payment.
+
+We're going to get cash of $1,158.03 every six months.
+
+You guys might already know this, but, um. How do I put these slides together besides Claudia redesigning them for me?
+
+It also updated all the numbers for me. Okay, I have a spread UTC a spreadsheet in a minute which has all the calculations in it,
+
+and I said update these numbers for this spreadsheet and it read the spreadsheet, read the numbers, put them in.
+
+If you're if you're not used to working, I'll throw out some tips because I've worked with this thing for like months now.
+
+So one thing you you have to do before you actually have it, do anything you want it to tell you what it's going to do.
+
+Anybody gotten into this yet? And I work mostly on a mac with Claude Co-work.
+
+Okay, so whatever you want to do, we can do to do more of this.
+
+Okay. And so what this is, this is kind of important, right?
+
+Every six months the government ships us money. What do what does the government get back?
+
+What do we give to the government? If everything's in exchange.
+
+Yeah. Go ahead. Throw money in there and when they pay it back.
+
+I mean, if back give us our face. We give them this.
+
+We give them. We no longer have it. What?
+
+65 Whitney Associates give some of the rights back to the government.
+
+Right. They've they've done what they have to do. Right.
+
+Sorry. So when we get when we get, uh, cash in, then the way we're going to see it is, well, uh,
+
+some of the rights that we have to cash under this agreement with the government have now been fulfilled.
+
+You know, one out of, uh, power money paid 50.
+
+So 59 more payments are going back to us. Right?
+
+But they've made one. Okay.
+
+Now what? We had a lot of trouble doing.
+
+Is that really account for this transaction with the cash is easy.
+
+We can see the cash go back and forth. Right. But from the perspective of 165 Whitney Associates.
+
+What the heck is going on was more complicated. Yeah, there was a cash payment, but there was also an interesting process.
+
+Right. And and we were going through this present value, the stream of calculations and the present value.
+
+The bond is the present value, the future cash flows.
+
+So all these, you know, there's a the even though it's just the simplest type of organization you could imagine.
+
+We're not managing. We're don't have employees or anything like that. But what's going on is already very complex.
+
+It's already very complex. And I hopefully you got the sense you can get the sense of that when you start tracking things through.
+
+Wow. And the first place it got complex is when we started talking about, okay, what happened when we got paid the coupon payment.
+
+And, well, we got some compensation for interest,
+
+but not enough because also the final face value payment that the government makes to us is going to be partly interest, partly repay the loan.
+
+And we had to work like that to figure out that part of it, the value part.
+
+Okay. And then so we're going to get, uh, on February 2nd.
+
+2056. You will get. I think I'm out of the picture by that.
+
+You know, I was born in 1953, so. Oh, well, in October though, so I'd only be 100 to 1 if you want.
+
+So let's don't count on that. Okay, then the government is going to make its final payment to us and that payment is fifth.
+
+Well wouldn't it? Now.
+
+I added the oh look club made it. The club make a mistake.
+
+No. 5950. I don't like that number.
+
+The face value. Is that right? 67.
+
+It's just that. That. Huh?
+
+That's never. I know why. Does anybody know why?
+
+I'm, like, stopped at that number? That 5950, 959, 67.
+
+Isn't that the value of the bond after one period?
+
+Don't. I never noticed that before. That's not the story.
+
+So I thought I'd actually made a mistake. But I think if we add those up, who can endure head.
+
+It's another difference in the world when I, you know,
+
+one of the my colleagues at the University of Chicago would use a really old time ago, whether they had the old machines.
+
+But Sidney could take a bunch of five digit numbers and just add them up in his head as fast as he could.
+
+Real. I never saw him do that. Okay, so do you get a final payment?
+
+Okay. And then what is the government? Get back!
+
+Well, they get back the last of their promise to pay for stuff they had fulfilled.
+
+So canceled. Cool with that.
+
+Now what are we going to do? Okay, so here we go. We've been we've been sitting there taking in all of this money.
+
+And then now in the end of the day, that day, what are you going to do? What are the survivors going to do here?
+
+Well, the company has done its purpose.
+
+It's got if we go to the the jar in the dean's office, you'll find in cash 127,003, 83, 61.
+
+That's the cash in the dean's office. I got to say this for you mathematically inclined people.
+
+I did a little. You should have fired me as the manager, like, almost immediately, because I didn't reinvest the cash.
+
+I just put the cash in a jar in the dean's office. I did that for a reason.
+
+But if you start doing the present value calculations every which direction, you know, you might find some things that you strike as strike you.
+
+It's weird. They are, because I kind of did something stupid in the middle, but I wanted to do it just so that we could.
+
+We wouldn't be too complicated. We don't want to keep track of that. Do every, you know, all the cash we have, we also invest.
+
+Please. We got enough trouble. Okay. But I just wanted to flag that for you, okay?
+
+Because if you discount 127 383 61 back to the present at that interest rate, you know,
+
+I don't think you get the right present value because I didn't reinvest to do it or reinvest the cash.
+
+Okay. Um. All right.
+
+You know, not a big deal. We won't come back to it again. Just the mathematicians in the audience.
+
+Will might, uh, kind of catch that.
+
+Okay. So. So now what's the problem to do?
+
+Well, distribute the cash. Right. So when 165 Whitney Associates should be distributing to each of us our share of the the cash.
+
+Right. And then what happens? Well, we dissolve the company.
+
+Kill it, right? It's. There's no reason to have it around anymore.
+
+Okay. So that's what happens. So you see, the whole life of it is we brought something into existence.
+
+It did its work and it including this abstract chain exchanging rights.
+
+And by the way, what is money? You took cash.
+
+What is money? What good is it?
+
+Yeah. The value assigned to it based on supply and demand.
+
+Yes. It's just there's no true other than the value of the paper that it's made on.
+
+There's no true value rather than other than what supply and demand we have.
+
+I'm really thinking more, uh, but basically it's like.
+
+What? How do you. Do you get satisfaction directly from having money?
+
+Well, yeah. I mean, it's basically like an IOU, like, you know, it's like a promise of, like a service or a good review.
+
+It's actually also a quantification of a certain types of rights.
+
+What are those rights? Those rights are to pay off your debts, to buy something else with it, to pay wages with it.
+
+Okay. So it is really also a quantification of a bunch of rights.
+
+Right. But it's kind of shorthanded, you know that. Because because the money would do so if the legal currency of the United States,
+
+then the government says, I don't know if you ever read a piece of paper money.
+
+It says it's like that's called legal tender. You know, what does that mean?
+
+That means if somebody owes me money or if somebody if I owe someone and I give them money, they have to take it.
+
+They have to take it where the government's going to come and get you.
+
+Okay, so one of the, uh, we'll get some another great book about, I think, money changers there, but I can't remember what the name of it is.
+
+But he talks about how the Europeans, the Europeans discovered paper money.
+
+Anybody know that story? So, Marco Polo, not the pool game.
+
+The real world. The real Marco Polo in for.
+
+I don't know when he did this. You have to go goes to China and he comes back and makes a report.
+
+And in Europe everybody money mit Karen carrying around a bag of silver and gold and stuff like that.
+
+But we. But Marco Polo comes back and says, oh, you're not going to believe this.
+
+The great con has caused the bark something from the bark of trees to be accepted, just like silver or gold.
+
+This is huge, right? Oh my God. How could that be?
+
+It took people centuries to figure out that.
+
+That you could sort of.
+
+Even though it was obvious as soon as that was the case, that physical manifestations of taking silver as money or gold as money,
+
+that really that that thing was serving two purposes, right?
+
+One is you could consume it, you could make jewelry out of it. But the other one was it carried information about your rights.
+
+Okay. And they're in a world with.
+
+Oh, by the way, if you you know. So that's so they would have this paper money in China with the seal of the Covid.
+
+So what would happen if, um, somebody comes to you a subject and says, I owe you a debt?
+
+Here's your paper from the credit card. And the person said, no, I'm not going to take it.
+
+No, no, I want your horse. You can't pay me money. What would happen to that person?
+
+He went out. The great con says you should take it and you don't take it.
+
+They start heating up the oil to boil you in, right?
+
+That is, that money issued by the government has an implicit threat of enforcement using government methods.
+
+That is the reason that you can get thrown in jail.
+
+You could. But, you know, back in the day, the worst thing you could imagine.
+
+If you don't accept it. So that's how acceptance for I think of fiat money.
+
+Fiat money means you just make a pronouncement. This is money. That's a government fiat, and then people have to take it.
+
+So that's how that works. Yeah. So before you dissolve your LLC that I was trying to fiddle with this on the Excel.
+
+Yeah. So you have the Excel that we've been working with has all, you know, the present value, the coupon values, all that.
+
+Right. It doesn't take into consideration expenses. No no no no no.
+
+I'm keeping all that out of it. We can make this a way more complicated right by if if the cash story that I put forth.
+
+So this is to think about only and it's to think about only in that only one thing is going on, you know, the cash is coming in.
+
+And I've talked to one person now in reality, as all said, I mean, any organization, even this one, is way more complicated than what I put down.
+
+You have to pay taxes, you know, somebody has to manage it.
+
+You have to what we would have to pay yearly.
+
+You'd have to pay fees to keep your LLC status go away once you know, you had to file forms or all this things.
+
+So that's thanks for for bringing that up because once you bring this thing into existence,
+
+165 would be associates, then it has to be maintained socially.
+
+There's more to it, right? You got to keep it alive legally.
+
+And there are certain things you have to do and forms you have to file and all that stuff.
+
+So, you know, so it would be much more complicated process.
+
+But I just wanted to get you to focus only on the cash through time.
+
+But wouldn't those thing wouldn't taxes impact the present value.
+
+Right. If you're going well, yeah. Everything.
+
+Everything I'm talking about, you could think of everything that we're that I, I talk about is after tax cash flow.
+
+This is that whenever we talked about value of something the cash is something we talked about.
+
+You know how how much net to you you get.
+
+And I just kept the story simple without having a lot of other people taking a piece of it.
+
+But as soon as you start going and thinking about a real business, you get into everything.
+
+So I just said, you know, you got it. Just figuring out the cash flows.
+
+This is where we're going to get to. Just figuring out the cash flows in such a model is really hard.
+
+I'd have to know about the tax law. I'd have to know about filing fees.
+
+I have to think, are they going to change the tax rates? IBM on and on and on or on?
+
+But whatever we did, we would ultimately come down to one set of cash numbers, but that that would be dollars in our pocket okay.
+
+Dollars in our pocket. So that's important to keep in mind.
+
+Because we're going to go there. We're going to go to a picture where there's a lot more than these three parties going on.
+
+That's what we got. We'll start next time. And the government isn't there just to to be something we loan money to.
+
+They also tax us in all sorts of ways. And so we're going to go through and you also have employees.
+
+You have if we borrowed money there would be debt holders. You'd have managers.
+
+You'd have you know generally speaking you've got customers.
+
+So what's going to happen is I'm going to fill that circle up, uh, around around that central entity that we're accounting for.
+
+I'm going to fill that thing up with a bunch of other parties that you really have to interact with.
+
+And so the real task would be conceptually, it's just like this.
+
+I'm still trying to figure out how much cash. Ultimately, what we're trying to figure out is how much cash is going to come back to us.
+
+And by the way, that's I mean, I'm going to assume that the taxes are going to go off there as well, right?
+
+And that's what's ultimately going to determine the value of things. So the practical implementation of this, you know, is.
+
+It's not. The hard part is not doing the present volume calculations.
+
+The hard part is figuring out the cash flows that you think's going to happen.
+
+Okay. But right now we're just learning how to do the present value calculations.
+
+So that's the idea of it. Okay.
+
+So by the way, this is another good thing.
+
+So this is my general predisposition is to go through the concepts in a very in as simple a setting as you can, but you always have to keep in mind.
+
+Well, this is I said, for the people who didn't come to class through watching the film,
+
+you should now you should you should really start coming to class because we're going to have a lot of this kind of thing where,
+
+you know, I'm going to be talking in ways that are not just mathematically figure out of all or whatever, right?
+
+It's going to get much more complex in a certain way.
+
+Okay. Now, some of the accounting wars, you know, and and, you know, I give you a taste of that already.
+
+The taste of that was but again, when we started trying to figure out, well,
+
+what what am I saying as a cash flow versus what am I saying as a value stream.
+
+Okay. So important accounting words transactions.
+
+You know, transaction is when you have two parties and they they're swapping something right now.
+
+I purposely had this right discussion to get you to realize that the things that are trading could be incredibly abstract.
+
+You know, it doesn't have to be, you know, a can of soda or an orange could be,
+
+but it could also be rights of all kinds of esoteric, you know, rights and things that themselves are social creations.
+
+Right. I buy shares of stock. Right.
+
+Anyway. The important thing from an accounting point of view,
+
+the thing you want to think about with the transactions when we start doing the accounting is you want to think
+
+about the the key thing is the information about value in value flows that's contained in that transaction.
+
+Because we're going to study accounting systems as information processing task information processing tax information, information information.
+
+Okay. Now this abstraction is going to be maybe harder to get used to.
+
+But the good thing is, you won't have developed any bad habits that you will have to unlearn when you try to figure out what's really going on.
+
+Okay. So really what you want to think of it is, is we're writing the financials of the financial story of 165 Whitney Associates.
+
+And that story is a function of information in the transactions.
+
+Okay. And. The first question we have when we do accounting is.
+
+All right, I see some there's a transaction there, some information.
+
+Are we going to use that in telling our story in writing the accounting course every damn time okay.
+
+If there's a transaction.
+
+You know, even if people were trading these esoteric rights or whatever, if there's a transaction, then, you know, unless there's a.
+
+You have some terrible hole in the accounting system that's going to be recognized.
+
+Okay. But we also.
+
+But we don't stop there. We don't stop with the information in the transactions.
+
+And this is where all the action is once you get going.
+
+We also do things called adjustments.
+
+And we did that in 165 Whitney Associates. We made an adjustment.
+
+Do you remember what the adjustment was? What would you think it was an adjustment.
+
+Well, we made up the financials. What is guaranteed to present value.
+
+Maybe. Well, that was so.
+
+The issue was discounting the present value. That was a step in an accounting adjustment that we made.
+
+Remember when we changed the bond value. There was no transaction that time.
+
+You know that. We made an adjustment.
+
+We decided, hey, to tell the right story.
+
+We want the bar to be recorded at the present value as future cash flows.
+
+Mhm. So this is where the, uh, counting starts.
+
+You know, the first, just keeping track of the transactions is more just like counting and writing stuff.
+
+They're very important. But the accounting is telling a story about what happens.
+
+And the story involves not just it's the painting that we're making is not just a photograph of the cash.
+
+It's got all kinds of stuff with it.
+
+So this stuff with it that we've been carrying around is the present value model and of how value is created and how it changes through time.
+
+That's right. We have a whole model for that. And um, and then we can then we can really go to into.
+
+Okay, but adjustments are what people will have the most trouble with.
+
+Now, what is one of the adjustments mean? That means are we going to take information from somewhere outside of transactions?
+
+And. Incorporate them into our accounting.
+
+Well, how did we do that?
+
+When we started going through the 165 with the associates transactions and made up their accounting statements, the passage of time.
+
+Was really the thing. The other thing that we waited, we had to say, look it.
+
+If I have six months in, six months have gone by and we have a model in this borrowing lending thing which says, oh,
+
+in this stuff over that time period, you know, I'm going to say, this is what this is what my model says would happen over that time period.
+
+In other words, we would say that the model says as long as the interest rate doesn't change, then the bond.
+
+If we looked at the market, if we looked in the market, the bond would be trading for, you know, it's.
+
+50,000in $59 or something like that.
+
+Okay. So again, this is where over my lifetime we have gotten,
+
+we have expanded the domain of things where we get out other information and way beyond what it used to be.
+
+So if you hear any accounting controversies or things like up things like fair value accounting or mark to market or, you know, all kinds of stuff,
+
+these are incorporating not information and transactions, but information that you gather from maybe other people's transactions.
+
+So when I say transactions, I mean transactions with the entity.
+
+What happens if I see two people transacting over there? Do I want to change the entities accounting for that?
+
+And the answer is sometimes we do and sometimes we go. Okay, so we got all this when we start this process of and you know,
+
+the way you learn this is first you learn how to do the transactions and then you fold in, uh, more and more complicated adjustments.
+
+That's what we're going to do. Okay. So what kinds of adjustment what kinds of information should we get.
+
+Get a built into the accounting and what kinds of adjustments.
+
+Okay. So now I'm going to do the the the spreadsheet hopefully touch your to return you know return.
+
+And uh. There you go.
+
+All right. So if you, uh.
+
+Remember. That on February 2nd, 2026, we established a company with $50,000 in cash.
+
+We bought a government bond three years that had a 4% coupon payable annually.
+
+Those bonds were priced to yield. So we we bought them in a market right through a market process.
+
+And that market process determined that through supply and demand of borrowing and lending, of trading money through time,
+
+that market process determined that the interest rate that should be effective or implicit here was 4.87%.
+
+Hang on. Is it driving me nuts? Yes. They took you to a chair. Okay.
+
+That. Okay. And how?
+
+What happened? Did I never have to sit or think down?
+
+Or did it just go up myself? There's the screen.
+
+It was never who's never down. Oh. Thank you.
+
+Room controls. Uh. Projection screen.
+
+Center screen. I guess a lot of times I had all three things up there.
+
+All three were the same thing, right? Maybe that's what happened.
+
+I don't know. I don't know. Okay.
+
+Now. Uh.
+
+Suppose that. So so let's let's let's. Let's go over here and let's, let's look at some graphs before we, we do anything.
+
+So I'm going to be looking at the, the the spreadsheet.
+
+And okay so this is our cash flow map through time blah blah blah blah blah blah blah blah all the way down to the end.
+
+That and uh, economics of the investment.
+
+This is what we went through. I'll say that. 50 oh 5947 it's okay.
+
+I got okay. So I was on the same. Okay.
+
+And then this is, this is how the present value of the remaining cash flows of the bond change.
+
+Right. The change like that. And in fact, like at the very last instant, you know,
+
+the present value of the cash flows has to be the the sum of just the last coupon payment plus the face return,
+
+because there's no time left and nothing else is happening. We're just getting the return the cash.
+
+Okay. That's oh, and you know, I did it right. 57 901 64 is that is the amount of cash we got.
+
+Okay. So now let's look at oh wait a minute.
+
+Stop it, stop it, stop it. Don't do that.
+
+Present master time. Okay, I want to do this.
+
+Uh. Constant rate. Okay. Um.
+
+All right. You. Okay.
+
+So so so this is how this is the graph of the bond value.
+
+God damn it. I gotta get some, um, confidence monitors.
+
+Okay. Okay. So so so this is the value the book value of the bond on our books.
+
+If the interest rate stays at 4.87% right.
+
+So this is just a plot of the present value of the remaining cash flows as you go through time.
+
+So it's got to start off. Hello.
+
+It's got to start off at 50 right? Because our theory was and remember we are theory was that at the time of the transaction it was a fair deal.
+
+So the fair deal met when we gave the government, when 165 Whitney Associates gave the government $50,000,
+
+the value of the promise it got back was $50,000. Okay.
+
+That was just that's that's our view of the world that determined that how we're going to write this story.
+
+Because we did we would decide it.
+
+Well, it would be really weird if in writing the story, we assumed without any further information that that we got a bad deal or an extra good deal.
+
+We don't want to do that. Let's wait and see how it works out. So that's where there was a crucial step where we knew cash went down by 50.
+
+What was the vagabond who brought it in? Uh, we also said 50.
+
+That's actually double entry accounting. What I just did. We'll get deeply into that, right?
+
+So we started off at 50. Now let's think about the value of the buy just before its last payment.
+
+Well, the value of the cash flows has to be the amount of the payment the instant before we get paid.
+
+Right because no time left. So the present value of some amount of money.
+
+One instant before you receive it is that amount of money. Okay.
+
+So. So that's what the, um, the value of the value the bond will look like.
+
+Let's see. Here's what.
+
+The cash looks like. What's the.
+
+Control. Do I have a mac in here?
+
+I don't understand what these people are. These people. Okay trying to pull up the legend of the thing here.
+
+Oh. Present value at time and cash in a jar.
+
+Okay, I see what's happening, because what's going on is the scale of the graph has changed a lot because a lot more cash is coming in.
+
+So. So the red line really is the curved one. It really is curved.
+
+It's just that it looks flat because look at the demarcations of the axis going up.
+
+So this one goes from 2046 to the present values graph goes from 5050 to 54.
+
+So that's why it looks flat. You can just imagine taking this graph and crushing it like that.
+
+Okay, so but what you really want to focus on here is the blue line and the blue line.
+
+That's the amount of cash that's in the jar to the dean's office.
+
+It's just going up $1,158.03 every six months until the last payment.
+
+And the last one is big. So that's why it's got this kind of hockey stick flavor.
+
+Yeah. Um, earlier you said we should have been reinvesting.
+
+Yeah. Cash flows. In that case, with the graph, look more like a curve.
+
+Yeah. Although. Yeah. Although the scale might still throw it off.
+
+But what's going to happen is. Yeah. The amount of cash we have, if we reinvested it instead of put it in a jar,
+
+the amount of cash that we're going to get is going to be bigger until the end, right?
+
+But we'd have to figure out all along the way what is. Yeah.
+
+What is your interest rate on the right side? Interest rate is 4.86%.
+
+So this dot dot dot dot that's the interest rate.
+
+So all these numbers is these the right hand side numbers and interest rate.
+
+So if you want to look at at the dashed line which is then you have to you have to figure out what number it is by looking at this axis.
+
+If you're looking at one of the other lines, you got to figure out what number it is by looking at that axis.
+
+So you'll see what okay. Because it looks like you're trying to show it 20.
+
+If I read this graph for my business, it looks like you're trying to show a growing interest rate.
+
+Up to now, the interest rate is just is.
+
+This is the dashed line. It's 4.87% all the way through.
+
+Okay. Because you can see that from what I'm going to do to it now, I'm going to change it.
+
+All right. So that's the cash pattern. All right.
+
+Now, what I want to ask you is. What if?
+
+The interest rate suddenly changes.
+
+Three years in. If it suddenly changes to, uh, what, 8.87%?
+
+Okay. So. So here here's the table where the interest rate every period just stays at 4.87%.
+
+Now I'm going to say what if it. Jumps.
+
+It's 4.87, 4.87, 4.87. And these are eight years up here.
+
+And then it jumps to 8.87. What do you think's going to happen to my graphs?
+
+Well. Which is easier for me.
+
+What do you think's going to happen to the cash grab? The interest rates suddenly changed in the market.
+
+What happens to the cash grab? Nothing happens to the cash graph.
+
+Right. The interest trading in the market is not a transaction with 165 witness, which has no effect on the ultimate cash.
+
+165 witness. So it's going to get. Obviously the interest rate in the market.
+
+What am I talking about. Transactions among other people.
+
+I can see the terms of those transactions and I can say, oh, the market.
+
+What does that mean? That means, you know, a bunch of transactions with other people.
+
+Now the bonds are priced to yield 8.87%, not 4.87%.
+
+Right. It's nothing but 165 witness who said done nothing in response.
+
+So its cash graph is going to be affected. We're still getting $1,158.03.
+
+So every six months after that. So the cash grab even though the interest rate changed.
+
+The blue line is going to be the same doubt solid. You see that this is now the interest rate is four of 4.37 and it jumps to eight.
+
+So the blue line is not going to be affected. But look at what happened to the present value line.
+
+So again, if we if we looked at the market and we saw these bonds trading one year in or three years in,
+
+and if the market rate had really or if the price to yield 8.87%, then we're going to see that bond trading in the market.
+
+That is transactions and what other people are going to go off in a term of a little less than $30,000.
+
+So that's why we get the drop in value. It makes sense.
+
+So if we wanted to actually take our dog, go to the market, sell it, we'd say, we're sick of this.
+
+We're not going to wait 30 years. Rick goes to us.
+
+We all vote. Let's just cash out of this thing. I would go sell that dog in the market, and I would get less than $30,000 for.
+
+We'd say, well, you know. But now here's the thing.
+
+What are you going to do with your investment back?
+
+If you could invest it at 8.87%, then you're going to actually end up back where we started at 57, not.
+
+Why? Because the cash flow promised to the government hasn't changed. Right.
+
+So this is a pretty key. This is a pretty key slide to understanding, uh, modern, uh, accounting lingo.
+
+That is, those the red in the blue graph.
+
+Okay. The red in the graph. So.
+
+How do you want me to do the accounting? Do you want me to follow the red graph and telling the story?
+
+That is what I make up about when I make a balance sheet or when I make accounting entries,
+
+and I see the bond trading in the market trading on different terms.
+
+Do you want me to adjust the value of the bond to the market value at that time?
+
+Maybe right. If somebody if somebody is going to buy your share out.
+
+If you could sell your shares in 165, wouldn't associates?
+
+They are certainly they don't give a rotten story derriere about what we paid for it.
+
+The bond. They only care what it's worth now. Right.
+
+So if they walk in three years from now and you can sell your, your share your shares, then somebody would.
+
+Yeah. They don't you they want to know what it's worth now. You don't care about the historical cost.
+
+Like. So this is why as capital markets get developed more and more and people started making transactions like that.
+
+To the extent that the accounting systems fueling that kind of activity,
+
+then having something like a U.S. government bond and just not making any adjustments or
+
+just telling the accounting story as if everything's unfolding and nothing's changed,
+
+that starts seeming a bit weird. On the other hand.
+
+Suppose there's no way you can sell your shares. Because by the way, you have this, you have to.
+
+A lot of times there's the restrictions on who you can sell to, and you can't own shares at all.
+
+And then you tell me to follow this live the red line, make all this accounting adjustments on our books.
+
+I want to say why this is a lot of effort.
+
+Right? I got to go look at the market. I got to figure out the implicit interest rate.
+
+Then I got to go in, and then I got to make all these injuries. I mean, why are we doing this?
+
+If you're not going to do anything with that information. That makes sense.
+
+Let me tell you this. Both kinds of accounting are allowed under rules of the United States.
+
+Now, you can only not pay attention to the movement in the market value under certain special conditions.
+
+One of those conditions is that if you tend to hold to maturity the security.
+
+So if we intend to hold that U.S. government bond to secure, uh, to to maturity.
+
+Okay. And we have the ability to do that.
+
+So that is yeah, that's our intention. But can you. Yeah I'm going to get hungry, run out of cash or in my retirement accounts.
+
+Go and get now. I got it. I got to cash out. Okay.
+
+Mhm. Then you have to start following the market. But otherwise you could just follow when you portray the change in value.
+
+You could follow the first red line we had as if. No the interest rates hadn't changed at all.
+
+In other words sometimes you have to recognize these kinds of things you find outside the transactions of the entity, and sometimes you don't.
+
+And that's a function of the particular rules that apply to the particular thing that you have.
+
+And so see what I mean about how this is taking a very different turn?
+
+Well, we're not talking now about what makes sense. We're kind of talking it.
+
+So let me show you that one of the big arguments against uh uh uh uh uh, against having to follow, uh, all of the oh, I'm sorry.
+
+Before we do that, let's just look at the present value, right. So let's think about what that really means to how we're telling the story.
+
+The accounting story. Well, in the end, we know the total interest that's going to be earned over the whole 30 years.
+
+The total interest is just the amount that we get back in cash more than we paid for, the thing to start with.
+
+But when is it earned? What's the pattern of its earning over time?
+
+Well, like, let's look at this from a point of view of a bond trader.
+
+The bond trader says I bought something, you know, for 50.
+
+Interest rates stayed the same. So it's. So I at first I bought it at a discount because the interest rate was higher than the coupon rate.
+
+So over time it's about its market value started going up.
+
+But then somebody decided they're going to default on the debt of the United States or something like that.
+
+And the interest rates go through the roof. Right. And so now my bond got went down in value a lot.
+
+But as long as the government does it doesn't default then.
+
+So let's think of it this way. Uh, in this period, we're earning 4.87%.
+
+In this period. Over this period of time, what are we earning? 8.87 per se.
+
+So all of this work is just changing the pattern that we're showing of the earnings.
+
+Who. Now when people start debating these accounting rules, do you want me to build these kinds of changes into the accounts?
+
+They would give you some, um, make some implicit arguments like this.
+
+Okay. What's going to happen if this is one of my favorite?
+
+Favorite ones. Well, before we do that, let's do one case.
+
+What if the rate dropped? What are we going to see here?
+
+The rate jumped up. What if the rate drops?
+
+Well, the bond value is going to go up higher if it drops so much that the coupon rate is now higher than the interest rate,
+
+that that bond is going to trade at a premium, it's going to pay more than its face value.
+
+But again, going forward you're going to earn less and less.
+
+Less. You're going to earn, uh, a lower rate after that.
+
+Right. So this story says, hey, you bought a bond and interest rates moved in your favor.
+
+So the value your bond with up. You know.
+
+But over the life of it, everything's still got to come back to 57.9.
+
+Okay, so this is what we've been setting up. All month and whatever we've done.
+
+This is what we would desire. Okay.
+
+So so some of my favorites would be the examples to play around with through time would be like, oh, let's take.
+
+Here's the one where it bounces back and forth between 1.87 and 7.87.
+
+What do you think the the the value the board's going to do? Yeah.
+
+I actually had a question on the last slide. Okay, great.
+
+Um. Hyped up. Because that would be would you want to sell it at that point?
+
+Um, well, if if you well, if you sold it and reinvested.
+
+What rate would you are? Are you in the same boat?
+
+The same. Right. Right. So you would earn. You would earn three point, whatever the rate.
+
+Got to. Okay, so selling it.
+
+Doesn't help you. The present value has changed.
+
+Right. But all the logic we went through. You know, if the present value is this at a certain rate,
+
+any two streams with the same present value have the same sort of can be converted one to the other and all that.
+
+There's a sense in which we use the word value there. And it doesn't do you any good.
+
+Okay. So however people do transactions like this, you know, and sometimes they misunderstand.
+
+You know what you know, they look at the accounting story and they misunderstand the economics of what's going on in the background.
+
+Right. Is this like the bond trading type of stuff that was very prevalent in the 80s?
+
+Yeah, yeah, that's what that's that's what they did. So then so actually bond traders and this is the part we haven't really looked at.
+
+We haven't looked at the possibility that, um, you won't get paid back.
+
+Right. You haven't looked at the possibility of default on the bonds or you get paid less.
+
+Although we saw that coupon, those coupon bonds, ruber. The one where one of the one of the coupon was clipped and they're all still there, right?
+
+Never really talked about that, but bond traders are.
+
+Constantly interested in two things, you know, like the probability of default, but also what's the market rate of interest?
+
+You know, maybe they could find somebody that doesn't know what the right rate is and they change hands.
+
+Okay, so I've been setting up these patterns that I try to get you to think in terms of how does the present value evolve of the,
+
+of the remaining cash flows. How does that evolve over time?
+
+Okay. And what does it depend on? Okay.
+
+Here's one of my favorites. The interest rate just bounces around between 4.871.87 and 7.87.
+
+What do you think the value through time is going to look like?
+
+It's gonna be pretty wild, right? Because it's still going to start at 50.
+
+It's still got to end where it ended that 59 something.
+
+But in the meantime. It's looking like that, right?
+
+So, so. So if if you major accounting system keep track of the changes in values, you're going to be writing it up.
+
+Then you write it down, then you write it up, then you write it down. And why are you doing this?
+
+You're doing this because you've observed prices in the market. The other people I have traded at.
+
+But won't the interest in. If I could absorb that market price, won't.
+
+Interested parties. Anybody interested in that could also observe that market price.
+
+It's a thing about market prices. Is there kind of public. Now things would get complicated if.
+
+So here it's easy because there's only one security that we're holding.
+
+If you have the whole portfolio there are all kinds of different terms on them and so forth.
+
+Then, yeah, people could see the interest rate, but depending on the composition of what you held, that could have different impacts.
+
+Okay. But my point is the information that you're building in here by following this market price in 165 Whitney Associates example.
+
+You know it. You know, it's a lot of work for nothing.
+
+And in fact, I could even tell you, instead of having my internal accounting story evolve like this.
+
+Hey, good news. We had a great you bad had a bad year. We had a great year.
+
+We got rid of why? Well, the interest rate went down. The interest rate went up. They stripped down interest.
+
+You like shut up Ric. You know, I know the interest rates going up and down all over the place.
+
+I know the bond we bought. Just cut the cash and stop it.
+
+Oh. So.
+
+Yeah, yeah. What if. Let me do one more.
+
+What if the interest rate just randomly fluctuates?
+
+I don't even know how I did this as some sort of. Uh, so I'm pulling off random numbers, and I had to calibrate it so that it doesn't go too crazy.
+
+But that's that's an example of just a random path.
+
+Right where it looks like interest rates. So if the bonds going values going down, that means interest rates are going up.
+
+And if the value is going up that means the interest rates going down.
+
+So it's going to be this wiggly thing. But with this particular kind of instrument.
+
+This is also why I didn't why I didn't fold in a bunch of other complications, because I wanted the starting point and the ending point to be fixed.
+
+So when we looked at the pattern in between, we can see it. But I don't want to be I don't know what.
+
+I don't want to have the end point also moving around and changing all kinds of other things.
+
+Okay, but look at this. Look at this picture. This wiggly picture. Does that remind you of anything?
+
+Yeah. The market, the equity market picture.
+
+We saw that one that uh, the S&P 500 picture.
+
+Right. Let's do, uh.
+
+Okay. I just make it to a different one.
+
+Okay, so that's just a different draw of what interest rates could add up.
+
+Right. So we can sit here and play around and see the different paths.
+
+But we know the starting point and we know the ending point. We know what happens if the interest rate doesn't change.
+
+But but a real question for us is going to be how much of this outside information are we going to pull back?
+
+Now, we're not going to do that right away.
+
+Okay. Again, this is another feature that, you know, where I teach, I kind of like to lay out a big the map.
+
+This is kind of where we're going. And this is where the this is these are the, you know, these are the hard parts and this is what's going to happen.
+
+But then we're going to go back and go through it all in a way that makes you much more comfortable with it.
+
+I can be very comfortable with this, not only because I made it all up, but also I know a lot about the accounting that was done.
+
+So I don't I can imagine it being done in different ways.
+
+So you need to work your way up to that to, uh.
+
+Something. So, uh, let me just go through and talk to you about what we're doing and where we may go from here.
+
+Okay. And then it can go up.
+
+It can go down. But the big question, this is the big question that I posed was, do you want me?
+
+How much of this are we going to build into our story, into our formula calculation?
+
+And, you know, if you had different purpose, if you're doing the accounting for different purposes,
+
+you could easily make different judgment calls there. I wouldn't do it this way.
+
+I want to do it that way. How about we do it both ways? Okay.
+
+Nothing wrong with that. Right.
+
+It's not like it's, you know, it's. We're writing a story.
+
+It's not entirely fiction, right? Because it had to start somewhere in in somewhere.
+
+But the path that we display in the meantime is going to be heavily dependent.
+
+I mean, for one thing, it seems like we should agree on some rules for how we're going to do this
+
+and not just let somebody do any damn thing they want between here and there. Right?
+
+No, no, no. We have to have. In order for the financial statements to be useful, we have to have some conventions and some rules.
+
+We have to do everything called generally accepted accounting principles.
+
+It's not a those aren't it's is not a formula. You can figure out like the present value formula.
+
+How do you just got this or whatever. I don't know the rules.
+
+And some of them make sense,
+
+and some of it you can carve out some of them and make it make sense of them without knowing only about knowing that particular thing.
+
+And some of them you carve out and you can't make sense out of it if you only know that particular thing.
+
+Because the reason that that particular things being ends up the way it is, is because other stuff got changed in some other way,
+
+and that's the story that we're telling, is going to all have to fit together.
+
+So if we change something over here, something over there has got to change.
+
+Okay. All right. Uh.
+
+So next time we're going to really start the nitty gritty part of accounting.
+
+And this is going to be different, because it's not like I can teach you some how the math works and then you can go figure it out.
+
+This is much more like a language class where you have to try some stuff and you put it in.
+
+It's not important if you get it right or not. You know, what's important is that you try it.
+
+Because then when we come into class, we can have a meaningful conversation.
+
+There's not going to be three. There's not going to be 2 or 3 moving parts going forward.
+
+Now we're going to have to be in your lab where there's 18 different things going on.
+
+Some of them are mundane. Some of them we have to talk about.
+
+So the way this is going to go is we're going to I'm going to start throwing more and more stuff in this to more and more stuff in this too.
+
+And what you hope is you find out kind of where you trip up. Oh, sure.
+
+What do you do? You know, so that's how you learn this.
+
+You know, you have to learn that sort of much more by experience.
+
+We say accounting can be frustrating to learn because you can't figure out what's right, but you can't be dead wrong.
+
+But anyway. Okay, so I'll see you. What's today?
+
+Monday? I don't know.
+
+I hope you're a Seahawks fans. Uh, you know, whatever.
+
+They just couldn't take this much, right? Here.
+
+If you watch the game or you're not a game person. My dad may watch a lot of, you know horses.
+
+Not well, I haven't I might football construction. I thought he was part of that one that I just watched.
+
+Yeah. There's all these guys out there that you were. Good at, so.
+
+Yeah, I know social skills, like.
+
+Yeah. Yeah. So that's the most exciting part, right?
+
+That's what.
+

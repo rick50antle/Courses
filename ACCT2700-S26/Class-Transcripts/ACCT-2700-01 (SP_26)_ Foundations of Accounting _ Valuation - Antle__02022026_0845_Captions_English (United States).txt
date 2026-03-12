@@ -1,0 +1,1337 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Well, you know she's not. Boston.
+
+Three. Where you go.
+
+Oh, yeah. Mhm.
+
+You know. I don't know that I this. All right.
+
+How are we doing? Okay. Nobody's frozen.
+
+All right. Today. Okay.
+
+You know, we're going to continue the example of, um, this is a little company that we formed.
+
+And what are we going to do with it? Well, first of all, let's review what we did.
+
+So, uh, we talked about how to form a company.
+
+Right. And the legal rituals and so forth. You have to go through to do that.
+
+And, um, but the, uh, operating agreement and then a certificate, the birth certificate, the certificate of formation, all that stuff.
+
+Okay. And then we decided to start our own little ones, our own little LLC.
+
+165 with the associates, you know, like 26 or something.
+
+And so what I said, we went through one little exercise where, uh, I talked about, you know, where where we.
+
+Where we raised the money. That we're going to hit next.
+
+Okay. We decided we're going to invest in just U.S. government bonds, and that's going to be it.
+
+I have a background question for you.
+
+Most people or accounting people, when they think about starting a business, they think of it as starting when the capital was raised.
+
+So they will say things like, well, you know, what are the assets of a company?
+
+And they'll look at the value, they'll look at the cash that we wrote down at the end of the year.
+
+Right. And uh, some time a few months ago or a year ago, the thought occurred to me, that's not right.
+
+Because to start any company, what do you have to have first?
+
+Capital? No. Before that idea.
+
+An idea. You have to have an idea.
+
+Right. Oh, we could do this. Where do you think that's going to be?
+
+In the accounts statements? No where, but it's going to be nowhere.
+
+All right.
+
+So so right away, you know, you're going to get I'm trying to give you a sense that when we when we do accounting it's going to include some things,
+
+but it's also going to exclude some things. So let's think about it.
+
+What would we do if I said all right.
+
+Well let's look at the wealth of our whole company after we've to what it was the idea, the ability to transact and all this stuff.
+
+What, what what are we going to write down is the value of that, right.
+
+Because when we do financial accounting, we got to have a dollar. No. Come on.
+
+That me be a stupid thing to go through right now is surely when we actually raise the, you know, capital,
+
+borrow money or whatever, we're going to have to make a case to somebody that, hey, this is something you want to invest in.
+
+So we're going to have to communicate that idea. But it doesn't, you know, it doesn't do any good to to try to keep that in the company's records.
+
+In some sense, the company is all about trying to see what was this a good idea or not.
+
+Right. So right off the bat, whatever accounting we do is going to leave out the intellectual property that we carry into the company to begin with.
+
+Now, for years and years, this didn't used to be such a huge thing, but now that's the main asset a lot of companies have.
+
+Like think about Apple or Nvidia or Tesla or really funny, right?
+
+Okay. So anyway, this is example Wikipedia. But we decided to form a company.
+
+And then then you wanted me to do some accounting, but nobody said hey, write down the value.
+
+The idea. We didn't think of that. Right? I didn't think of it until for decades.
+
+Okay, then we're going to follow this thing all the way through.
+
+So, uh, the first thing we had to do is we had to decide that it would be a good idea if the management kept some records.
+
+Okay. And we started trying to program what records you want to keep.
+
+Well, the cache okay. Number one. And really, um, in anticipation maybe of information that we might need or want to have when we go to liquidate,
+
+you'd want to know what, where how much did each investor contribute?
+
+Um, right. Now, that's not a thing, right?
+
+I mean, cash is a thing, right? It's a right to do something.
+
+But how much did each investor contribute? That's just information.
+
+That's not a thing. There was only one thing, which is what we raised.
+
+But we wrote down two things. We wrote down the cash, and then we wrote down.
+
+We we imposed. Actually, we oppose this identity.
+
+Right. And I tried to.
+
+I tried to emphasize how important that is by making a mistake where the sum of the cash didn't equal to somewhere where it came from.
+
+Yeah, that's that's a mistake. In this context, it's so obvious you can't even see.
+
+It's like the error you're walking in, right? Who would do that?
+
+Right now I could embed the setting in a little more, uh, complexity.
+
+And you'll see, uh, that could happen pretty easily.
+
+So, uh, I'm changing all the accounting origins stuff, by the way.
+
+But if you want to go back and start going through the scribes of that law, it will take you through a setting where, um, things are inconsistent.
+
+The property that I was trying to convey to you, what I wrote down.
+
+Here's a list of the cash and here's the equity,
+
+is that you want to impose a consistency requirement on the lists that I keep on the accounting that I do,
+
+at least it should be consistent with itself. It may not be right.
+
+I could have left out some cash and left out a person and it might look okay.
+
+Might not like that, of course, but what actually happened? Okay, that can still happen, but at least it shouldn't be self-contradictory.
+
+Okay, so that's what this is about.
+
+And we're going to see how that go.
+
+But I want to add two things that you can post the identity number one to impose consistency on things you're doing.
+
+But number two, we already had to bring just sort of pure information in what's going to happen when we start recording things.
+
+If we're going to keep track of two things at once.
+
+Stuff like cash and liabilities and things like that.
+
+But also we're going to keep track of information about that stuff that we write down.
+
+It was very natural when I raised the money to write down. Well, you raised $50,000.
+
+Okay. Also write down where it came from. This is the most biggest source of error in thinking about accounting statements.
+
+Ever. Always. If you have somebody that doesn't know accounting, they can handle processing this stuff.
+
+They know what cash is. Do they know what equity is?
+
+No. They will think it's a thing. They will think about the instrument that's used to signify that like a share of common stock or a bond or,
+
+you know, liabilities like that, but they won't think about it.
+
+That notes information about where did those assets. Okay.
+
+So I'm going to keep covering on that the whole time. That's the biggest, biggest, biggest mistake people make.
+
+They don't really understand what's going on.
+
+When we start keeping the records because we're keeping track of stuff, we're also putting information into the system that we're going to process.
+
+Okay, here we go. Now we do this, but I assume that, uh, a good thing would be since we're going to this is going to play out over 30 years.
+
+I don't know, I'd be at 102.
+
+So I'm not sure I would really count on that if I were you, but it would be a good idea if the management issued some sort of periodic reports to you.
+
+Something could happen, you know, building burned down or whatever. Okay.
+
+And again, these reports are going to have two things in them.
+
+One is facts, but another is a set of explanations is going to be built in.
+
+But the explanations all have to fit within the context.
+
+Assets minus liabilities equals equity. There's a framework within that I'm going to use to communicate that information.
+
+And that framework count some things. Does it count other things.
+
+You have to know that okay. All right.
+
+So. Now let's look at let's start doing some applying the this accounting identity.
+
+And um for the light situation here.
+
+Let me see if I can control the lights here. Hmm. Presets I have show up in documentation room controls, lighting scenes.
+
+Uh oh. Um. Lecture one. Or presentation to know you're not to sleep.
+
+Lecture. Oh, that's what you do. Or whatever. Shape control.
+
+And I'm in there. So I used to start class by saying, you know, if if you're hungry, you want to eat in class, that's okay.
+
+Unless I'm hungry. Then, you know, have like, you know, if you're thirsty and drink something.
+
+And then, like I said, if you're sleepy. You know, you know, go to sleep because I can't.
+
+If I'm sleepy, I can't go to sleep. And then I asked, did anybody does anybody even been in class with the professor?
+
+Went to sleep. It's what it looks at the Federal Reserve and said, yeah, it was student presentation day, and.
+
+The professor would sleep. Okay. Bye. So anyway, um, so you go to sleep if you do that.
+
+All right. Now let's let's start off with, with with how we're doing this.
+
+Now, again, this is why when I write the accounting identity, I write it like this.
+
+That's defined to be equities. So think ledger better I know you're a math minor or something like this right.
+
+Yeah. Like. All right. So what's the difference between an equation and identity?
+
+Um. Oh goodness. Yeah. It's a TR was a hard one.
+
+Yeah, the hard one. Well, how about this?
+
+An equation could be wrong. Right. An equation can be wrong.
+
+What's like the most famous equation? You know any equation. Anybody with an equation can equals m c squared.
+
+That's my favorite one. Everybody I'll tell you what. It's amazing.
+
+Did you ask somebody for an equation. That's the one they did right.
+
+So v equals MC squared. So what is that.
+
+You have a physics person here I do. So where. Physicist.
+
+What does that say. Remember you don't have to be a physicist.
+
+You know what that says. What this is. That's what energy.
+
+Mass. Speed of light squared. That could be wrong.
+
+Okay. You can separately assess the energy in something you know.
+
+In fact, I think that's why. You know what? They set up the first nuclear test out in Nevada or.
+
+No. Yeah, yeah, yeah. In Nevada. So my wife's family live close to there.
+
+It's it's terrible, you know. But anyway, we'll get into that. But, you know,
+
+teller and some of these people were arguing each other where they actually was actually going to explode the whole atmosphere officer of the Earth.
+
+So that why? Because they knew their equation could be wrong.
+
+What they can calculate when using these equations is like how much energy they expected to be released.
+
+But they knew it could be wrong. That's not a definition. That's an equation. Turns out to be a pretty good one, right?
+
+In that that given that given the, uh, measurement tools at our disposal, we haven't really found, I don't think, big contradictions in this so far.
+
+But that's not to say that tomorrow somebody could come up with a better way to assess the speed of light, let's say more accurately the sum.
+
+And so you know what? Not quite right. That's a that's an equation.
+
+Can't happen with that identity. Okay.
+
+This is it. So you know says assets liabilities and equity separately assets minus liabilities defines equity.
+
+The math anyway the amount of it. So when I started making those lists and I made, you know, a list of the cash, what did we do?
+
+We said, well, wait a minute. Your list of equity should equal your list of cash.
+
+What if I left out some cash? Well, then my list of equities would be equal to whatever I write down is what's covered by this.
+
+Anything I don't write down. Not covered by this. Okay.
+
+So this is like the accounting definitions and systems.
+
+It's like looking at uh well here's the here's the best here's the best one.
+
+I like physics things, you know. So when.
+
+And by the way, when you graduate, if you haven't done this already, life goes on.
+
+If you can, if you can take a trip with Yale travel or biochem or what it is called now Yale Education,
+
+I what those things are great because I get to do that.
+
+You know why I get to do that? Things for Yale alongside well my my new research from Oklahoma State and Stanford.
+
+Oh, and Yale, you know, why would you get to be a tenured professor at Yale if you don't have a Yale degree?
+
+They give you one. It's kind of one of those quaint little traditions that's at the same time.
+
+Well, that's kind of cool and kind of ridiculous at the same time.
+
+You know, we got a lot of those things buried in the book. But the idea, I think, was partly stemmed from the fact that way back in the day,
+
+if you didn't have a Yale degree, where does your degrees have been from? These lesser known places like Harvard.
+
+Right. Anyway, so actually, because I'm an alum, I get to go on.
+
+So we, um, we I went on wanting to see the total eclipse in Chile in 2001 or whatever,
+
+and we and we went with ESRI and she's the head of physics person.
+
+We went to all these, uh, observatories all over Chile.
+
+So it was a really cool. And so do you remember when they took they took the picture of the black hole at the center of the Milky Way.
+
+Do you ever just see that it was it. Yeah. So it's a big deal right.
+
+So in the picture, the black hole at the center of the Milky Way that we had,
+
+they had just told us that that the radio telescopes that we're looking at taking this picture,
+
+they don't capture visible light, they capture energy in some other spectrums we can't see.
+
+Okay. And so they put this data together from all over the world.
+
+And then they point to a monitor and they said, oh, and there's a picture of the black hole of the universe.
+
+I said, well. As you just told me.
+
+What? That's a Photoshop of the black hole of the surface universe, right?
+
+Because you you. It's compiled from data from about one that we can't see.
+
+You can't show it to me. Oh, yeah.
+
+Yeah, it's. I don't like to say Photoshop, but that's what it was.
+
+Right. So my point is that whenever they're trying to take all that data and make it relevant for us, they change it in some fundamental ways.
+
+I have no idea what they buried, what they didn't or whatever, because in the end, what are they doing?
+
+They're making a nice picture. But I love the fact that they tried to show me that they're showing me a picture.
+
+Uh, not a picture anyway. So the accounting does that all the time.
+
+That's basically what I'm saying is we have a certain lens that we see things, and we know it includes some things, that it excludes others.
+
+You really have to keep track of that. Okay. Because that could end up in some really weird looking financial statements or really weird
+
+looking pictures that are sort of more the result of the camera we have than the underlying.
+
+So what we're going to we'll hammer on that all semester.
+
+Okay. So here's what I thought we would do. We would take our 50,000 and go buy a debt security U.S. government bonds.
+
+Okay. And, uh, I did a little research.
+
+Now, by the way, if you go on the the class, uh, page ought to have all these documents that you can share with me if you want or whatever.
+
+So if I go astray, let's see. But let me see if I can go to the US Treasury side.
+
+What happens when I do that? Okay, here it is.
+
+Okay. I provided a link to. Um.
+
+This is the US Department of Treasury. Uh, data.
+
+Something like this. And here are some day to day our daily treasury par yield curves.
+
+What does that mean?
+
+Well, that what that means is they do auctions all the time of these promises that the government to pay people back, and then they wait and see.
+
+Well, how much are they paid for those promises? And then reverse engineer interest rates just like we've done.
+
+Okay. What's the interest? What are those things? Price to yield. Now usually somebody and econ student starts asking me about inflation.
+
+And I say, well we're not going to deal with that here. I'm going to assume everything's real rates.
+
+Notice the second heading up there is real yield curve rates.
+
+Okay. So what happens with that is they have some bonds that have some sort of inflation protection built into them.
+
+That is the cash flows are tied to inflation. So they're in more in real terms.
+
+And so that's another word I got. I'm not going to use that right. But I just thought I'd mention it.
+
+Okay. So let's look and see daily car yield curve rates okay.
+
+We want okay. The current month. Yeah. Current month is good.
+
+No no no we want 2026 because oh wait the current month what it is have.
+
+Let's see what it shows us. Current month.
+
+No results. Not I want to download the CV, get updates to this content.
+
+Uh, okay. Wait a minute. Pull up the.
+
+I got the click apply. Oh. Thank you.
+
+I always forget that. Very good. Apply.
+
+Apply. Where is it? Hmm. No results found.
+
+Oh, I guess it's probably because in February, you know, we're in February now.
+
+Okay. Let me see. Click apply. It says right here after selecting a data type.
+
+Click apply. Daily Treasury rates yield curve rates.
+
+I'm just going to show you the results because this is if we had enough we'd get them.
+
+But I looked at these things yesterday and I'll show you what I got.
+
+Let's see. It's over here. The long.
+
+Uh, second. Wait a minute. Just so you're going to get a table that I hope looks like.
+
+Yeah, it looks like this. All right. Let's see. Uh.
+
+View full screen. Now.
+
+But now I have to turn on everything to return.
+
+Unhide and hide. Okay, so you get a table that looks like this table in this spreadsheet over here.
+
+Right. So this is for January.
+
+So you get now across the across the top or down the columns.
+
+Those are different maturity dates.
+
+So they offered they auctioned off stuff that matures in one month, in two months in three months and four months and six months in one year.
+
+Oh, one and a half months. That's weird. But still, I don't know why they do that.
+
+Now. That's the second column, but okay, fine. Three years.
+
+For five years. Seven years, ten years, 20 years, 30 years.
+
+Okay, so that's a whole bunch of different promises that mature at different dates.
+
+And I think I mentioned it, but I'm not going to emphasize this too much.
+
+But if you if you look the the rates are different across, you can read it as you read across a row.
+
+That's the term structure that's reflecting the term structure of interest rates.
+
+And usually that the longer rates are higher than the shorter ones.
+
+Okay. Because the idea was there's more uncertainty in the longer run than the short term.
+
+That's that's our intuition. But sometimes it flips.
+
+Sometimes the yield curve gets inverted and the short rates are higher than the long rates.
+
+That's a weird thing if you think about it.
+
+And you know, what's happened is the macro economists study this and they find that every time that happens a recession is soon to follow.
+
+But anyway, not going to work. We're going to pick one.
+
+And I propose we pick 30 years.
+
+So I went I went over here, uh, and I went out to the 30 year column, and I went down to the last trading date, and that's where I got the 4.87%.
+
+Okay option. What the [INAUDIBLE]?
+
+I'll make this bigger. Got it.
+
+Shortcuts are enabled. That's really great. Okay.
+
+That's where I got the 4.87. All right.
+
+Now I'm going to assume that the coupon rates and these are these things are all talked about in semiannual terms.
+
+Okay. So I'm going to assume that the coupon rate is 4%.
+
+All right. That'll work for us. Okay. It's good for us to do that.
+
+Now almost always the coupon rate is not exactly equal to.
+
+Even if they try to make the coupon rate equal to the interest rate, they don't know what the interest rate is until they auction the thing off.
+
+So there's always going to be some amount of error. But I just want to assume it's 4% okay.
+
+Now, what I want to ask you is that I'm going to talk about the nature of how this transaction, the form of this transaction.
+
+So we got our 50,000 bucks and we want to buy.
+
+$50,000 worth of Treasury bills, right?
+
+So right now, our balance sheet looks like this. Assets 50 in cash equities, 50 in LLC members or something like that.
+
+And what are we going to do? We're going to send this 50 off to the government.
+
+My question is I want to be detailed about what's going to come back to us.
+
+What are we going to be able to buy with our 50? How should we think about that?
+
+Well, do you think the government is going to give us an especially good deal?
+
+No. Do you think that we're going to accept an especially bad deal?
+
+No. So it's got to be kind of a fair trade at the time.
+
+So what's a fair trade? Meaning we're trading money through time.
+
+We're giving the government now $50,000. So what do we have to have back for that?
+
+To be fair. A stream of cash flows that has a certain property.
+
+When are we giving up to 50 grand? Right now. The stream of cash flows we get back better have a present value of $50,000.
+
+Right. That's what a fair deal is. Does that really matter?
+
+This is characteristic of this whole class. We developed these little ideas.
+
+Okay. And you first, your first job is to gobble up the idea.
+
+Okay. You got to go. You got to understand the idea.
+
+But then we're going to start putting it together in ways that, you know, you don't think it's that hard, right?
+
+Every little piece isn't that hard.
+
+It's just we're going to start putting them all together and putting them all together in a framework and so forth.
+
+So when you get one of these little pieces, like discounting or something, the point is, you know, master the algebra.
+
+But we're going to go where I want you to learn is what's happening.
+
+Why is it happening? What am I doing here? What? How am I thinking about this?
+
+Okay. So just a heads up.
+
+All right. Okay. So the present value of the cash flow stream should be $50,000.
+
+Well, what cash flow stream? It's a it's a coupon bond.
+
+So the cash flow is determined by the face value and the coupon rate.
+
+Right? But I already know the coupon rate. The coupon rate is 4%.
+
+So here we go. So what's going to happen with the present value here.
+
+And I've set this whole computation up for 30 years. By the way that means I need 60 periods right.
+
+In 30 years there's 60, uh, half years.
+
+Okay. So what's going to happen?
+
+Every six months I'm going to get a coupon.
+
+That's the face value. Times the interest rate times.
+
+This suggests a half interest rate divided by two. All right.
+
+So so I just put I just did it that way. I just set up the interest rate I'm going to divide by by two.
+
+And I did that because I marked the periods 123 and four.
+
+So my periods are marked in half period terms.
+
+Right. It's first six months seconds of clusters. All right everybody okay with that.
+
+Yeah. So you see, I mean, I haven't introduced a big different thing yet, right?
+
+But I'm really starting to use what we're doing a lot. Okay.
+
+All right. And and so that that formula.
+
+Is the coupon payments are going to occur over 60 periods.
+
+And then at the end, what am I going to do. I'm going to get the face value back.
+
+Okay I don't know if you can read the. The, um.
+
+Okay. We get to face value. Doo doo doo doo doo doo doo right at the end.
+
+So if I click on this. All right. What to do? Hey hey hey.
+
+Whoa. It's face value right here.
+
+This is the face value, right? So I have it all set up, but it's all a function.
+
+Of what? The face value. Once I have the face value, I can plot out all the cash flows.
+
+And what is this little person over here? Well, I'm taking the present value.
+
+I'm calculating the total cash flow. And then I'm taking the present value that each bit by bit.
+
+Okay. So that's just the coupon rate, the existing cash flow divided by.
+
+And I got to be a little careful. Uh, the interest rate times I have like the coupon rate got right.
+
+Everybody okay with that? Okay. That's the present value.
+
+The first cash flow payment. So, for example, if we had a $1,000 face value bond, then the coupon is going to be 20.
+
+And the present value of the first coupon rate of the first coupon payment at the interest rate is going to be 1953.
+
+With that, and the total present value of that bond is going to be $863.53.
+
+Okay. Cool with that. So how do we figure out how much can we.
+
+You know what. How many bonds can we buy for our $50,000?
+
+Well, we just have to figure out what would be the face value of the bonds that we could buy that has a present value of 50,000, right?
+
+Okay, so one thing you want to notice here is that, um, I put in $1,000 to the face and the present value is eight, 63 and 53.
+
+Why is that? Why is the present value less than the face value?
+
+Yeah. Like inflation. No no no no answers on here.
+
+Face value less than less than the coupon rate.
+
+Less than 1000. Oh you guys.
+
+You guys need to discount more. Yeah. Go ahead. Zinc hits the coupon rates less than the interest rate.
+
+Yeah, the coupon rate is less than the interest rate.
+
+The interest rate is 4.87. The coupon rate is four.
+
+Divide both of them by two. Right. Right. And so we've done discount bonds and premium bonds on that.
+
+So this is another example of how when you do calculations like this.
+
+You know you don't. You know, I didn't have to do 60 different multiplications and a bunch of stuff.
+
+I now, because of the computation power at my disposal,
+
+really have the luxury to think about what the [INAUDIBLE] is happening here with these numbers, right?
+
+That's what you need to be doing every time. What's going on? Make observations.
+
+Huh? And you know, right now, when you first do this, you don't know what to compare to what?
+
+But you want to. You want to develop as you guys.
+
+You learn some quantitative technique in finance world. You want to try to develop intuition about what's happening.
+
+Okay. There's kind of a pithy saying about that, which is that if you don't know what's happening in the in the model, then the model runs you.
+
+You don't run the model. Uh, we can't be having that, right?
+
+We're going to be running the model. You know, the model is input to us.
+
+It's not dictating what I do. If that's going to happen, if you're going to use it,
+
+if you're going to use something quantitative that way you have to understand not just, oh, that's the result, but like, what is this?
+
+How do I how do I fold that into my decision making and put in all kinds of checks along the way?
+
+Does this make sense? Does this make sense? Yeah.
+
+Because I know that if the coupon rate is lower than the interest rate, bond should sell it at a discount.
+
+Okay. Now, why is that important? Well, right away, if I, if I know that if I put $50,000 here.
+
+No no no no no no no, don't put $50,000 there, I mean.
+
+Always goes in blue. If I put $50,000 here, what's the present value of that going to be?
+
+43,176. Uh, our 50,000 will buy more bots than than a face value of 50.
+
+All right. Okay. I love these things.
+
+All right. I feel so powerful.
+
+You think so? Okay. All right. So one way I can do this is just play around.
+
+Well, okay. Could we get $60,000 face?
+
+No, that's too much. Whatever. Whenever we buy these things, the face value of the total amount that comes back is going to be less than 60.
+
+And then I can say, well, what about, uh. Well, let me see.
+
+Look, it's it's only a little more than that. How about 57?
+
+Uh, that. No, that's not enough. Oh, I'm honing in on it.
+
+58. Oh, look, I have, uh, I have a present value.
+
+That is everybody. Is everybody looking at the right thing to highlight that somehow that I.
+
+That I'm trying to make that number into 50,000. I'm almost there.
+
+Right. In fact, I'm going to say it's, uh, 50.
+
+57. 800. Tulo.
+
+Did I say 57? That's 50. Wait a minute.
+
+I lost string in 58.
+
+Okay, that's a little too much. 50. Seven.
+
+Uh, 950. Oh, a little too.
+
+Okay, I can keep doing that. Right. Until, um, I hold it on the answer, or I can use the, um.
+
+Go see. Hang on just a second. Church in return.
+
+Okay. So I'm going to take you through this because it's it's very good.
+
+I can use go seek. And now this doesn't work on the web version of Excel.
+
+This only works on the desktop. Come on. I said zoom here.
+
+Okay. So let's just I just want to walk you through the steps, because first of all, you need to have, like, data analysis.
+
+Um, uh, the data tab, I think it is, um, laid out.
+
+Okay. So this is our spreadsheet. So F1 holds the present value.
+
+The cash flows, the bonds, the cash flows of the bonds are determined by face value and coupon rate.
+
+Right. Again, another way that you think about when you deal with quantitative things is.
+
+Like we have this. Who else is doing this?
+
+Okay, so what we have is this present value engine.
+
+Calculating engine. And what you really want to understand.
+
+Any time you have a quantitative technique like this is you want to understand what are the inputs inputs.
+
+And what are the outputs. So our present value engine takes a stream of cash flows or its cash flow stream and spits out a number.
+
+That's the present value. Well it takes a stream of cash flows.
+
+It takes a definition of what now is. Um, and it spits out the, the present value of that cash flows at the time we tell it to make sense.
+
+Okay. So whenever you do a calculation reformulated, you got to stop.
+
+What are the inputs? What are the outputs?
+
+That's why I like doing everything in Excel because it makes you structure the inputs and then it shows you what the outputs are.
+
+So, so almost without having to think about it too much you're into this mindset okay.
+
+All right. So this is what you do. Um.
+
+Uh, this is a different example. This is a phrase for the courtroom. And look at the interest rate.
+
+The interest rate was really low at the time, right?
+
+1.7% interest rates have gone up. And here's how to do it under the data tab under what if analysis.
+
+There's a thing called goal seek right and then goal seek.
+
+Looks like this is a set. So F1. So I want to set the present value equal to $50,000.
+
+By changing what? But changing the face value. The face values in cell B1.
+
+Right. And I hit okay and did okay.
+
+It generated in this case bonds with the face value of 29.
+
+Uh 6657 could be purchased.
+
+Wow. That's because there's a big spread in between the coupon rate of four and a quarter and the interest rate of just less than two.
+
+So it's a big discount. Okay, so.
+
+You know. So that's how to use, um, to use.
+
+Go see. Now then what I have to do is go over here.
+
+I can keep I can keep doing this. I did it pretty easily the other day, or I could.
+
+Where's unhide people review unhide at home.
+
+Maybe it's view. Do you see the unhide thing?
+
+Because I've hidden some. Well, whatever.
+
+Let's just the, you know, the right pages or the.
+
+I actually I outfoxed myself in it too much.
+
+Oops. Okay nine.
+
+20. That's too much.
+
+$9 and 92.
+
+Uh. Almost done. Right. So we're going to be able to buy about, um, 1.5.
+
+Uh, a little more than, oh, let's say $0.60, let's say.
+
+Uh, $0.60. Uh, more that.
+
+All right. I'm not going to keep you in a throat, but let's see if we're going to be able to buy 57 bonds with a face value of 57 902.
+
+Cool. Okay. So let's do that.
+
+So we send the government the money, the buyer 50 grand.
+
+And they acknowledge that we've got here 50,000.
+
+And they said you have just bought bonds.
+
+These are these kind of bonds that have a face value of 57.
+
+902 the coupon rate of 4%, payable semiannually.
+
+30 year maturity date. Very cool with that.
+
+Okay. That's great.
+
+Great. Great, great. So how do you.
+
+What do you want me to change? My. Our records. I want to go back to the accounting.
+
+Do you want me to change the records? How much cash do we have now?
+
+After we bought the body. We have zero.
+
+We sent it all to them. Right? So if my list of assets is a representation.
+
+Do. Of what? What we have under control.
+
+That is our benefits. That's no longer true. That's not right.
+
+So. So that's got to go to zero.
+
+Right. Now the accounting identity says, uh.
+
+You got to make it fit the identity. So does the equity go to zero?
+
+That's one way. No. Right now the equity doesn't go to zero.
+
+So what happened? You to do this again and again and again.
+
+Nothing happened to equity. Nothing happened to liabilities.
+
+Therefore, something happened to our assets.
+
+What happened? Yeah.
+
+Just the value. Just go to a different category. Yeah. We got to recap.
+
+We got to reclassify. We got to tell people. We got to tell people we don't have cash anymore.
+
+We have these US government securities. Okay. So in fact, I'm.
+
+And I'm going to record that transformation. Uh, T-bills.
+
+Now, what number do you want me to put in?
+
+Hey. What's the only number I can't put in?
+
+5050, right? I can't put anything other than 50 here.
+
+I don't care about the face value. I don't care about all that stuff. I'm working the county identity.
+
+The county identity tells me you don't even have to think about this.
+
+If 50 and cash went out and nothing happened to your equity, then the asset that you got back has to be worth 50.
+
+I mean, that's the book value. All right.
+
+You're that. Cool.
+
+Now let's think about it. What makes sense? Right. We started this whole thing by saying, what's a fair deal?
+
+The fair deals when the present value of the two things are the same. So hey kind of guy didn't he didn't hurt me there.
+
+Right. It actually got me to do something that's consistent with my economic view of the world.
+
+Remember, I started by saying, the government is going to give us a good deal or we're going to accept a very bad deal, though, right?
+
+So by directing me to write down 50, I just kind of captured that.
+
+I, I sorry, I'm assuming that that logic is good.
+
+But I didn't automatically create value just by changing one set of cash flow and present value 50 for another,
+
+with the cash flow present value of 50. I didn't create value right?
+
+I didn't destroy it either. Right.
+
+In. Okay.
+
+Everybody cool. So that's what our balance sheet looks like right after we say.
+
+This is our balance sheet. For some people call it a statement of financial position.
+
+I really hate that. You know, I hate that because it's a little too wishful thinking.
+
+Okay. It's a statement of intent. So really what we're trying to convey is a balance sheet is at a point in time, right?
+
+Okay, fine. But you're going to be careful with all of the analogies with physics and stocks and flows and ins and outs.
+
+You know, accounting people love them. You need to understand you need to have some of it.
+
+But I'll show you where you go wrong. Right. So here's where the stocks and flows.
+
+Things go wrong. It's sort of true generally, but I did something different.
+
+I'm working this identity. I'm not just looking at one thing at a time and talking about where, but where did I start?
+
+Where to go out. How much was left? I'm looking at a bunch of things and they have to line up.
+
+I'll show you that later. Okay. All right.
+
+Now I want to look who a year ahead, I don't know. And let's see. Let's go.
+
+Six months ahead. For a second. All right.
+
+So this is today. This is ta ta 26 and six months from now at six to that, you get August 2nd, 2026.
+
+Now, what's our balance sheet going to look like at the end of the day there.
+
+Remember, they're paying every every six months.
+
+They pay us. Okay. So we're going to get some cash coming in.
+
+In fact, we're going to get $1,158.03.
+
+Okay. So now my cash.
+
+Is going to be 1000. What 1158.
+
+And $0.03. How about my bonds? What?
+
+What are they? Yeah. 50. Just 50.
+
+50. Very tempting, isn't it? Isn't it?
+
+Isn't it? Isn't that the face value, though, which you paid it or that?
+
+Sorry. When you get paid at that maturity. Well, we got to be.
+
+This is where this is. Why? Like, we're really being careful with these timelines.
+
+So let's think about what's happening in terms of timelines. We got 60 periods here, right?
+
+And this was time zero. And so we're getting $1,158.03.
+
+Okay. Dot dot dot dot dot. And then we're getting 1001 58 plus the face value.
+
+And I can't remember the face value was 50.
+
+57 902. So the last cash flow we get should be, uh, 1059.
+
+Oh 16. Let's just see if the if I can add still or if that's.
+
+Okay. 59 oh 5963.
+
+Okay, fine. Six. Some rounding. That's this. All right.
+
+All right. And what we said was the present value of the future cash flows at this point in time.
+
+Wright was 50. PV of all that is 50.
+
+But six months later, I'm not at zero anymore. So things have happened, right?
+
+Things have happened. One thing that happened is that I got this was my red one.
+
+I like a red. One thing that happened is I got this payment that's now in my pocket.
+
+Another thing that happened though, was time is now here.
+
+So. So what I want to look at. I want to look at the present value of the remaining cash flows of the remaining cash flows.
+
+The remaining cash flows are all these.
+
+Right. Yeah, but it's tricky because I've also shifted that I'm since I move forward in time.
+
+I've kind of work with where I look. I'm going to get paid the big amount.
+
+Not in 60 periods, 59.5 periods.
+
+I got some cash and I move through time. Ooh.
+
+So what I need to do. I mean.
+
+You know. So what I need to do is. I guess I have to do I have to do a new present value calculation, I do, I, I mean, I'll tell you right now.
+
+Yeah, yeah, you do it in practice, but, uh, it's just sort of one way to get you to think about what happens when you move through time, right?
+
+Let's do it. Kind of a different way of looking at it.
+
+Let's look at it in more. Uh, inch by inch.
+
+So let me ask you this. What is the interest during the first six months?
+
+Uh, on this transaction. So that is what did we do?
+
+We let the government $50,000 at 4.87% compound.
+
+And so again, that's what we did. So I could say, what should the interest be over the first six months that so it should be $50,000.
+
+Times 4.87% divided by two.
+
+And that should be the interest, right. Because that was the substance of the deal.
+
+Right. Substance. Substance versus form.
+
+You know, the form of the transaction was we got these coupon bonds at the rate that I don't know, I want to know economically what happened.
+
+We loan the government $50,000 at 4.87%.
+
+That's the substance of it. It had all these other trappings with a language of the border and escrow.
+
+I mean, I don't care about that. No, I want the substance. I want the economic substance of what's happened.
+
+Okay, so somebody multiply that out for me, right? I'll do it right here.
+
+Okay. So it's equal to $50,000 times.
+
+Uh. Uh, one.
+
+Plus the interest rate. What did I say is, um, 44.8 7% divided by two.
+
+Okay. Bingo. Now, what did it do?
+
+It auto filled. What the [INAUDIBLE] is that? Stop auto filling.
+
+What? Where did it raise that? To the 30 something power and just get off me!
+
+No, that's not right. 000, I see.
+
+Wait a minute. Maybe it's like this. Maybe. Let me do it. Like this point.
+
+Oh. 487.
+
+What am I doing wrong? Oh, come on, I want to find out what it's like.
+
+I got 1217. Oh, you know what I'm doing.
+
+This is not the one. The one doesn't belong there, right?
+
+I'm trying to calculate the interest. The interest, not the interest.
+
+And the principal. Right, okay. The interest. Aha! 1000 to the is what you got?
+
+Oh, thank God you got to watch me with numbers. This is why when I did a finance business, they never let me do the actual numbers for cash.
+
+What's going on? Okay. Yeah. We had an Alaska guy that did that.
+
+All right. So the number is $1,217.50.
+
+But look, we only got paid.
+
+The coupon was 1001 5803.
+
+That's less than the interest cost group that we knew that was going to happen, right.
+
+We knew that was going to happen because selling at a discount means what it means.
+
+The coupon payments don't cover the interest cost. Right now you see it that we're having to calculate what that is.
+
+Okay. So so what's the, uh what's the shortfall?
+
+1000. What is it?
+
+1002 17.5.
+
+And the cash we got was 1001 50.
+
+Eight period so far.
+
+Oh, God. 9 to 5. So, $59.50.
+
+It is. What? The interest cost that they didn't compensate is for.
+
+So what does that mean? Well, they owe it to us.
+
+Another way to put it is if you walked out six months and you sold that bond and the market hadn't changed,
+
+the interest rate that the market imposed was still 4.87%, compounded semiannually that bond and sell it for 50,000 anymore.
+
+It's selling for $50,059.50.
+
+Show you how it works. Right.
+
+Okay. 51035 1711.
+
+Oh. I think that's a familiar number. For backwards.
+
+Forwards. Every conviction. Look at that.
+
+That is. The bar.
+
+Okay, so now my total assets I'm calculating would be 51,002 1753.
+
+It's complicated. Some of it's cash, but some of it is the bond to art.
+
+So if you go through this calculation.
+
+Uh, well, think about this, uh, a bunch of different ways.
+
+If we loan somebody 50,000, uh, 4.87% compounded semiannually in the first six months, the interest we should earn is we calculated $1,217.50.
+
+That's not what we got paid. But if we earned it, that must mean something else happen.
+
+Okay. Yeah, it did happen. The value of the bond changed.
+
+The value of bond changed because what we went through with that one cash flow has been paid off,
+
+but we're closer to the big payment at the end than we were before, right?
+
+So you see what I mean when I say that you can't possibly intuit all this stuff, right?
+
+You have to know what you're trying to do with the calculations and,
+
+and then proceed very carefully so that you're not using Excel to make what I used to call mistakes at the speed of life.
+
+Right. Because I put in the wrong formulas, I hit enter. It could just.
+
+Give me thousands and thousands of wrong things right off the bat.
+
+So I really have to control. Okay. Oh.
+
+All right. Let's go back here. Hmm?
+
+Uh, yeah. How do I want to?
+
+How do I want to balance this thing? All right.
+
+So my total equities this is total assets.
+
+Total equities. All right, well, I know, I know what the total has to be, right?
+
+Because that's the that's the I imposed the identity. So I know the total.
+
+The total is 51, 217, 53.
+
+Right. Because this thing and this thing have to be equal or defined to be the same,
+
+that now you might, now you might, this might, but they're defined to be the same.
+
+Okay. So once I get the total now the accounting part is I have the number.
+
+What is it. How do I want to categorize it.
+
+Well I mean I kind of like keeping track of I kind of like keeping track of what I raised from the members separately.
+
+Members. Contributions. Does that make sense?
+
+But I have to add something else, right?
+
+I have to add another. Uh, 50.
+
+I have to add another 1000 to 1.
+
+753. Right.
+
+What am I going to call it? Well, we earn something, right?
+
+We earn something by buying this bond and holding it for six months.
+
+Did we pay anything out? No, we just kept it.
+
+We put it in a jar in the dean's office. Right? So I'm going to call this.
+
+Retained earnings. Okay.
+
+So go pull up your favorite.
+
+And this is another thing you should be doing just every once in a while, every week.
+
+Pull up 2 or 3 sets of financial statements.
+
+Always take your favorite company and go into if it's public,
+
+and go into the investor relations and it'll show you the 10-K or 10-q or something like some financial statement.
+
+I mean, just look at it. And it's going to get you used to the organization and what's going on will also bring to life.
+
+So this I don't know about you, but I find this incredibly abstract, right?
+
+It's incredibly abstract, all that. It's all the storytelling that I've done over the last hour.
+
+I mean, come on. Right. Like the other.
+
+Yeah. A quick question about 1 to 1 7.5.
+
+So just to get this clear, the total cash flow that you're getting paid from the bond is 1,158.03.
+
+Yes. Semiannually. And the present value of that cash flow.
+
+Yeah. 1130 is 1217.
+
+What you should theoretically be getting paid based on the.
+
+No. Well that's what we have to earn to actually earn the interest rate okay.
+
+That's what we have to earn. Yeah. So another way I you know, I started off by talking about how the cost of buying the bond changed.
+
+And from a, I started off from the point of view of the, uh, of the balance sheet here,
+
+but I could have I, I surprised myself, so you should do it a different way.
+
+And if I knew how to, um, unhide all these different unhide.
+
+Oh thank God unhide. Right. You're paying a discount because you're getting less than the current interest rate that current borrow.
+
+The coupon rate is less than the interest rate. Yeah. You have to be very, very careful with that.
+
+So you don't mix those two that you're getting a lower coupon rate than what the interest rate.
+
+Yeah. You never get. And so therefore you're paying a discount.
+
+So what's happened is what's happening is some of the final face value payment at the end.
+
+Like if I go look at this, these um well here here's a way to another way to look at it that I got this cash flow in this cash flow columns.
+
+Right. So in total I'm going to get paid from the coupon payments.
+
+Um. Coupon.
+
+Oh, [INAUDIBLE]. I the coupon payments are going to be approximately the same.
+
+I so look up how they're going to be.
+
+I look down here. Um, 68 three 2389 plus one more.
+
+Okay, so so the total amount of cash that I'm going to get over the whole period of time from the coupon payments is,
+
+let's call it, uh, let's call it 69,500 or something like that.
+
+The total cash that I'm going to get from the face value payment is.
+
+59 901 60. While those two numbers are not the total interest cost and the total principal and the total amount of the principal the lot,
+
+they are not that the government did not borrow $57,901.60 at 4%, compounded semiannually.
+
+If that was true, then every coupon payment would just cover the interest cost, and the face value would be a return of the principal.
+
+Okay. I mean five. That's if that's true. It's not true. So we have to distinguish the principal of the loan.
+
+How much did we load the government and what interests are we earning from that that had to be separated from how we label the cash flows.
+
+That's accounting. That's accounting.
+
+That's why you have to do accounting. I can count the cash, but I can't account for it.
+
+Right? I can't account for and the account for the story that I want to tell you that's
+
+happening with this transaction is these people loaned the government $50,000 at 4.877%,
+
+and the tide went on and they got cash paid and all that stuff, and it all worked out.
+
+But that's this. That's how I'm going to describe it. I'm going to describe the total interest cost as the total interest and pay on the $50,000.
+
+I'm going to account for the principal of the loan. The math and the math they really borrowed was 50,000.
+
+The form of it was all kinds of screwed up stuff. But I love this.
+
+I like your faces. Your faces are appropriately. Stunned in some way or, you know, it's good.
+
+It should be because we that this is.
+
+Whoa. Right. You know, we we we took these.
+
+You know, probably I'm just guessing if you're doing the present value calculations.
+
+I don't know if I can do this. I could do this. I can do this. Okay. Yeah, you can do that.
+
+But are you really in control of it? Because when we started doing the accounting for it, we really had to know what story are we going to tell?
+
+And I whovian a lot of the discounting math. I will be in some economic intuition here.
+
+There I whovian some what am I going to label something.
+
+This is this is incredible, right? But the big thing and the reason that I do the 165 Whitney so we're going to stop here.
+
+We're going to keep doing this for a while. So you get more used to get more used to it.
+
+The biggest thing is that the value flow produced by this organization.
+
+In any period is not equal to the cash flow.
+
+It's not equal to the cash flow. It's related to the cash flow stream as a whole.
+
+Right? It's related, but it's not equal to the cash flow.
+
+In fact, I can tell you already why it's not because I'm saying the value created was $1,217.53.
+
+The cash flow was only the interest, the 1150 803.
+
+Value is also created, if you will, by moving six months closer to the final payoff.
+
+Part of that final plan, also compensating us for interest.
+
+See? So we said all that stuff.
+
+I've said all this stuff, and I know because I've been interested, but there's like 15 things that you kind of have to follow through.
+
+And it's quite true, all that stuff, you know, and until you start doing it a few times,
+
+there's no way you can, you can, you can just get sort of pulled us out of wherever.
+
+Yeah. If this is a premium phone. Yeah. So you decrease.
+
+Great. Exactly. You're thinking good. So we got a case of a discount bond.
+
+What about a premium bond? If the coupon rate would have been 5% instead of 4.8, or make it six or something.
+
+Go through the spreadsheet to play with that. You can just change the coupon rate and see what happens if I tell you what's going to happen.
+
+Right. We go to buy $50,000 worth of bonds. We're not going to be able to buy at face value 50.
+
+We're going to have to buy at face value less than 50. And then what's going to happen is every time we get a coupon payment that represents,
+
+it's sort of like an annuity that represents cover to cover their interest cost and pay down their debt.
+
+Okay. So here we have a case where the coupon payments don't cover the interest.
+
+And so what that means is they're implicitly borrowing more right there.
+
+Implicitly borrowing more to cover their interest. If it was the other way around, then their coupon payments more than covered their interest cost.
+
+Then they're repaying their loan as it goes on. Okay.
+
+So that's why I try to get you to track these paths, all these paths and other stuff going.
+
+Okay. But if you really. So there's two there's two parts I've seen in with this.
+
+You know, if you really get this in your bones, then you understand the,
+
+the the mindset, the theory of what the accounting people think they're doing.
+
+Okay. And then we have to go, these are these are very nice transactions right where present values are nicely well-defined.
+
+And only one things going on. We don't have somebody building widgets in someone with this guy.
+
+So then we're going to go do all that. But the intuition is this this is what accountants think that they're trying to do.
+
+The aspirations are wow, I'd like to track value. I have to track cash too, because, you know, we got to count the cash.
+
+Wait a minute. Why does that?
+

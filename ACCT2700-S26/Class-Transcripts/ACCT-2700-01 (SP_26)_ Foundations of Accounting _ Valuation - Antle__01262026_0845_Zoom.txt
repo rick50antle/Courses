@@ -1,0 +1,1459 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Rick Antle: Morning, Maggie.
+
+Rick Antle: Good to see you. Nobody shows up to Zoom meetings till the last minute, and so I'm like, oh, am I in the right room?
+
+Rick Antle: I do the same thing.
+
+Chang, Maggie: I usually go in… Right on spot, we're, like, a minute before.
+
+Rick Antle: That's what I do. Every time.
+
+Rick Antle: Yeah, I think it's…
+
+Chang, Maggie: Did you do anything over the weekend?
+
+Chang, Maggie: Stay at home and class.
+
+Rick Antle: I tried to walk my dog… no, I did walk my dog last night. That was… he's a very… he's a… he'll probably try to get in in a minute. He'll… he'll be screaming at me. So he's pretty short, and he had a really hard time just dealing with the…
+
+Rick Antle: with the smell, you know, he's like, he's… you know, he's that tall. He's not, he's not a super small dog. Hi, Kyle.
+
+Kyle Romans: Good morning, Mr.
+
+Rick Antle: That's cool.
+
+Rick Antle: small dog, but boy, I had trouble dealing with this. Like, I went out beside my house, and the snow had drifted in, and I tried to walk out. It's like, where are my snowshoes?
+
+Rick Antle: The answer is, I don't have any snowshoes, so… It was pretty miserable.
+
+Rick Antle: That's all I did.
+
+Rick Antle: Worked on class, watched a little football, Not that much football, actually.
+
+Kyle Romans: Did the teams that you wanted to win, win?
+
+Rick Antle: Certainly the Patriots. Now, also, you guys watch… I'll watch… I'll be watching you guys, because sometimes, even though I have two, high-speed internet feeds to my house, it's supposed to switch off and all kinds of stuff, I usually freeze up at some point.
+
+Rick Antle: During the talk, so… or during a Zoom.
+
+Rick Antle: What did you guys do?
+
+Rick Antle: They hold up, I hope.
+
+Rick Antle: Well…
+
+Kyle Romans: Watched a lot of football as well.
+
+Chang, Maggie: I just stayed at home and then cooked with my friends who also lived off campus, so that was also… that was.
+
+Rick Antle: Oh, you live off campus?
+
+Chang, Maggie: Yeah.
+
+Rick Antle: Yeah.
+
+Rick Antle: Whoa.
+
+Rick Antle: What happened to Shua, who was here? Then he left.
+
+Rick Antle: Hmm.
+
+Shua Rosenstein: No, I'm still here.
+
+Rick Antle: Oh.
+
+Shua Rosenstein: Yeah, yeah, I'm.
+
+Rick Antle: Oh yeah, you would.
+
+Shua Rosenstein: I just… I just, my kids are home from school today also, because, by the way, we never officially met. I'm an Eli Whitney student.
+
+Rick Antle: Oh, hi.
+
+Shua Rosenstein: Yeah, so, so I'm…
+
+Rick Antle: There's something special, Shua. I don't know, you did kind of stand out in a way that warmed my heart.
+
+Shua Rosenstein: I hope I didn't disrupt too much.
+
+Rick Antle: Don't worry about that.
+
+Rick Antle: one of the,
+
+Rick Antle: actually seminal moments, or a thing that I'll sort of always remember is I started a business back in, like, about 2003 or something like that. And one of my partners was a finance professor that was 65 at the time.
+
+Rick Antle: And we had a… oh, I should say, I should… should make sure it's recording. Pause. Okay, no, it… it's recording, good. And we had this younger guy that… so he actually programmed in Fortran. And we had this younger guy that did, you know, like, C+, or something.
+
+Rick Antle: And Dick, at 65, taught himself this whole new programming language. And it's not only is it a new language, it's a different kind of way of thinking about
+
+Rick Antle: programming.
+
+Rick Antle: And so I try to remember that, you know? I mean, if that guy can teach himself a whole new language, programming language at 65, I figure I can hang in there a little bit.
+
+Shua Rosenstein: Are you referring to yourself and Excel, or just in general?
+
+Rick Antle: Just in general.
+
+Shua Rosenstein: Oh, okay.
+
+Rick Antle: You know, just keeping your mind open to learning things and not… You know, just not thinking…
+
+Rick Antle: Iowa, I can't do that.
+
+Rick Antle: Or I don't want to do that, because I'm too old. Yeah.
+
+Rick Antle: How old are your children?
+
+Shua Rosenstein: I have 5 of them, ranging in age from 12 to 21.
+
+Rick Antle: There you go.
+
+Shua Rosenstein: Yeah.
+
+Shua Rosenstein: And… none of them have school today, so if you hear anything in the background.
+
+Rick Antle: Oh, yeah.
+
+Shua Rosenstein: Yeah.
+
+Shua Rosenstein: I mean, my daughter is a junior in college in Philadelphia, so she's… you're not gonna hear her.
+
+Rick Antle: Not gonna hear her.
+
+Rick Antle: I wait around a few minutes under the assumption that nobody comes to Zoom class early.
+
+Rick Antle: Or maybe not.
+
+Rick Antle: I think I, I see the effects of posting videos.
+
+Rick Antle: But, it's okay.
+
+Rick Antle: Lucas, Lachlan, alright, here we go. Oh, Lucas disappeared on us for a while. I don't know what's happening with that.
+
+Rick Antle: Right, I'm gonna start up, and people can either come or they not, or not.
+
+Rick Antle: Alrighty then, let's get… just get going.
+
+Rick Antle: Okay, so what we're gonna do today is just… is use the present value model to, explore a couple of issues, really.
+
+Rick Antle: One of them will be familiar from the first day of class, about changing values. The other one I want to talk more about, about the compounding period. Really, my main purpose is just to get you sensitive to always looking at the period that you're… the definition of a period that you're seeing.
+
+Rick Antle: Because in accounting statements, like I said, we have annual statements, we have quarterly statements. Sometimes, you know, you can even… you can make up a financial… set of financial statements anytime you want, over any period you want.
+
+Rick Antle: So, if you have some sort of business combination, or…
+
+Rick Antle: private equity kind of deal. Very often, if those are closing on a certain date, they'll have financial statements made up as of, you know, some random date of closing. And so you always have to be sensitive when you look at accounting statements.
+
+Rick Antle: for exactly what dates are being shown. And so, if you remember back to the Madoff, there's many reasons for this, but if you remember back to the Madoff day, one of the tricks I pulled on you guys was I showed you data, but I didn't tell you the time period.
+
+Rick Antle: And in fact, I was kind of fast and loose, because I didn't even tell you, and nobody asked me. I said a rate of return of… I earned a rate of return of 18.5%. Well, nobody even asked me, over what period of time.
+
+Rick Antle: Right? And so, you know, we just play around with this stuff and familiarize ourselves with it. You know, the only things we're going to use are sort of the main ideas of compounding and value, but it doesn't hurt to dig into some of the details.
+
+Rick Antle: Okay, so now I have to make sure I'm clicking on the right screen here, okay.
+
+Rick Antle: There we go. All right, so more depth. But, I mean, one of the main things we're going to do today, probably the main idea I want to stick with you, is to look at value changes over time, and how those occur, and why they are.
+
+Rick Antle: We're gonna use that to talk about risk, alright? So remember, all we've really been talking about now is
+
+Rick Antle: cash flows and through time, and how… and how the story of those evolve.
+
+Rick Antle: both the… how the cash evolves, and then the story of value as to what's going on, how that evolves. And, we… but when we think about… what I'm going to do is I'm going to talk about changing interest rates. So what happens if the interest rate suddenly changes?
+
+Rick Antle: And then we want to see what happens to value. We have a way of doing that. I don't understand why you're not doing this. Okay, so first I just thought, let's just look at 10 compounding periods.
+
+Rick Antle: So if we have 10% compounded annually, and, you know, so that's basically telling me, when I draw a timeline,
+
+Rick Antle: what's the gap between my periods of time? And so, let's suppose you start off on January 1st, and you're gonna go to December 31st.
+
+Rick Antle: That's the calendar time. That's irrelevant, but it's an example. And suppose you start off with a dollar, and you have 10% compounded annually, okay?
+
+Rick Antle: then what do you… what does it do? It grows to $1.10 at the end of the year. That's pretty straightforward, right?
+
+Rick Antle: Oh, now that there are a manageable number of you, I can even, claymore, are you okay with that?
+
+Rick Antle: Yeah? You can… yeah, right, good, excellent. All right. Okay, now…
+
+Rick Antle: I want to talk about semi-annual compounding.
+
+Rick Antle: So, there's some language stuff here you have to worry about.
+
+Rick Antle: So, we'll say something like this. We'll say 10% compounded semi-annually.
+
+Rick Antle: And really what that means is… so, we're gonna divide the year into two.
+
+Rick Antle: But we're also going to divide the interest rate into two.
+
+Rick Antle: So really, you take half the… you take the interest rate, you take half of it, and then you double the number of periods.
+
+Rick Antle: Okay?
+
+Rick Antle: And so people call that 10% compounded semi-annually.
+
+Rick Antle: So, when you're, you know, when people are throwing around interest rates or rates of return, unless we have some benchmark about the time period, then people can be talking about all kinds of different things. So… so the annual… defining a period as annual terms has kind of a…
+
+Rick Antle: a benchmark kind of place we do, and things are done relative to that. So, 10% compounded semi-annually, let's see what that does. Well, it means I… I now divide my January 1 to December 31 into two different sub-periods.
+
+Rick Antle: and I have the interest rate, Right?
+
+Rick Antle: So let's see what the… what the effect of that is. If you have… A dollar at work.
+
+Rick Antle: Well, the first… 6 months, that's gonna grow at 5%.
+
+Rick Antle: So, you end up with $1.05.
+
+Rick Antle: But then, now we see the compounding effect, because in the second 6 months.
+
+Rick Antle: It grows at 5%, but it's $1.05 that grows at 5%.
+
+Rick Antle: Okay, so let's see what happens to that.
+
+Rick Antle: Well, that turns into $1.10.25.
+
+Rick Antle: Now, if I said, oops, multiply that times a billion.
+
+Rick Antle: because I'm dealing with billions here,
+
+Rick Antle: Well, I think I just talked about quite a bit of money there. Billions? What is… well, I can't do the math in my head. Times… what's a billion? Times 9?
+
+Rick Antle: 5, 6, 7, 8, 9, 2, 3, 4… yeah, I think… I think a difference of $250,000 or something, at least.
+
+Rick Antle: Okay?
+
+Rick Antle: So you always, you always kind of have to keep that in mind.
+
+Rick Antle: that, what we're doing here can be scaled up or down.
+
+Rick Antle: And is scaled up a lot in modern finance, okay?
+
+Rick Antle: So what about 10% compounded quarterly? Well, the same thing, now we're going to divide the year, or a year, into 4 different periods.
+
+Rick Antle: And let's see what a dollar would grow to then. Well, if I do the 4 different periods, I multiply the period times 4, and then I just divide the interest rate by 4. So that's 2.5% every quarter.
+
+Rick Antle: Okay?
+
+Rick Antle: So, let's see… so, at the end of the first quarter, you have… $1.0 and a half cents.
+
+Rick Antle: And into the second quarter, That grows. You have 1.0506.
+
+Rick Antle: Into the third quarter, you have… 1.0769.
+
+Rick Antle: At the end of the fourth quarter, you have… 1.1038.
+
+Rick Antle: So remember, compounded annually, we had $1.10. Compounded 10%. Compounded annually, we had $1.10 at the end. Compounded semi-annually, we had $1.10 plus .0025s of an extra cent.
+
+Rick Antle: Compounded quarterly, we have $1.10.038. So, if you increase the compounding period, you give compound interest more chances to work.
+
+Rick Antle: And you're gonna grow to a higher rate.
+
+Rick Antle: Okay? Now let's look at where we end up here, and develop even more language around it.
+
+Rick Antle: Well, what we could say is that, 10% compounded quarterly
+
+Rick Antle: Would give you the same as… 10.38% compounded annually.
+
+Rick Antle: So, 10.38% is the, equivalent annual rate.
+
+Rick Antle: Of 10% compounded quarterly.
+
+Rick Antle: Okay, so people use all this, you know, all these different…
+
+Rick Antle: Languages, but if somebody's not tuned into the compounding period, this can really…
+
+Rick Antle: Can really come back to bite you when you're dealing with large subs.
+
+Rick Antle: These are the formulas for going all the way up, just to get you an idea that,
+
+Rick Antle: the,
+
+Rick Antle: You know, compounding can be done daily, and if you… if you go to a lot of the financial theory, a lot of them like to talk about continuous compounding.
+
+Rick Antle: Because if they want a model where you can take derivatives of things and stuff like that, then you don't want to think of time as occurring in discrete chunks, you want to think about it as a continuous variable. And so here's that thing again, e to the r.
+
+Rick Antle: What is that? That's… he's a number, like, 2.7-something-something.
+
+Rick Antle: I mean, who the heck figured that out?
+
+Rick Antle: Pi, you can sort of understand, right? It's like, okay, you need… you're messing with circles, and you gotta do something.
+
+Rick Antle: But E? I don't know. Anyway, we won't do that, just showing you, that… that's kind of how the math works.
+
+Rick Antle: Okay.
+
+Rick Antle: Any questions?
+
+Rick Antle: So we can have questions now. Good morning, Ruben.
+
+Rick Antle: I know you guys have the, you know, you and, oh, Sabina, and then… wait a minute… oh, and Lachlan, you got the headphones on. So you're like Zoom professionals.
+
+Rick Antle: What?
+
+Rick Antle: Good for you.
+
+Rick Antle: Yeah.
+
+Kyle Romans: I had a question, so is the interest rate always an annualized figure?
+
+Rick Antle: Well, you're gonna… you really have to watch that, okay?
+
+Rick Antle: Now, I'll tell you when you really have to, and you should do some calculations about this. Like, something like a payday loan.
+
+Rick Antle: Where you're, you're, you know, you basically, your people cash their checks, like, a few days early.
+
+Rick Antle: And the charge for that might be, I don't know, 10% or some percent, right?
+
+Rick Antle: Now, effectively, that's like borrowing money for a few days at that percent, but that percent per those few days.
+
+Rick Antle: So if you calculate the implied interest rate on a, the,
+
+Rick Antle: A payday loan? It's just astronomical.
+
+Rick Antle: Okay.
+
+Rick Antle: if a certain thing… so that's… that's… that's one place that you have to be careful. That's an extreme example where you have to really be careful with this.
+
+Rick Antle: And it's what that,
+
+Rick Antle: there was a regulatory board that the new administration did away with that was a consumer finance protection. It was to try to protect people or get, regulate that sort of activity where, you know, you have some unsophisticated people that don't
+
+Rick Antle: really get what they're doing, and they want the money, and they borrow it, and maybe they don't start thinking about how much it's really costing. Oh, yeah, yeah, the other thing is credit card interest.
+
+Rick Antle: Right? So they charge you so much per month, and that… God, I think I had one the other day that said, like, 33% or something, somebody, but 20% is not in the area, that's not unreasonable. So if you look… I mean, not… not… not… I mean, not unreasonable, not unknown, or un… un…
+
+Rick Antle: it's not rare, it's sort of common to be in the 20% range. So you look at, like, what that is, and they're compounding it monthly.
+
+Rick Antle: Right? So by doing anything… by doing anything like that, they're taking, the 20% every month.
+
+Rick Antle: So what would that… so what would that be, an effective annual rate?
+
+Rick Antle: You know? If… God, am I doing this right? If it's 20% a month, and you're compounding monthly,
+
+Rick Antle: you know, I think that's a very large annual rate, right?
+
+Kyle Romans: Yeah, because it…
+
+Rick Antle: No, I don't know, I'm not gonna do the math in my head, right?
+
+Kyle Romans: But if you were… but if you were compounding monthly, so then you'd just,
+
+Kyle Romans: Multiply the… or turn the number of periods into 12, or multiply the number of periods by 12, and then…
+
+Rick Antle: Yeah.
+
+Kyle Romans: Divide the interest rate, or 1 12th the interest rate.
+
+Rick Antle: Right.
+
+Kyle Romans: Gotcha, okay, thank you.
+
+Rick Antle: But you can see where… I mean, maybe the credit card interest isn't really 20% per month. I can't remember how it works, but I know the interest rate ends up really being high. So I never have… I never pay interest to the credit card company.
+
+Rick Antle: Unless… unless I make a mistake.
+
+Rick Antle: Which is another thing they do, right? Oh, didn't pay the bill, or something happened, and… Yeah, didn't, like…
+
+Rick Antle: But usually, I try to put everything on automatic payment, which has its own risks, but…
+
+Rick Antle: That way I don't end up paying them interest.
+
+Rick Antle: So I'm not a popular customer among the credit card people.
+
+Rick Antle: But, you know.
+
+Rick Antle: That's just the way… the way she goes, okay? Those are great… these are… these are great questions, because this… this comes up all the time. But you… you'd better believe anytime
+
+Rick Antle: My money is actually on the line. Well, in fact, let me tell you how I learned about compounding and discounting. When I came here in 1985, I had an offer to go back to Stanford, which I always thought I would do, because that's where my PhD is from.
+
+Rick Antle: And, you know, I looked and I… a lot of different things. I mean, I came here because I thought I actually fit better, and it was a… it was a better place for me. I'll tell you a story about that in a second, too. But one… one thing that was true even then was housing in the Bay Area was crazy.
+
+Rick Antle: So if you bought even, like, a condo there, you… the university gave you a mortgage where you didn't pay all the interest.
+
+Rick Antle: So, your monthly payment didn't even cover the interest costs.
+
+Rick Antle: So what does that mean about how much you owe them? It's growing.
+
+Rick Antle: And I had one of the first old Macs, a box at my… from University of Chicago, and then crank it out, so I started drawing graphs, and I go, wow, I'm not interested in that. I can't do that. You know, I didn't have a lot… any money at the time, so I'm not gonna do that. So that was a… that was a downer.
+
+Rick Antle: The other thing is, I should tell you that I'm a theoretical economist kind of person, if you had to
+
+Rick Antle: So I do some mathematical models and things.
+
+Rick Antle: And even though my undergraduate degree is in accounting, so I'm not very good at it.
+
+Rick Antle: But I presented my paper here at Yale, and
+
+Rick Antle: two people in the audience, there were only, like, six people, and about 2 people in the audience came up at the end and gave me two different proofs of the theorem that I was doing.
+
+Rick Antle: I was staying with one of those guys, because he was my classmate at Stanford. Both those people, both of them.
+
+Rick Antle: won the Nobel Prize in Economics.
+
+Rick Antle: So that's the kind of faculty that we had here at the time in the management school. It's unbelievable. In fact, in fact, I think of the people in the management school at or near that time, 6 of them have won Nobel Prizes in economics. One of them is still at Yale.
+
+Rick Antle: Everybody else went other places. So anyway, alright, that's fine. But that's my present value talk, and I never will forget sitting there and seeing how that debt grew over time when you didn't pay all the interest.
+
+Rick Antle: Beautiful.
+
+Rick Antle: Whoa.
+
+Rick Antle: Okay…
+
+Rick Antle: All right. You know, so I said, you know, for our accounting purposes, now, it's true that when we talk about accounting for debt, we're going to use this kind of… people use this kind of compounding interest… compound interest calculations.
+
+Rick Antle: Right? I mean, they… they say, what's the effective interest rate and interest expense in a period, whether you pay it or not. But the value, if you will, consumed. Interest expense is driven by compound interest ideas.
+
+Rick Antle: Okay.
+
+Rick Antle: Alright.
+
+Rick Antle: Now let's talk about…
+
+Rick Antle: I want to think about value through time, so I want us to start thinking about
+
+Rick Antle: being in a position, this is another thing that I… we sort of did in the graphs we just had, but being in a certain position, and then at a point in time, and to think about what we expect to happen over time.
+
+Rick Antle: You know, inch by inch.
+
+Rick Antle: Now, if you're a,
+
+Rick Antle: some type of physics person or math person, you're used to doing things like this, right? Where you really have to pay attention inch by inch, how something happens, right? If you're history or art history or something like that, we're not used to doing things like that. I mean, even in… even in accounting, I was interest… I was…
+
+Rick Antle: I paid attention to time, but I didn't realize how careful you have to be to see the dynamics of a process.
+
+Rick Antle: Right? Not just sort of where it is now.
+
+Rick Antle: But how's it gonna change?
+
+Rick Antle: And, you know, that change is really what we're all about here in accounting, really, right? Because, let's think about the Madoff thing we did the first day. Things were changing all over the place, but they… but the process of change wasn't what was being… what people expected it to be.
+
+Rick Antle: You know, the process of change is, I took your money and gave it to you, took your money, gave it to you, pulled out some for myself, took your money, gave it to you. That's the… that was… that was how things were changing.
+
+Rick Antle: And the… what we were trying… what the reason the fraud worked is because people more assumed that the way things were changing was investments were being made, and wealth was being created over time, and that wealth was being distributed over time.
+
+Rick Antle: Okay?
+
+Rick Antle: So, we want to get used to, in every possible way, think about how things change, over time.
+
+Rick Antle: All right.
+
+Rick Antle: Now, the easiest… one of the easiest cases to think about is just a perpetuity.
+
+Rick Antle: Because the valuation's so simple. So remember, like, a perpetuity is just… like, this consulate pays $1,000 per period, okay?
+
+Rick Antle: And if it sells for $20,000,
+
+Rick Antle: We could ask what's the implicit interest rate per period?
+
+Rick Antle: Okay? We can… and I started doing that last time, right? At the end of last class. Oh, by the way, if you… if you, take a side for a second.
+
+Rick Antle: what the heck? I said, oh, no, I'm doing that, or sorry.
+
+Rick Antle: the, these little tutorial things that I keep putting out, and if you're… if you've been to the Time Value of Money one, you will see that it changed a lot over the last few days.
+
+Rick Antle: But all of the, the rabbit holes there that, like, little side things of interest, and…
+
+Rick Antle: Those are all just done completely by… by Claude.
+
+Rick Antle: Alright? So I need to have a warning on the first page that
+
+Rick Antle: yeah, historically accurate, maybe, maybe not. I mean, Claude's telling you a good story here, but, like, I haven't gone back… I sort of read them and see that, you know, sometimes I'll correct things myself, but it's not like a regular research process where I'm nailing down everything, and I don't… and there's no citations there, because I feel like in today's world, just turn around and Google what they're talking about, and you're going to get the citation. You know, this is a…
+
+Rick Antle: one of the million ways, you know, things have changed. But I wanted to warn you when you read those rabbit holes, and some are really interesting, they're suggested by Claude, too, some of them. You know, once Claude suggests a couple of them, I say, how about one on something else, or whatever.
+
+Rick Antle: Okay.
+
+Rick Antle: Oh… Did I freeze?
+
+Rick Antle: Oh, oh, so Maggie's writing to everyone else. If I freeze.
+
+Rick Antle: start waving or something, okay? Am I not frozen yet?
+
+Rick Antle: Okay.
+
+Rick Antle: No, I don't want to end the meeting for everyone, that would be premature. Okay.
+
+Rick Antle: looks at it.
+
+Rick Antle: Through it.
+
+Rick Antle: Oh, you see, if you… if you're… if you're… this is, like, super… the teachers can always watch you, so I saw some chat thing coming up, but you didn't say that to me. All right, here we go.
+
+Rick Antle: Oh, wait, what are we doing? Okay.
+
+Rick Antle: So the implicit interest rate is 5%.
+
+Rick Antle: Right?
+
+Rick Antle: So, let's see what happens. Now.
+
+Rick Antle: the… again, as if this… this language, like I said, has always driven me crazy, but I'm getting more used to it, because price to yield 5%. We didn't know the 5%.
+
+Rick Antle: Right, but price to yield 5%.
+
+Rick Antle: Okay. Now, let's look at how the value of this console evolves over time.
+
+Rick Antle: Okay.
+
+Rick Antle: And let's think about, what happens? Oh, I should have done something else. Hang on.
+
+Rick Antle: I think it's this one.
+
+Rick Antle: Place value, temporary… No, no, no.
+
+Rick Antle: Made me wrong, hang on.
+
+Rick Antle: I don't know, doesn't matter.
+
+Rick Antle: Okay? So let's… so let's just think about it. If… if it…
+
+Rick Antle: The thing about, an infinite stream of cash flows.
+
+Rick Antle: It's like, let's suppose you just, you know, now is time zero, and you sort of look up, and you look out, and you see in the future everything's gonna happen. Well, what you see is just $1,000 per period coming in forever, right?
+
+Rick Antle: What happens if you walk forward one period, you take your $1,000 out, and you look up and you see what's left?
+
+Rick Antle: You see, with perpetuity, you see the same picture, right? You see $1,000 going forever.
+
+Rick Antle: No matter when you poke your head up.
+
+Rick Antle: Right? So that's one of the nice things about using perpetuities, but you have to be careful with it, is that because of it's an infinite flow, anytime you look forward at it, it always looks like the same thing.
+
+Rick Antle: Okay, we'll do away with that in a minute.
+
+Rick Antle: But now, what if… what if…
+
+Rick Antle: The… you've… you've… what that means is that at time zero, this thing sold for $20,000.
+
+Rick Antle: If you go forward one period, and the person receives their first $1,000, and then decides to sell the console to somebody else, well, somebody else should still pay them $20,000 for it.
+
+Rick Antle: Right? And in every period, that's what would happen.
+
+Rick Antle: But now, what happens if the interest rate suddenly changes?
+
+Rick Antle: Okay, as you know, interest rates change all the time.
+
+Rick Antle: And suppose it went up to 8.
+
+Rick Antle: present.
+
+Rick Antle: Well, do the calculations, you can figure out that if it was worth $20,000, if it was… then it's $1,000 per period, now divided by 8%, that's $12,500.
+
+Rick Antle: So if we're sitting there watching the prices of these consoles trade in markets, we'll see, like, 20,000, 20,000, 12,500.
+
+Rick Antle: The interest rate went up.
+
+Rick Antle: From 5% to 8%.
+
+Rick Antle: Okay?
+
+Rick Antle: Or if you wanted to think about… if you wanted to model it, an economic model, and think that the prices are driven by the interest rates.
+
+Rick Antle: Then you would think, interest rates change, these prices are gonna change.
+
+Rick Antle: Okay.
+
+Rick Antle: And there's an Excel workbook with a bunch of examples of rate changes that's in the notes.
+
+Rick Antle: Okay.
+
+Rick Antle: Alright, so here we have a perpetuity. Let's just test our… our… our skills. Like, let's suppose at 5… so we're at 5%,
+
+Rick Antle: And it sold for $20,000.
+
+Rick Antle: What happens if the interest rate drops?
+
+Rick Antle: What's gonna happen to the value of the console when the interest rate goes down?
+
+Rick Antle: Sabina, you got an idea?
+
+Rick Antle: If the interest rate goes down, the value of the perpetuity.
+
+Sabina Mahoney (she/her): It goes up.
+
+Rick Antle: it goes up.
+
+Rick Antle: It goes up.
+
+Rick Antle: Right?
+
+Rick Antle: Yeah, and if the interest rate goes up.
+
+Rick Antle: I kind of hate to keep doing this, I can look at you, right? Ruben, you know that it's gonna go down, the price of perpetuity is going to go down, right?
+
+Rick Antle: Now.
+
+Ruben Berreby: Yep.
+
+Rick Antle: You know, so I just want to stop right there and look at this graph. Sabina, do you have a question?
+
+Sabina Mahoney (she/her): Yeah, I guess I'm not understanding, and maybe this is, like, a basic question from a humanities student, but…
+
+Rick Antle: That's right.
+
+Sabina Mahoney (she/her): How does the interest rate change the… how does the interest rate change on a perpetuity if it's a set amount of money going out? Is it, like, the market interest rate that changes, that makes it less competitive?
+
+Rick Antle: Well, it's not less… maybe less competitive, but people have changed their preferences over…
+
+Sabina Mahoney (she/her): to go back in.
+
+Rick Antle: Think about what it is.
+
+Rick Antle: Again, this is… this… this is a… a,
+
+Rick Antle: a rabbit hole that Claude wrote for the thing talked about Irving Fisher. And Irving Fisher was a Yale economist. Some people said he was, like, the best Yale economist Yale's ever produced, or whatever, the best economist ever in the U.S. But one of the things that he did was he figured out
+
+Rick Antle: you know, he's sitting there observing interest rates and people making loans and all this stuff. Well, he said… he figured out that the interest rate is a price.
+
+Rick Antle: It's a price of money through time.
+
+Rick Antle: Okay, so, you know, like, if I loan money at 10% for a year.
+
+Rick Antle: Right? Then the price of a dollar today is 10%. I mean, yeah, it's basically a price. I'd have to… it's a funky one, right? Because it's not just simple price times quantity, but it's still a price. That's why there was something to figure out.
+
+Rick Antle: Right? So he started thinking in economic terms about trading money through time.
+
+Rick Antle: Now, I think, Sabina, it's a much less…
+
+Rick Antle: crazy thing to think that price changes, because all prices change, right? From basically supply and demand.
+
+Rick Antle: Alright? So, people want to consume more now.
+
+Rick Antle: then they're gonna be borrowing. That's gonna drive interest rates up.
+
+Rick Antle: people say, you know, we're getting to be more and more wealthy society, we don't have to consume everything we make, we're not living hand-to-mouth anymore. That's gonna drive interest rates down.
+
+Rick Antle: Right? So… You know, so the interest rates are a price.
+
+Rick Antle: And… and, and prices change.
+
+Rick Antle: Does that help?
+
+Sabina Mahoney (she/her): Yes.
+
+Sabina Mahoney (she/her): Yes.
+
+Rick Antle: Yeah, so, now, now what I want you to look at, and
+
+Rick Antle: Yeah, Sabrina, you might want to go back and watch the film… video of the first day if you didn't, but we saw…
+
+Rick Antle: Remember, there were two characteristics of the value evolution graphs that we were looking at.
+
+Rick Antle: One of them was the effect of compound interest.
+
+Rick Antle: You know, which… which just sort of went up like that.
+
+Rick Antle: Smooth and growing in a nonlinear way.
+
+Rick Antle: But the other feature that we talked about is how wiggly the thing was.
+
+Rick Antle: Right? So when we looked at the return on the market, or the S&P 500, you know, we saw that that had all these jagged jumps in it.
+
+Rick Antle: Well, look, There's your jagged jump.
+
+Rick Antle: Okay.
+
+Rick Antle: It's caused by… You know, what?
+
+Rick Antle: Well, what I'd really like to get you to think of it is, is that that interest rate embodies a whole lot of information about the supply and demand of moving money… for moving money through time.
+
+Rick Antle: So really, why should that change? Well, you know, like myself, okay, or you guys, yeah, you can think that
+
+Rick Antle: we will be more or less patient the older we… as time goes on, the more we… you know… I mean, at 72, I'm getting less patient. I'm not sitting around saying I'm going to wait 20 more years to have all this work out.
+
+Rick Antle: But, so you'd think there's a natural change in people's attitudes about borrowing and lending over time.
+
+Rick Antle: Depending on how old they are. But that would happen really slowly, probably, right?
+
+Rick Antle: But this is other things happening, right? Maybe somebody's invented something new, it requires a lot of monetary capital, and so…
+
+Rick Antle: There's a lot of borrowing that takes place to feed that and build that future production.
+
+Rick Antle: That's gonna cause interest rates to go up.
+
+Rick Antle: Yeah, Lachlan.
+
+Lachlan Sutton: Thanks for that explanation, Professor. I had a quick question about just kind of the
+
+Lachlan Sutton: when creating a portfolio for a specific client, how you would change the amount of debt versus equity in a portfolio, because last year, in some of my interviews, I talked a little bit about that, and
+
+Lachlan Sutton: When you get older and have kind of a shorter leash.
+
+Lachlan Sutton: for the interest rate to increase and the value of money to decline, it's recommended that you put more money in bonds. Right. And, like, in debt for older clients, the 100 rule, where you'll subtract the age and do…
+
+Lachlan Sutton: whatever that is, in equity, the rest in debt, and I was wondering if… what your opinions are of that, because from what… from what you're saying, it seems like it's pretty obvious that there's so much
+
+Lachlan Sutton: the value of money, specifically on perpetuities, decreases so much, especially if you have, like, 50, 60 years, to continue living. So, I was wondering what you thought on that, and the allocation of money.
+
+Lachlan Sutton: Generally.
+
+Rick Antle: So the main… the main thing… did everybody understand, Lachlan, I like it, that you're thinking about how does this…
+
+Rick Antle: So one way you can think about why it's important for… think about revolving over time is to think about yourself getting older, right? And how are you going to change, and what are going to be your outlook? So I'm really facing this big time at 72 and retiring, because
+
+Rick Antle: I, you know, I had invested with equity and debt in a very conservative way, but the equity grew
+
+Rick Antle: more… a lot more than the dead. Just… Lucky, right?
+
+Rick Antle: Now… but now the question is, at 72, do I want to have the same proportion between debt and equity that I did when I was 22?
+
+Rick Antle: You know? Well, you know, if… here's the way… here's… the way you think about it is.
+
+Rick Antle: If you're in equity.
+
+Rick Antle: The equity prices are… you don't know how much cash you're gonna get out of it.
+
+Rick Antle: Right.
+
+Rick Antle: And…
+
+Rick Antle: if something happens to your… well, like, let's just… let's suppose I'm thinking about in my… with equity portfolio, I want to live off the dividends that I get, okay?
+
+Rick Antle: Well, if the market hits bad enough times, firms can just stop paying dividends.
+
+Rick Antle: So your cash flow is much more… is more uncertain with equity than with debt.
+
+Rick Antle: Doesn't mean you're gonna get paid everything was promised.
+
+Rick Antle: But, firms have to pay their debt back before they pay their shareholders.
+
+Rick Antle: Okay? So what that means is that… or what most people would say is, what I need to be concerned about is the market takes a huge drop, you know, another, you know, terrible crash.
+
+Rick Antle: And…
+
+Rick Antle: if you… if I have… if you're young, you want to ride that out. You know, you don't want to sell low. That's the worst mistake people make, right? So you just ride that out. But I don't have much time left to ride things out.
+
+Rick Antle: So…
+
+Rick Antle: I can't look at the wiggles in the graph versus the up… I don't look at that the same way that I did when I was 30.
+
+Rick Antle: You know, when I was 30, I was looking at a broad time period, and now it's getting smaller. So one of the, you know, the blessings we now have is the… how long you can live, but this causes a little issue.
+
+Rick Antle: Because, do you know when they first started Social Security, do you know what life expectancy in the U.S. was?
+
+Lachlan Sutton: About 70-ish?
+
+Rick Antle: let's try 66. Now, that might have included some terrible infant mortality, so it's a kind of… but yeah, not much, right? Not much. And here's the… in the… when I was growing up.
+
+Rick Antle: I could turn on the Today Show, if you did, and the weather person, to get up as a personality thing, listen to this, would read the names
+
+Rick Antle: Of every person that turned 100 in the country that day.
+
+Rick Antle: Every person in the country that turned 100
+
+Rick Antle: If that person knew it, he'll read your name.
+
+Rick Antle: Hey, you can't do that for everybody turning 100 in Connecticut, right? Much less California or whatever.
+
+Rick Antle: So what that means is, you know, when you're in one of these retirement situations, that because the, blessedly, the lifespan, you know, you could… I could live to be 100, right?
+
+Rick Antle: Or, you know, something could happen to me any moment.
+
+Rick Antle: And so that… what should the timeframe be that you're actually looking at writing things out is pretty unclear right now, right? So I think a lot of the advice you're talking about, Lachlan, was from a time where you gotta be concerned at how updated is it.
+
+Rick Antle: And now I think people… I'm more prone to have more inequity than I would have, you know, if I'd say, hey, if you'd say, hey, guy, you know, you're 72, if you make it to 80, you'll be lucky.
+
+Rick Antle: then I don't want the market to crash 40% and have to… and have to try to cash out. I don't have any time left.
+
+Lachlan Sutton: Yeah, that's… that's great. That's a great explanation.
+
+Rick Antle: So, so that rebalancing… is… to me, that's what I look for investment advice to do. Help me rebalance.
+
+Rick Antle: All right, while we're on the subject, I learned something from… I finally agreed to have a TIA guy talk to me, and I actually learned something. I was not expecting to learn anything.
+
+Rick Antle: And some of it, I, you know, because I was in business with wealth, you know, the best private wealth people around, except not so good at taxes, but
+
+Rick Antle: But I learned something, and this is what I learned.
+
+Rick Antle: The S&P 500, which I said is a signal of the economy, and I have a lot invested in that.
+
+Rick Antle: 10 stocks make up a lot of it, and they're all tech stocks now.
+
+Rick Antle: So, Apple, I think Tesla is one, not the highest, but NVIDIA, the people making those, they're all tech stocks.
+
+Rick Antle: Now, what that means is that there's a sense in which the S&P 500 is not as diversified as it used to be. So I'm sort of more… more prone to… if something hits a tech card.
+
+Rick Antle: Well, I know your name, I'll be reading, I'll have my tin cup, like, unfortunately, Irving Fisher did before… before he died. Yale had to bail him out. He lost his own money in the Great Depression.
+
+Rick Antle: But, so I'm… that's what I'm… personally, that's what I'm thinking about now. We'll get to diversification sort of later in the class a little bit. I don't do as much as I used to do on that, because there are econ and finance courses that you have… you have access to that can do it, whereas you're not going to learn accounting anywhere else.
+
+Rick Antle: But anyway, I just thought I'd tell you that that's what's… these are the kind of things right now that I'm trying to figure out for my own personal case. What should my mix be? What time horizon should I be thinking about? And is the fund I used to think that was sort of broad.
+
+Rick Antle: reflecting the U.S. economy. Now, you could also say the U.S. economy's not so diversified either. You know, our automakers aren't like what they were, but anyway.
+
+Rick Antle: Okay.
+
+Rick Antle: So, we could,
+
+Rick Antle: you know, so if we just keep going with this, and I just made this stuff up. This isn't, you know, this isn't any realistic interest rate process that I've seen, but there you go. Because I just wanted to make the point that you get
+
+Rick Antle: By, by basically, by the arrival of this new information.
+
+Rick Antle: Right? Prices change when… basically, when there's new information, more people demand it, more people… and that can be a very jumpy process.
+
+Rick Antle: So, when we looked at the graphs back on the first day, you know, the steadily climbing
+
+Rick Antle: value graph was driven by expected value, people not investing in things that they don't think would… will pay back in the long terms. In the short term, it's, well, sometimes they're lucky, and sometimes they're not.
+
+Rick Antle: And so you can have big changes in the short term.
+
+Rick Antle: Okay, so how about streams with far… so that's… so… so you can see perpetuities are very interesting, or easy vehicles to think about interest rate changes, because the cash flow is just constant over time.
+
+Rick Antle: Right? And the picture of the remaining cash flows is just constant.
+
+Rick Antle: It's not true with a zero coupon bond, so we have to be careful about zero coupon bonds.
+
+Rick Antle: Generally speaking, the direction of the changes is going to be the same.
+
+Rick Antle: But, no, my dog's wanting it.
+
+Rick Antle: I better let… hang on, I'm gonna let him in. I'll show you it.
+
+Rick Antle: Just so you… oop, not PowerPoint. Scooter…
+
+Rick Antle: You're calling the weapons. Come on!
+
+Rick Antle: Nope. Come here, show yourself.
+
+Rick Antle: This is my dog, Scoot.
+
+Rick Antle: when I grow a beard, it's white like this, and I look like my dog. I'm like, okay, okay, okay. All right.
+
+Rick Antle: Okay, so where… we were… oh, okay, we were doing the,
+
+Rick Antle: Right. So, so with finite cash flows, now, we have to be pretty careful about this, right? It's, it's not,
+
+Rick Antle: You know, we have to,
+
+Rick Antle: to calculate… to calculate it out, right? So this is what… this is what we did,
+
+Rick Antle: before. Now, also, usually.
+
+Rick Antle: we want to talk about the interest rate and the coupon rate in the same periods, right? So if I say 4% semi-annual coupon rate, then I'm going to use 4% semi-annual discounting.
+
+Rick Antle: And I'm going to do that just because I want the… I want my economic thinking to line up in time with when I'm getting the cash. Does that make sense?
+
+Rick Antle: So that when I draw the timeline, and I start ticking off how much cash am I going to get with semi-annually, every period is 6 months. So it makes sense to talk about the interest rate the same way.
+
+Rick Antle: Right? So… so… so when I write 4% interest, Implicitly, that's also semi-annual.
+
+Rick Antle: Boop.
+
+Rick Antle: Right.
+
+Rick Antle: Okay?
+
+Rick Antle: And so we know that if the interest rate goes up to 6%,
+
+Rick Antle: Then the value of the bond would go from $1,000, you know, it's $851, 23.
+
+Rick Antle: Interest rate hops up to 8%,
+
+Rick Antle: the interest goes even lower. Interest rate falls to 2%.
+
+Rick Antle: Now the value's 1,180.
+
+Rick Antle: Look, I'm just clicking through here.
+
+Rick Antle: Let me see what I got here.
+
+Rick Antle: Well, you know, this is just… this is just showing you… we could… we could do the effects of compounding period, but no, I don't want to. This is the graph I was looking for the other day.
+
+Rick Antle: So… so here's a table where… that I've made up.
+
+Rick Antle: To kind of, to help us track value through time.
+
+Rick Antle: So, what I'm thinking about is, the first row
+
+Rick Antle: In that row, time zero is now.
+
+Rick Antle: The sec- that row here, what's labeled as time 1, is actually now.
+
+Rick Antle: When I get to time 1, time 1 is now. See what I'm saying?
+
+Rick Antle: No, nope.
+
+Rick Antle: Hang on a sec.
+
+Rick Antle: Okay.
+
+Rick Antle: So the thing is, no matter how you walk through time, if the interest rate doesn't change in a perpetuity.
+
+Rick Antle: Then, the value's just gonna be the same.
+
+Rick Antle: Okay. Through time.
+
+Rick Antle: And I think there's another… See, I don't know which one it is,
+
+Rick Antle: There's some other charts and things, I think this is… maybe this might be Excel 3.
+
+Rick Antle: which tries to, you know, which gets you walking around with interest through time, and so there's a slider under here that can change the interest rate. So right now, this bond
+
+Rick Antle: 20,000 bucks.
+
+Rick Antle: Face value $10,000, life of 20 years, 5… the coupon rate is equal to the interest rate of $5 per period, okay?
+
+Rick Antle: And so… so if… since the coupon rate's equal to the interest rate, then the value of that bond over time wouldn't be unchanged.
+
+Rick Antle: Right? As long as the interest rate is 10%, it's not going to change its value. Or 5%.
+
+Rick Antle: And now, if the market rate is different than the interest rate, we're going to get a different looking curve. Like, let's do a simple case. I like simple cases. What if the interest rate's zero?
+
+Rick Antle: Well, if the interest rate is zero, then this thing just has to sell for the sum of its cash flows.
+
+Rick Antle: Right? There's no difference between a dollar today and a dollar tomorrow, if the interest rate's zero.
+
+Rick Antle: So if the interest rate's zero, you just tally up how much cash is being promised here, and it's $20,000.
+
+Rick Antle: And what would happen is that interest, or the value of that bond would go down by the coupon payment, you know, every period, linearly, until you hit
+
+Rick Antle: The face value of $10,000, and then when you cashed it in, it would drop to zero.
+
+Rick Antle: Right.
+
+Rick Antle: Now, what happens if the interest rate's not zero, but instead it's whoops, whoops, whoops?
+
+Rick Antle: Instead, it's, like, 2%.
+
+Rick Antle: Well, this bond's gonna sell for a premium. It's gonna sell for $14,90443.
+
+Rick Antle: But what I want to draw your attention to is the path of its value from 1490443 down to 10,000.
+
+Rick Antle: Because here's another thing that's true. It's got a face value of $10,000.
+
+Rick Antle: So the instant before, the instant before you get paid that $10,000,
+
+Rick Antle: Then $10,000's gotta be what the bond's worth.
+
+Rick Antle: You agree with that?
+
+Rick Antle: You know, that… that if you just… if there's no time involved, and you just have the right to cash it in at its face value, well, that's what it's got to be worth. It's got to be worth the face.
+
+Rick Antle: So, no matter how we draw the picture over time.
+
+Rick Antle: It's gonna end up at $10,000.
+
+Rick Antle: That is, no matter how the… where the value starts, and what happens to it in between, it's gonna end up at $10,000.
+
+Rick Antle: Okay? Now, let's see, I think I might have one… at 1%.
+
+Rick Antle: You know, and then it's gonna start even higher and go down even faster. So this is a bond selling for a premium.
+
+Rick Antle: Right? It's selling for more than the face value at time zero.
+
+Rick Antle: In fact, it'll sell for a premium all the way down.
+
+Rick Antle: Now let's look at, there's a discount.
+
+Rick Antle: Right? The value of the bond still has to hit $10,000 just before you cash it in.
+
+Rick Antle: But look at the path that it takes.
+
+Rick Antle: It starts low, it starts 5222,
+
+Rick Antle: Less… it starts less than 10,000, that's what we mean by Sells at a discount.
+
+Rick Antle: But then, why is the value creeping up like this?
+
+Rick Antle: Well, you're getting closer and closer to that $10,000 payment on the end.
+
+Rick Antle: Right? So as we walk through time, from time 0 to time 19,
+
+Rick Antle: and I'm discounting that 10,000, I'm discounting it by less and less years.
+
+Rick Antle: Right? So, like, in this calculation, the $52.22, $10,000 is there…
+
+Rick Antle: 10,000 divided by 1 plus 11% raised to the 20th power.
+
+Rick Antle: And by the time I'm in the middle, it's raised only to the 10th power.
+
+Rick Antle: And by the time I'm right at the end, it's the 0th power.
+
+Rick Antle: So, you see what I mean? Like, talking…
+
+Rick Antle: wait a minute. Oh, you didn't… I'm not… am I showing you the right thing? Yeah, you're seeing a graph, okay. I got… I have so many screens open, I don't even know what… okay? Does that make sense?
+
+Rick Antle: And now the next tab gets you to think about a change in interest rate.
+
+Rick Antle: Okay? So, here, obviously, the bond starts off selling for par, and there's only going to be one change in interest rate. I can't remember what it is.
+
+Rick Antle: But, like, let's suppose that the,
+
+Rick Antle: the interest rate jumps up in the middle of this time period. It jumps up to, like, 10%.
+
+Rick Antle: Look at what happens in the path of value.
+
+Rick Antle: Well, the thing's selling at par, selling at par, selling at par, selling at par. Oh, oh, interest rate jumped above the coupon rate. Bang! Now it's gonna sell on the market for a discount.
+
+Rick Antle: Okay? But what happens over time is that's got to climb back up to the face value.
+
+Rick Antle: Okay.
+
+Rick Antle: So when we account for this type of a… like,
+
+Rick Antle: Well, if you own this as an asset, Right.
+
+Rick Antle: How do we want to do the accounting for this?
+
+Rick Antle: You know, it, it, it, either way.
+
+Rick Antle: As long as the holder holds onto it forever, they're gonna end up at 10%.
+
+Rick Antle: But what we're interested in accounting doing is tracking maybe the income per period. And how do we want to show that?
+
+Rick Antle: Okay, let's look at, what would happen. The income… the interest rate could have also gone down, could have gone down to 2%.
+
+Rick Antle: What happens? Well, our bond selling at face value, interest rate drops below the coupon rate. Now, boom, we look out, hey, that thing's trading for $13,404.51.
+
+Rick Antle: Alright? But the path between $13,40451 down to 10,000 represents earning 1% on your money, not 10%.
+
+Rick Antle: That makes sense?
+
+Rick Antle: Okay, so it's worth kind of flipping around and changing over time, like, what happens if this is…
+
+Rick Antle: So that's what… it starts at zero, and now that's a rate decrease, and… Yeah, you're here.
+
+Rick Antle: Okay, so in particular, there is a fall in value of this thing from $17,000 to $13,40451.
+
+Rick Antle: And how do we really want to count that in the accounting reports?
+
+Rick Antle: We'll talk about it at the end of the class.
+
+Rick Antle: Have any questions? I should've… I always hit the PowerPoint when I should… when I should talk about me.
+
+Rick Antle: Got any questions about that?
+
+Rick Antle: You know, so these sliders and everything, you should be playing around with them.
+
+Rick Antle: and see what's happening. And if your intuition is not working, just stop and do an Excel spreadsheet calculation. You can't do too many discounting calculations, or going forward calculations.
+
+Rick Antle: Right? We can't do too many.
+
+Rick Antle: Because, like I said, it's one idea, but how it actually works out in practice. I mean, well, you could always tell from the conversation that we had earlier all the ways that the parameters really affect things. What's the horizon? What's the rate? Is it promised cash flows or not promised cash flows? That's when we're gonna…
+
+Rick Antle: Be talking about more and more.
+
+Rick Antle: You know, what's the evolution of the rate? What's… yeah.
+
+Rick Antle: what's the value depend on, right? That is, if it… the other thing about the,
+
+Rick Antle: the consoles or the bonds we've been talking about. The value only depends on whether they're gonna… on the interest rate, assuming no default, right?
+
+Rick Antle: So that's why I use… that's why I use this interest rate thing to talk about changes in value, because it's just… there's only one thing.
+
+Rick Antle: In the… in this… what we're thinking about. But…
+
+Rick Antle: In real world, of course, the probability default is also changing.
+
+Rick Antle: Right.
+
+Rick Antle: So, if the probability of default goes up.
+
+Rick Antle: Then you'd think the interest rate's gonna go up.
+
+Rick Antle: What's gonna happen to the value of the… The debt, it goes down.
+
+Rick Antle: Teaser.
+
+Rick Antle: Some corporation has issued bonds.
+
+Rick Antle: And… The interest rate on its bonds has gone up.
+
+Rick Antle: That means the present value of its debt is lower.
+
+Rick Antle: So is that a gain?
+
+Rick Antle: From an accounting point of view.
+
+Rick Antle: I mean, their obligation in the future is worth less than it used to be.
+
+Kyle Romans: So, for our example.
+
+Kyle Romans: When we were looking at the interest rate and the coupon rate, so if the interest rate is higher than the coupon rate, then the bond is gonna sell at a discount, but you make your money back because you're earning more interest.
+
+Kyle Romans: Is that why it returned?
+
+Rick Antle: Yeah, if it's… well, this is the way… the way to think about it is, when it sells at a discount, so let's… let's go back to the…
+
+Rick Antle: I mean, I do really need your questions on this, because I've lived with this stuff for so long that, that,
+
+Rick Antle: It… It… I'm just too familiar with it, okay? So, less… so… so,
+
+Rick Antle: Kyle, tell me again what your… oh, oh, oh, so something sells at a discount, that's what we wanted. So let's just go back here. So here's something that's selling at a discount, right?
+
+Rick Antle: So let's think about this transaction.
+
+Rick Antle: Let's think about it as… We're buying this thing, okay?
+
+Rick Antle: Well, basically what happened is… you know, the issuer… issuer is Netflix.
+
+Rick Antle: Okay? So Netflix has issued this promise.
+
+Rick Antle: $10,000, 5% per period, da-da-da, and the market has priced it at $5,222.
+
+Rick Antle: Then we go back and figure out it's 11% interest and all this stuff, but let's… let's stop and think about this a second.
+
+Rick Antle: So, if we bought one of these things, we would be loaning Netflix $5,222. That's what we would feel. That's the check we would write, $5,222, or the Venmo we would give, or whatever, however we do it now, right? $5,222.
+
+Rick Antle: And…
+
+Rick Antle: Yeah, and what are we getting in exchange for that? We're getting a bunch of coupon payments as time goes on, and a $10,000 payment on the end.
+
+Rick Antle: Well… Is it, that $10,000 payment…
+
+Rick Antle: By the time it's finally made.
+
+Rick Antle: $5,222 of that $10,000 is paying back our loan of original loan.
+
+Rick Antle: Hear that? And the rest, E, 4007… 78? Is that it?
+
+Rick Antle: That's interest.
+
+Rick Antle: Right?
+
+Rick Antle: That's interest. Lachlan?
+
+Lachlan Sutton: Yeah, building on what you and Kyle were just saying, I was wondering if when the interest rate drops, that's when people would refinance loans, right?
+
+Lachlan Sutton: Or would they get a new loan? Because there's… because if we're looking at the chart, we can see that…
+
+Lachlan Sutton: If the interest rate, dips heavily, it would decrease the value of the bond, making bonds at that point in time cheaper.
+
+Lachlan Sutton: So, someone would… maybe would want to buy a debt obligation at a lower rate, so they'd need to pay less back to the issuer, is that right?
+
+Rick Antle: That's correct. But, so let's… so you can do this with that change graph.
+
+Rick Antle: Now, I really want to point out that this is a fixed set of cash flows.
+
+Rick Antle: This is not what happens when you refinance your house.
+
+Rick Antle: Because you change the cash flows.
+
+Rick Antle: That it, right, like, when you refin… like, rates go down.
+
+Rick Antle: And I refinanced my… I had a 10% mortgage, and now I've got a 5%.
+
+Rick Antle: Well, my prop… my cash payments go down.
+
+Rick Antle: Right? So you gotta be careful with that, right? But here is a fixed promise cash flow stream, and we're trading that through time. We're not changing the…
+
+Rick Antle: You know, the payments.
+
+Rick Antle: Okay?
+
+Rick Antle: But, Okay, so tell me again what your question was.
+
+Lachlan Sutton: Oh, sorry, it was a little long-winded, but it was.
+
+Rick Antle: I don't know.
+
+Lachlan Sutton: You would, refinance a debt obligation when the, interest rate decreased. Okay. Or is that, is that just a… I'm not.
+
+Rick Antle: Oh, your house.
+
+Lachlan Sutton: how it works.
+
+Rick Antle: So I had a big argument with Claude about this, one of his rabbit holes, alright? Not a very big argument, it took me a couple times to convince him it was right.
+
+Rick Antle: So this is… this is a… this is the example in the rabbit hole.
+
+Rick Antle: British consuls, they issued these perpetuities.
+
+Rick Antle: Okay? And some of them paid out for 260 years. I didn't know that, right?
+
+Rick Antle: And then it… but then interest rates are very low.
+
+Rick Antle: back, you know, when the British government did. So interest rates got to be very low, and they stayed low.
+
+Rick Antle: And then the British government decided to go buy back the consuls.
+
+Rick Antle: When interest rates were low.
+
+Rick Antle: And Claude said something, like, Well, the payments were low or something. Claude was totally confused.
+
+Rick Antle: Because when the interest rates were lower, the government had to buy… they had to pay more to buy back the box.
+
+Rick Antle: Buy back the consoles, that's true.
+
+Rick Antle: Right.
+
+Rick Antle: If interest rates would have gone up.
+
+Rick Antle: Then the price of those obligations would fill, and then you would think they should buy it back, because the price is lower.
+
+Rick Antle: On the other hand, you know, it… now…
+
+Rick Antle: Claude and I figured out that what was really happening is that
+
+Rick Antle: That some of these obligations were very, very old, and for very small amounts of money.
+
+Rick Antle: And over time, the ownership had drifted out. A huge pool of people owned these things, and it was just administratively very costly to keep paying forever, you know, these small amounts to all these different folks.
+
+Rick Antle: So that the reason they retired the consoles was that the administrative cost was just not… it was just not worth it anymore.
+
+Lachlan Sutton: That's a great example. Yeah, that makes… that makes much more sense.
+
+Rick Antle: I really had to think about that, and Claude got it wrong twice. You know, he wrote an explanation, got it wrong twice. And then I said, no, and I had a reason to go, you're right.
+
+Rick Antle: And,
+
+Rick Antle: This is the scary thing about Claude. He appears to… he, she, whatever, it appears to learn. But anyway,
+
+Rick Antle: But… but I found that also very instructive, because… because when you start being too fast and loose with the reasoning, it's so easy to make a mistake.
+
+Rick Antle: So easy to make a mistake. You know, if anything like this, like I said, that's costing me any actual money, out comes the spreadsheet.
+
+Rick Antle: I'm not listening to you. So my favorite example of that one is, actually, I was sitting in my old Yale office a long, long time ago, and a colleague comes to…
+
+Rick Antle: Asked me some question about…
+
+Rick Antle: you know, the rule of 72, and blah blah blah blah blah. I said, John. Now, this guy happened to be, you know, world-famous finance person, and blah blah blah, and this is what had happened, but he's also a very good… he's retiring now, he's a very good guy. So, what had happened was that two guys in Shelton
+
+Rick Antle: We're arguing… we're having a discussion about new… cars they bought.
+
+Rick Antle: And one of the guys said, I, you know, traded in this car, and I… and my payments are whatever. The other guy said, well, I did something really similar, but my payments aren't nearly that high. Like, what, you know…
+
+Rick Antle: Who knows about this? Now, these were students in the business school at the University of Miami, the two guys from Shelton. And they said, well, somebody around here must know what's going on. How about Yale? They got a management school. So they called the dean.
+
+Rick Antle: the dean's office. The dean's office said, yeah, we have somebody who knows about interest rates, and called this guy, and rang up this guy in his office. This would happen back in those days. I love that about the place then. I don't know what would happen to you now. You'd probably be off in the… you can't even walk in a building now without it.
+
+Rick Antle: Okay, but they… but they say, yeah, we got a guy who knows about that, and they called his guy, and so this guy laid out this problem to my friend John Ingersoll, and… and we had… we had, early IBM PCs, and we were trying to present value. Well, John goes back to his office, and this is what he figured out.
+
+Rick Antle: The car dealer, in making… calculating the guy's payments, didn't give him credit for his trade-in.
+
+Rick Antle: Okay? Didn't give him credit for his trade-in, calculated the monthly price, and so his buddy saved him a lot of money. But I say that to you just so that…
+
+Rick Antle: any present value calculation. Now, stuff like that should be less and less likely to happen now, but you can imagine what happened in the early days of banking. People were just miscalculating things all over the place.
+
+Rick Antle: And sometimes not randomly miscalculating them, right?
+
+Rick Antle: But…
+
+Lachlan Sutton: So he…
+
+Lachlan Sutton: What… how did he… he didn't… he gave a car back to the dealer, and just didn't get a discount on the new car?
+
+Rick Antle: Yeah, yeah.
+
+Lachlan Sutton: What?
+
+Rick Antle: you know, like, if I… if I go… suppose I wanted to buy a new car, and I have an existing
+
+Rick Antle: car. It's only a year old.
+
+Rick Antle: And I would go back, and I'd do a trade-in deal, where I got the new car, but the dealer got my old car, because I don't want to go through the hassle of selling it myself. So you trade it into the dealer.
+
+Rick Antle: Okay?
+
+Rick Antle: So, for people that aren't cash rich, they do this all the time.
+
+Rick Antle: Right, okay. And then… so then you go back into the… into the finance manager's office, and the finance manager calculates it, and so there's… I'm sure there was a form that just said, what was the price of the car you bought.
+
+Rick Antle: what was the value of the trade-in that we're giving you? Okay, so if the value of the car you bought was $50,000, the value of your trade-in was $20,000, then they'd say, alright, you need to re… you need to finance $30,000 and figure out the payments for that.
+
+Rick Antle: But what they didn't do was subtract the 20. They just had him financing the whole…
+
+Rick Antle: The list price of the car.
+
+Rick Antle: Okay?
+
+Lachlan Sutton: And you said they used the rule of 72 for that, so they divided the 50 by…
+
+Rick Antle: Oh, jeez, I don't even know what that is. Claude, tell me about… talk me about it.
+
+Rick Antle: I don't even know about this. But what had happened was, in business school at the University of Miami at the time, they weren't really teaching them how to do present values. They were teaching, kind of, rules of thumb. Oh, this is too hard, blah blah blah blah blah. So they'd teach some sort of intuitive rule or whatever.
+
+Rick Antle: And, you know.
+
+Rick Antle: were being recorded, so I can't really say bullshit, but bullshit's what they got out. You know, they were just…
+
+Rick Antle: screwed up.
+
+Rick Antle: you know, what can I tell you?
+
+Rick Antle: And, well, whatever.
+
+Rick Antle: It's like I said to you the other day, anytime in class, anytime somebody says, oh, you can just think of it this way, or… well, it's sort of like…
+
+Rick Antle: - not for this stuff, right?
+
+Rick Antle: Okay.
+
+Rick Antle: Now, okay, so you can, you can go through all these, you know, examples,
+
+Rick Antle: Some of my favorites… two of my favorite things to think about, because they're in cases, are…
+
+Rick Antle: Perpetuities on one side, because they don't have any of them, and a zero coupon bond on the other.
+
+Rick Antle: Okay? These are cases, when I start thinking about how's this gonna work, I'll test it out on perpetuities, zero coupon bonds, and also, I might start with a case where the interest rate's zero.
+
+Rick Antle: And then start thinking about what happens when the interest rate goes up.
+
+Rick Antle: Okay?
+
+Rick Antle: So…
+
+Rick Antle: Changing interest rates is just one example of getting hit with some unexpected event, gains and losses that cause… that we're gonna call gains and losses, right?
+
+Rick Antle: And it's information flowing in, and because markets try to anticipate, you know, what's gonna happen, everybody… the market price of something is the future cash flows that one thinks you're gonna get out of it.
+
+Rick Antle: And so those expectations can change instantly, even if the real underlying Forces don't.
+
+Rick Antle: Okay, this is a huge thing. Information can flow much faster
+
+Rick Antle: Then the changes in actual physical capital from one place to another, or my consumption, even.
+
+Rick Antle: You know, I'm not gonna eat tomorrow that much differently than today.
+
+Rick Antle: But boy, The price of my steak could change a lot.
+
+Rick Antle: Because information can come in.
+
+Rick Antle: Right? And so, the other thing that we're trying to get across is, you know, information, information, information, all the way down.
+
+Rick Antle: You know, it's what you want to be thinking about.
+
+Rick Antle: Now, generally, cash flows are uncertain. We've been talking about… so to build this all up, the first thing I did was get rid of the… get rid of the uncertainty and just talk about how… how value
+
+Rick Antle: Unfolds over time, just with time and amounts being different.
+
+Rick Antle: Okay, generally cash flows are also uncertain. The individual debtor might… something might happen to.
+
+Rick Antle: with common stock, I mean, uncertainty is sort of all there is. There are no promised cash payments from owning a share of common stock.
+
+Rick Antle: You know, companies never have to pay dividends. In fact, Apple and Microsoft, when they first started for years, paid no dividends.
+
+Rick Antle: So, if you think about what was happening to them as companies, like Apple's sitting there, it's a tech company, and it keeps… cash just keeps coming in the door, and they weren't paying anything out to their shareholders.
+
+Rick Antle: Well, if they kept that practice up, they wouldn't be a computer company anymore, they'd be a financial company, right? Because their biggest problem would just be, how do we… how do we deal with all this cash that's built up? Does that make sense?
+
+Rick Antle: So that's why they started paying dividends. Okay.
+
+Rick Antle: So, that raises the question of how we're going to deal with risks. Now, we're going to do this in a finance way. Well, let's just talk about this. Let's suppose… we've got 2 minutes.
+
+Rick Antle: Suppose that that word came from, you know, the Oracle.
+
+Rick Antle: That, right after this call, one of us is gonna…
+
+Rick Antle: Fall down or break your leg.
+
+Rick Antle: His or her life.
+
+Rick Antle: And that none of us are actually insured, so it's gonna cost you 10,000 bucks.
+
+Rick Antle: Okay? So, somebody is gonna get hit
+
+Rick Antle: with a $10,000 bill within a minute after this… after this call is over. Suppose we have that information.
+
+Rick Antle: What might we do?
+
+Rick Antle: Well… what I would do.
+
+Rick Antle: what I would think about at this point is saying, hey guys, let's share this risk.
+
+Rick Antle: We know that one of us, one of the six, eight of us, is gonna get hit with $10,000. So why don't we all…
+
+Rick Antle: take 10,000 divided by 8, you know, divvy it up, I'm older, I'll put in a couple more, whatever. You got… but we'll put it… we'll each… we'll each get hit with, you know, a little more than a thousand.
+
+Rick Antle: But then, the person who actually gets the broken leg, you know, they're just out the premium they paid.
+
+Rick Antle: What are… what is the per… what are the people that don't?
+
+Rick Antle: get the broken leg. What do they get? Well, they didn't… they got removed, a risk got spread.
+
+Rick Antle: That's what insurance is.
+
+Rick Antle: Okay? Insurance is… The pooling of risk in this way.
+
+Rick Antle: Now, what if I said to the rest of you.
+
+Rick Antle: oh, it's not just anybody that's gonna break their leg, it's Rick.
+
+Rick Antle: Rick's gonna break his leg.
+
+Rick Antle: So would you… would you be interested in such a deal? Okay, you, Lachlan, you put in.
+
+Rick Antle: I mean, no.
+
+Rick Antle: Right?
+
+Rick Antle: That the information destroyed the market.
+
+Rick Antle: It didn't help the market, it destroyed the market.
+
+Rick Antle: Okay? So information and markets is a delicate thing.
+
+Rick Antle: Right? We have to be… really careful with.
+
+Rick Antle: Alright?
+
+Rick Antle: So that's… so that's, okay, so now what am I gonna do?
+
+Rick Antle: Well, with the broken leg scenario, probably nothing, right? But with other types of risk, like, let's suppose I'm a wheat farmer.
+
+Rick Antle: And… and… and Danny's, like, a baker, so you're gonna buy wheat, right?
+
+Rick Antle: But the price of wheat is variable over time. Well, I'm worried about the price of wheat going down.
+
+Rick Antle: And…
+
+Rick Antle: earning a profit on my farm. Danny's worried about the price of wheat going up. If it goes down, she's better off, because bread's cheaper to make.
+
+Rick Antle: Right? So our… because we're on the other side of the transaction.
+
+Rick Antle: We might want to make a deal
+
+Rick Antle: That sets the price of bread ahead of time.
+
+Rick Antle: Between us.
+
+Rick Antle: That's called a hedge.
+
+Rick Antle: So, a hedge is finding somebody that's on the other side of what you're getting. When you gain, they lose. When they lose, you gain. Or, no, whatever. Whatever. When you gain, they lose. When you lose, they gain.
+
+Rick Antle: And then between the two of us, we could work a deal to iron that out. That's what hedging is.
+
+Rick Antle: Okay, and then, so, you know, most finance courses would stop with that, but because of
+
+Rick Antle: you guys in a special audience, I realized
+
+Rick Antle: The biggest way we deal with risk in our society is we allow business to be conducted in limited liability entities.
+
+Rick Antle: Okay? That is, we let people form companies.
+
+Rick Antle: and… and various types of organizations. And the business is the thing that's on the hook. So my business could go broke, but personally, I don't.
+
+Rick Antle: I have limited liability.
+
+Rick Antle: Okay? So, we need to take a day and talk about this, about what kinds of different entities are allowed, and how this whole process works, and what's going on here. Because, literally, it is the most important risk control
+
+Rick Antle: Risk control device, by far.
+
+Rick Antle: than anything else that is ever done. And that's what we'll take up next time.
+
+Rick Antle: Thanks for coming to class.
+
+Rick Antle: on a cold and snowy day, I find this…
+
+Rick Antle: a very easy way to deal with class. I just have my coffee, Gonna have some more. Alright.
+
+Rick Antle: Thanks, guys.
+
+Jordan Messina: Thank you.
+
+Rick Antle: Sure.
+
+Dani Wasserman: Thank you.
+
+Ruben Berreby: You.
+
+Chang, Maggie: Can we post the class slides, like, later after the meeting, because I don't find it on campus.
+
+Rick Antle: What's that?
+
+Chang, Maggie: Have you posted the class slides for today yet?
+
+Rick Antle: I'm not… I'm not sure. I think I should have. I will… I will go look.
+
+Rick Antle: Okay, thank you so much. Yeah, I'll look right now. Thanks, bye.
+
