@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<style>
+  :root {
+    /* ============================================
+       INSTITUTION CONFIGURATION
+       Change these variables to rebrand the entire site.
+       Everything below adapts automatically.
+       ============================================ */
+    --primary: #00356b;          /* Yale blue */
+    --primary-light: #286dc0;
+    --primary-faint: #f0f4f8;
+    --accent: #bd5319;           /* Yale accent */
+    --institution: "Yale School of Management";
+    --course-title: "Accounting Pre-Work";   /* e.g. "Accounting Pre-Work for LAW21474" */
+    --logo-url: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><text x="50%25" y="50%25" dominant-baseline="central" text-anchor="middle" font-size="26" fill="white" font-family="serif" font-weight="bold">Y</text></svg>');
+  }
+
+  /*
+   OTHER INSTITUTION EXAMPLES:
+
+   CMU:
+   --primary: #c41230;
+   --primary-light: #e04040;
+   --primary-faint: #fdf0f0;
+   --accent: #6d6e71;
+   --institution: "Carnegie Mellon University";
+
+   Generic / No institution:
+   --primary: #2c3e50;
+   --primary-light: #4a6a8a;
+   --primary-faint: #f4f6f8;
+   --accent: #e67e22;
+   --institution: "";
+  */
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #2a2a2a;
+    background: #fafafa;
+    line-height: 1.7;
+  }
+
+  /* Banner */
+  .banner {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+    color: white;
+    padding: 40px 40px 36px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .banner-logo {
+    width: 48px; height: 48px;
+    border-radius: 6px;
+    background: rgba(255,255,255,0.15);
+    background-image: var(--logo-url);
+    background-size: contain;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    font-weight: normal;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    letter-spacing: 0.3px;
+  }
+  .banner-text .author {
+    font-size: 14px;
+    opacity: 0.7;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin-top: 2px;
+  }
+
+  /* Content */
+  .content {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  /* Welcome block — spare, inviting */
+  .welcome {
+    text-align: center;
+    padding: 24px 0 40px;
+  }
+  .welcome-subtitle {
+    font-size: 20px;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 32px;
+  }
+
+  /* Video */
+  .video-placeholder {
+    background: #111;
+    border-radius: 8px;
+    padding: 72px 40px;
+    text-align: center;
+    margin: 0 auto 12px;
+    max-width: 600px;
+  }
+  .play-btn {
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    border: 2px solid rgba(255,255,255,0.4);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .play-btn:hover { background: rgba(255,255,255,0.2); }
+  .play-btn::after {
+    content: '';
+    display: block;
+    width: 0; height: 0;
+    border-top: 11px solid transparent;
+    border-bottom: 11px solid transparent;
+    border-left: 18px solid rgba(255,255,255,0.7);
+    margin-left: 3px;
+  }
+  .video-label {
+    color: rgba(255,255,255,0.6);
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+  }
+
+  /* Divider */
+  .divider {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 40px 0;
+  }
+
+  /* Section headers */
+  h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 20px;
+    color: var(--primary);
+    margin: 0 0 20px;
+    font-weight: 600;
+  }
+
+  /* Prose */
+  .prose {
+    margin-bottom: 18px;
+    font-size: 16px;
+  }
+
+  /* Roadmap */
+  .roadmap { margin: 20px 0 0; }
+  .roadmap-item {
+    display: flex;
+    align-items: flex-start;
+  }
+  .roadmap-marker {
+    flex-shrink: 0;
+    width: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .roadmap-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--primary-light);
+    margin-top: 7px;
+    z-index: 2;
+  }
+  .roadmap-item.active .roadmap-dot {
+    width: 14px; height: 14px;
+    background: var(--accent);
+    margin-top: 5px;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.06);
+  }
+  .roadmap-line {
+    width: 2px;
+    flex-grow: 1;
+    background: #ddd;
+    min-height: 20px;
+  }
+  .roadmap-item:last-child .roadmap-line { display: none; }
+  .roadmap-text { padding: 0 0 18px 14px; }
+  .roadmap-module {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--primary-light);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+  .roadmap-item.active .roadmap-module { color: var(--accent); }
+  .roadmap-title {
+    font-size: 15.5px;
+    color: #2a2a2a;
+    margin-top: 1px;
+  }
+  .roadmap-desc {
+    font-size: 13.5px;
+    color: #888;
+    margin-top: 1px;
+    font-style: italic;
+  }
+
+  /* Info boxes */
+  .info-box {
+    background: var(--primary-faint);
+    border-radius: 5px;
+    padding: 20px 24px;
+    margin: 14px 0;
+    border: 1px solid #dce4ee;
+  }
+  .info-box h3 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px;
+    color: var(--primary);
+    margin-bottom: 8px;
+  }
+  .info-box p {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+
+  /* Quiz links */
+  .quiz-link {
+    display: flex;
+    align-items: center;
+    background: white;
+    border: 1px solid #dce4ee;
+    border-radius: 5px;
+    padding: 14px 18px;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #2a2a2a;
+    transition: border-color 0.2s;
+  }
+  .quiz-link:hover { border-color: var(--primary-light); }
+  .quiz-icon {
+    width: 32px; height: 32px;
+    background: var(--primary);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    flex-shrink: 0;
+    margin-right: 14px;
+  }
+  .quiz-title {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .quiz-desc {
+    font-size: 12.5px;
+    color: #999;
+    margin-top: 1px;
+  }
+
+  /* Transition */
+  .transition {
+    font-style: italic;
+    color: #666;
+    margin: 36px 0 0;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+    font-size: 15px;
+  }
+
+  /* Theme switcher (demo only) */
+  .theme-switcher {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    z-index: 100;
+  }
+  .theme-switcher label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #555;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .theme-btn {
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    margin: 4px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: left;
+    transition: background 0.15s;
+  }
+  .theme-btn:hover { background: #f5f5f5; }
+  .theme-btn .swatch {
+    display: inline-block;
+    width: 12px; height: 12px;
+    border-radius: 2px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo"></div>
+  <div class="banner-text">
+    <h1 id="course-title">Accounting Pre-Work</h1>
+    <div class="author">Rick Antle &middot; William S. Beinecke Professor of Accounting</div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Welcome — spare -->
+  <div class="welcome">
+    <div class="welcome-subtitle">Accounting as an Information System</div>
+    <div class="video-placeholder">
+      <div class="play-btn"></div>
+      <div class="video-label">Welcome and Orientation &middot; 3&ndash;5 min</div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Roadmap -->
+  <h2>Your Roadmap</h2>
+
+  <p class="prose">
+    This prework walks you through an information system from the outside in.
+  </p>
+
+  <div class="roadmap">
+    <div class="roadmap-item active">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 1</div>
+        <div class="roadmap-title">Welcome and Orientation</div>
+        <div class="roadmap-desc">You are here</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 2</div>
+        <div class="roadmap-title">Why Accounting Systems Exist</div>
+        <div class="roadmap-desc">The users and purposes the system serves</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 3</div>
+        <div class="roadmap-title">Worth, Quantification, and Limits</div>
+        <div class="roadmap-desc">Conventions, tradeoffs, and what the system can and cannot see</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 4</div>
+        <div class="roadmap-title">The Architecture Itself</div>
+        <div class="roadmap-desc">The accounting identity and the four output channels</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Modules 5&ndash;7</div>
+        <div class="roadmap-title">One Instance in Action &mdash; CVS Health</div>
+        <div class="roadmap-desc">Balance sheets, income statement, cash flows under US&nbsp;GAAP</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 8</div>
+        <div class="roadmap-title">The Analyst's Toolkit</div>
+        <div class="roadmap-desc">Debits, credits, journal entries &mdash; how inputs enter the system</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- How to use -->
+  <h2>How to Use This Prework</h2>
+
+  <div class="info-box">
+    <h3>New to accounting?</h3>
+    <p>Start at the beginning and take your time. Each module builds on the last, but you control the pace.</p>
+  </div>
+
+  <div class="info-box">
+    <h3>Some accounting background?</h3>
+    <p>Take the diagnostic below to see where you can move quickly. But don't skip the framing &mdash; the information system perspective will be new, even if the mechanics are familiar.</p>
+  </div>
+
+  <div class="info-box">
+    <h3>For everyone</h3>
+    <p>The quizzes are diagnostics, not tests. They don't count toward any grade. They exist to help you figure out where to spend your time.</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Background quizzes -->
+  <h2>Background Assessment</h2>
+
+  <p class="prose" style="margin-bottom: 16px; font-size: 15px;">
+    If you have some accounting background, these short diagnostics will help you decide which sections to focus on:
+  </p>
+
+  <a href="#" class="quiz-link">
+    <div class="quiz-icon">?</div>
+    <div>
+      <div class="quiz-title">The Accounting Identity</div>
+      <div class="quiz-desc">Diagnostic &middot; Not graded &middot; ~10 min</div>
+    </div>
+  </a>
+
+  <a href="#" class="quiz-link">
+    <div class="quiz-icon">?</div>
+    <div>
+      <div class="quiz-title">Debits and Credits</div>
+      <div class="quiz-desc">Diagnostic &middot; Not graded &middot; ~10 min</div>
+    </div>
+  </a>
+
+  <p class="prose" style="margin-top: 16px; font-size: 14px; color: #888;">
+    Score 85% or higher? You can skim the mechanics in Modules 4&ndash;7 and move quickly through Module&nbsp;8. Stay with Modules 1&ndash;3 &mdash; the framing is new for everyone.
+  </p>
+
+  <!-- Transition -->
+  <p class="transition">
+    When you're ready, Module 2 begins with the question every information system must answer first: who uses it, and why? &rarr;
+  </p>
+
+</div>
+
+<!-- Theme switcher (demo only — shows configurability) -->
+<div class="theme-switcher">
+  <label>Institution Theme</label>
+  <button class="theme-btn" onclick="setTheme('#00356b','#286dc0','#f0f4f8','#bd5319','Y','Accounting Pre-Work')">
+    <span class="swatch" style="background:#00356b"></span>Yale SOM
+  </button>
+  <button class="theme-btn" onclick="setTheme('#00356b','#286dc0','#f0f4f8','#bd5319','Y','Accounting Pre-Work for LAW21474')">
+    <span class="swatch" style="background:#00356b"></span>Yale Law
+  </button>
+  <button class="theme-btn" onclick="setTheme('#c41230','#e04040','#fdf0f2','#6d6e71','C','Accounting Pre-Work for Tepper MBA')">
+    <span class="swatch" style="background:#c41230"></span>Carnegie Mellon
+  </button>
+  <button class="theme-btn" onclick="setTheme('#2c3e50','#4a6a8a','#f4f6f8','#e67e22','A','Accounting Pre-Work')">
+    <span class="swatch" style="background:#2c3e50"></span>Generic
+  </button>
+</div>
+
+<script>
+function setTheme(primary, light, faint, accent, letter, courseTitle) {
+  const r = document.documentElement.style;
+  r.setProperty('--primary', primary);
+  r.setProperty('--primary-light', light);
+  r.setProperty('--primary-faint', faint);
+  r.setProperty('--accent', accent);
+  // Update logo letter
+  const logo = document.querySelector('.banner-logo');
+  logo.style.backgroundImage = `url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><text x="50%25" y="50%25" dominant-baseline="central" text-anchor="middle" font-size="26" fill="white" font-family="serif" font-weight="bold">${letter}</text></svg>')`;
+  // Update course title
+  document.getElementById('course-title').textContent = courseTitle;
+}
+</script>
+
+</body>
+</html>

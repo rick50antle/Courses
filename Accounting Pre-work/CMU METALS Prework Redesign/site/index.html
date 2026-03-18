@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<style>
+  :root {
+    --primary: #00356b;
+    --primary-light: #286dc0;
+    --primary-faint: #f0f4f8;
+    --accent: #bd5319;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #2a2a2a;
+    background: #fafafa;
+    line-height: 1.7;
+  }
+
+  /* Banner */
+  .banner {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+    color: white;
+    padding: 40px 40px 36px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .banner-logo {
+    width: 56px; height: 56px;
+    border-radius: 6px;
+    background: rgba(255,255,255,0.15);
+    background-size: contain;
+    background-repeat: no-repeat;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    font-weight: bold;
+    overflow: hidden;
+  }
+  .banner-logo img {
+    width: 100%; height: 100%;
+    object-fit: contain;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    font-weight: normal;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    letter-spacing: 0.3px;
+  }
+  .banner-text .author {
+    font-size: 14px;
+    opacity: 0.7;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin-top: 2px;
+  }
+  .banner-text .institution {
+    font-size: 12px;
+    opacity: 0.55;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin-top: 1px;
+  }
+
+  /* Content */
+  .content {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  /* Welcome block */
+  .welcome {
+    text-align: center;
+    padding: 24px 0 40px;
+  }
+  .welcome-subtitle {
+    font-size: 20px;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 8px;
+  }
+  .welcome-text {
+    font-size: 15px;
+    color: #777;
+    margin-bottom: 32px;
+    padding: 0 20px;
+    display: none;
+  }
+  .welcome-text.visible { display: block; }
+
+  /* Mascot */
+  .mascot {
+    text-align: center;
+    margin-bottom: 28px;
+    display: none;
+  }
+  .mascot.visible { display: block; }
+  .mascot img {
+    max-height: 90px;
+    opacity: 0.65;
+  }
+
+  /* Video */
+  .video-placeholder {
+    background: #111;
+    border-radius: 8px;
+    padding: 72px 40px;
+    text-align: center;
+    margin: 0 auto 12px;
+    max-width: 600px;
+  }
+  .play-btn {
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    border: 2px solid rgba(255,255,255,0.4);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .play-btn:hover { background: rgba(255,255,255,0.2); }
+  .play-btn::after {
+    content: '';
+    display: block;
+    width: 0; height: 0;
+    border-top: 11px solid transparent;
+    border-bottom: 11px solid transparent;
+    border-left: 18px solid rgba(255,255,255,0.7);
+    margin-left: 3px;
+  }
+  .video-label {
+    color: rgba(255,255,255,0.6);
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+  }
+
+  /* Divider */
+  .divider {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 40px 0;
+  }
+
+  /* Section headers */
+  h2 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 20px;
+    color: var(--primary);
+    margin: 0 0 20px;
+    font-weight: 600;
+  }
+
+  /* Prose */
+  .prose {
+    margin-bottom: 18px;
+    font-size: 16px;
+  }
+
+  /* Roadmap */
+  .roadmap { margin: 20px 0 0; }
+  .roadmap-item {
+    display: flex;
+    align-items: flex-start;
+  }
+  .roadmap-marker {
+    flex-shrink: 0;
+    width: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .roadmap-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--primary-light);
+    margin-top: 7px;
+    z-index: 2;
+  }
+  .roadmap-item.active .roadmap-dot {
+    width: 14px; height: 14px;
+    background: var(--accent);
+    margin-top: 5px;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.06);
+  }
+  .roadmap-line {
+    width: 2px;
+    flex-grow: 1;
+    background: #ddd;
+    min-height: 20px;
+  }
+  .roadmap-item:last-child .roadmap-line { display: none; }
+  .roadmap-text { padding: 0 0 18px 14px; }
+  .roadmap-module {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--primary-light);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+  .roadmap-item.active .roadmap-module { color: var(--accent); }
+  .roadmap-title {
+    font-size: 15.5px;
+    color: #2a2a2a;
+    margin-top: 1px;
+  }
+  .roadmap-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .roadmap-title a:hover {
+    color: var(--primary);
+  }
+  .roadmap-desc {
+    font-size: 13.5px;
+    color: #888;
+    margin-top: 1px;
+    font-style: italic;
+  }
+
+  /* Info boxes */
+  .info-box {
+    background: var(--primary-faint);
+    border-radius: 5px;
+    padding: 20px 24px;
+    margin: 14px 0;
+    border: 1px solid #dce4ee;
+  }
+  .info-box h3 {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px;
+    color: var(--primary);
+    margin-bottom: 8px;
+  }
+  .info-box p {
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+
+  /* Quiz links */
+  .quiz-link {
+    display: flex;
+    align-items: center;
+    background: white;
+    border: 1px solid #dce4ee;
+    border-radius: 5px;
+    padding: 14px 18px;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #2a2a2a;
+    transition: border-color 0.2s;
+  }
+  .quiz-link:hover { border-color: var(--primary-light); }
+  .quiz-icon {
+    width: 32px; height: 32px;
+    background: var(--primary);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    flex-shrink: 0;
+    margin-right: 14px;
+  }
+  .quiz-title {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .quiz-desc {
+    font-size: 12.5px;
+    color: #999;
+    margin-top: 1px;
+  }
+
+  /* Transition */
+  .transition {
+    font-style: italic;
+    color: #666;
+    margin: 36px 0 0;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+    font-size: 15px;
+  }
+  .transition a {
+    color: var(--primary);
+    text-decoration: none;
+  }
+  .transition a:hover { text-decoration: underline; }
+
+  /* Transcript toggle */
+  .transcript-toggle {
+    display: block;
+    margin: 12px auto 0;
+    background: none;
+    border: none;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    cursor: pointer;
+    padding: 4px 8px;
+    transition: color 0.2s;
+  }
+  .transcript-toggle:hover { color: #555; }
+  .transcript-toggle::before {
+    content: '\25B6';
+    display: inline-block;
+    font-size: 9px;
+    margin-right: 6px;
+    transition: transform 0.2s;
+    vertical-align: middle;
+  }
+  .transcript-toggle.open::before {
+    transform: rotate(90deg);
+  }
+  .transcript-box {
+    display: none;
+    max-width: 600px;
+    margin: 16px auto 0;
+    padding: 24px 28px;
+    background: #f7f7f7;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: #333;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  .transcript-box.open { display: block; }
+  .transcript-box p {
+    margin-bottom: 14px;
+  }
+  .transcript-box p:last-child { margin-bottom: 0; }
+</style>
+</head>
+<body>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Welcome -->
+  <div class="welcome">
+    <div class="welcome-subtitle">Accounting as an Information System</div>
+    <div class="welcome-text" id="welcomeText"></div>
+    <div class="mascot" id="mascot"><img id="mascotImg" src="" alt=""></div>
+    <div class="video-placeholder">
+      <div class="play-btn"></div>
+      <div class="video-label">Welcome and Orientation &middot; 3&ndash;5 min</div>
+    </div>
+    <button class="transcript-toggle" onclick="toggleTranscript()" id="transcriptToggle">Read transcript</button>
+    <div class="transcript-box" id="transcriptBox">
+      <p>Hi. I&rsquo;m Rick Antle. I teach accounting at Yale, and I designed this prework for students going into their first accounting course. That includes future MBAs, law students, policy students, future accountants and CPAs &mdash; anyone who will work with the information that accounting systems produce and wants to understand what that information is telling you and what it isn&rsquo;t.</p>
+      <p>No prior accounting knowledge required. If you do have some, you&rsquo;ll find we approach familiar territory from a different angle.</p>
+      <p>Here&rsquo;s where we start. Think about a company like CVS Health &mdash; thousands of stores, millions of transactions a day, billions in debt, contracts that trigger legal consequences when certain numbers cross certain thresholds. No one person can hold all of that in their head. But it&rsquo;s not just about any one person. Many different people want access to that same information &mdash; investors, lenders, managers, regulators, judges, tax authorities. They all want to understand what&rsquo;s happening in the same organization, and they want to coordinate their decisions and actions based on a shared picture of it.</p>
+      <p>That&rsquo;s why accounting systems exist. They are shared information systems &mdash; used by corporations, nonprofits, trusts, governments, tax systems &mdash; that help organizations and the people who depend on them cope with the complexity of what those organizations do and what happens to them economically. Accounting systems compress that complexity into something structured enough for human minds to work with, and they make that structured picture available to everyone who relies on it.</p>
+      <p>But compression requires choices. There is far too much data to include it all, so every accounting system defines a boundary &mdash; what gets in and what doesn&rsquo;t. Beyond that boundary, you&rsquo;re choosing how to quantify things whose worth might be contested, when to recognize events, what to disclose. Every one of those choices involves a tradeoff. The output is useful &mdash; indispensable, even &mdash; but it is never the whole picture. It always requires a person who understands what the system did and what it didn&rsquo;t.</p>
+      <p>Now, one idea that will organize everything you&rsquo;re about to learn. Accounting systems around the world share a remarkable amount of deep structure. Most use double-entry bookkeeping &mdash; recording every economic event in two places. Most impose a self-balancing requirement &mdash; an identity &mdash; that keeps everything internally consistent. Most produce financial statements that present different views of the same underlying data. And all of them define that boundary &mdash; which economic events enter the system and which don&rsquo;t.</p>
+      <p>None of this emerged all at once. Double-entry bookkeeping appeared in medieval Italy. The balancing requirement crystallized through centuries of practice. These features survived and spread &mdash; across cultures, across centuries, into corporations and governments and tax systems alike &mdash; because they worked.</p>
+      <p>We call that shared deep structure the architecture. What varies are the specific rules that different bodies write for different kinds of organizations. US GAAP for American corporations. IFRS for most of the rest of the world. Separate rules for governments, for nonprofits, for tax reporting. Each of those is an instance of the architecture &mdash; a specific set of choices about when to recognize a transaction, how to quantify it, what to disclose.</p>
+      <p>In this prework, we take a high-altitude overview of that architecture. But it wouldn&rsquo;t be accounting if we didn&rsquo;t get into some specifics &mdash; so we&rsquo;ll study one instance, US GAAP, applied to a real company, CVS Health. Whenever a GAAP-specific rule appears, we&rsquo;ll flag it: this is an instance choice, and it could have been made differently. The architecture is what stays.</p>
+      <p>We&rsquo;ll work through the system from the outside in. Why it exists &mdash; who uses it and what questions they bring. How it processes what it takes in &mdash; the conventions, the tradeoffs, the limits. The engine at the center &mdash; the self-balancing requirement and the financial statements it generates. Then CVS Health&rsquo;s actual financials, so you can see the architecture and the instance choices working together on real numbers.</p>
+      <p>And no introduction to accounting would be complete without at least mentioning debits and credits. Debits and credits are the components of a notation &mdash; journal entry notation &mdash; that evolved for the purpose of analyzing transactions. The first step in accounting for any transaction is to analyze it: what changed, where do the effects land, does everything still balance? Journal entry notation is the language that developed for exactly that task. If you aspire to be an accountant or a CPA, this is how you craft entries into the system. If your goal is to use financial statements in a sophisticated way &mdash; to dig beneath the surface and understand what happened &mdash; this notation is your friend.</p>
+      <p>One last thing. Keep in mind that this is the prework, not the course. Learning how a system that compresses this much complexity actually works &mdash; that&rsquo;s itself a complex task, one that takes real time and effort. Our goal here is to help you get into the right mindset, so that when the course begins, you&rsquo;re oriented and ready to acquire that understanding more efficiently. Think of this as coaching before the season starts.</p>
+      <p>If you&rsquo;ve had some prior exposure to accounting, there&rsquo;s a diagnostic before Module 4 that will help you figure out where to go deep and where to move quickly. But don&rsquo;t skip Modules 1 through 3 &mdash; the framing will be new even if the mechanics aren&rsquo;t.</p>
+      <p>All right. Let&rsquo;s get started.</p>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Roadmap -->
+  <h2>Your Roadmap</h2>
+
+  <p class="prose">
+    This prework walks you through an information system from the outside in.
+  </p>
+
+  <div class="roadmap">
+    <div class="roadmap-item active">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 1</div>
+        <div class="roadmap-title">Welcome and Orientation</div>
+        <div class="roadmap-desc">You are here</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 2</div>
+        <div class="roadmap-title"><a href="module2.html">Why Accounting Systems Exist</a></div>
+        <div class="roadmap-desc">The users and purposes the system serves</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 3</div>
+        <div class="roadmap-title"><a href="module3.html">Worth, Quantification, and Limits</a></div>
+        <div class="roadmap-desc">Conventions, tradeoffs, and what the system can and cannot see</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 4</div>
+        <div class="roadmap-title"><a href="module4.html">The Architecture Itself</a></div>
+        <div class="roadmap-desc">The accounting identity and the four output channels</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div><div class="roadmap-line"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Modules 5&ndash;7</div>
+        <div class="roadmap-title"><a href="module5.html">One Instance in Action &mdash; CVS Health</a></div>
+        <div class="roadmap-desc">Balance sheets, income statement, cash flows under US&nbsp;GAAP</div>
+      </div>
+    </div>
+    <div class="roadmap-item">
+      <div class="roadmap-marker"><div class="roadmap-dot"></div></div>
+      <div class="roadmap-text">
+        <div class="roadmap-module">Module 8</div>
+        <div class="roadmap-title"><a href="module8.html">The Analyst's Toolkit</a></div>
+        <div class="roadmap-desc">Debits, credits, journal entries &mdash; how inputs enter the system</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- How to use -->
+  <h2>How to Use This Prework</h2>
+
+  <div class="info-box">
+    <h3>New to accounting?</h3>
+    <p>Start at the beginning and take your time. Each module builds on the last, but you control the pace.</p>
+  </div>
+
+  <div class="info-box">
+    <h3>Some accounting background?</h3>
+    <p>Take the diagnostic below to see where you can move quickly. But don't skip the framing &mdash; the information system perspective will be new, even if the mechanics are familiar.</p>
+  </div>
+
+  <div class="info-box">
+    <h3>For everyone</h3>
+    <p>The quizzes are diagnostics, not tests. They don't count toward any grade. They exist to help you figure out where to spend your time.</p>
+  </div>
+
+  <!-- Transition -->
+  <p class="transition">
+    When you're ready, <a href="module2.html">Module 2</a> begins with the question every information system must answer first: who uses it, and why? &rarr;
+  </p>
+
+</div>
+
+<!-- Transcript toggle -->
+<script>
+function toggleTranscript() {
+  var box = document.getElementById('transcriptBox');
+  var btn = document.getElementById('transcriptToggle');
+  var isOpen = box.classList.toggle('open');
+  btn.classList.toggle('open', isOpen);
+  btn.textContent = isOpen ? 'Hide transcript' : 'Read transcript';
+}
+</script>
+
+<!-- Config-driven theming -->
+<script src="config.js"></script>
+<script>
+(function() {
+  // Bail gracefully if config not loaded
+  if (typeof SITE_CONFIG === 'undefined') return;
+  const C = SITE_CONFIG;
+  const r = document.documentElement.style;
+
+  // Colors
+  if (C.colors) {
+    if (C.colors.primary)      r.setProperty('--primary', C.colors.primary);
+    if (C.colors.primaryLight)  r.setProperty('--primary-light', C.colors.primaryLight);
+    if (C.colors.faint)         r.setProperty('--primary-faint', C.colors.faint);
+    if (C.colors.accent)        r.setProperty('--accent', C.colors.accent);
+  }
+
+  // Page title
+  document.title = C.courseTitle || 'Accounting Pre-Work';
+
+  // Course title
+  document.getElementById('courseTitle').textContent = C.courseTitle || 'Accounting Pre-Work';
+
+  // Author line
+  const parts = [];
+  if (C.instructor && C.instructor.name) parts.push(C.instructor.name);
+  if (C.instructor && C.instructor.title) parts.push(C.instructor.title);
+  document.getElementById('authorLine').textContent = parts.join(' \u00B7 ');
+
+  // Institution
+  if (C.institution) {
+    document.getElementById('institutionLine').textContent = C.institution;
+  }
+
+  // Logo
+  const logoEl = document.getElementById('bannerLogo');
+  if (C.logo) {
+    if (C.logo.type === 'letter' && C.logo.value) {
+      logoEl.textContent = C.logo.value;
+    } else if (C.logo.type === 'url' && C.logo.value) {
+      logoEl.innerHTML = '<img src="' + C.logo.value + '" alt="Logo">';
+    }
+  }
+
+  // Welcome text
+  if (C.welcomeText) {
+    const wt = document.getElementById('welcomeText');
+    wt.textContent = C.welcomeText;
+    wt.classList.add('visible');
+  }
+
+  // Mascot
+  if (C.mascot) {
+    const m = document.getElementById('mascot');
+    document.getElementById('mascotImg').src = C.mascot;
+    m.classList.add('visible');
+  }
+})();
+</script>
+
+</body>
+</html>
