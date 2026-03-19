@@ -13,7 +13,7 @@
   <div class="nav-left">
     <a href="index.html" class="nav-home" id="navHome">Prework</a>
     <span class="nav-sep">&#8250;</span>
-    <span class="nav-current" id="navCurrent">Module 4: The Architecture Itself</span>
+    <span class="nav-current" id="navCurrent">Module 4: The Architecture</span>
   </div>
   <div class="nav-right">
     <div class="nav-modules" id="navModules">
@@ -45,15 +45,21 @@
   <!-- Module header -->
   <div class="module-header">
     <div class="module-label">Module 4</div>
-    <h2>The Architecture Itself</h2>
-    <p class="module-subtitle">The accounting identity and the four output channels</p>
+    <h2>The Architecture</h2>
+    <p class="module-subtitle">From a single constraint to a complete picture</p>
   </div>
 
   <hr class="divider">
 
   <!-- Opening prose -->
   <p class="prose">
-    Now we move from why accounting systems exist and what they struggle to measure to how they are built. The architecture of accounting rests on a single, foundational constraint: the accounting identity. From this constraint, everything else flows.
+    You have an entity &mdash; an organization with a boundary, with stuff, rights, and promises crossing that boundary in both directions. You have aspirations for what a financial story about that entity should capture: what resources it holds, what it owes, how those changed, and for whom. And you know that turning those aspirations into practice requires conventions, applied honestly within a context of incentives and oversight.
+  </p>
+  <p class="prose">
+    Now: how do you actually build the system?
+  </p>
+  <p class="prose">
+    The implementation rests on three structural moves. First, impose a constraint &mdash; the accounting identity &mdash; that forces every recording to be internally consistent. Second, apply that constraint at two different dates, creating two snapshots of the entity&rsquo;s financial position. Third, build channels that explain why the two snapshots differ &mdash; what happened between them. Everything else in the system is elaboration on these three moves.
   </p>
 
   <!-- Accordion sections -->
@@ -62,23 +68,59 @@
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">1</span>
-        The Self-Balancing Requirement
+        Imposing the Identity
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>This section introduces the fundamental constraint: Assets = Liabilities + Equities, and explains why double-entry bookkeeping ensures the system always balances.</p>
+        <p>The first move is to impose a structural constraint on the system. Not discover one. Not derive one from economic theory. Impose one &mdash; a deliberate design choice, made because of what it makes possible.</p>
 
-        <!-- Rabbit hole -->
+        <p>The constraint is the <strong>accounting identity</strong>:</p>
+
+        <div class="info-box" style="text-align: center; font-size: 18px; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; color: var(--primary); padding: 20px;">
+          Assets = Liabilities + Equities
+        </div>
+
+        <p>This is the form you will encounter in most textbooks and most practice. It says: at any date, everything the entity has recorded as its resources (assets) equals everything it has recorded as obligations to outside parties (liabilities) plus a third category called equities. Written this way, it looks like three independent quantities that happen to balance &mdash; as though the identity were a surprising empirical fact, something you might test and find to be true.</p>
+
+        <p>But now rearrange it:</p>
+
+        <div class="info-box" style="text-align: center; font-size: 18px; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; color: var(--primary); padding: 20px;">
+          Assets &minus; Liabilities = Equities
+        </div>
+
+        <p>Same algebra. But the rearranged form reveals something the first form hides: equities is not an independent third quantity. It is the difference between assets and liabilities. Once you have recorded assets and liabilities, equities is determined. There is nothing else to decide. The identity is a tautology &mdash; true by definition, not by coincidence. And that is exactly what makes it so powerful as a structural constraint.</p>
+
+        <p>Each element has a specific meaning:</p>
+
+        <p><strong>Assets</strong> are present rights to economic benefits. Not physical things &mdash; rights. A building is an asset not because it is a physical structure but because the entity holds the right to use it, rent it, or sell it. Cash is an asset because it embodies the right to acquire other things. A receivable is an asset because it represents the right to collect cash from someone who owes it. No future benefit, no asset.</p>
+
+        <p><strong>Liabilities</strong> are present obligations to transfer economic benefits. The entity owes something to someone and cannot avoid the transfer. A loan requires repayment. A payable means the entity received goods and has not yet paid. Wages earned by employees but not yet disbursed are a liability. The obligation must be compelling &mdash; not optional, not merely possible, but something the entity is required to fulfill.</p>
+
+        <p><strong>Equities</strong> are the difference: assets minus liabilities. Not an independent concept &mdash; a derived one. In a for-profit company, we call this difference equities and associate it with the owners&rsquo; residual interest. But the number is entirely determined by how assets and liabilities were recorded. Change the conventions for recording assets or liabilities, and equities changes too &mdash; not because anything happened to the owners, but because the inputs to the subtraction changed.</p>
+
+        <p>Now consider what happens when the entity has no owners at all. A university, a hospital, a charitable foundation &mdash; these organizations have assets and liabilities, but no shareholders. Does the identity break? No. Assets minus liabilities is still a difference. You just call it <strong>net assets</strong> instead of equities. The architecture does not change. The double-entry recording does not change. The decomposition into flow statements does not change. Everything transfers without modification &mdash; only the label on the difference is different.</p>
+
+        <p>This is one of the strongest pieces of evidence that the identity is a genuinely powerful design choice. It is not specific to for-profit companies. It is not built around ownership. It is a general-purpose structure for organizing financial information about any entity that has resources and obligations. The fact that you can move from a corporation to a nonprofit to a government agency by relabeling the difference &mdash; without touching anything else in the architecture &mdash; tells you how deep the design goes.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Why impose a constraint?</h3>
+
+        <p>Because it makes the system self-balancing. Every transaction that enters the system must be recorded in a way that keeps the identity in balance. If the entity receives cash (an asset goes up), something else must change: either another asset goes down (spent cash to buy equipment), a liability goes up (borrowed the cash), or equities goes up (an owner contributed the cash, or the entity earned it). There is no transaction that affects only one side of the identity.</p>
+
+        <p>This is what double-entry bookkeeping enforces. Every recording touches at least two accounts, and the two sides must remain equal. The system cannot get out of balance unless someone makes an error &mdash; or deliberately circumvents it. And when an error does occur, the imbalance itself is a signal. It tells you something is wrong before you know what went wrong.</p>
+
+        <p>The identity also creates a reconciliation discipline. At any date, you should be able to add up everything on the left side (assets) and everything on the right side (liabilities plus equities) and get the same number. If they do not match, something was recorded incorrectly. This is not a trivial feature. It is a powerful auditing tool &mdash; not because it catches every error (it does not), but because it catches a wide class of them automatically.</p>
+
+        <!-- Rabbit hole: what the identity makes possible -->
         <div class="rabbit-hole">
           <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
             <span class="rh-icon">&#128007;</span>
-            Why impose a constraint? — what the identity makes possible
+            A remarkably durable design choice
             <span class="rh-chevron">&#9654;</span>
           </button>
           <div class="rabbit-hole-body">
-            <p><em>[Content to be drafted.]</em></p>
-            <p>This exploration discusses how a self-balancing constraint eliminates certain types of errors, creates a forcing function for systematic data entry, and makes it possible to audit the system's integrity.</p>
+            <p>The accounting identity is not a law of economics or a theorem derived from first principles. It is a design choice &mdash; one that could have been made differently. And yet it has survived, essentially unchanged, for over five hundred years.</p>
+            <p>Luca Pacioli described double-entry bookkeeping in 1494, but the practice was already old by then. Venetian merchants had been using it for at least a century. The system they developed imposed a self-balancing constraint on every ledger, and that constraint turned out to be extraordinarily useful: it caught errors, enforced completeness, and created a structure that could be audited by someone who had not been present for the original transactions. These are not minor conveniences. They are the properties that allowed accounting systems to scale from a single merchant&rsquo;s notebook to the global financial reporting infrastructure we have today.</p>
+            <p>The durability of this design choice is worth pausing on. The world of commerce has been transformed many times over since the fifteenth century. The transactions a modern corporation records &mdash; derivatives, lease obligations, stock-based compensation &mdash; would be unrecognizable to a Venetian trader. And yet the structural constraint at the center of the system is the same: assets equal liabilities plus equities, and every entry must preserve that balance. The identity is not fragile. It is one of the most resilient design choices in the history of information systems.</p>
           </div>
         </div>
       </div>
@@ -87,50 +129,166 @@
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">2</span>
-        Assets, Liabilities, Equities
+        Two Snapshots
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>This section defines the three elements of the identity and explores how different transactions distribute themselves across these categories.</p>
+        <p>The identity describes the entity at a date. Assets equal liabilities plus equities on December 31, 2024. The same identity holds on December 31, 2025. Each is a snapshot &mdash; a structured picture of the entity&rsquo;s financial position at that moment.</p>
+
+        <p>These two snapshots are two <strong>balance sheets</strong>. The balance sheet is the first of the system&rsquo;s four output channels, and in a sense it is the most fundamental: it is a direct expression of the identity itself, laid out for someone to read. Here are the entity&rsquo;s assets on this date. Here are its liabilities. Here is the residual. The identity holds.</p>
+
+        <p>Now compare the two snapshots. Assets are different. Liabilities are different. Equities are different. The entity operated for a year &mdash; it sold goods, paid employees, borrowed money, bought equipment, collected receivables, paid suppliers. All of that activity is now embedded in the difference between the two balance sheets.</p>
+
+        <!-- Timeline diagram: balance sheets and flow statements -->
+        <svg viewBox="0 0 560 210" width="100%" style="max-width: 560px; display: block; margin: 28px auto;" role="img" aria-label="Diagram showing two balance sheets at two dates connected by flow statements">
+          <!-- Timeline axis -->
+          <line x1="60" y1="170" x2="500" y2="170" stroke="#ccc" stroke-width="1.5" />
+          <text x="60" y="190" text-anchor="middle" font-size="11" fill="#555" font-family="'Helvetica Neue', Arial, sans-serif">Dec 31, 2024</text>
+          <text x="500" y="190" text-anchor="middle" font-size="11" fill="#555" font-family="'Helvetica Neue', Arial, sans-serif">Dec 31, 2025</text>
+
+          <!-- Left balance sheet bar -->
+          <rect x="40" y="30" width="40" height="140" rx="3" fill="#00356b" opacity="0.9" />
+          <text x="60" y="18" text-anchor="middle" font-size="11" font-weight="600" fill="#00356b" font-family="'Helvetica Neue', Arial, sans-serif">Balance Sheet</text>
+
+          <!-- Right balance sheet bar -->
+          <rect x="480" y="30" width="40" height="140" rx="3" fill="#00356b" opacity="0.9" />
+          <text x="500" y="18" text-anchor="middle" font-size="11" font-weight="600" fill="#00356b" font-family="'Helvetica Neue', Arial, sans-serif">Balance Sheet</text>
+
+          <!-- Flow statements spanning the gap -->
+          <!-- Income Statement -->
+          <rect x="110" y="38" width="340" height="32" rx="4" fill="#f0f4f8" stroke="#286dc0" stroke-width="1" />
+          <text x="280" y="58" text-anchor="middle" font-size="12" fill="#00356b" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="500">Income Statement</text>
+          <!-- Arrows -->
+          <line x1="90" y1="54" x2="110" y2="54" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+          <line x1="450" y1="54" x2="470" y2="54" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+
+          <!-- Cash Flow Statement -->
+          <rect x="110" y="82" width="340" height="32" rx="4" fill="#f0f4f8" stroke="#286dc0" stroke-width="1" />
+          <text x="280" y="102" text-anchor="middle" font-size="12" fill="#00356b" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="500">Cash Flow Statement</text>
+          <line x1="90" y1="98" x2="110" y2="98" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+          <line x1="450" y1="98" x2="470" y2="98" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+
+          <!-- Statement of Changes in Equities -->
+          <rect x="110" y="126" width="340" height="32" rx="4" fill="#f0f4f8" stroke="#286dc0" stroke-width="1" />
+          <text x="280" y="146" text-anchor="middle" font-size="12" fill="#00356b" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="500">Statement of Changes in Equities</text>
+          <line x1="90" y1="142" x2="110" y2="142" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+          <line x1="450" y1="142" x2="470" y2="142" stroke="#286dc0" stroke-width="1.5" marker-end="url(#arrowBlue)" />
+
+          <!-- Arrow marker definition -->
+          <defs>
+            <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#286dc0" />
+            </marker>
+          </defs>
+        </svg>
+
+        <p style="font-size: 12px; color: #888; font-style: italic; text-align: center; margin-top: -16px; margin-bottom: 24px; font-family: 'Helvetica Neue', Arial, sans-serif;">
+          The flow statements decompose the difference between the two balance sheets. Each one explains a different aspect of what changed.
+        </p>
+
+        <p>But the snapshots alone do not tell you what happened. They show the position at two dates. They do not show the path between them. A patient&rsquo;s blood pressure at their January checkup and their July checkup tells you something changed. It does not tell you whether they exercised, changed their diet, started medication, or experienced a medical event. The two readings frame the question. They do not provide the explanation.</p>
+
+        <p>This is the limitation of the balance sheet: it captures position but not activity. It tells you where the entity stands, not how it got there. And for most of the people who rely on the system &mdash; investors, lenders, managers, regulators &mdash; the &ldquo;how&rdquo; matters as much as the &ldquo;where.&rdquo;</p>
+
+        <!-- Rabbit hole: working the identity -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            Three steps for every transaction &mdash; recognition, classification, quantification
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>Every time something happens that might affect the balance sheet, the system requires three decisions:</p>
+            <p><strong>Recognition:</strong> does this event get recorded at all? Not everything does. A company signs a promising contract, but no goods have been delivered and no cash has changed hands. The system may not recognize it yet. Recognition is the gatekeeper &mdash; it determines what enters the system and what stays outside the boundary. As we saw in the conventions discussion, the recognition rules are restrictive: they require evidence, usually in the form of a transaction, before something enters the books. This is why some of an entity&rsquo;s most important economic resources &mdash; its workforce, its brand, its strategic position &mdash; may never appear on a balance sheet.</p>
+            <p><strong>Classification:</strong> if the event is recognized, which elements of the identity does it affect? Does it change assets? Liabilities? Equities? More than one? Classification is where you decide where the effects land. A bank loan increases both cash (an asset) and the loan payable (a liability). A sale might increase a receivable (asset) and increase equities through revenue. Getting the classification right is essential &mdash; it determines what the balance sheet shows and where.</p>
+            <p><strong>Quantification:</strong> what numbers go in? This is often the hardest step, and it is where conventions do the most work. If the entity bought equipment for cash, the amount is straightforward &mdash; the transaction price anchors it. But if the entity must estimate the worth of a warranty obligation, or allocate the cost of a building over its useful life, judgment enters the picture. Different conventions produce different numbers, and the numbers shape the financial story the system tells.</p>
+            <p>These three steps &mdash; recognize, classify, quantify &mdash; are what it means to &ldquo;work the identity.&rdquo; Every transaction, every adjustment, every recording goes through this sequence, and every one must leave the identity in balance.</p>
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">3</span>
-        The Four Financial Statements
+        Explaining the Change
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>This section introduces the balance sheet, income statement, cash flow statement, and statement of changes in equity as the four output channels through which the system reports.</p>
-      </div>
-    </div>
+        <p>The third move is to build output channels that explain why the two snapshots differ. What happened between December 31, 2024, and December 31, 2025, that changed the entity&rsquo;s financial position?</p>
 
-    <div class="accordion-section">
-      <button class="accordion-trigger" onclick="toggleAccordion(this)">
-        <span class="section-num">4</span>
-        How Architecture and Instance Interact
-        <span class="chevron">&#9654;</span>
-      </button>
-      <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>This section explains how the same underlying double-entry data can be presented in multiple output formats, each answering a different question about the organization.</p>
+        <p>The system answers this by decomposing the change in equities &mdash; the residual &mdash; into categories. Equities can change for several reasons, and each reason tells a different part of the story.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Operations</h3>
+
+        <p>The entity earned revenues and incurred expenses. Revenues are the gross inflows of worth resulting from the entity&rsquo;s activities &mdash; selling goods, providing services, earning fees. Expenses are the gross outflows &mdash; the resources consumed in generating those revenues. If revenues exceeded expenses, operations increased equities. If expenses exceeded revenues, operations decreased equities.</p>
+
+        <p>The <strong>income statement</strong> reports this: what came in from operations, what went out, and what the difference was over the period. This is the channel that most people think of first when they ask &ldquo;how did the entity do this year?&rdquo; It is the system&rsquo;s attempt to show whether the entity created or consumed worth through its activities.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Cash</h3>
+
+        <p>Operations as reported on the income statement do not necessarily move in lockstep with cash. A company can record a sale (revenue) before it collects the cash &mdash; the customer owes the money but has not paid yet. It can incur an expense (like depreciation) that involves no cash movement at all. Revenue and expense are conventions for recognizing worth created and consumed. Cash is a fact about what actually moved.</p>
+
+        <p>The <strong>statement of cash flows</strong> tracks the actual cash that moved in and out during the period. It typically groups these movements into three categories: cash from operating activities, cash used for investing (buying or selling long-term assets), and cash from financing (borrowing, repaying debt, transactions with owners). Under the indirect method &mdash; the most common approach &mdash; it begins with the income statement&rsquo;s bottom line and adjusts for everything that affected reported income but not cash, and everything that affected cash but not reported income. It is, in effect, a reconciliation: here is what the income statement said happened, and here is what actually happened in cash.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Owner transactions and other changes</h3>
+
+        <p>Not all changes in equities come from operations or cash movements. Owners may invest additional capital (increasing equities) or receive distributions &mdash; dividends &mdash; (decreasing equities). There may be gains or losses that bypass the income statement under certain conventions. The <strong>statement of changes in equities</strong> tracks all of this: it starts with opening equities, accounts for every category of change, and arrives at closing equities. It is the full bridge from one balance sheet to the next. (In a not-for-profit, a <em>statement of activities and changes in net assets</em> serves a comparable role &mdash; the architecture is the same, as we saw in Section 1.)</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">One change, decomposed</h3>
+
+        <p>It is tempting to think of these as four separate reports that happen to fit together. They are not. There is one change &mdash; the difference between the opening balance sheet and the closing balance sheet &mdash; and the flow statements are decompositions of that change. The income statement does not &ldquo;agree with&rdquo; the change in retained earnings. It <em>is</em> an explanation of part of that change. It cannot be inconsistent with the balance sheets, because it is not a separate account of the same events &mdash; it is a breakdown of what happened to one component of equities over the period. The same is true of the cash flow statement: it does not &ldquo;match&rdquo; the change in cash on the balance sheet. It <em>is</em> that change, decomposed into operating, investing, and financing categories.</p>
+
+        <p>The structure, then, is this:</p>
+
+        <div class="info-box" style="text-align: center; font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 15px; color: var(--primary); padding: 20px; line-height: 1.8;">
+          <strong>Balance sheet (opening)</strong><br>
+          &darr;&ensp; <em>what changed, and why?</em> &ensp;&darr;<br>
+          <strong>Balance sheet (closing)</strong>
+        </div>
+
+        <p>The flow statements are the &ldquo;what changed, and why.&rdquo; Each one decomposes a different aspect of the difference between the two snapshots. The income statement decomposes the operating portion of the change in equities. The cash flow statement decomposes the change in one particular asset &mdash; cash. The statement of changes in equities decomposes the full movement from opening equities to closing equities, including both operations and transactions with owners. They are not four windows that happen to look onto the same building. They are the building, taken apart into pieces so you can see how it was constructed.</p>
+
+        <p>This matters for how you read financial statements. The income statement might show strong revenues, but the cash flow statement might reveal that the cash has not arrived yet &mdash; because the revenue is real (the entity earned it) but the collection is still pending. The balance sheet might show growing assets, but the statement of changes in equities might show that the growth came from new capital contributed by owners, not from operations. Reading one statement in isolation tells you something, but you are seeing only one piece of the decomposition. The full picture requires all the pieces together.</p>
+
+        <!-- Rabbit hole: why add a cash flow statement -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            Why single out cash for its own statement?
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>The identity does not require a separate statement for cash. The balance sheet already shows the cash balance at each date, and the statement of changes in equities already reconciles the full movement in the residual. A cash flow statement is an addition &mdash; a choice to decompose the change in one particular asset because that asset is uniquely informative.</p>
+            <p>Here is why. Cash is the one line on the balance sheet where you just count it &mdash; add up the bank accounts and that is the number. No conventions about recognition timing, no judgment about useful lives or collectibility, no estimates. It is about as close to a brute fact as the system gets. The income statement, by contrast, is full of conventions. When to recognize revenue, how to allocate costs, what to depreciate over what period &mdash; all of these choices affect net income. Comparing cash from operations to net income, then, tells you something important: how much of the income statement&rsquo;s story was shaped by accounting conventions versus how much was backed by actual cash movement. A large persistent gap between the two should make you curious about what the conventions are doing.</p>
+            <p>The cash flow statement also addresses a different question from the income statement. Entities can be solvent &mdash; have more assets than liabilities &mdash; and still not be liquid &mdash; able to pay obligations as they come due. The income statement tells you about operations. The cash flow statement tells you whether the entity can actually pay its bills. These are different questions, and the people who rely on the system care about both.</p>
+            <p>For a long time, cash seemed like the one category that did not involve much in the way of difficult conventions. Cash is cash. But even this apparent simplicity has limits. The emergence of cryptocurrencies forced standard-setters to reconsider not whether to count what is in the category, but what belongs in the category in the first place &mdash; a reminder that even the most concrete-seeming elements of the system rest on conventions about what counts.</p>
+          </div>
+        </div>
       </div>
     </div>
 
   </div><!-- /accordion -->
 
+  <hr class="divider">
+
+  <!-- Bridge to next -->
+  <p class="prose">
+    That is the architecture: a self-balancing identity, applied at two dates to create two snapshots, with three additional output channels that decompose the difference between them. The identity is imposed. The flow statements are derived from the change between the two balance sheets. And the whole structure rests on the aspirations, conventions, and context we explored earlier.
+  </p>
+  <p class="prose">
+    Next, you will see this architecture in action &mdash; first through a simple hypothetical entity where you step through every transaction yourself, then through the actual financial statements of a real company.
+  </p>
+
   <!-- Prev / Next navigation -->
   <div class="module-nav">
-    <a href="module3.html" class="prev">
+    <a href="reflect3.html" class="prev">
       <span class="nav-direction">&larr; Previous</span>
-      <span class="nav-label">Module 3: Worth, Quantification, and Limits</span>
+      <span class="nav-label">Pause and Reflect</span>
     </a>
-    <a href="module5.html" class="next">
+    <a href="reflect4.html" class="next">
       <span class="nav-direction">Next &rarr;</span>
-      <span class="nav-label">Module 5: CVS Health: Balance Sheets</span>
+      <span class="nav-label">The System in Action: A Simple Case</span>
     </a>
   </div>
 

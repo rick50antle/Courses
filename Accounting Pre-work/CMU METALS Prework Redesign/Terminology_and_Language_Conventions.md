@@ -2,7 +2,7 @@
 
 ## CMU METALS Prework Redesign
 
-*Last updated: March 18, 2026*
+*Last updated: March 19, 2026*
 
 This document collects language decisions — words and phrases to use, and words and phrases to avoid — so that all drafting is consistent. These are not style preferences. Each one reflects a substantive intellectual commitment about what accounting is and how we talk about it.
 
@@ -60,9 +60,9 @@ This is a specific application of the no-measurement rule, but important enough 
 
 ---
 
-### The four financial statements are "four windows onto one structure"
+### The flow statements are decompositions of the change between two balance sheets
 
-Never describe the financial statements as four independent or separate documents. They are four views of the same underlying data, each designed to show what the others cannot show directly. A sophisticated reader uses them together.
+Never describe the financial statements as four independent or separate reports that happen to "fit together" or "agree." The income statement does not "match" the change in retained earnings — it *is* an explanation of part of that change. The cash flow statement does not "agree with" the change in cash — it *is* that change, decomposed into categories. The flow statements are not parallel accounts of the same events. They are breakdowns of what happened between two balance sheets.
 
 ---
 
@@ -88,6 +88,36 @@ The identity is a design choice — a deliberate structural constraint that make
 
 ---
 
+### Write the identity as A − L = E (but introduce A = L + E first)
+
+Present A = L + E first — it is the form students will encounter everywhere. Then rearrange to A − L = E and explain why the rearrangement matters: it reveals that equities is the difference between assets and liabilities, not an independent third quantity. The identity is a tautology — true by definition, not by coincidence.
+
+---
+
+### Equities is "the difference," not "what's left"
+
+"What's left" implies scraps after subtraction — an afterthought. "The difference" is precise and neutral. The total of equities is determined by subtraction; what matters is how you *decompose* it (contributed capital vs. retained earnings for a for-profit; restricted vs. unrestricted net assets for a nonprofit). The decomposition of the residual is where the information is.
+
+---
+
+### Never use "articulation" or "consistent" for the relationship between statements
+
+"Articulation" implies separate bones connected at joints. "Consistent" implies separate reports that happen not to disagree. Neither captures the actual relationship. The flow statements are *decompositions* of the change between two balance sheets. The income statement does not "agree with" the change in retained earnings — it *is* part of that change. Use "decomposition," "breakdown," or "explanation of."
+
+---
+
+### Never frame a question as "if you could only see one number"
+
+This implies a false choice. The whole point of the architecture is that you read the numbers *together*. The gap between two numbers is where the information lives. Questions should ask what the set of numbers tells you, not which one you would pick.
+
+---
+
+### Cash: you just count it
+
+Cash is the one line on the balance sheet where the number is a count — add up the bank accounts and that is the number. No conventions about recognition timing, no judgment about useful lives, no estimates. This is why comparing cash from operations to net income is so revealing: it tells you how much of the income statement's story was shaped by conventions versus how much was backed by actual cash movement. (Note: the emergence of cryptocurrencies challenged what belongs in the category — even "cash" rests on conventions about what counts.)
+
+---
+
 ### We are "helping them learn," not "teaching them"
 
 The prework does not deliver a complete package for the student to receive. It starts them on a journey. The student is doing the work; we are providing structure and a path. "Teach" puts us in the active role and the student in the passive one. "Help them learn" keeps the student as the agent.
@@ -97,6 +127,12 @@ The prework does not deliver a complete package for the student to receive. It s
 **Example:**
 - Wrong: "This prework teaches you how the system works."
 - Right: "That is what this prework is about." Or: "This prework is where that journey begins."
+
+---
+
+### Acknowledge the IT vocabulary
+
+We deliberately borrow terms from information technology and software engineering: "architecture," "instance," "input boundary," "output channels," "design choice." This is not decoration — accounting systems *are* information systems, and the IT vocabulary captures structural features that traditional accounting vocabulary does not. "Architecture vs. instance" makes visible the distinction between the shared design and specific implementations. "Design choice" makes clear that rules could have been made differently. "Input boundary" is more precise than "recognition criteria." Students should be told early that this vocabulary is intentional and why it is useful. Place an explanation in Module 2 (where architecture/instance is introduced) or in Module 1's orientation.
 
 ---
 

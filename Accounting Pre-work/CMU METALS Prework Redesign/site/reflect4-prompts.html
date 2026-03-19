@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  .reflect-context {
+    background: var(--primary-faint);
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  .reflect-context .ctx-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--primary);
+    margin-bottom: 8px;
+  }
+  .reflect-context .ctx-desc {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 12px;
+  }
+  .reflect-context .ctx-effects {
+    background: white;
+    border-radius: 5px;
+    padding: 10px 14px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+  }
+  .reflect-context .eff-line {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0;
+    color: #555;
+  }
+  .reflect-context .eff-val { font-weight: 600; }
+  .reflect-context .eff-val.pos { color: #16a34a; }
+  .reflect-context .eff-val.neg { color: #dc2626; }
+
+  .prompt-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 24px;
+    margin-bottom: 32px;
+    transition: border-color 0.2s;
+  }
+  .prompt-card.has-response {
+    border-color: #22c55e;
+  }
+  .prompt-card .prompt-number {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .prompt-card .prompt-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .prompt-card textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2a2a2a;
+    resize: vertical;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+  }
+  .prompt-card textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+  }
+  .prompt-card textarea::placeholder {
+    color: #bbb;
+    font-style: italic;
+  }
+  .save-notice {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #22c55e;
+    font-weight: 500;
+    opacity: 0;
+    transition: opacity 0.3s;
+    margin-left: 8px;
+  }
+  .save-notice.visible { opacity: 1; }
+
+  .progress-summary {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 24px;
+    padding: 12px 16px;
+    background: var(--primary-faint);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .progress-summary .check-count {
+    font-weight: 600;
+    color: var(--primary);
+  }
+
+  .numbers-box {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  .numbers-box .nb-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    padding: 4px 0;
+  }
+  .numbers-box .nb-label { color: #555; }
+  .numbers-box .nb-val { font-weight: 600; color: var(--primary); }
+  .numbers-box .nb-gap {
+    border-top: 1px solid #eee;
+    margin-top: 6px;
+    padding-top: 6px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Pause and Reflect</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <div class="module-header">
+    <div class="module-label">Pause and Reflect</div>
+    <h2>What the Numbers Tell You Together</h2>
+    <p class="module-subtitle">Four questions about the simple case you just worked through</p>
+  </div>
+
+  <hr class="divider">
+
+  <p class="prose">
+    In the interactive exercise, you stepped through eight transactions and watched the financial statements build themselves. Now step back and think about what you saw. Each prompt below repeats the relevant transaction and its effects, then asks a question. The questions are not about individual numbers &mdash; they are about what you can learn when you look at the numbers together.
+  </p>
+  <p class="prose" style="font-size: 14px; color: #888; font-style: italic; margin-bottom: 28px;">
+    Your responses are saved locally on your device and are not submitted anywhere.
+  </p>
+
+  <div id="progress-bar-area"></div>
+
+  <!-- === PROMPT 1: Revenue === -->
+  <div class="reflect-context">
+    <div class="ctx-label">Transaction: Service Revenue</div>
+    <div class="ctx-desc">
+      The entity provided $43,000 of services. It collected $25,000 in cash immediately; the remaining $18,000 is owed by customers who will pay later.
+    </div>
+    <div class="ctx-effects">
+      <div class="eff-line"><span>Cash</span><span class="eff-val pos">+$25,000</span></div>
+      <div class="eff-line"><span>Accounts Receivable</span><span class="eff-val pos">+$18,000</span></div>
+      <div class="eff-line"><span>Retained Earnings</span><span class="eff-val pos">+$43,000</span></div>
+    </div>
+  </div>
+  <div class="prompt-card" id="prompt1">
+    <div class="prompt-number">Prompt 1 of 4</div>
+    <div class="prompt-text">
+      The system recorded $43,000 in revenue. The cash flow statement shows $25,000 collected. These are not competing numbers &mdash; they are two facts about the same event. What does comparing them tell you about this entity&rsquo;s situation right now?
+    </div>
+    <textarea id="ta1" placeholder="Write your response here..." oninput="autoSave()"></textarea>
+    <span class="save-notice" id="sn1"></span>
+  </div>
+
+  <!-- === PROMPT 2: Depreciation === -->
+  <div class="reflect-context">
+    <div class="ctx-label">Transaction: Depreciation</div>
+    <div class="ctx-desc">
+      The entity recorded $4,000 of depreciation on its equipment. The equipment is wearing out &mdash; its recorded worth decreases, and the cost is recognized as an expense. No cash moves.
+    </div>
+    <div class="ctx-effects">
+      <div class="eff-line"><span>Equipment</span><span class="eff-val neg">($4,000)</span></div>
+      <div class="eff-line"><span>Retained Earnings</span><span class="eff-val neg">($4,000)</span></div>
+      <div class="eff-line" style="color: #999; font-style: italic;"><span>Cash</span><span>no change</span></div>
+    </div>
+  </div>
+  <div class="prompt-card" id="prompt2">
+    <div class="prompt-number">Prompt 2 of 4</div>
+    <div class="prompt-text">
+      No cash moved, but the income statement recorded a $4,000 expense and the balance sheet reduced the equipment&rsquo;s recorded worth. What is the system trying to capture with this entry? What would be missing from the picture if the system only recorded events that involved cash?
+    </div>
+    <textarea id="ta2" placeholder="Write your response here..." oninput="autoSave()"></textarea>
+    <span class="save-notice" id="sn2"></span>
+  </div>
+
+  <!-- === PROMPT 3: NI vs CFO === -->
+  <div class="reflect-context">
+    <div class="ctx-label">After All Transactions</div>
+    <div class="ctx-desc">
+      The entity completed its first year. Here are two numbers from the same set of transactions, decomposed differently:
+    </div>
+    <div class="numbers-box">
+      <div class="nb-row"><span class="nb-label">Net Income (from income statement)</span><span class="nb-val">$24,000</span></div>
+      <div class="nb-row"><span class="nb-label">Cash from Operations (from cash flow statement)</span><span class="nb-val">$22,000</span></div>
+      <div class="nb-row nb-gap"><span class="nb-label">Gap</span><span>$2,000</span></div>
+    </div>
+    <div class="ctx-desc" style="font-size: 13px; color: #666; margin-bottom: 0;">
+      The gap comes from two sources: $18,000 of revenue not yet collected in cash (offset by $12,000 collected from an earlier receivable), and $4,000 of depreciation expense that involved no cash.
+    </div>
+  </div>
+  <div class="prompt-card" id="prompt3">
+    <div class="prompt-number">Prompt 3 of 4</div>
+    <div class="prompt-text">
+      Net income and cash from operations come from the same set of transactions, decomposed differently. What does the gap between them tell you? What questions would it lead you to ask about this entity?
+    </div>
+    <textarea id="ta3" placeholder="Write your response here..." oninput="autoSave()"></textarea>
+    <span class="save-notice" id="sn3"></span>
+  </div>
+
+  <!-- === PROMPT 4: Different users === -->
+  <div class="reflect-context">
+    <div class="ctx-label">The Full Set of Statements</div>
+    <div class="ctx-desc">
+      You now have three decompositions of the change between the opening and closing balance sheets: the statement of changes in equities (the full bridge), the cash flow statement (the change in cash), and the income statement (the operating detail of one line in the equities statement). Each one organizes the same underlying transactions differently.
+    </div>
+  </div>
+  <div class="prompt-card" id="prompt4">
+    <div class="prompt-number">Prompt 4 of 4</div>
+    <div class="prompt-text">
+      Different people come to these statements with different questions &mdash; a lender, an owner, a regulator. What can they learn from looking at the decompositions together that they could not learn from any single one?
+    </div>
+    <textarea id="ta4" placeholder="Write your response here..." oninput="autoSave()"></textarea>
+    <span class="save-notice" id="sn4"></span>
+  </div>
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="reflect4.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">The System in Action: A Simple Case</span>
+    </a>
+    <a href="module5.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">The System in Action: CVS Health</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  renderGlossary();
+  markModuleVisited(4);
+  buildModuleDropdown(4);
+  applyConfig();
+  updateProgressBar();
+
+  // === LOCAL SAVE ===
+  var STORAGE_KEY = 'prework_reflect4_prompts';
+  var KEYS = ['ta1', 'ta2', 'ta3', 'ta4'];
+  var saveTimer = null;
+
+  // Load saved responses
+  try {
+    var saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    KEYS.forEach(function(k) {
+      if (saved[k]) document.getElementById(k).value = saved[k];
+    });
+  } catch(e) {}
+
+  function autoSave() {
+    if (saveTimer) clearTimeout(saveTimer);
+    saveTimer = setTimeout(function() {
+      var data = {};
+      KEYS.forEach(function(k) { data[k] = document.getElementById(k).value; });
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+      // Flash save notice on the active textarea
+      var active = document.activeElement;
+      if (active && active.tagName === 'TEXTAREA') {
+        var notice = active.parentElement.querySelector('.save-notice');
+        if (notice && active.value.trim().length > 0) {
+          notice.textContent = 'Saved';
+          notice.classList.add('visible');
+          setTimeout(function() { notice.classList.remove('visible'); }, 1500);
+        }
+      }
+      updateProgress();
+    }, 800);
+  }
+
+  function updateProgress() {
+    try {
+      var saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      var count = KEYS.filter(function(k) { return saved[k] && saved[k].trim().length > 0; }).length;
+      var el = document.getElementById('progress-bar-area');
+      el.innerHTML = '<div class="progress-summary"><span class="check-count">' + count + ' of 4</span> prompts answered</div>';
+    } catch(e) {}
+  }
+  updateProgress();
+</script>
+
+</body>
+</html>

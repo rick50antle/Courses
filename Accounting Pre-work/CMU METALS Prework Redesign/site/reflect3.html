@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  /* Reflection-specific styles */
+  .reflect-intro {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .reflect-note {
+    font-size: 14px;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 32px;
+  }
+  .prompt-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 24px;
+    margin-bottom: 20px;
+    transition: border-color 0.2s;
+  }
+  .prompt-card.has-response {
+    border-color: #22c55e;
+  }
+  .prompt-card .prompt-number {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .prompt-card .prompt-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .prompt-card textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2a2a2a;
+    resize: vertical;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+  }
+  .prompt-card textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+  }
+  .prompt-card textarea::placeholder {
+    color: #bbb;
+    font-style: italic;
+  }
+  .progress-summary {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 24px;
+    padding: 12px 16px;
+    background: var(--primary-faint);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .progress-summary .check-count {
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .save-notice {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #22c55e;
+    font-weight: 500;
+    opacity: 0;
+    transition: opacity 0.3s;
+    margin-left: 8px;
+  }
+  .save-notice.visible {
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Pause and Reflect</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <div class="module-header">
+    <div class="module-label">Pause and Reflect</div>
+    <h2>An Investment Opportunity</h2>
+    <p class="module-subtitle">Aspirations, conventions, and context &mdash; put to the test</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- React mounts here -->
+  <div id="react-root"></div>
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="module3.html" class="prev">
+      <span class="nav-direction">&larr; Back to reading</span>
+      <span class="nav-label">Worth, Quantification, and Limits</span>
+    </a>
+    <a href="module4.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 4: The Architecture Itself</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts: shared infrastructure -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  renderGlossary();
+  markModuleVisited(3);
+  buildModuleDropdown(3);
+  applyConfig();
+  updateProgressBar();
+</script>
+
+<!-- React via CDN -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<script type="text/babel">
+const { useState, useEffect, useCallback, useRef } = React;
+
+const STORAGE_KEY = 'prework_reflect3';
+
+// ===== TRACK RECORD DATA =====
+const TRACK_RECORD = [
+  { year: 1, pct: 18.58 },
+  { year: 2, pct: 14.67 },
+  { year: 3, pct: 11.68 },
+  { year: 4, pct: 11.49 },
+  { year: 5, pct: 12.95 },
+  { year: 6, pct: 12.99 },
+  { year: 7, pct: 14.00 },
+  { year: 8, pct: 13.40 },
+  { year: 9, pct: 14.18 },
+  { year: 10, pct: 11.55 },
+  { year: 11, pct: 10.68 },
+  { year: 12, pct: 9.33 },
+  { year: 13, pct: 8.21 },
+  { year: 14, pct: 7.07 }
+];
+
+// Actual data from source: S&P 500 total returns and US T-bill returns, 1991-2004
+// Source: Madoff returns 20130804.xlsx
+const SP500_RET = [30.46, 7.62, 10.08, 1.32, 37.58, 22.96, 33.36, 28.58, 21.04, -9.10, -11.89, -22.10, 28.68, 10.88];
+const TBILL_RET = [5.43, 3.48, 3.03, 4.39, 5.61, 5.14, 5.19, 4.86, 4.80, 5.98, 3.33, 1.61, 1.03, 1.43];
+
+// Cumulative growth of $1 (from the spreadsheet)
+const CUM_FS = [1, 1.1858, 1.3598, 1.5186, 1.6931, 1.9123, 2.1607, 2.4632, 2.7933, 3.1894, 3.5578, 3.9377, 4.3051, 4.6586, 4.9879];
+const CUM_SP = [1, 1.3046, 1.4040, 1.5455, 1.5659, 2.1544, 2.6491, 3.5328, 4.5425, 5.4982, 4.9979, 4.4036, 3.4304, 4.4143, 4.8945];
+const CUM_TB = [1, 1.0543, 1.0910, 1.1240, 1.1734, 1.2392, 1.3029, 1.3705, 1.4371, 1.5061, 1.5962, 1.6493, 1.6759, 1.6932, 1.7174];
+const N_YEARS = 14;
+
+// ===== CHART COMPONENTS =====
+
+function BarChart() {
+  const W = 520, H = 220, PAD = { top: 20, right: 20, bottom: 36, left: 44 };
+  const cw = W - PAD.left - PAD.right;
+  const ch = H - PAD.top - PAD.bottom;
+  const n = TRACK_RECORD.length;
+  const barW = cw / n * 0.7;
+  const gap = cw / n * 0.3;
+  const maxPct = 20;
+
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} width="100%" style={{ maxWidth: W + 'px', display: 'block', margin: '16px auto' }}>
+      {/* Y axis */}
+      {[0, 5, 10, 15, 20].map(v => {
+        const y = PAD.top + ch - (v / maxPct) * ch;
+        return (
+          <g key={v}>
+            <line x1={PAD.left} y1={y} x2={W - PAD.right} y2={y} stroke="#eee" strokeWidth="1" />
+            <text x={PAD.left - 6} y={y + 4} textAnchor="end" fontSize="10" fill="#999" fontFamily="'Helvetica Neue', Arial, sans-serif">{v}%</text>
+          </g>
+        );
+      })}
+      {/* Bars */}
+      {TRACK_RECORD.map((r, i) => {
+        const x = PAD.left + i * (cw / n) + gap / 2;
+        const barH = (r.pct / maxPct) * ch;
+        const y = PAD.top + ch - barH;
+        return (
+          <g key={i}>
+            <rect x={x} y={y} width={barW} height={barH} fill="#00356b" rx="2" opacity="0.85" />
+            <text x={x + barW / 2} y={y - 4} textAnchor="middle" fontSize="9" fill="#555" fontFamily="'Helvetica Neue', Arial, sans-serif" fontWeight="600">
+              {r.pct.toFixed(1)}%
+            </text>
+            <text x={x + barW / 2} y={PAD.top + ch + 14} textAnchor="middle" fontSize="9" fill="#888" fontFamily="'Helvetica Neue', Arial, sans-serif">
+              Yr {r.year}
+            </text>
+          </g>
+        );
+      })}
+      {/* Average line */}
+      {(() => {
+        const avgY = PAD.top + ch - (12.20 / maxPct) * ch;
+        return (
+          <g>
+            <line x1={PAD.left} y1={avgY} x2={W - PAD.right} y2={avgY} stroke="#bd5319" strokeWidth="1.5" strokeDasharray="6 3" />
+            <text x={W - PAD.right + 2} y={avgY + 3} fontSize="9" fill="#bd5319" fontFamily="'Helvetica Neue', Arial, sans-serif" fontWeight="600">avg</text>
+          </g>
+        );
+      })()}
+    </svg>
+  );
+}
+
+function GrowthChart() {
+  const W = 540, H = 280, PAD = { top: 20, right: 90, bottom: 48, left: 44 };
+  const cw = W - PAD.left - PAD.right;
+  const ch = H - PAD.top - PAD.bottom;
+  const n = N_YEARS;
+  const maxVal = 6;
+
+  function toX(i) { return PAD.left + (i / n) * cw; }
+  function toY(v) { return PAD.top + ch - (v / maxVal) * ch; }
+  function polyline(data) {
+    return data.map((v, i) => `${toX(i)},${toY(v)}`).join(' ');
+  }
+
+  const series = [
+    { data: CUM_FS, color: '#00356b', label: 'Fund', dash: '' },
+    { data: CUM_SP, color: '#c0392b', label: 'S&P 500', dash: '' },
+    { data: CUM_TB, color: '#27ae60', label: 'T-bills', dash: '' }
+  ];
+
+  return (
+    <div>
+      <svg viewBox={`0 0 ${W} ${H}`} width="100%" style={{ maxWidth: W + 'px', display: 'block', margin: '16px auto' }}>
+        {/* Y gridlines */}
+        {[0, 1, 2, 3, 4, 5, 6].map(v => {
+          const y = toY(v);
+          return (
+            <g key={v}>
+              <line x1={PAD.left} y1={y} x2={PAD.left + cw} y2={y} stroke="#eee" strokeWidth="1" />
+              <text x={PAD.left - 6} y={y + 4} textAnchor="end" fontSize="10" fill="#999" fontFamily="'Helvetica Neue', Arial, sans-serif">${v.toFixed(0)}</text>
+            </g>
+          );
+        })}
+        {/* X labels */}
+        {Array.from({length: n + 1}, (_, i) => i).filter(yr => yr % 2 === 0 || yr === n).map(yr => (
+          <text key={yr} x={toX(yr)} y={PAD.top + ch + 16} textAnchor="middle" fontSize="9" fill="#888" fontFamily="'Helvetica Neue', Arial, sans-serif">
+            {yr}
+          </text>
+        ))}
+        <text x={PAD.left + cw / 2} y={PAD.top + ch + 32} textAnchor="middle" fontSize="10" fill="#999" fontFamily="'Helvetica Neue', Arial, sans-serif">
+          Year
+        </text>
+        {/* Lines */}
+        {series.map(s => (
+          <polyline key={s.label} points={polyline(s.data)}
+            fill="none" stroke={s.color} strokeWidth="2.5"
+            strokeDasharray={s.dash || 'none'} />
+        ))}
+        {/* End labels */}
+        {series.map((s, si) => {
+          const endVal = s.data[s.data.length - 1];
+          const yOff = si === 0 ? -8 : (si === 1 ? 4 : 16);
+          return (
+            <text key={s.label + '-label'} x={toX(n) + 6} y={toY(endVal) + yOff}
+              fontSize="10" fill={s.color} fontFamily="'Helvetica Neue', Arial, sans-serif" fontWeight="600">
+              {s.label}
+            </text>
+          );
+        })}
+        {/* $1 start marker */}
+        <circle cx={toX(0)} cy={toY(1)} r="3" fill="#00356b" />
+      </svg>
+      <p style={{ fontSize: '11px', color: '#999', fontStyle: 'italic', textAlign: 'center', marginTop: '4px', fontFamily: "'Helvetica Neue', Arial, sans-serif" }}>
+        Growth of $1 invested, 1990&ndash;2004. The S&amp;P 500 line tracks the index only and omits dividends; including them would push the S&amp;P line higher.
+      </p>
+    </div>
+  );
+}
+
+// ===== STAGES =====
+const STAGES = [
+  {
+    id: 'opportunity',
+    title: 'The Opportunity',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Consider a real investment opportunity. A fund with the following terms:
+        </p>
+        <ul style={{ fontSize: '15px', lineHeight: '1.8', color: '#333', marginBottom: '20px', paddingLeft: '24px' }}>
+          <li>$50,000 minimum investment</li>
+          <li>Additional investments can be made monthly</li>
+          <li>Redemptions (withdrawals) can be made monthly</li>
+          <li>There is a fourteen-year track record</li>
+        </ul>
+      </div>
+    )
+  },
+  {
+    id: 'track-record',
+    title: 'The Track Record',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Here are the actual annual returns:
+        </p>
+        <table style={{ width: '100%', maxWidth: '340px', margin: '0 auto 20px', borderCollapse: 'collapse', fontFamily: "'Helvetica Neue', Arial, sans-serif", fontSize: '14px' }}>
+          <thead>
+            <tr style={{ borderBottom: '2px solid #00356b' }}>
+              <th style={{ padding: '8px 16px', textAlign: 'left', color: '#00356b', fontWeight: '600' }}>Year</th>
+              <th style={{ padding: '8px 16px', textAlign: 'right', color: '#00356b', fontWeight: '600' }}>Return</th>
+            </tr>
+          </thead>
+          <tbody>
+            {TRACK_RECORD.map(r => (
+              <tr key={r.year} style={{ borderBottom: '1px solid #eee' }}>
+                <td style={{ padding: '6px 16px', color: '#555' }}>{r.year}</td>
+                <td style={{ padding: '6px 16px', textAlign: 'right', color: '#333', fontWeight: '500' }}>{r.pct.toFixed(2)}%</td>
+              </tr>
+            ))}
+          </tbody>
+          <tfoot>
+            <tr style={{ borderTop: '2px solid #00356b' }}>
+              <td style={{ padding: '8px 16px', fontWeight: '600', color: '#00356b' }}>Average</td>
+              <td style={{ padding: '8px 16px', textAlign: 'right', fontWeight: '600', color: '#00356b' }}>12.20%</td>
+            </tr>
+          </tfoot>
+        </table>
+        <BarChart />
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '8px' }}>
+          Put in $1 at the start, and fourteen years later you have roughly $5. Returns were remarkably steady &mdash; no losing years, low volatility. Over the same period, the fund outperformed US Treasury bills by a wide margin and delivered returns close to the S&amp;P 500 index, but with a much smoother ride.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          As of the date the performance data ends, the fund held <strong>$5.1 billion</strong> in assets and was part of a firm managing <strong>$8.3 billion</strong>.
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'benchmarks',
+    title: 'Compared to the Alternatives',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Is this a good investment? The question only makes sense relative to something. Good compared to what? Every evaluation of worth &mdash; whether of an investment, an asset, or a business &mdash; is inherently comparative. So let us compare.
+        </p>
+        <GrowthChart />
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Over the same fourteen-year period, <strong>US Treasury bills</strong> &mdash; the safest investment available &mdash; returned far less. The <strong>S&amp;P 500 index</strong> delivered comparable total returns, but with sharp swings: big gains in some years, losses in others. The stock market gives you the return, but it makes you endure the ride.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          This fund delivered returns close to the S&amp;P 500 &mdash; but with almost no volatility. Year after year, the returns were steady: no losing years, no sharp drops, no stomach-churning swings. Relative to both benchmarks, the fund appeared to offer something remarkable: equity-like returns with bond-like smoothness. That combination is what made it attractive &mdash; and it is what should make you ask: how?
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'first-reaction',
+    title: 'Your First Reaction',
+    isPrompt: true,
+    promptKey: 'first_reaction',
+    promptText: 'Based on what you have seen \u2014 the track record and the comparison to alternatives \u2014 would you invest? What looks attractive? Does anything give you pause?'
+  },
+  {
+    id: 'reveal',
+    title: 'The Rest of the Story',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          The fund was the <strong>Fairfield Sentry Fund</strong>. Its strategy was simple: it fed every dollar it raised into another fund run by <strong>Bernard Madoff</strong>.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Madoff's operation was the <strong>largest Ponzi scheme in history</strong>.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          No trades were ever made. No investment strategy was ever executed. No goods were produced, no services performed, no productive activity of any kind generated the returns investors thought they were receiving. The money paid to early investors was simply taken from later investors. It was redistribution disguised as creation.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Approximately <strong>$17 billion</strong> was lost by investors who put in more than they took out. About $14.3 billion was eventually recovered from those who &mdash; knowingly or not &mdash; had taken out more than they put in.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          Madoff was sentenced to 150 years in federal prison, where he died in 2021.
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'ponzi-schemes',
+    title: 'What Is a Ponzi Scheme?',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          A Ponzi scheme is a fraud in which returns paid to existing investors come not from any productive activity but from money put in by newer investors. No goods are produced, no services performed, no worth created. The scheme simply redistributes money among participants while creating the appearance of investment returns. It works as long as new money keeps coming in. When it stops, the scheme collapses.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          The name comes from <strong>Charles Ponzi</strong>, an Italian immigrant who ran a famous scheme in Boston in 1920. Ponzi claimed to be profiting from arbitrage in international reply coupons &mdash; postal vouchers that could be bought cheaply in one country and redeemed at a higher price in another. The arbitrage opportunity was real but tiny; it could never have generated the returns Ponzi promised. Instead, he used money from new investors to pay earlier ones, creating the illusion of spectacular returns. At his peak, Ponzi was taking in $250,000 a day. The scheme collapsed within months, and he was convicted of fraud.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          But Ponzi did not invent the scheme &mdash; he just made it famous enough to name. The fraud is as old as money itself. What Charles Ponzi, Bernard Madoff, and every scheme in between have in common is the same fundamental deception: making redistribution look like creation. That is exactly the distinction an accounting system aspires to make visible.
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'creation-vs-redistribution',
+    title: 'Creation vs. Redistribution',
+    isPrompt: true,
+    promptKey: 'creation_redistribution',
+    promptText: 'One of the aspirations we discussed is distinguishing the creation of worth from the redistribution of worth. In your own words: what is the difference between an entity that creates worth and one that merely redistributes it? Why is this distinction fundamental?'
+  },
+  {
+    id: 'what-failed',
+    title: 'What Failed?',
+    isPrompt: true,
+    promptKey: 'what_failed',
+    promptText: 'Think about the three layers \u2014 aspirations, conventions, and context. More than one failed here, but in different ways. For each layer, ask: did it do its job? If not, what specifically went wrong? If it did, why wasn\u2019t that enough?'
+  },
+  {
+    id: 'what-would-catch-it',
+    title: 'What Would Have Caught It?',
+    isPrompt: true,
+    promptKey: 'what_catches_it',
+    promptText: 'If you were designing the institutional context around this fund \u2014 the auditing, the oversight, the verification \u2014 what would you want in place? What checks would have revealed that no trades were being made?'
+  },
+  {
+    id: 'albania',
+    title: 'A Wider View',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Madoff's scheme operated within an economy that had functioning (if imperfect) institutions. What happens when those institutions barely exist?
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          In 1990s Albania, as the country transitioned from a closed communist economy, pyramid schemes proliferated on a scale that dwarfed anything in Western markets. At their peak, the schemes held liabilities estimated at roughly <strong>40% of the country's GDP</strong>. When they collapsed in 1997, the government fell, civil order broke down, armories were looted, and roughly 2,000 people died in the violence that followed.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          The inability to distinguish worth creation from redistribution was not an abstract accounting problem. It was a failure with consequences that cascaded through an entire society. Accounting systems are not fragile &mdash; when they work as intended, they make this distinction visible. But the system does not operate in a vacuum. It depends on the context to ensure the conventions are applied honestly.
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'cleaning-up',
+    title: 'Cleaning Up the Mess',
+    content: (
+      <div>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          When a Ponzi scheme collapses, the losses do not distribute themselves. Someone has to trace every dollar &mdash; who put money in, who took money out, when, and how much. The people who withdrew more than they invested (the &ldquo;net winners&rdquo;) received money that belonged to others, whether they knew it or not. Recovering those funds and returning them to the people who lost everything is a painstaking process that can take years.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          This is the work of a Liquidating Trustee. In the Madoff case, the trustee and his team traced billions of dollars in flows across thousands of accounts, filed hundreds of lawsuits to recover funds from net winners, and ultimately returned over $14 billion to victims. The work required exactly the skills this course is about: reconstructing the financial story of an entity from its transaction records, distinguishing real flows from fictitious ones, and determining who is owed what.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', marginBottom: '16px' }}>
+          Rick Antle, one of the creators of this prework, served as Liquidating Trustee for two Madoff feeder funds. A feeder fund is a fund that does not invest directly &mdash; instead, it raises money from investors and channels it into another fund that supposedly does the actual investing. Fairfield Sentry was one such feeder fund: it collected billions from investors and fed everything to Madoff. The feeder fund structure added a layer between the investors and the fraud, making it harder for anyone to see that no real investing was happening. As Liquidating Trustee, the work involved unwinding the funds, tracing where the money went, recovering what could be recovered, and compensating the investors who lost out.
+        </p>
+        <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333' }}>
+          For more on this experience, see this video interview: <span style={{ color: '#888', fontStyle: 'italic' }}>[URL forthcoming]</span>
+        </p>
+      </div>
+    )
+  },
+  {
+    id: 'final-reflection',
+    title: 'Looking Back',
+    isPrompt: true,
+    promptKey: 'looking_back',
+    promptText: 'Reread your first reaction from earlier in this exercise. Has anything shifted in how you think about evaluating an investment opportunity? What questions would you ask now that you would not have asked before?'
+  }
+];
+
+// ===== PROMPT CARD =====
+function PromptCard({ promptKey, promptText, totalPrompts, promptIndex }) {
+  const [saved, setSaved] = useState(() => {
+    try {
+      const s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      return s[promptKey] || '';
+    } catch(e) { return ''; }
+  });
+  const [saveNotice, setSaveNotice] = useState(false);
+  const timerRef = useRef(null);
+
+  const doSave = useCallback((val) => {
+    try {
+      const s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      s[promptKey] = val;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+    } catch(e) {}
+  }, [promptKey]);
+
+  const handleChange = useCallback((e) => {
+    const v = e.target.value;
+    setSaved(v);
+    if (timerRef.current) clearTimeout(timerRef.current);
+    timerRef.current = setTimeout(() => {
+      doSave(v);
+      if (v.trim().length > 0) {
+        setSaveNotice(true);
+        setTimeout(() => setSaveNotice(false), 1500);
+      }
+    }, 800);
+  }, [doSave]);
+
+  const handleBlur = useCallback(() => {
+    if (timerRef.current) clearTimeout(timerRef.current);
+    doSave(saved);
+  }, [saved, doSave]);
+
+  const hasResponse = saved.trim().length > 0;
+
+  return (
+    <div className={`prompt-card ${hasResponse ? 'has-response' : ''}`}>
+      <div className="prompt-number">
+        Prompt {promptIndex} of {totalPrompts}
+        <span className={`save-notice ${saveNotice ? 'visible' : ''}`}>Saved</span>
+      </div>
+      <div className="prompt-text">{promptText}</div>
+      <textarea
+        value={saved}
+        onChange={handleChange}
+        onBlur={handleBlur}
+        placeholder="Write your response here..."
+      />
+    </div>
+  );
+}
+
+// ===== MAIN APP =====
+function PonziReflection() {
+  const [currentStage, setCurrentStage] = useState(0);
+
+  const stage = STAGES[currentStage];
+  const isFirst = currentStage === 0;
+  const isLast = currentStage === STAGES.length - 1;
+
+  const promptStages = STAGES.filter(s => s.isPrompt);
+  const totalPrompts = promptStages.length;
+  let promptCounter = 0;
+
+  // Count answered
+  const [answeredCount, setAnsweredCount] = useState(0);
+  useEffect(() => {
+    const interval = setInterval(() => {
+      try {
+        const s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+        setAnsweredCount(Object.values(s).filter(v => v && v.trim().length > 0).length);
+      } catch(e) {}
+    }, 1000);
+    return () => clearInterval(interval);
+  }, []);
+
+  // Get prompt index for current stage
+  let currentPromptIndex = 0;
+  for (let i = 0; i <= currentStage; i++) {
+    if (STAGES[i].isPrompt) currentPromptIndex++;
+  }
+
+  return (
+    <div>
+      <p className="reflect-intro">
+        This exercise presents a real investment opportunity. Work through it step by step.
+      </p>
+      <p className="reflect-note">
+        Your responses are saved locally on your device and are not submitted anywhere.
+      </p>
+
+      <div className="progress-summary">
+        <span className="check-count">{answeredCount} of {totalPrompts}</span> prompts answered
+        <span style={{ marginLeft: 'auto', fontSize: '12px' }}>
+          Step {currentStage + 1} of {STAGES.length}
+        </span>
+      </div>
+
+      {/* Stage content box */}
+      <div style={{
+        background: 'white', border: '1px solid #e0e0e0', borderRadius: '8px',
+        padding: '28px', marginBottom: '24px', minHeight: '180px'
+      }}>
+        <div style={{
+          fontFamily: "'Helvetica Neue', Arial, sans-serif", fontSize: '11px',
+          fontWeight: '600', textTransform: 'uppercase', letterSpacing: '0.4px',
+          color: '#888', marginBottom: '12px'
+        }}>
+          {stage.title}
+        </div>
+
+        {stage.isPrompt ? (
+          <PromptCard
+            promptKey={stage.promptKey}
+            promptText={stage.promptText}
+            totalPrompts={totalPrompts}
+            promptIndex={currentPromptIndex}
+          />
+        ) : (
+          stage.content
+        )}
+
+        {/* Navigation */}
+        <div style={{
+          display: 'flex', justifyContent: 'space-between', marginTop: '20px',
+          paddingTop: '16px', borderTop: '1px solid #f0f0f0'
+        }}>
+          <button onClick={() => setCurrentStage(i => i - 1)} disabled={isFirst} style={{
+            background: 'none', border: '1px solid #ddd', borderRadius: '4px',
+            padding: '8px 18px', fontSize: '13px', color: isFirst ? '#ccc' : '#555',
+            cursor: isFirst ? 'default' : 'pointer', fontFamily: "'Helvetica Neue', Arial, sans-serif"
+          }}>
+            &larr; Back
+          </button>
+          <button onClick={() => setCurrentStage(i => i + 1)} disabled={isLast} style={{
+            background: isLast ? '#ccc' : '#00356b',
+            color: 'white', border: 'none', borderRadius: '4px',
+            padding: '8px 18px', fontSize: '13px', fontWeight: '600',
+            cursor: isLast ? 'default' : 'pointer', fontFamily: "'Helvetica Neue', Arial, sans-serif"
+          }}>
+            {isLast ? 'Complete' : 'Next \u2192'}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ===== MOUNT =====
+const root = ReactDOM.createRoot(document.getElementById('react-root'));
+root.render(<PonziReflection />);
+</script>
+
+</body>
+</html>
