@@ -36,7 +36,8 @@ var GLOSSARY = [
   { term: "Historical cost", def: "The amount recorded at the time of an arm\u2019s-length transaction \u2014 the strongest epistemic anchor for worth, because two independent parties looked at the same thing and agreed on a price." },
   { term: "Balance sheet", def: "The financial statement that shows the accounting identity at a point in time: what the entity has recorded as assets, what it owes (liabilities), and the residual (equities)." },
   { term: "Income statement", def: "The financial statement that explains one category of change in equities: operations. What the entity earned and what it spent during a period." },
-  { term: "Statement of cash flows", def: "The financial statement that tracks cash inflows and outflows. Under the indirect method, it is a reconciliation between the change in equities and the change in cash." }
+  { term: "Statement of cash flows", def: "The financial statement that tracks cash inflows and outflows. Under the indirect method, it is a reconciliation between the change in equities and the change in cash." },
+  { term: "Worth", def: "The opportunity set a resource, obligation, or claim embodies \u2014 the goods, services, exchanges, and transformations it makes available. Worth is not a single number waiting to be read off an instrument. It is broader than price: a price expresses worth at a particular moment in a particular transaction, but different people may see different opportunities in the same thing and reasonably disagree about its worth. Preferred over \u201cvalue\u201d in this prework because \u201cworth\u201d carries the honest implication that the concept resists precise definition." }
 ];
 
 // Sort alphabetically

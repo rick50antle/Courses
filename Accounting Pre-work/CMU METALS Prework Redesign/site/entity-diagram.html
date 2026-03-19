@@ -114,41 +114,50 @@
     border-radius: 1px;
   }
 
-  /* Collapsible intro */
-  .intro-collapse-toggle {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    background: none;
+  /* Collapsible intro box */
+  .intro-box {
     border: 1px solid #e0e0e0;
-    border-radius: 4px;
-    padding: 5px 12px;
+    border-radius: 8px;
+    background: white;
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .intro-box-content {
+    padding: 28px 28px 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+  }
+  .intro-box-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .intro-box-content.expanded {
+    max-height: 600px;
+    opacity: 1;
+  }
+  .intro-box-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    background: #f9f9f9;
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    padding: 10px;
     font-family: 'Helvetica Neue', Arial, sans-serif;
     font-size: 12px;
     color: #888;
     cursor: pointer;
-    margin-bottom: 12px;
-    transition: all 0.15s;
+    transition: background 0.15s;
   }
-  .intro-collapse-toggle:hover { background: #f5f5f5; border-color: #bbb; }
-  .intro-collapse-toggle .ic-chevron {
+  .intro-box-toggle:hover { background: #f0f0f0; }
+  .intro-box-toggle .ib-chevron {
     font-size: 9px;
     transition: transform 0.2s;
-  }
-  .intro-collapse-toggle.open .ic-chevron {
-    transform: rotate(90deg);
-  }
-  .intro-collapsible {
-    overflow: hidden;
-    transition: max-height 0.4s ease, opacity 0.3s ease;
-  }
-  .intro-collapsible.collapsed {
-    max-height: 0;
-    opacity: 0;
-  }
-  .intro-collapsible.expanded {
-    max-height: 600px;
-    opacity: 1;
+    display: inline-block;
   }
 </style>
 </head>
@@ -188,31 +197,32 @@
 <!-- Main content -->
 <div class="content">
 
-  <button class="intro-collapse-toggle open" id="introToggle" onclick="toggleIntro()">
-    <span class="ic-chevron">&#9654;</span>
-    <span id="introToggleText">Hide introduction</span>
-  </button>
+  <div class="intro-box">
+    <div class="intro-box-content expanded" id="introContent">
+      <div class="module-header">
+        <div class="module-label">Module 3</div>
+        <h2>The Entity Boundary</h2>
+        <p class="module-subtitle">Before the system can compress, it must choose what to compress</p>
+      </div>
 
-  <div class="intro-collapsible expanded" id="introContent">
-    <div class="module-header">
-      <div class="module-label">Module 3</div>
-      <h2>The Entity Boundary</h2>
-      <p class="module-subtitle">Before the system can compress, it must choose what to compress</p>
+      <hr class="divider">
+
+      <p class="prose">
+        Every accounting system begins with a choice: what is the entity? A corporation, a partnership, a nonprofit, a government agency, a trust. The entity is not just a name &mdash; it is a <em>boundary</em>. Everything inside the boundary is what the system accounts for. Everything outside is a counterparty &mdash; someone the entity exchanges things with.
+      </p>
+
+      <p class="prose">
+        These exchanges &mdash; transactions &mdash; are where accounting started and remain its central core. When we observe a transaction, what do we record? The <em>information</em> in it: what was exchanged, how much, between whom, when, on what terms. The earliest accounting records &mdash; clay tablets, medieval ledgers &mdash; were doing exactly this: capturing the information in exchanges so it could be consulted later. Everything else the system does is built on top of that transaction-information base.
+      </p>
+
+      <p class="prose" style="margin-bottom: 24px;">
+        The diagram below builds this up, one exchange at a time. For each party, think about what crosses the boundary in each direction &mdash; then reveal the answer.
+      </p>
     </div>
-
-    <hr class="divider">
-
-    <p class="prose">
-      Every accounting system begins with a choice: what is the entity? A corporation, a partnership, a nonprofit, a government agency, a trust. The entity is not just a name &mdash; it is a <em>boundary</em>. Everything inside the boundary is what the system accounts for. Everything outside is a counterparty &mdash; someone the entity exchanges things with.
-    </p>
-
-    <p class="prose">
-      These exchanges &mdash; transactions &mdash; are where accounting started and remain its central core. When we observe a transaction, what do we record? The <em>information</em> in it: what was exchanged, how much, between whom, when, on what terms. The earliest accounting records &mdash; clay tablets, medieval ledgers &mdash; were doing exactly this: capturing the information in exchanges so it could be consulted later. Everything else the system does is built on top of that transaction-information base.
-    </p>
-
-    <p class="prose">
-      The diagram below builds this up, one exchange at a time. For each party, think about what crosses the boundary in each direction &mdash; then reveal the answer.
-    </p>
+    <button class="intro-box-toggle" id="introToggle" onclick="toggleIntro()">
+      <span class="ib-chevron" id="introChevron">&#9650;</span>
+      <span id="introToggleText">Hide introduction</span>
+    </button>
   </div>
 
   <!-- React mounts here -->
@@ -232,6 +242,44 @@
       <p>The entity boundary is itself an instance choice. Different rule sets draw it differently, and where they draw it shapes the entire picture the system produces.</p>
     </div>
   </div>
+
+  <!-- Rabbit hole: counterparty records -->
+  <div class="rabbit-hole">
+    <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+      <span class="rh-icon">&#128007;</span>
+      Do the two sides have to agree?
+      <span class="rh-chevron">&#9654;</span>
+    </button>
+    <div class="rabbit-hole-body">
+      <p>Every arrow on the diagram represents a transaction between the entity and a counterparty. The counterparty &mdash; a supplier, a lender, an employee &mdash; often has its own accounting system, recording the same transaction from the other side of the boundary. You might expect the two records to match. They do not have to.</p>
+      <p>The two entities may be operating under different instances of the architecture, with different recognition rules and different timing conventions. A supplier may recognize revenue when goods ship; the entity may not recognize the expense until the goods are consumed. A lender&rsquo;s books may show an asset (loan receivable) using one interest accrual method; the entity&rsquo;s books may show the corresponding liability using a different one. Same transaction, same cash flows, different numbers at any given point in time.</p>
+      <p>It goes further than timing. The two sides may not even agree on whether a transaction has occurred. A customer disputes an invoice &mdash; the entity has recorded a receivable, but the customer has not recorded a payable. One side sees an obligation; the other does not. This is normal, not a failure. Each entity&rsquo;s system records what its own conventions require, from its own side of the boundary. Reconciliation &mdash; the process of comparing the two sides and working out the differences &mdash; is an entire practice built around this fact.</p>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Stuff vs. Rights/Promises reflection -->
+  <div class="module-header" style="margin-top: 8px;">
+    <h2 style="font-size: 22px;">Stuff, Rights, and Promises</h2>
+    <p class="module-subtitle">An observation about what crosses the boundary</p>
+  </div>
+
+  <p class="prose">
+    Look back at the arrows you just built. In some exchanges, tangible things &mdash; stuff &mdash; cross the boundary in both directions: a supplier delivers goods, the entity pays cash. But in many exchanges, what crosses in one direction is not stuff at all. It is a right or a promise.
+  </p>
+  <p class="prose">
+    An owner puts resources in. What goes out? Not stuff &mdash; a right to control the entity and a residual claim on whatever is left. A lender puts cash in. What goes out? A promise to repay, with interest, on a schedule. A customer receives goods but might not pay immediately &mdash; what comes in is a promise to pay later (accounts receivable). The first step when something crosses the boundary is to analyze it: dig out the information in the transaction. What actually changed hands? Was it stuff, a right, or a promise? It does not matter whether there was a formal contract or a handshake &mdash; the analytical task is the same.
+  </p>
+  <p class="prose">
+    This habit of looking at each exchange and asking <em>what actually crossed, in each direction</em> is the analytical skill that the rest of the course will build on. The notation used in journal entries (Module 8) is simply a way to formalize it. For now, practice the habit with the prompts below.
+  </p>
+
+  <p class="prose" style="font-size: 14px; color: #888; font-style: italic; margin-bottom: 24px;">
+    These are not test questions. There are no right answers. Your responses are saved locally on your device.
+  </p>
+
+  <div id="reflection-prompts"></div>
 
   <hr class="divider">
 
@@ -278,13 +326,14 @@
 
   function toggleIntro() {
     var content = document.getElementById('introContent');
-    var btn = document.getElementById('introToggle');
     var text = document.getElementById('introToggleText');
+    var chevron = document.getElementById('introChevron');
     var isOpen = content.classList.contains('expanded');
     content.classList.toggle('expanded', !isOpen);
     content.classList.toggle('collapsed', isOpen);
-    btn.classList.toggle('open', !isOpen);
     text.textContent = isOpen ? 'Show introduction' : 'Hide introduction';
+    chevron.innerHTML = isOpen ? '&#9660;' : '&#9650;';
+    if (!isOpen) content.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 </script>
 
@@ -381,7 +430,7 @@ const STEPS = [
     party: 'employees',
     label: 'Employees',
     question: 'What do employees provide to the entity?',
-    answer: 'Labor \u2014 their time, skill, effort, and expertise. This crosses the boundary: the employee\u2019s system records income earned; the entity\u2019s system records an expense incurred.',
+    answer: 'Labor \u2014 their time, skill, effort, and expertise.',
     direction: 'in',
     visibleParties: ALL_IDS,
     addFlowIn: 'employees'
@@ -402,7 +451,7 @@ const STEPS = [
     party: 'suppliers',
     label: 'Suppliers',
     question: 'What do suppliers provide to the entity?',
-    answer: 'Goods and services \u2014 raw materials, components, professional services, utilities. The supplier records a sale; the entity records a purchase.',
+    answer: 'Goods and services \u2014 raw materials, components, professional services, utilities.',
     direction: 'in',
     visibleParties: ALL_IDS,
     addFlowIn: 'suppliers'
@@ -412,7 +461,7 @@ const STEPS = [
     party: 'suppliers',
     label: 'Suppliers',
     question: 'What does the entity transfer to suppliers?',
-    answer: 'Cash, or a promise to pay later (accounts payable). Same transaction, two boundaries \u2014 recorded in both systems.',
+    answer: 'Cash, or a promise to pay later (accounts payable).',
     direction: 'out',
     visibleParties: ALL_IDS,
     addFlowOut: 'suppliers'
@@ -423,7 +472,7 @@ const STEPS = [
     party: 'government',
     label: 'Government',
     question: 'What does the government provide to the entity?',
-    answer: 'Public goods and infrastructure \u2014 legal systems, roads, regulation, national defense. The government has its own accounting system: a different instance of the same architecture.',
+    answer: 'Public goods and infrastructure \u2014 legal systems, roads, regulation, national defense.',
     direction: 'in',
     visibleParties: ALL_IDS,
     addFlowIn: 'government'
@@ -433,7 +482,7 @@ const STEPS = [
     party: 'government',
     label: 'Government',
     question: 'What does the entity transfer to the government?',
-    answer: 'Taxes \u2014 assessed under yet another instance of the architecture (the tax code). Both sides record the same transaction under different rules.',
+    answer: 'Taxes \u2014 assessed under the tax code, a different instance of the architecture.',
     direction: 'out',
     visibleParties: ALL_IDS,
     addFlowOut: 'government'
@@ -454,7 +503,7 @@ const STEPS = [
     party: 'customers',
     label: 'Customers',
     question: 'What do customers transfer to the entity?',
-    answer: 'Cash, or a promise to pay later (accounts receivable). The entity records revenue; the customer records an expense or an asset received.',
+    answer: 'Cash, or a promise to pay later (accounts receivable).',
     direction: 'in',
     visibleParties: ALL_IDS,
     addFlowIn: 'customers'
@@ -706,6 +755,92 @@ function EntityDiagram() {
 // ===== MOUNT =====
 const root = ReactDOM.createRoot(document.getElementById('react-root'));
 root.render(<EntityDiagram />);
+</script>
+
+<!-- Reflection prompts (vanilla JS, same card styling as reflect2) -->
+<script>
+(function() {
+  var STORAGE_KEY = 'prework_reflect_entity';
+  var PROMPTS = [
+    'Pick two parties from the diagram where "stuff" crosses the boundary in both directions. What makes these exchanges straightforward to record?',
+    'Now pick an exchange where stuff crosses in one direction but a right or a promise crosses in the other. What is the right or promise, and how is it different from stuff?',
+    'When a lender provides cash and receives a promise to repay, and an owner provides cash and receives a residual claim \u2014 both put in the same thing (cash), but what they get back is very different. In your own words, what is the difference?',
+    'Think of a transaction you have been part of \u2014 buying something, lending money to a friend, investing. What crossed in each direction? Was any of it a right or a promise rather than stuff?'
+  ];
+
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch(e) {}
+
+  var container = document.getElementById('reflection-prompts');
+  if (!container) return;
+
+  // Progress summary
+  var summaryDiv = document.createElement('div');
+  summaryDiv.style.cssText = 'font-family: "Helvetica Neue", Arial, sans-serif; font-size: 13px; color: #888; margin-bottom: 24px; padding: 12px 16px; background: #f0f4f8; border-radius: 5px; display: flex; align-items: center; gap: 8px;';
+  var countSpan = document.createElement('span');
+  countSpan.style.cssText = 'font-weight: 600; color: #00356b;';
+  countSpan.id = 'entityReflectCount';
+  summaryDiv.appendChild(countSpan);
+  summaryDiv.appendChild(document.createTextNode(' prompts answered'));
+  container.appendChild(summaryDiv);
+
+  function updateCount() {
+    var c = 0;
+    try { var s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); for (var k in s) { if (s[k] && s[k].trim().length > 0) c++; } } catch(e) {}
+    countSpan.textContent = c + ' of ' + PROMPTS.length;
+  }
+
+  PROMPTS.forEach(function(promptText, i) {
+    var card = document.createElement('div');
+    card.style.cssText = 'background: white; border: 1px solid #e0e0e0; border-radius: 6px; padding: 24px; margin-bottom: 20px; transition: border-color 0.2s;';
+    if (saved[i] && saved[i].trim().length > 0) card.style.borderColor = '#22c55e';
+
+    var num = document.createElement('div');
+    num.style.cssText = 'font-family: "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; color: #bd5319; margin-bottom: 8px;';
+    num.textContent = 'Prompt ' + (i + 1) + ' of ' + PROMPTS.length;
+    card.appendChild(num);
+
+    var text = document.createElement('div');
+    text.style.cssText = 'font-size: 16px; line-height: 1.6; margin-bottom: 14px;';
+    text.textContent = promptText;
+    card.appendChild(text);
+
+    var ta = document.createElement('textarea');
+    ta.style.cssText = 'width: 100%; min-height: 100px; padding: 12px 14px; border: 1px solid #ddd; border-radius: 5px; font-family: Georgia, "Times New Roman", serif; font-size: 15px; line-height: 1.6; color: #2a2a2a; resize: vertical; box-sizing: border-box;';
+    ta.placeholder = 'Write your response here...';
+    ta.value = saved[i] || '';
+
+    var saveTimer = null;
+    ta.addEventListener('input', function() {
+      if (saveTimer) clearTimeout(saveTimer);
+      var idx = i, cardEl = card, taEl = ta;
+      saveTimer = setTimeout(function() {
+        try {
+          var s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+          s[idx] = taEl.value;
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+        } catch(e) {}
+        cardEl.style.borderColor = taEl.value.trim().length > 0 ? '#22c55e' : '#e0e0e0';
+        updateCount();
+      }, 800);
+    });
+    ta.addEventListener('blur', function() {
+      if (saveTimer) clearTimeout(saveTimer);
+      try {
+        var s = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+        s[i] = ta.value;
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+      } catch(e) {}
+      card.style.borderColor = ta.value.trim().length > 0 ? '#22c55e' : '#e0e0e0';
+      updateCount();
+    });
+
+    card.appendChild(ta);
+    container.appendChild(card);
+  });
+
+  updateCount();
+})();
 </script>
 
 </body>

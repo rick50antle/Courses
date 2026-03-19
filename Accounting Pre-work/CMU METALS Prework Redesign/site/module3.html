@@ -46,14 +46,23 @@
   <div class="module-header">
     <div class="module-label">Module 3</div>
     <h2>Worth, Quantification, and Limits</h2>
-    <p class="module-subtitle">Conventions, tradeoffs, and what the system can and cannot see</p>
+    <p class="module-subtitle">Compacting complexity &mdash; aspirations, conventions, and context</p>
   </div>
 
   <hr class="divider">
 
   <!-- Opening prose -->
   <p class="prose">
-    An accounting system compresses reality into numbers. But not everything can be quantified, and not every quantification is neutral. This module examines what accounting can measure and the deliberate choices embedded in how it measures them.
+    In the <a href="entity-diagram.html" style="color: var(--primary); font-weight: 600;">entity boundary exercise</a>, you worked through what crosses the boundary between an organization and the outside parties it interacts with. Some of what crosses is straightforward &mdash; cash for goods, labor for salary. But much of it is not. An owner puts in resources and receives back a residual claim &mdash; not a fixed amount, not a guarantee, but whatever is left. A lender provides cash and receives a promise to repay. A customer receives goods and gives a promise to pay later. Stuff crosses in one direction; rights and promises cross in the other.
+  </p>
+  <p class="prose">
+    Now step back and consider the system&rsquo;s task. It has to take all of this &mdash; the stuff, the rights, the promises, the obligations, the residual claims &mdash; and compress it into a structured picture. Not just once, but continuously, as these exchanges unfold over time, accumulate, change in character, and sometimes go wrong. The system has to express all of this in numbers.
+  </p>
+  <p class="prose">
+    This is not a crisp problem with a clean solution. It is compacting complexity. The things the system is trying to represent &mdash; the worth of an organization, how that worth changes, where the changes come from &mdash; are not well-defined physical quantities sitting there waiting to be read off an instrument. They are contested, contextual, and dependent on conventions that reasonable people might construct differently.
+  </p>
+  <p class="prose">
+    Because accounting systems face this kind of complexity, they do not work by applying precise definitions to clean data. They work through three layers: <strong>aspirations</strong> that orient the system toward what it is trying to capture, <strong>conventions</strong> that provide practical rules for getting close enough, and <strong>context</strong> &mdash; the environment of incentives and pressures in which real people apply those conventions. Each layer flows from the one before: aspirations alone would be useless without conventions to implement them, and conventions alone would be naive without understanding the context in which they are applied.
   </p>
 
   <!-- Accordion sections -->
@@ -62,58 +71,171 @@
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">1</span>
-        What Counts as Worth?
+        Aspirations
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>This section will explore how "value" is defined in accounting systems and why market price is treated as the primary measure of worth.</p>
+        <p>An accounting system aspires to tell the financial story of an entity &mdash; to show what resources it holds, what obligations it owes, and how those changed over a period of time. For a for-profit company, that story is largely about worth: was worth created, how much, and for whom? For a nonprofit &mdash; a university, a hospital, a charitable foundation &mdash; the story shifts toward stewardship: were the resources entrusted to the organization used for the purposes they were given? For a government agency, the questions shift again: did the agency spend within its appropriations, and is the fiscal position sustainable? The architecture is the same in every case. The aspirations are not.</p>
+
+        <p>But what do we mean by <em>worth</em>? Not a single number sitting there waiting to be read off an instrument. Worth is better understood as the opportunity set that something embodies &mdash; the goods, services, exchanges, and transformations it makes available to whoever holds it. A piece of manufacturing equipment is worth what it lets you produce, what you could trade it for, what alternatives it opens up. A patent is worth the exclusive command it gives you over a technology. Cash is worth whatever you can acquire with it &mdash; goods, labor, investments, debt repayment. Worth, in other words, is about transformation power: what can this thing be turned into, exchanged for, or used to accomplish?</p>
+
+        <p>This is why the system&rsquo;s task is so hard. Worth is not a physical property like mass or length. It depends on context &mdash; who holds the resource, what alternatives they have, what markets exist. Two people can look at the same asset and reasonably disagree about its worth because they see different opportunities in it. A price, when one exists, expresses worth at a particular moment in a particular transaction &mdash; two parties agreed, and that agreement is evidence. But the price is a snapshot, not the whole picture. The underlying opportunity set keeps shifting as markets, technologies, and circumstances change.</p>
+
+        <div class="info-box">
+          <h3>A note on language: worth vs. value</h3>
+          <p>The standard term in accounting is <em>value</em> &mdash; fair value, book value, net realizable value. You will encounter it constantly in the course and in practice. We use <em>worth</em> in this prework because &ldquo;value&rdquo; sounds precise and definitive, as though the number the system produces is a fact. &ldquo;Worth&rdquo; carries an honest implication: that the concept is broader than any single number, that reasonable people may disagree about it, and that the system&rsquo;s conventions shape the answer it gives. When you see &ldquo;worth&rdquo; here, you can read it as the same concept the field calls &ldquo;value&rdquo; &mdash; but with a reminder that there is always more to it than the number on the page.</p>
+        </div>
+
+        <p>These are aspirations, not specifications. The word matters. A specification tells you exactly what to do &mdash; define the quantity, build a formal model, test it against data. Aspirations are looser than that. They orient the system. They tell you the direction without fully determining the destination. When a standard-setter debates whether to require fair-worth adjustments on the balance sheet, or when an auditor judges whether a company&rsquo;s revenue recognition is appropriate, both are guided by aspirations about what the system is trying to show &mdash; but neither is applying a formula that settles the question mechanically.</p>
+
+        <p>Why aspirations rather than precise definitions? Because accounting systems did not emerge from a blueprint. They evolved. Double-entry bookkeeping appeared in medieval Italian commerce &mdash; merchants solving practical problems of tracking exchanges across partners, voyages, and currencies. The concepts we now use to describe what accounting does &mdash; income, assets, obligations, equities &mdash; were named and formalized centuries after the practices they describe were already in widespread use. The system was built first, and the language for explaining what it was trying to do came later.</p>
+
+        <p>This matters because it means the goals of the system were never stated as axioms from which everything else follows. They were articulated after the fact, as ways of explaining what an already-evolving practice was reaching toward. And those articulations remain imperfect analogies &mdash; close enough to be useful, open enough to accommodate the mess of real transactions that no formal definition could fully anticipate.</p>
+
+        <p>So when we say the system aspires to represent worth, we mean something like this: worth is what the numbers are reaching toward, but they do not capture it completely, and different people looking at the same numbers may reasonably disagree about how close the system got. That is not a flaw. It is an honest description of what happens when you try to compress the complexity of an organization&rsquo;s economic life into a structured picture.</p>
+
+        <p>This is another reason aspirations work better than definitions. A precise definition of what the system is &ldquo;supposed to show&rdquo; would have to be different for a corporation, a charity, and a government agency. Aspirations are loose enough to cover all three &mdash; they orient the system without locking it into a single purpose.</p>
+
+        <!-- Rabbit hole: evolutionary development -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            How accounting evolved &mdash; practice before theory
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>The contrast with other fields is instructive. In physics, you define a quantity (mass, charge, velocity), build a mathematical model that relates it to other quantities, and test the model&rsquo;s predictions against experiment. The definition comes first; the measurement follows. Accounting developed in the opposite direction. Practitioners kept records of exchanges for centuries before anyone tried to articulate a theory of what those records were capturing. Luca Pacioli described double-entry bookkeeping in 1494, but he was documenting an existing practice, not inventing one &mdash; Venetian merchants had been using it for at least a hundred years.</p>
+            <p>The conceptual frameworks we use today &mdash; the FASB&rsquo;s Conceptual Framework in the US, the IASB&rsquo;s internationally &mdash; are attempts to retroactively articulate the goals of a system that was already centuries old. They are useful guides, but they are not axioms. They are the best language we have found so far for describing what the system is trying to do.</p>
+            <p>This evolutionary history &mdash; how accounting developed from clay tablets in ancient Uruk to the global reporting systems of today &mdash; is the subject of the <em>Accounting Origins</em> project. When that resource becomes available, we will link to it here: <span style="color: #888; font-style: italic;">[URL forthcoming]</span></p>
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">2</span>
-        The Input Boundary
+        Conventions
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>Not everything an organization owns or cares about appears on its financial statements; this section examines what falls inside and outside the system's scope.</p>
+        <p>Aspirations point the way, but they do not tell you what to do when a specific transaction lands on the table. For that, the system relies on conventions &mdash; practical rules, developed over time, that provide a workable way to move toward the aspirations. Every convention is a pragmatic response to complexity. Every one of them sacrifices something.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">The arm&rsquo;s-length transaction</h3>
+
+        <p>The most fundamental convention is also the simplest: when two independent parties freely exchange something, the price they agree on is the strongest available evidence of what the exchanged items are worth. This is the arm&rsquo;s-length transaction. It gives the system its epistemic anchor &mdash; a starting point for worth that is grounded in actual market behavior rather than someone&rsquo;s opinion.</p>
+
+        <p>Think back to the entity boundary diagram. Every arrow represented a transaction &mdash; something crossing the boundary between the entity and an outside party. The convention says: the worth of what came in equals the worth of what went out. An employee provides labor and receives a salary. What is the labor worth? The system records it at the salary exchanged for it. A supplier delivers goods and receives cash. What are the goods worth? The amount of cash paid. The two sides of the transaction anchor each other.</p>
+
+        <p>This is powerful because it is grounded in evidence. Two independent parties looked at the same thing and agreed on a price. That agreement <em>is</em> a market, and that price is worth expressed. No model required. No estimate. Just the observed fact of an exchange.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">What happens after the transaction</h3>
+
+        <p>But here is where things get complicated. The transaction gives you worth at the moment of exchange. What happens after that? A company buys a building in 2010 for $2 million. By 2025, the neighborhood has transformed. What is the building worth now? The original transaction price is anchored in hard evidence, but it is fifteen years old. The current market is different. Should the system update the number?</p>
+
+        <p>This is where conventions diverge, and where you see the aspirations pulling against each other. One approach &mdash; historical cost &mdash; stays close to the transaction. Record the building at what was paid for it, adjusted systematically for wear and age (depreciation), and leave it there. This preserves the epistemic anchor: the number traces back to an actual exchange, and anyone can verify it. What it sacrifices is timeliness. The number on the books may be far from what the building would fetch today.</p>
+
+        <p>Another approach &mdash; fair worth &mdash; tries to update the number to reflect current market conditions. This gains timeliness but sacrifices verifiability. The updated number may be based on comparable sales, appraisals, or models &mdash; all of which involve judgment, estimation, and the possibility of disagreement. The farther you move from the original transaction, the more judgment enters the picture.</p>
+
+        <p>Neither approach is wrong. Each is a convention that moves toward the aspiration of representing worth &mdash; but by a different route, sacrificing different things along the way. Different instances of the architecture make different choices: US GAAP leans more toward historical cost for many assets; IFRS permits or requires revaluation in some cases. The tax code often has its own rules entirely. Same aspiration, different conventions, different tradeoffs.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">What gets in and what stays out</h3>
+
+        <p>There is a prior question, too: what enters the system in the first place? Conventions determine not just how things are quantified but whether they are recognized at all. A company&rsquo;s workforce may be its most important resource, but you will not find &ldquo;trained employees&rdquo; on a balance sheet. Why not? Because there was no arm&rsquo;s-length transaction that established their worth as an asset of the entity. The system can record the salaries paid (a transaction), but it struggles with the accumulated human capital those salaries helped build (not a transaction &mdash; or at least, not one with a clear price).</p>
+
+        <p>The same is true of brand reputation, organizational culture, strategic positioning. These things matter enormously to worth, but they resist the kind of quantification the system&rsquo;s conventions can handle. This is a genuine limit &mdash; not a failure of the system, but a consequence of the conventions it uses. Every convention that makes the system workable also makes it blind to certain things.</p>
+
+        <!-- Rabbit hole: recognition boundary -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            The recognition boundary &mdash; what the system cannot see
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>The gap between what an organization is worth and what its accounting system records is sometimes enormous. When Microsoft acquired LinkedIn in 2016, it paid roughly $26 billion. LinkedIn&rsquo;s book worth &mdash; the total of assets minus liabilities as recorded by its accounting system &mdash; was far less. The difference, which shows up on Microsoft&rsquo;s books as &ldquo;goodwill,&rdquo; represents everything the system could not see until a transaction forced it into view: the user network, the data, the brand, the strategic fit.</p>
+            <p>Goodwill is, in a sense, the system&rsquo;s admission of its own limits. It says: a transaction happened, and the price paid exceeded the sum of what we could individually identify and quantify. The residual &mdash; everything the conventions could not separately capture &mdash; gets a single label and a single number. It is precise in total (because a transaction anchored it) but opaque in composition (because the conventions cannot decompose it).</p>
+            <p>This is worth remembering every time you read a balance sheet. What the system shows is real, but it is not everything. The conventions that make the system workable also determine its blind spots.</p>
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">3</span>
-        Quantification Choices
+        Context
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>When an item is included, managers and accountants still make choices about how to measure it; this section explores methods like historical cost, fair value, and their consequences.</p>
+        <p>Conventions provide rules, but rules require application, and application is done by people. Real people, with incentives, under pressure, making judgment calls. This is the third layer: context &mdash; the social, economic, and institutional environment in which conventions are applied.</p>
+
+        <p>Think about what we established in Module 2. The system&rsquo;s output is used to evaluate managers, enforce contracts, trigger regulatory consequences, and inform investment decisions worth billions. The people who prepare the accounts know this. A CEO whose bonus depends on net income has an incentive to prefer conventions and estimates that produce a higher number. A company approaching a debt covenant threshold has an incentive to record transactions in ways that keep the ratio on the right side of the line.</p>
+
+        <p>This does not mean everyone is cheating. Most of the time, the incentives are subtle. Conventions involve judgment &mdash; when to recognize revenue, how to estimate a loss, which assets to write down and by how much. Within the boundaries of legitimate practice, there is often a range of defensible choices. Context determines where within that range the choice falls. You have probably heard the phrase &ldquo;creative accounting.&rdquo; That phrase exists because the application of conventions in practice is not mechanical. When judgment is involved, the pressures people face will, to some degree, bleed into the numbers.</p>
+
+        <p>This is why the institutional infrastructure around accounting systems matters: independent auditors, audit committees, regulatory oversight, legal liability. These institutions exist precisely because the system recognizes that conventions alone are not enough. Someone has to check that the people applying the conventions are doing so in good faith, within the range of defensible judgment, and not tilting the numbers to serve their own interests at the expense of the people who rely on the system&rsquo;s output.</p>
+
+        <p>Context is not an afterthought. It is what makes the difference between a system that works and a system that produces numbers no one can trust. The aspirations set the direction. The conventions provide the rules. The context determines whether the rules are applied honestly.</p>
       </div>
     </div>
 
     <div class="accordion-section">
       <button class="accordion-trigger" onclick="toggleAccordion(this)">
         <span class="section-num">4</span>
-        Tradeoffs Are Unavoidable
+        When the System Fails
         <span class="chevron">&#9654;</span>
       </button>
       <div class="accordion-body">
-        <p><em>[Content to be drafted.]</em></p>
-        <p>Every choice about what to include and how to measure it involves giving up something else; this section examines the tradeoffs between relevance, reliability, simplicity, and comparability.</p>
+        <p>Aspirations, conventions, and context are supposed to work together. When they do, the system produces a picture that &mdash; within its limits &mdash; is trustworthy enough for all those users from Module 2 to rely on. When they do not, the consequences can be severe.</p>
+
+        <p>Consider an investment opportunity. A fund with a twelve-year track record averaging roughly 13% annual returns. Steady, year after year &mdash; no big swings, no losing years. Put in $1 at the start, and twelve years later you have about $5. It outperformed Treasury bills by a wide margin, and it delivered returns close to the S&amp;P 500 but with far less volatility. By the time the performance data ends, the fund held $5.1 billion in assets and was part of a firm managing $8.3 billion. Thousands of people invested.</p>
+
+        <p>The fund was the Fairfield Sentry Fund. Its strategy was simple: it fed every dollar it raised into another fund, run by Bernard Madoff. Madoff&rsquo;s operation was the largest Ponzi scheme in history.</p>
+
+        <p>A Ponzi scheme works by exploiting exactly the distinction the system is supposed to make clear. Recall the first aspiration: the system tries to show when worth has been created &mdash; when an entity&rsquo;s activities produce more than they consume. An entity creates worth for the economy when the goods or services it produces exceed the goods and services it consumes in producing them. A Ponzi scheme produces nothing. No goods, no services, no productive activity. No worth is created. Ever.</p>
+
+        <p>But money still flows. Early investors receive payments. Those payments look like returns &mdash; like a share of profits from a successful investment strategy. They are not. They are other people&rsquo;s money. The scheme takes in new capital and uses it to pay existing investors, creating the appearance of returns where no productive activity generated any. It is redistribution disguised as creation.</p>
+
+        <p>In Madoff&rsquo;s case, the accounting was not inherently difficult. The transactions were simple enough to record. The failure was not in the conventions. It was in the context &mdash; in the institutions that were supposed to apply those conventions and verify the results. The auditor was a one-person firm operating out of a small office. The SEC received tips and complaints for years and did not follow through. The feeder funds, like Fairfield Sentry, did not independently verify that the trades Madoff claimed to be making actually existed. The entire institutional infrastructure that was supposed to ensure honest application of the system&rsquo;s conventions broke down.</p>
+
+        <p>The damage was enormous. Approximately $17 billion was lost by investors who put in more than they took out. Recovery efforts eventually clawed back about $14.3 billion from those who &mdash; knowingly or not &mdash; had taken out more than they put in.</p>
+
+        <!-- Rabbit hole: Albania -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            When an entire country falls &mdash; Albania&rsquo;s pyramid schemes
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>Madoff&rsquo;s scheme operated within an economy that had functioning (if imperfect) institutions. What happens when those institutions barely exist at all?</p>
+            <p>In 1990s Albania, as the country transitioned from a closed communist economy, pyramid schemes proliferated on a scale that dwarfed anything seen in Western markets. At their peak, the schemes held liabilities estimated at roughly 40% of the country&rsquo;s GDP. When they collapsed in 1997, the consequences went far beyond financial losses. The government fell. Civil order broke down. Armories were looted. Roughly 2,000 people died in the violence that followed.</p>
+            <p>Researchers later found that the financial losses produced measurable long-term health effects &mdash; elevated rates of coronary disease among those who lost their savings, persisting years after the collapse. The inability to distinguish worth creation from redistribution was not an abstract accounting problem. It was a failure with consequences that cascaded through an entire society.</p>
+          </div>
+        </div>
+
+        <p>The lesson is not that accounting systems are fragile. They are remarkably robust, and when they work as intended, they do exactly what the first aspiration describes: they make the distinction between creation and redistribution visible. The lesson is that the system does not operate in a vacuum. It depends on the context &mdash; on auditors, regulators, and institutional norms &mdash; to ensure that the conventions are applied honestly. When that context fails, the numbers become a fiction, and the people who trusted them pay the price.</p>
       </div>
     </div>
 
   </div><!-- /accordion -->
 
+  <hr class="divider">
+
+  <!-- Bridge to Module 4 -->
+  <p class="prose">
+    We have seen what accounting systems aspire to capture (worth and its changes), the conventions they use to get there (anchored in arm&rsquo;s-length transactions, shaped by practical tradeoffs), and the context that determines whether the conventions are applied honestly. Every choice the system makes &mdash; what to recognize, how to quantify it, when to update &mdash; is a response to the fundamental problem of compacting complexity.
+  </p>
+  <p class="prose">
+    In the next module, we turn from what the system is trying to do to how it is built. The architecture itself: the accounting identity that holds the entire structure together, and the four output channels &mdash; the financial statements &mdash; through which the compressed picture reaches the people who rely on it.
+  </p>
+
   <!-- Prev / Next navigation -->
   <div class="module-nav">
-    <a href="reflect2.html" class="prev">
+    <a href="entity-diagram.html" class="prev">
       <span class="nav-direction">&larr; Previous</span>
-      <span class="nav-label">Module 2: Why Accounting Systems Exist</span>
+      <span class="nav-label">The Entity Boundary</span>
     </a>
     <a href="module4.html" class="next">
       <span class="nav-direction">Next &rarr;</span>
