@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 4: The Architecture Itself</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Module header -->
+  <div class="module-header">
+    <div class="module-label">Module 4</div>
+    <h2>The Architecture Itself</h2>
+    <p class="module-subtitle">The accounting identity and the four output channels</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Opening prose -->
+  <p class="prose">
+    Now we move from why accounting systems exist and what they struggle to measure to how they are built. The architecture of accounting rests on a single, foundational constraint: the accounting identity. From this constraint, everything else flows.
+  </p>
+
+  <!-- Accordion sections -->
+  <div class="accordion">
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">1</span>
+        The Self-Balancing Requirement
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section introduces the fundamental constraint: Assets = Liabilities + Equities, and explains why double-entry bookkeeping ensures the system always balances.</p>
+
+        <!-- Rabbit hole -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            Why impose a constraint? — what the identity makes possible
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p><em>[Content to be drafted.]</em></p>
+            <p>This exploration discusses how a self-balancing constraint eliminates certain types of errors, creates a forcing function for systematic data entry, and makes it possible to audit the system's integrity.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">2</span>
+        Assets, Liabilities, Equities
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section defines the three elements of the identity and explores how different transactions distribute themselves across these categories.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">3</span>
+        The Four Financial Statements
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section introduces the balance sheet, income statement, cash flow statement, and statement of changes in equity as the four output channels through which the system reports.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">4</span>
+        How Architecture and Instance Interact
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section explains how the same underlying double-entry data can be presented in multiple output formats, each answering a different question about the organization.</p>
+      </div>
+    </div>
+
+  </div><!-- /accordion -->
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="module3.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 3: Worth, Quantification, and Limits</span>
+    </a>
+    <a href="module5.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 5: CVS Health: Balance Sheets</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  initPage(4);
+</script>
+
+</body>
+</html>

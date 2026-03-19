@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Standards Selector — Prework Project</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #2a2a2a;
+    background: #f5f5f5;
+    line-height: 1.6;
+  }
+
+  .header {
+    background: #00356b;
+    color: white;
+    padding: 24px 32px;
+  }
+  .header h1 { font-size: 20px; font-weight: 600; }
+  .header p { font-size: 13px; opacity: 0.7; margin-top: 4px; }
+
+  .main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 28px 24px 80px;
+  }
+
+  .intro {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 20px 24px;
+    margin-bottom: 28px;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+
+  /* Source document sections */
+  .source-doc {
+    margin-bottom: 32px;
+  }
+  .source-doc-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #00356b;
+    margin-bottom: 4px;
+  }
+  .source-doc-desc {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 14px;
+  }
+
+  /* Standard items */
+  .standard-item {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+  .standard-item.adopted { border-color: #22c55e; }
+  .standard-item.skipped { border-color: #ddd; opacity: 0.6; }
+  .standard-item.needs-adaptation { border-color: #f59e0b; }
+
+  .item-header {
+    display: flex;
+    align-items: center;
+    padding: 14px 18px;
+    cursor: pointer;
+    gap: 12px;
+  }
+  .item-header:hover { background: #fafafa; }
+
+  .item-expand {
+    width: 20px;
+    font-size: 12px;
+    color: #aaa;
+    flex-shrink: 0;
+    transition: transform 0.2s;
+    text-align: center;
+  }
+  .standard-item.open .item-expand { transform: rotate(90deg); }
+
+  .item-title {
+    flex: 1;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .item-badge {
+    font-size: 11px;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .badge-applicable {
+    background: #dcfce7;
+    color: #16a34a;
+  }
+  .badge-adapt {
+    background: #fef3c7;
+    color: #d97706;
+  }
+  .badge-not-applicable {
+    background: #f3f4f6;
+    color: #9ca3af;
+  }
+
+  .item-body {
+    display: none;
+    padding: 0 18px 16px;
+    padding-left: 50px;
+  }
+  .standard-item.open .item-body { display: block; }
+
+  .item-content {
+    font-size: 13.5px;
+    color: #555;
+    margin-bottom: 14px;
+    line-height: 1.7;
+  }
+  .item-content p { margin-bottom: 8px; }
+  .item-content p:last-child { margin-bottom: 0; }
+
+  .item-assessment {
+    font-size: 13px;
+    padding: 10px 14px;
+    border-radius: 5px;
+    margin-bottom: 14px;
+  }
+  .assessment-applicable {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #166534;
+  }
+  .assessment-adapt {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    color: #92400e;
+  }
+  .assessment-skip {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    color: #6b7280;
+  }
+
+  /* Decision buttons */
+  .item-actions {
+    display: flex;
+    gap: 8px;
+  }
+  .action-btn {
+    padding: 7px 16px;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: inherit;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    background: white;
+    transition: all 0.15s;
+  }
+  .action-btn:hover { background: #f5f5f5; }
+  .action-btn.selected-adopt {
+    background: #22c55e;
+    color: white;
+    border-color: #22c55e;
+  }
+  .action-btn.selected-adapt {
+    background: #f59e0b;
+    color: white;
+    border-color: #f59e0b;
+  }
+  .action-btn.selected-skip {
+    background: #9ca3af;
+    color: white;
+    border-color: #9ca3af;
+  }
+
+  /* Summary bar */
+  .summary-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    border-top: 1px solid #e0e0e0;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    font-size: 13px;
+    z-index: 10;
+  }
+  .summary-stat {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .stat-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+  }
+  .summary-bar .btn-export {
+    padding: 8px 20px;
+    background: #00356b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: inherit;
+    cursor: pointer;
+    margin-left: 16px;
+  }
+  .summary-bar .btn-export:hover { background: #004a96; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Project Standards Selector</h1>
+  <p>Review standards from the Accounting Origins project. Adopt, adapt, or skip each for the Prework.</p>
+</div>
+
+<div class="main">
+  <div class="intro">
+    These standards were developed for the Accounting Origins Project — an interactive tutorial series that teaches accounting through historical fiction. Not all of them apply to a prework course. For each standard below, I've assessed whether it applies directly, needs adaptation, or doesn't fit. Click to expand any item, read the assessment, then click <strong>Adopt</strong>, <strong>Adapt</strong>, or <strong>Skip</strong>.
+  </div>
+
+  <div id="standards"></div>
+</div>
+
+<div class="summary-bar">
+  <div class="summary-stat"><div class="stat-dot" style="background:#22c55e"></div> Adopted: <strong id="countAdopt">0</strong></div>
+  <div class="summary-stat"><div class="stat-dot" style="background:#f59e0b"></div> Adapt: <strong id="countAdapt">0</strong></div>
+  <div class="summary-stat"><div class="stat-dot" style="background:#9ca3af"></div> Skipped: <strong id="countSkip">0</strong></div>
+  <div class="summary-stat" style="color:#aaa;">Pending: <strong id="countPending">0</strong></div>
+  <button class="btn-export" onclick="exportDecisions()">Export Decisions</button>
+</div>
+
+<script>
+const DATA = [
+  {
+    source: "Core Pedagogical Standards",
+    sourceDesc: "Terminology, approach, and pedagogical requirements",
+    items: [
+      {
+        id: "term-measurement",
+        title: "Never use \"measurement\" or \"measure\"",
+        content: "Accounting does not measure. Use instead: express, quantify, estimate, assess, allocate. When a student uses \"measurement,\" gently reframe without being pedantic.",
+        badge: "applicable",
+        assessment: "Directly applicable. Already adopted in your Terminology and Language Conventions document. This is a core commitment of the prework.",
+        rec: "adopt"
+      },
+      {
+        id: "term-identity",
+        title: "Always say \"accounting identity,\" never \"accounting equation\"",
+        content: "The identity is a framework for recording, organizing, and reporting — not a formula to memorize. The general form: Assets − Liabilities = ? The name for the difference depends on entity type (Equities for for-profit, Net Assets for nonprofit).",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework already uses \"accounting identity\" throughout. The identity is a central architectural element.",
+        rec: "adopt"
+      },
+      {
+        id: "term-equities",
+        title: "Equities terminology rules (plural form, definitional residual)",
+        content: "Always use \"Equities\" (plural). Always emphasize it is a DEFINITIONAL difference. Never frame as \"what's left for owners.\" Clarify that negative book equities does not necessarily mean a worthless company.",
+        badge: "adapt",
+        assessment: "Applicable in principle, but the prework focuses on for-profit (CVS Health) and introduces the identity at a high altitude. The plural \"Equities\" convention and the \"definitional residual\" framing apply. The detailed discussion of negative equities may be too deep for the prework — could be a rabbit hole.",
+        rec: "adapt"
+      },
+      {
+        id: "term-measure-standard",
+        title: "\"Measure\" as common standard (barley measures wool, etc.)",
+        content: "Three problems with using \"measure\" for a common standard of comparison: implies precision, obscures relational nature of exchange, conflates the lens with what's being seen. Use \"common standard,\" \"expressed in,\" \"what X can command.\"",
+        badge: "not-applicable",
+        assessment: "This is specific to the Accounting Origins historical narrative (Babylonian barley exchange). The prework doesn't cover the origins of money or barter systems.",
+        rec: "skip"
+      },
+      {
+        id: "term-general-language",
+        title: "General language rules (no royal \"we,\" plain language, active voice)",
+        content: "Never use the royal \"we.\" Prefer plain language over jargon. Use active voice to show human agency: \"Accountants choose...\" not \"It is determined...\" Always qualify institutional statements.",
+        badge: "adapt",
+        assessment: "Mostly applicable, but the prework video script does use \"we\" in the sense of \"we'll study one instance\" — meaning \"you and I together.\" That's different from the royal \"we.\" The plain language and active voice rules apply directly.",
+        rec: "adapt"
+      },
+      {
+        id: "fundamental-distinction",
+        title: "Fundamental Distinction: accounting representations vs. economic reality",
+        content: "Every tutorial must distinguish between what appears in the books (accounting representations) and the actual resources/obligations/activities (economic reality). Flag gaps explicitly. The records \"show\" things; the entity \"has\" things.",
+        badge: "applicable",
+        assessment: "Directly applicable. This is the \"complementary cognitive artifact\" stance from the prework design — the system produces representations, not reality. The language precision (\"the balance sheet reports\" vs. \"the company has\") should carry through all modules.",
+        rec: "adopt"
+      },
+      {
+        id: "flag-gaps",
+        title: "Flag gaps explicitly + highlight common exclusions",
+        content: "When introducing any financial statement item, note what it captures AND what it misses. Frequently mention: internally generated intangibles, human capital, market position advantages, contingent assets.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework's incomplete markets principle (Module 3) is built on exactly this. The balance sheet is a partial picture, honestly drawn.",
+        rec: "adopt"
+      },
+      {
+        id: "real-dynamics",
+        title: "Explain the real dynamics (human motives, power, politics, strategic concealment)",
+        content: "Provide honest context about why certain assets aren't recorded: human motives, power and politics in standard-setting, conflict avoidance, cost-benefit calculations, strategic concealment.",
+        badge: "adapt",
+        assessment: "The principle applies — accounting rules are human choices. But the prework's framing is \"tradeoffs,\" not \"hidden interests.\" Mentioning that standard-setters face lobbying and that rules reflect compromises is honest and appropriate. The conspiratorial tone (\"strategic concealment\") may be too strong for a prework that's trying to establish respect for the system before critiquing it.",
+        rec: "adapt"
+      },
+      {
+        id: "experience-first",
+        title: "Experience First, Name Later",
+        content: "Learners must experience a concept before learning its technical name. Feel the problem, work through implications, discover why a solution is needed — then introduce the formal term.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework already does this — the video starts with \"think about CVS Health\" (the complexity problem) before naming \"accounting systems\" or \"architecture.\" This principle should govern all module content.",
+        rec: "adopt"
+      },
+      {
+        id: "critical-perspective",
+        title: "Critical Perspective (never present rules as objective truth)",
+        content: "Present accounting as a human-designed system with embedded interests. When explaining any rule: identify who made it, what interests were at play, what alternatives were rejected, who benefits and who bears costs.",
+        badge: "adapt",
+        assessment: "The principle applies — the prework frames every rule as a human choice with tradeoffs. But the Accounting Origins version demands a full political analysis (who benefits, who bears costs) for every rule. The prework's \"tradeoff\" framing is more appropriate for an introductory audience. The architecture/instance distinction already makes the point that rules are choices.",
+        rec: "adapt"
+      },
+      {
+        id: "structured-delivery",
+        title: "Structured Concept Delivery (phenomenon → challenge → response → interests → alternatives)",
+        content: "For each major topic: economic phenomenon, information challenge, accounting response, hidden interests, alternatives.",
+        badge: "adapt",
+        assessment: "The first three steps (phenomenon → challenge → response) map perfectly to the prework's structure. \"Hidden interests\" can be softened to \"tradeoffs.\" \"Alternatives\" maps to the architecture/instance distinction — different instances make different choices.",
+        rec: "adapt"
+      },
+      {
+        id: "double-entry-emphasis",
+        title: "Double-Entry Emphasis",
+        content: "Emphasize the importance of double-entry, its role in the accounting process, and that all numbers on financial statements get there only by double-entry. The genius lies in how it conveys information about recorded Assets and Liabilities.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework treats double-entry as an architectural feature. Module 8 covers journal entry notation. The v5 video script already positions debits and credits as components of a notation that evolved for analyzing transactions.",
+        rec: "adopt"
+      },
+      {
+        id: "definitions",
+        title: "Definitions (asset = present right to economic benefit; liability = present obligation)",
+        content: "An asset is \"the present right to an economic benefit.\" A liability is \"a present obligation to transfer an economic benefit.\" An obligation is not optional.",
+        badge: "applicable",
+        assessment: "Directly applicable. These definitions should be used consistently when the prework introduces assets and liabilities (Module 4 and the CVS modules).",
+        rec: "adopt"
+      },
+      {
+        id: "prohibited-behaviors",
+        title: "Prohibited behaviors (no \"true and fair view,\" no \"helping stakeholders\")",
+        content: "Never present rules as objective truth. Never use \"true and fair view\" without critique. Never suggest accounting is primarily about \"helping stakeholders.\" Never imply current standards are optimal or inevitable.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework's entire stance is that the system involves choices, tradeoffs, and compression — not truth. \"Helping stakeholders\" is exactly the kind of textbook cliché the prework avoids.",
+        rec: "adopt"
+      }
+    ]
+  },
+  {
+    source: "Tutorial Development Standards",
+    sourceDesc: "Technical format, components, and UI patterns for interactive tutorials",
+    items: [
+      {
+        id: "file-format",
+        title: "Standalone HTML files with React 18 via CDN + Babel",
+        content: "Each tutorial is a single .html file with all CSS, JS, and React inline. No build tools required. Uses React 18 via CDN with Babel standalone for in-browser JSX transpilation.",
+        badge: "not-applicable",
+        assessment: "The Accounting Origins tutorials are React-based interactive applications. The prework site is a static content site with config-driven theming — a fundamentally different architecture. Plain HTML/CSS/JS is the right choice here.",
+        rec: "skip"
+      },
+      {
+        id: "color-palette",
+        title: "Yale Blue color palette with earth tones",
+        content: "Standard palette: Yale Blue primary, sand/earth backgrounds, clay tones for tablets, feedback colors (green/yellow/red).",
+        badge: "adapt",
+        assessment: "The prework already has a configurable color system via config.js. The Yale Blue default is shared. The earth/clay tones are specific to the Accounting Origins historical aesthetic and don't fit the prework's clean, modern look. The feedback colors (green/yellow/red for quiz responses) are worth adopting for the diagnostic assessments.",
+        rec: "adapt"
+      },
+      {
+        id: "progress-bar",
+        title: "Header with Progress Bar",
+        content: "Every tutorial has a header showing title, progress percentage, and a visual progress bar. Progress is calculated from the current phase relative to total phases.",
+        badge: "adapt",
+        assessment: "A progress indicator is needed for the prework — you've asked for one. But the implementation should be site-wide (progress across modules) rather than phase-based within a single tutorial. The visual pattern (bar with percentage) is worth borrowing.",
+        rec: "adapt"
+      },
+      {
+        id: "historical-note",
+        title: "Historical Liberties Note (collapsible disclaimer)",
+        content: "Every tutorial includes a collapsible note about historical liberties taken. Appears on welcome screen, content is tutorial-specific.",
+        badge: "not-applicable",
+        assessment: "The prework is not historical fiction. No historical liberties to disclaim.",
+        rec: "skip"
+      },
+      {
+        id: "input-components",
+        title: "Input Components (numeric, text, multiple choice, dropdown, sorting)",
+        content: "Standardized input components for questions: numeric fields, text inputs, multiple choice, dropdown selectors, drag-and-drop sorting.",
+        badge: "adapt",
+        assessment: "The prework will need input components for diagnostic quizzes and self-assessment questions. The specific React component patterns don't apply (different tech stack), but the input types and interaction patterns are worth referencing when building the quiz system.",
+        rec: "adapt"
+      },
+      {
+        id: "answer-evaluation",
+        title: "Answer Evaluation (keyword matching, three-strike hints)",
+        content: "Questions use keyword-based evaluation with acceptable synonyms. Three-level hint scaffolding: nudge, guidance, full answer.",
+        badge: "adapt",
+        assessment: "The three-level hint scaffolding is good pedagogy and could apply to the prework's self-assessment questions. The specific keyword-matching implementation is tied to the React architecture and won't transfer directly.",
+        rec: "adapt"
+      },
+      {
+        id: "sound-feedback",
+        title: "Sound Feedback (four-tone system)",
+        content: "Standard sound effects for correct answers, wrong answers, hints, and navigation.",
+        badge: "not-applicable",
+        assessment: "Sound feedback is appropriate for interactive tutorials where students are actively solving problems. The prework is primarily a content site with occasional self-assessment. Sound would feel out of place.",
+        rec: "skip"
+      },
+      {
+        id: "tablet-display",
+        title: "Tablet Display Format (clay-colored accounting tablets)",
+        content: "Historical clay tablet visual for displaying accounting records in the Accounting Origins narrative.",
+        badge: "not-applicable",
+        assessment: "Specific to the historical fiction aesthetic. The prework should present financial statements in a clean, modern format.",
+        rec: "skip"
+      },
+      {
+        id: "mobile-responsive",
+        title: "Mobile Responsiveness",
+        content: "Content reflows for smaller screens. Touch targets adequately sized. Keyboard navigation for all interactive elements.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework must work on mobile — students will access it from phones and tablets. The index.html is already responsive, and all module pages should be too.",
+        rec: "adopt"
+      },
+      {
+        id: "glossary-component",
+        title: "Glossary Component (accessible from header)",
+        content: "A glossary overlay accessible via a button in the header. Shows terms defined throughout the tutorials.",
+        badge: "applicable",
+        assessment: "Directly applicable — you've asked for a glossary. The implementation will differ (site-wide glossary across modules rather than per-tutorial), but the interaction pattern (accessible from header, overlay or sidebar) is right.",
+        rec: "adopt"
+      },
+      {
+        id: "dev-mode",
+        title: "Dev Mode (triple-click to reveal phase navigation)",
+        content: "Hidden developer mode activated by triple-clicking the header. Shows phase-skip buttons for testing.",
+        badge: "adapt",
+        assessment: "A dev/instructor mode could be useful for the prework — letting instructors jump between modules, view all content expanded, or preview the site in different configurations. The triple-click activation is a nice hidden pattern.",
+        rec: "adapt"
+      },
+      {
+        id: "accessibility",
+        title: "Accessibility (WCAG contrast, keyboard nav, screen readers)",
+        content: "Color contrast meets WCAG guidelines. All interactive elements keyboard-navigable. ARIA labels where appropriate.",
+        badge: "applicable",
+        assessment: "Directly applicable. The transcript toggle we just built is one example. All interactive elements in the prework should meet these standards.",
+        rec: "adopt"
+      }
+    ]
+  },
+  {
+    source: "NFP Accounting Teaching Standard",
+    sourceDesc: "Conceptual foundations for teaching nonprofit accounting",
+    items: [
+      {
+        id: "nfp-info-system",
+        title: "Accounting as a Human-Created Information System",
+        content: "Every teaching artifact must establish that accounting is a human-created information system, not a mirror of economic reality. The gap between recorded amounts and economic value is a design feature, not a flaw.",
+        badge: "applicable",
+        assessment: "Directly applicable. This IS the prework's thesis — accounting systems belong to the information systems family. The gap between representation and reality is the compression-and-tradeoffs argument.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-identity-entry",
+        title: "The Accounting Identity as the Entry Point",
+        content: "Concepts are introduced through the accounting identity. The right-hand side is a DEFINITIONAL residual. Assets − Liabilities = ? and the ? becomes whatever we name the difference.",
+        badge: "applicable",
+        assessment: "Directly applicable. Module 4 introduces the identity as the engine of the architecture. The \"definitional residual\" framing is important and should carry through.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-for-profit-bridge",
+        title: "For-Profit as the Bridge (teach NFP by comparison to for-profit)",
+        content: "New nonprofit concepts are always introduced through explicit comparison to their for-profit counterpart.",
+        badge: "not-applicable",
+        assessment: "The prework teaches for-profit accounting (CVS Health under US GAAP). The NFP bridging strategy doesn't apply here.",
+        rec: "skip"
+      },
+      {
+        id: "nfp-why-rules",
+        title: "Explain the \"Why\" Behind the Rules",
+        content: "Every accounting rule cited must come with a reason a practitioner or student would care about it. Rules are never stated as arbitrary requirements.",
+        badge: "applicable",
+        assessment: "Directly applicable. This is the \"never present a rule without its tradeoff\" principle that runs through the prework. Every GAAP rule is flagged as an instance choice with a reason behind it.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-net-assets",
+        title: "How to Explain Net Assets (required sequence, categories, restrictions)",
+        content: "Detailed sequence for introducing net asset categories, donor restrictions vs. board designations, and what net asset categories do and don't tell you.",
+        badge: "not-applicable",
+        assessment: "Specific to nonprofit accounting. The prework covers for-profit equities, not net assets.",
+        rec: "skip"
+      },
+      {
+        id: "nfp-reserves",
+        title: "\"Reserves\" terminology rules",
+        content: "\"Reserves\" is not an accounting term under nonprofit standards. Board designations are statements of intent, not segregation of resources.",
+        badge: "not-applicable",
+        assessment: "Specific to nonprofit terminology.",
+        rec: "skip"
+      },
+      {
+        id: "nfp-definitions",
+        title: "Precise Definitions (asset, liability, equities, net assets, contribution)",
+        content: "Asset = present RIGHT to economic benefit. Liability = present OBLIGATION to transfer. Equities = DEFINITIONAL difference (for-profit). Net Assets = DEFINITIONAL difference (nonprofit).",
+        badge: "adapt",
+        assessment: "The asset and liability definitions apply directly. The equities definition applies. The net assets and contribution definitions are NFP-specific and don't apply.",
+        rec: "adapt"
+      },
+      {
+        id: "nfp-three-statements",
+        title: "Three Statements as a Connected System",
+        content: "Financial statements must always be taught as a connected system, never as independent reports. Demonstrate cross-statement articulation.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework's \"four windows onto one structure\" is exactly this principle. Modules 4–7 should consistently show how the statements connect.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-cash-flow-recon",
+        title: "Cash Flow Statement as a Reconciliation",
+        content: "Under the indirect method, the cash flow statement is a reconciliation between the change in net assets/equities and the change in cash.",
+        badge: "applicable",
+        assessment: "Applicable when Module 7 covers the cash flow statement. The reconciliation framing is cleaner than the common textbook approach of treating it as a standalone report.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-functional-expenses",
+        title: "Statement of Functional Expenses",
+        content: "Unique to nonprofits. Shows allocation among program services, management/general, and fundraising.",
+        badge: "not-applicable",
+        assessment: "Nonprofit-specific. Not relevant to the for-profit prework.",
+        rec: "skip"
+      },
+      {
+        id: "nfp-liquidity",
+        title: "Liquidity Is an Asset-Side Question",
+        content: "Liquidity analysis lives in the assets, not in net asset categories. An organization can have large net assets and still face a liquidity crisis.",
+        badge: "adapt",
+        assessment: "The general principle (don't confuse book equities with cash availability) applies to for-profit analysis too. Could be a useful rabbit hole in the CVS modules — CVS has large goodwill and intangible assets that aren't liquid.",
+        rec: "adapt"
+      },
+      {
+        id: "nfp-progressive-revelation",
+        title: "Progressive Revelation + Calculation Paired with Interpretation",
+        content: "Build from simple to complex. Calculate first, name second, interpret third, apply fourth. Every quantitative exercise must include an interpretation step.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework's module sequence IS progressive revelation — outside in, architecture before instance, concept before number. Any self-assessment questions should pair calculation with interpretation.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-real-orgs",
+        title: "Real Organizations, Real Numbers",
+        content: "Use actual audited financial statements from real organizations. Avoid toy examples with round numbers.",
+        badge: "applicable",
+        assessment: "Directly applicable. The prework uses CVS Health's actual financial statements. This commitment to real numbers is already in the design.",
+        rec: "adopt"
+      },
+      {
+        id: "nfp-hint-scaffolding",
+        title: "Three-Level Hint Scaffolding (nudge → guidance → full answer)",
+        content: "Interactive exercises use progressive hints: gentle push, more specific direction, then full answer with explanation.",
+        badge: "adapt",
+        assessment: "Good pedagogy that should apply to the prework's self-assessment questions. The specific implementation will be simpler (no React), but the pattern of progressive help is worth adopting.",
+        rec: "adapt"
+      }
+    ]
+  },
+  {
+    source: "Teaching Material Development Process",
+    sourceDesc: "End-to-end workflow for creating teaching materials",
+    items: [
+      {
+        id: "process-planning",
+        title: "Phase 1: Planning (decision framework, checklist, series plan)",
+        content: "Every project begins with structured planning: identify 2–4 alternatives per decision, recommend one, present for selection. Produce a Tutorial Series Plan covering overview, design decisions, pedagogical approach, individual outlines, arc summary.",
+        badge: "adapt",
+        assessment: "The planning discipline is good practice, but the prework is already well past the planning phase — the framing, module structure, and content approach are established. The decision framework pattern (alternatives + recommendation + click to select) is what we're using right now in this standards selector.",
+        rec: "adapt"
+      },
+      {
+        id: "process-standards-alignment",
+        title: "Phase 2: Standards Alignment (audit existing standards, update if needed)",
+        content: "Review which existing standards apply, identify conflicts and gaps, propose updates if the project introduces new patterns.",
+        badge: "applicable",
+        assessment: "This is exactly what we're doing right now. The output of this selector will be the prework's adopted standards.",
+        rec: "adopt"
+      },
+      {
+        id: "process-development",
+        title: "Phase 3: Development (build order, efficiency principles, question design)",
+        content: "Follow implementation sequence. Self-check against standards before presenting. Use subagents for parallelism. Incremental review in batches.",
+        badge: "adapt",
+        assessment: "The general workflow applies, but the prework builds HTML pages, not React tutorials. The self-check-against-standards principle is directly useful. The question design protocol (question text, evaluation logic, hints, third-strike reveal) applies to any self-assessment content.",
+        rec: "adapt"
+      },
+      {
+        id: "process-qa",
+        title: "Phase 4: Review and QA (standards compliance, cross-module consistency, accessibility)",
+        content: "Systematic check against all standards. Cross-tutorial consistency in terminology, UI, and arc. Accessibility review (keyboard nav, contrast, touch targets, reflow).",
+        badge: "applicable",
+        assessment: "Directly applicable. Before the prework ships, it needs a full consistency review — terminology, visual callbacks, transitions between modules, and accessibility. This is already on the to-do list.",
+        rec: "adopt"
+      },
+      {
+        id: "process-iteration",
+        title: "Phase 5: Iteration (feedback grouping, revision plan, version management)",
+        content: "Collect feedback, group by type, present revision plan, execute. Preserve superseded versions.",
+        badge: "applicable",
+        assessment: "Directly applicable. We're already doing this — the video script has five preserved versions. The handoff document pattern (HANDOFF.md or Continuation Brief) is also already in use.",
+        rec: "adopt"
+      },
+      {
+        id: "process-session-continuity",
+        title: "Session Continuity (HANDOFF.md at end of each session)",
+        content: "At the end of any session where work is incomplete, produce a handoff document capturing what was completed, what remains, open decisions, and known issues.",
+        badge: "applicable",
+        assessment: "Already in practice — the Continuation_Brief_March18.md is exactly this. Should continue for all future sessions.",
+        rec: "adopt"
+      }
+    ]
+  }
+];
+
+// State
+const decisions = {};
+
+function render() {
+  const container = document.getElementById('standards');
+  container.innerHTML = '';
+
+  DATA.forEach(source => {
+    const section = document.createElement('div');
+    section.className = 'source-doc';
+    section.innerHTML = `<div class="source-doc-title">${source.source}</div><div class="source-doc-desc">${source.sourceDesc}</div>`;
+
+    source.items.forEach(item => {
+      const decision = decisions[item.id] || null;
+      const el = document.createElement('div');
+      el.className = 'standard-item' + (decision === 'adopt' ? ' adopted' : decision === 'skip' ? ' skipped' : decision === 'adapt' ? ' needs-adaptation' : '');
+      el.id = 'item-' + item.id;
+
+      const badgeClass = item.badge === 'applicable' ? 'badge-applicable' : item.badge === 'adapt' ? 'badge-adapt' : 'badge-not-applicable';
+      const badgeText = item.badge === 'applicable' ? 'Applies directly' : item.badge === 'adapt' ? 'Needs adaptation' : 'Not applicable';
+
+      const assessClass = item.badge === 'applicable' ? 'assessment-applicable' : item.badge === 'adapt' ? 'assessment-adapt' : 'assessment-skip';
+
+      el.innerHTML = `
+        <div class="item-header" onclick="toggleItem('${item.id}')">
+          <span class="item-expand">&#9654;</span>
+          <span class="item-title">${item.title}</span>
+          <span class="item-badge ${badgeClass}">${badgeText}</span>
+          ${decision ? `<span style="font-size:12px;margin-left:4px;">${decision === 'adopt' ? '✓ Adopted' : decision === 'adapt' ? '~ Adapt' : '✕ Skipped'}</span>` : ''}
+        </div>
+        <div class="item-body">
+          <div class="item-content"><p>${item.content}</p></div>
+          <div class="item-assessment ${assessClass}"><strong>Assessment:</strong> ${item.assessment}</div>
+          <div class="item-actions">
+            <button class="action-btn ${decision === 'adopt' ? 'selected-adopt' : ''}" onclick="decide('${item.id}','adopt')">Adopt</button>
+            <button class="action-btn ${decision === 'adapt' ? 'selected-adapt' : ''}" onclick="decide('${item.id}','adapt')">Adapt</button>
+            <button class="action-btn ${decision === 'skip' ? 'selected-skip' : ''}" onclick="decide('${item.id}','skip')">Skip</button>
+          </div>
+        </div>
+      `;
+      section.appendChild(el);
+    });
+
+    container.appendChild(section);
+  });
+
+  updateCounts();
+}
+
+function toggleItem(id) {
+  const el = document.getElementById('item-' + id);
+  el.classList.toggle('open');
+}
+
+function decide(id, choice) {
+  decisions[id] = choice;
+  render();
+}
+
+function updateCounts() {
+  let adopt = 0, adapt = 0, skip = 0, total = 0;
+  DATA.forEach(s => s.items.forEach(i => {
+    total++;
+    if (decisions[i.id] === 'adopt') adopt++;
+    else if (decisions[i.id] === 'adapt') adapt++;
+    else if (decisions[i.id] === 'skip') skip++;
+  }));
+  document.getElementById('countAdopt').textContent = adopt;
+  document.getElementById('countAdapt').textContent = adapt;
+  document.getElementById('countSkip').textContent = skip;
+  document.getElementById('countPending').textContent = total - adopt - adapt - skip;
+}
+
+function exportDecisions() {
+  let md = '# Prework Project — Adopted Standards\\n\\nGenerated: ' + new Date().toLocaleDateString() + '\\n\\n';
+
+  ['adopt', 'adapt', 'skip'].forEach(type => {
+    const label = type === 'adopt' ? '## Adopted (use as-is)' : type === 'adapt' ? '## Adapt (modify for prework)' : '## Skipped (not applicable)';
+    md += label + '\\n\\n';
+    DATA.forEach(source => {
+      source.items.forEach(item => {
+        if (decisions[item.id] === type) {
+          md += '- **' + item.title + '** (' + source.source + ')\\n';
+        }
+      });
+    });
+    // items with no decision
+    if (type === 'skip') {
+      let pending = [];
+      DATA.forEach(source => source.items.forEach(item => {
+        if (!decisions[item.id]) pending.push(item.title + ' (' + source.source + ')');
+      }));
+      if (pending.length) {
+        md += '\\n## Pending (no decision yet)\\n\\n';
+        pending.forEach(p => md += '- ' + p + '\\n');
+      }
+    }
+    md += '\\n';
+  });
+
+  const blob = new Blob([md.replace(/\\n/g, '\n')], { type: 'text/markdown' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'prework-adopted-standards.md';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// Apply recommended decisions as defaults
+DATA.forEach(s => s.items.forEach(i => { decisions[i.id] = i.rec; }));
+render();
+</script>
+
+</body>
+</html>

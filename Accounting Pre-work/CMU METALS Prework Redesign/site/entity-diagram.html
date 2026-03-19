@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  /* Arrow colors */
+  :root {
+    --flow-in: #1a8a6a;   /* teal-green for inflows */
+    --flow-out: #bd5319;   /* accent rust for outflows */
+  }
+
+  .diagram-container {
+    margin: 24px 0 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .stage-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  .stage-btn {
+    background: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 18px;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .stage-btn:hover { background: var(--primary-light); }
+  .stage-btn:disabled {
+    background: #ccc;
+    cursor: default;
+  }
+  .stage-label {
+    font-size: 13px;
+    color: #888;
+    min-width: 100px;
+    text-align: center;
+  }
+
+  /* Collapsible narrative */
+  .narrative-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 6px 14px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #888;
+    cursor: pointer;
+    margin-bottom: 8px;
+    transition: all 0.15s;
+  }
+  .narrative-toggle:hover { background: #f5f5f5; border-color: #bbb; }
+  .narrative-toggle .nt-chevron {
+    font-size: 9px;
+    transition: transform 0.2s;
+  }
+  .narrative-toggle.open .nt-chevron {
+    transform: rotate(90deg);
+  }
+  .stage-narrative {
+    max-width: 600px;
+    margin: 0 auto 16px;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #444;
+    text-align: center;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+  }
+  .stage-narrative.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin-bottom: 0;
+  }
+  .stage-narrative.expanded {
+    max-height: 200px;
+    opacity: 1;
+  }
+
+  /* Legend */
+  .flow-legend {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 8px;
+  }
+  .flow-legend .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .flow-legend .legend-swatch {
+    width: 20px;
+    height: 3px;
+    border-radius: 1px;
+  }
+
+  /* Collapsible intro */
+  .intro-collapse-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 5px 12px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #888;
+    cursor: pointer;
+    margin-bottom: 12px;
+    transition: all 0.15s;
+  }
+  .intro-collapse-toggle:hover { background: #f5f5f5; border-color: #bbb; }
+  .intro-collapse-toggle .ic-chevron {
+    font-size: 9px;
+    transition: transform 0.2s;
+  }
+  .intro-collapse-toggle.open .ic-chevron {
+    transform: rotate(90deg);
+  }
+  .intro-collapsible {
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease;
+  }
+  .intro-collapsible.collapsed {
+    max-height: 0;
+    opacity: 0;
+  }
+  .intro-collapsible.expanded {
+    max-height: 600px;
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 3: The Entity</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <button class="intro-collapse-toggle open" id="introToggle" onclick="toggleIntro()">
+    <span class="ic-chevron">&#9654;</span>
+    <span id="introToggleText">Hide introduction</span>
+  </button>
+
+  <div class="intro-collapsible expanded" id="introContent">
+    <div class="module-header">
+      <div class="module-label">Module 3</div>
+      <h2>The Entity Boundary</h2>
+      <p class="module-subtitle">Before the system can compress, it must choose what to compress</p>
+    </div>
+
+    <hr class="divider">
+
+    <p class="prose">
+      Every accounting system begins with a choice: what is the entity? A corporation, a partnership, a nonprofit, a government agency, a trust. The entity is not just a name &mdash; it is a <em>boundary</em>. Everything inside the boundary is what the system accounts for. Everything outside is a counterparty &mdash; someone the entity exchanges things with.
+    </p>
+
+    <p class="prose">
+      These exchanges &mdash; transactions &mdash; are where accounting started and remain its central core. When we observe a transaction, what do we record? The <em>information</em> in it: what was exchanged, how much, between whom, when, on what terms. The earliest accounting records &mdash; clay tablets, medieval ledgers &mdash; were doing exactly this: capturing the information in exchanges so it could be consulted later. Everything else the system does is built on top of that transaction-information base.
+    </p>
+
+    <p class="prose">
+      The diagram below builds this up, one exchange at a time. For each party, think about what crosses the boundary in each direction &mdash; then reveal the answer.
+    </p>
+  </div>
+
+  <!-- React mounts here -->
+  <div id="react-root"></div>
+
+  <!-- Rabbit hole: consolidation -->
+  <div class="rabbit-hole">
+    <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+      <span class="rh-icon">&#128007;</span>
+      What counts as the entity? &mdash; when boundaries get complicated
+      <span class="rh-chevron">&#9654;</span>
+    </button>
+    <div class="rabbit-hole-body">
+      <p>The boundary choice seems simple when there is one company. But consider a parent corporation that owns three subsidiaries. Is the entity the parent alone? Each subsidiary separately? Or the entire group consolidated into one?</p>
+      <p>Each choice produces a different picture. If you draw the boundary around a single subsidiary, transactions between that subsidiary and its parent show up as external transactions &mdash; arrows crossing the boundary. If you draw the boundary around the entire consolidated group, those same transactions disappear &mdash; they are internal, and the system does not report on them.</p>
+      <p>This is not a theoretical curiosity. Under US GAAP, companies must consolidate subsidiaries they control, and the rules for determining control have real consequences. Before the 2008 financial crisis, some firms used structures called variable interest entities to keep certain obligations outside the consolidation boundary &mdash; off the balance sheet. The boundary choice determined what users could see.</p>
+      <p>The entity boundary is itself an instance choice. Different rule sets draw it differently, and where they draw it shapes the entire picture the system produces.</p>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <p class="prose" style="font-style: italic; color: #666;">
+    Adapted from a diagram by Shyam Sunder, James L. Frank Professor of Accounting, Economics, and Finance, Emeritus, Yale School of Management.
+  </p>
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="reflect2.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 2: Pause and Reflect</span>
+    </a>
+    <a href="module3.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 3: Worth, Quantification, and Limits</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts: shared infrastructure -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  renderGlossary();
+  markModuleVisited(3);
+  buildModuleDropdown(3);
+  applyConfig();
+  updateProgressBar();
+
+  function toggleIntro() {
+    var content = document.getElementById('introContent');
+    var btn = document.getElementById('introToggle');
+    var text = document.getElementById('introToggleText');
+    var isOpen = content.classList.contains('expanded');
+    content.classList.toggle('expanded', !isOpen);
+    content.classList.toggle('collapsed', isOpen);
+    btn.classList.toggle('open', !isOpen);
+    text.textContent = isOpen ? 'Show introduction' : 'Hide introduction';
+  }
+</script>
+
+<!-- React via CDN -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<script type="text/babel">
+const { useState, useCallback } = React;
+
+// ===== LAYOUT =====
+const ECX = 350, ECY = 320, ER = 120, PR = 42, ORBIT = 245;
+function op(deg) {
+  const r = (deg - 90) * Math.PI / 180;
+  return { cx: Math.round(ECX + ORBIT * Math.cos(r)), cy: Math.round(ECY + ORBIT * Math.sin(r)) };
+}
+
+// 7 parties in a heptagon
+const PARTIES = {
+  'owners':     { ...op(0),         r: PR, label: ['Owners'] },
+  'lenders':    { ...op(360/7),     r: PR, label: ['Lenders'] },
+  'employees':  { ...op(2*360/7),   r: PR, label: ['Employees'] },
+  'suppliers':  { ...op(3*360/7),   r: PR, label: ['Suppliers'] },
+  'government': { ...op(4*360/7),   r: PR, label: ['Government'] },
+  'customers':  { ...op(5*360/7),   r: PR, label: ['Customers'] },
+  'managers':   { ...op(6*360/7),   r: PR, label: ['Managers'] }
+};
+const ALL_IDS = Object.keys(PARTIES);
+
+// ===== Q&A SEQUENCE =====
+// Each step: question → student thinks → click to reveal answer + arrow
+const STEPS = [
+  // --- Intro stages (no Q&A) ---
+  {
+    type: 'intro',
+    label: 'The Entity',
+    text: 'The system begins by drawing a boundary. Everything inside is the entity \u2014 the thing being accounted for. Everything outside is a counterparty.',
+    visibleParties: [],
+    flowsIn: [], flowsOut: []
+  },
+  {
+    type: 'intro',
+    label: 'Outside Parties',
+    text: 'The entity interacts with people and organizations outside the boundary. Each of these is itself an entity with its own boundary \u2014 its own books, its own accounting system.',
+    visibleParties: ALL_IDS,
+    flowsIn: [], flowsOut: []
+  },
+  // --- Owners ---
+  {
+    type: 'qa',
+    party: 'owners',
+    label: 'Owners',
+    question: 'What do owners provide to the entity?',
+    answer: 'Resources \u2014 cash, land, equipment, intellectual property. Owners are the people who put resources into the entity to get it started and keep it going.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'owners'
+  },
+  {
+    type: 'qa',
+    party: 'owners',
+    label: 'Owners',
+    question: 'What does the entity transfer to owners?',
+    answer: 'Two things. First, the right to control the entity\u2019s behavior \u2014 voting, electing the board, approving major decisions. Second, a residual claim: whatever is left after all other obligations are met. Not a fixed amount. Not a guaranteed return. What remains. The entity may distribute some of this as dividends, but dividends are not guaranteed. The residual claim is the defining feature of ownership.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'owners'
+  },
+  // --- Lenders ---
+  {
+    type: 'qa',
+    party: 'lenders',
+    label: 'Lenders',
+    question: 'What do lenders provide to the entity?',
+    answer: 'Cash \u2014 a specific amount, transferred now. Unlike owners, lenders do not provide resources of uncertain worth. They lend a defined sum.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'lenders'
+  },
+  {
+    type: 'qa',
+    party: 'lenders',
+    label: 'Lenders',
+    question: 'What does the entity transfer to lenders?',
+    answer: 'A contractual obligation: the right to get paid back, with interest, on a schedule. This is not a residual claim \u2014 it is a fixed, legally enforceable promise. If the entity fails to pay, the lender can force consequences (default, seizure of collateral, bankruptcy proceedings).',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'lenders'
+  },
+  // --- Employees ---
+  {
+    type: 'qa',
+    party: 'employees',
+    label: 'Employees',
+    question: 'What do employees provide to the entity?',
+    answer: 'Labor \u2014 their time, skill, effort, and expertise. This crosses the boundary: the employee\u2019s system records income earned; the entity\u2019s system records an expense incurred.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'employees'
+  },
+  {
+    type: 'qa',
+    party: 'employees',
+    label: 'Employees',
+    question: 'What does the entity transfer to employees?',
+    answer: 'Compensation \u2014 salary, bonuses, benefits, sometimes equity awards or deferred compensation. Each form is a transaction the system records.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'employees'
+  },
+  // --- Suppliers ---
+  {
+    type: 'qa',
+    party: 'suppliers',
+    label: 'Suppliers',
+    question: 'What do suppliers provide to the entity?',
+    answer: 'Goods and services \u2014 raw materials, components, professional services, utilities. The supplier records a sale; the entity records a purchase.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'suppliers'
+  },
+  {
+    type: 'qa',
+    party: 'suppliers',
+    label: 'Suppliers',
+    question: 'What does the entity transfer to suppliers?',
+    answer: 'Cash, or a promise to pay later (accounts payable). Same transaction, two boundaries \u2014 recorded in both systems.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'suppliers'
+  },
+  // --- Government ---
+  {
+    type: 'qa',
+    party: 'government',
+    label: 'Government',
+    question: 'What does the government provide to the entity?',
+    answer: 'Public goods and infrastructure \u2014 legal systems, roads, regulation, national defense. The government has its own accounting system: a different instance of the same architecture.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'government'
+  },
+  {
+    type: 'qa',
+    party: 'government',
+    label: 'Government',
+    question: 'What does the entity transfer to the government?',
+    answer: 'Taxes \u2014 assessed under yet another instance of the architecture (the tax code). Both sides record the same transaction under different rules.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'government'
+  },
+  // --- Customers ---
+  {
+    type: 'qa',
+    party: 'customers',
+    label: 'Customers',
+    question: 'What does the entity provide to customers?',
+    answer: 'Goods and services \u2014 this is the revenue side, where the entity\u2019s output meets the market.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'customers'
+  },
+  {
+    type: 'qa',
+    party: 'customers',
+    label: 'Customers',
+    question: 'What do customers transfer to the entity?',
+    answer: 'Cash, or a promise to pay later (accounts receivable). The entity records revenue; the customer records an expense or an asset received.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'customers'
+  },
+  // --- Managers ---
+  {
+    type: 'qa',
+    party: 'managers',
+    label: 'Managers',
+    question: 'What do managers provide to the entity?',
+    answer: 'Managerial services \u2014 decisions, oversight, strategy. Managers operate inside the entity, but the exchange of their services for compensation still crosses the boundary.',
+    direction: 'in',
+    visibleParties: ALL_IDS,
+    addFlowIn: 'managers'
+  },
+  {
+    type: 'qa',
+    party: 'managers',
+    label: 'Managers',
+    question: 'What does the entity transfer to managers?',
+    answer: 'Salary, bonuses, incentive payments, equity awards. Compensation is designed to align managers\u2019 behavior with the entity\u2019s goals \u2014 this connects directly to the behavior-influencing purpose from Module 2.',
+    direction: 'out',
+    visibleParties: ALL_IDS,
+    addFlowOut: 'managers'
+  },
+  // --- Summary ---
+  {
+    type: 'intro',
+    label: 'The Full Picture',
+    text: 'Every arrow crossing the boundary represents the information in a transaction \u2014 what was exchanged, how much, between whom, when. This is where accounting started and is still its central core. The system\u2019s job is to record this information and compress it into a structured picture that all these parties can consult.',
+    visibleParties: ALL_IDS,
+    flowsIn: ALL_IDS, flowsOut: ALL_IDS
+  }
+];
+
+// ===== SVG COMPONENTS =====
+
+function EntityCircle({ highlight }) {
+  return (
+    <g>
+      {highlight && (
+        <circle cx={ECX} cy={ECY} r={ER + 8}
+          fill="none" stroke="#bd5319" strokeWidth="2"
+          strokeDasharray="8 4" opacity="0.6">
+          <animate attributeName="stroke-dashoffset" from="0" to="24" dur="2s" repeatCount="indefinite" />
+        </circle>
+      )}
+      <circle cx={ECX} cy={ECY} r={ER} fill="#00356b" />
+      <text x={ECX} y={ECY - 8} textAnchor="middle" fill="white"
+        fontFamily="'Helvetica Neue', Arial, sans-serif" fontSize="22" fontWeight="300">
+        The Entity
+      </text>
+      <text x={ECX} y={ECY + 18} textAnchor="middle" fill="rgba(255,255,255,0.6)"
+        fontFamily="'Helvetica Neue', Arial, sans-serif" fontSize="12">
+        (boundary)
+      </text>
+    </g>
+  );
+}
+
+function PartyCircle({ id, visible, active, highlight }) {
+  const c = PARTIES[id];
+  if (!c) return null;
+  const fill = highlight ? '#bd5319' : (active ? '#00356b' : '#b0c4d8');
+  return (
+    <g style={{ opacity: visible ? 1 : 0, transition: 'opacity 0.5s' }}>
+      <circle cx={c.cx} cy={c.cy} r={c.r} fill={fill} />
+      {c.label.map((ln, i) => (
+        <text key={i} x={c.cx} y={c.cy + (i - (c.label.length - 1) / 2) * 14}
+          textAnchor="middle" fill="white"
+          fontFamily="'Helvetica Neue', Arial, sans-serif" fontSize="11" fontWeight="600">
+          {ln}
+        </text>
+      ))}
+    </g>
+  );
+}
+
+function Arrow({ id, direction }) {
+  const c = PARTIES[id];
+  if (!c) return null;
+  const dx = c.cx - ECX, dy = c.cy - ECY;
+  const d = Math.sqrt(dx * dx + dy * dy), nx = dx / d, ny = dy / d;
+  const sx = ECX + nx * (ER + 4), sy = ECY + ny * (ER + 4);
+  const ex = c.cx - nx * (c.r + 4), ey = c.cy - ny * (c.r + 4);
+  const px = -ny * 6, py = nx * 6;
+
+  if (direction === 'in') {
+    return <line x1={ex + px} y1={ey + py} x2={sx + px} y2={sy + py}
+      stroke="#1a8a6a" strokeWidth="2" markerEnd="url(#aIn)" opacity="0.8" />;
+  } else {
+    return <line x1={sx - px} y1={sy - py} x2={ex - px} y2={ey - py}
+      stroke="#bd5319" strokeWidth="2" markerEnd="url(#aOut)" opacity="0.8" />;
+  }
+}
+
+// ===== MAIN COMPONENT =====
+function EntityDiagram() {
+  const [stepIdx, setStepIdx] = useState(0);
+  const [revealed, setRevealed] = useState(false);
+
+  // Accumulate flows across steps
+  const accumulated = { flowsIn: new Set(), flowsOut: new Set() };
+  for (let i = 0; i <= stepIdx; i++) {
+    const s = STEPS[i];
+    if (s.type === 'intro' && s.flowsIn) s.flowsIn.forEach(id => accumulated.flowsIn.add(id));
+    if (s.type === 'intro' && s.flowsOut) s.flowsOut.forEach(id => accumulated.flowsOut.add(id));
+    if (s.type === 'qa' && (i < stepIdx || revealed)) {
+      if (s.addFlowIn) accumulated.flowsIn.add(s.addFlowIn);
+      if (s.addFlowOut) accumulated.flowsOut.add(s.addFlowOut);
+    }
+  }
+
+  const step = STEPS[stepIdx];
+  const isLast = stepIdx === STEPS.length - 1;
+  const isFirst = stepIdx === 0;
+  const isQA = step.type === 'qa';
+  const canAdvance = !isQA || revealed;
+
+  const advance = useCallback(() => {
+    if (isQA && !revealed) {
+      setRevealed(true);
+    } else if (!isLast) {
+      setStepIdx(i => i + 1);
+      setRevealed(false);
+    }
+  }, [isQA, revealed, isLast]);
+
+  const goBack = useCallback(() => {
+    if (stepIdx > 0) {
+      setStepIdx(i => i - 1);
+      setRevealed(false);
+    }
+  }, [stepIdx]);
+
+  const highlightBoundary = isFirst || isLast;
+  const hasAnyFlows = accumulated.flowsIn.size > 0 || accumulated.flowsOut.size > 0;
+
+  return (
+    <div className="diagram-container">
+      {/* Legend */}
+      {hasAnyFlows && (
+        <div className="flow-legend" style={{ marginBottom: '12px' }}>
+          <div className="legend-item">
+            <div className="legend-swatch" style={{ background: '#1a8a6a' }}></div>
+            <span>Flows in to entity</span>
+          </div>
+          <div className="legend-item">
+            <div className="legend-swatch" style={{ background: '#bd5319' }}></div>
+            <span>Flows out from entity</span>
+          </div>
+        </div>
+      )}
+
+      {/* Diagram */}
+      <svg viewBox="0 0 700 640" width="100%" style={{ maxWidth: '660px' }}>
+        <defs>
+          <marker id="aIn" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0,0 8,3 0,6" fill="#1a8a6a" opacity="0.8" />
+          </marker>
+          <marker id="aOut" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+            <polygon points="0,0 8,3 0,6" fill="#bd5319" opacity="0.8" />
+          </marker>
+        </defs>
+
+        {/* All accumulated arrows */}
+        {ALL_IDS.map(id => (
+          <g key={'arrows-' + id}>
+            {accumulated.flowsIn.has(id) && <Arrow id={id} direction="in" />}
+            {accumulated.flowsOut.has(id) && <Arrow id={id} direction="out" />}
+          </g>
+        ))}
+
+        <EntityCircle highlight={highlightBoundary} />
+
+        {ALL_IDS.map(id => (
+          <PartyCircle key={id} id={id}
+            visible={step.visibleParties.includes(id)}
+            active={accumulated.flowsIn.has(id) || accumulated.flowsOut.has(id)}
+            highlight={isQA && step.party === id} />
+        ))}
+      </svg>
+
+      {/* Q&A / Narrative box below diagram */}
+      <div style={{
+        maxWidth: '580px', width: '100%', margin: '16px auto 0',
+        background: 'white', border: '1px solid #e0e0e0', borderRadius: '8px',
+        padding: '20px 24px', minHeight: '120px',
+        fontFamily: "'Helvetica Neue', Arial, sans-serif"
+      }}>
+        <div style={{ fontSize: '11px', fontWeight: '600', textTransform: 'uppercase',
+          letterSpacing: '0.4px', color: '#888', marginBottom: '8px' }}>
+          {stepIdx + 1} of {STEPS.length}: {step.label}
+        </div>
+
+        {step.type === 'intro' && (
+          <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#333', margin: 0 }}>
+            {step.text}
+          </p>
+        )}
+
+        {step.type === 'qa' && (
+          <div>
+            <p style={{ fontSize: '15px', lineHeight: '1.7', color: '#00356b', fontWeight: '600', margin: '0 0 12px' }}>
+              {step.question}
+            </p>
+            {!revealed ? (
+              <button onClick={() => setRevealed(true)} style={{
+                background: '#00356b', color: 'white', border: 'none', borderRadius: '5px',
+                padding: '10px 20px', fontSize: '14px', fontWeight: '600', fontFamily: 'inherit',
+                cursor: 'pointer'
+              }}>
+                Reveal
+              </button>
+            ) : (
+              <p style={{ fontSize: '14.5px', lineHeight: '1.7', color: '#444', margin: 0,
+                borderLeft: '3px solid ' + (step.direction === 'in' ? '#1a8a6a' : '#bd5319'),
+                paddingLeft: '14px' }}>
+                {step.answer}
+              </p>
+            )}
+          </div>
+        )}
+
+        {/* Navigation */}
+        <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '16px', paddingTop: '12px',
+          borderTop: '1px solid #f0f0f0' }}>
+          <button onClick={goBack} disabled={isFirst} style={{
+            background: 'none', border: '1px solid #ddd', borderRadius: '4px',
+            padding: '6px 14px', fontSize: '12px', color: isFirst ? '#ccc' : '#555',
+            cursor: isFirst ? 'default' : 'pointer', fontFamily: 'inherit'
+          }}>
+            &larr; Back
+          </button>
+          <button onClick={advance} disabled={isLast && revealed} style={{
+            background: (isLast && revealed) ? '#ccc' : '#00356b',
+            color: 'white', border: 'none', borderRadius: '4px',
+            padding: '6px 14px', fontSize: '12px', fontWeight: '600',
+            cursor: (isLast && revealed) ? 'default' : 'pointer', fontFamily: 'inherit'
+          }}>
+            {isQA && !revealed ? 'Reveal' : (isLast ? 'Complete' : 'Next \u2192')}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ===== MOUNT =====
+const root = ReactDOM.createRoot(document.getElementById('react-root'));
+root.render(<EntityDiagram />);
+</script>
+
+</body>
+</html>

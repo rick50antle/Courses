@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 7: CVS Health: Cash Flows</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Module header -->
+  <div class="module-header">
+    <div class="module-label">Module 7</div>
+    <h2>CVS Health: Cash Flows</h2>
+    <p class="module-subtitle">Tracking what actually moved in and out</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Opening prose -->
+  <p class="prose">
+    The income statement tells us what CVS Health earned; the balance sheet tells us what it owns. But neither directly answers the question: how much cash came in and went out? The cash flow statement bridges accrual accounting and reality, showing which transactions involved actual movement of money.
+  </p>
+
+  <!-- Accordion sections -->
+  <div class="accordion">
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">1</span>
+        Why Cash Flows Matter
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section explains why understanding actual cash movement is essential: a profitable company can run out of cash, and a company that generates cash may not be earning accounting profit.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">2</span>
+        Operating, Investing, Financing
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section introduces the three cash flow sections: operating (cash from running the business), investing (purchases and sales of long-term assets), and financing (borrowing, repayment, and equity transactions).</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">3</span>
+        The Indirect Method
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section explains how the indirect method reconstructs operating cash flow from net income, removing non-cash items and accounting for changes in working capital.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">4</span>
+        Cash vs. Accrual — Two Views of the Same Reality
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section ties the three financial statements together, showing how accrual income, balance sheet changes, and cash flows tell a complete story of the business during the period.</p>
+      </div>
+    </div>
+
+  </div><!-- /accordion -->
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="module6.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 6: CVS Health: Income Statement</span>
+    </a>
+    <a href="module8.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 8: The Analyst's Toolkit</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  initPage(7);
+</script>
+
+</body>
+</html>

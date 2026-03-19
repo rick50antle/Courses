@@ -20,5 +20,6 @@ const SITE_CONFIG = {
   },
   "mascot": null,
   "welcomeText": null,
-  "modules": [1, 2, 3, 4, 5, 6, 7, 8]
+  "modules": [1, 2, 3, 4, 5, 6, 7, 8],
+  "audience": "mixed"
 };

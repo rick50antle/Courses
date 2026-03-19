@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 2: Why Accounting Systems Exist</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Module header -->
+  <div class="module-header">
+    <div class="module-label">Module 2</div>
+    <h2>Why Accounting Systems Exist</h2>
+    <p class="module-subtitle">The users and purposes the system serves</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Opening prose -->
+  <p class="prose">
+    Before we look at how an accounting system works, we start with why it exists.
+  </p>
+  <p class="prose">
+    Think back to the CVS Health example from Module 1: thousands of stores, millions of transactions a day, billions in debt. No one person can hold all of that in their head. The economic activity of an organization past a certain scale is simply too complex to observe directly. So the system compresses &mdash; it takes that vast, messy reality and produces something structured enough for human minds to work with.
+  </p>
+  <p class="prose">
+    But it is not compressing for one person. Many different people want to understand the same organization, and they want to coordinate their decisions and actions based on a shared picture of it. That is the key word: <em>shared</em>. An accounting system is not a private tool. It is a shared information system &mdash; one that produces a common, structured picture that everyone who depends on the organization can consult.
+  </p>
+  <p class="prose">
+    Who are those people? And what do they want from the system?
+  </p>
+
+  <!-- Accordion sections -->
+  <div class="accordion">
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">1</span>
+        The Users
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p>The list is longer than most people expect. <strong>Investors</strong> want to know whether to buy, hold, or sell. <strong>Lenders</strong> want to know whether the organization can service its debt. <strong>Managers</strong> inside the organization want to know which divisions are performing, where to allocate resources, whether a project is worth funding. <strong>Boards of directors</strong> want to know whether the people running the organization are managing its resources well.</p>
+
+        <p>But it does not stop there. <strong>Tax authorities</strong> want to know how much the organization owes. <strong>Regulators</strong> want to know whether a bank has enough capital, whether an insurer can cover its claims. <strong>Courts</strong> use accounting reports to assess damages &mdash; when one company has harmed another, a judge or jury consults the same structured picture to determine how much the harm was worth. <strong>Unions</strong> negotiating a contract want to know what the organization can afford. <strong>Suppliers</strong> deciding whether to extend trade credit want to know if they will be paid.</p>
+
+        <p>Every one of these users is coming to the same system. They are drawing on the same structured picture of the same underlying economic activity. But they are not all asking the same question.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">2</span>
+        Three Purposes
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p>What all these users have in common is that they rely on the system&rsquo;s output. But they rely on it in different ways, for different purposes. Three purposes account for most of what accounting systems do.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Informing decisions</h3>
+
+        <p>An investor deciding whether to buy shares in a company. A lender deciding whether to extend a loan. A manager deciding whether to enter a new market, fund a project, or raise cash. These are all forward-looking questions &mdash; they are about what to do next. The system&rsquo;s output informs these choices by providing a structured picture of what has happened and what the organization&rsquo;s current position is. It does not make the decision. It produces information that a person can draw on when making it.</p>
+
+        <p>Essentially, any time an organization faces a choice that requires weighing benefits and costs &mdash; at least some of which are economic &mdash; it is natural to consult an accounting system. The system provides information about similar situations in the past, the current state of the organization&rsquo;s resources and obligations, and a basis for projecting future flows.</p>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Influencing behavior</h3>
+
+        <p>This purpose is more subtle, and it operates through two quite different mechanisms.</p>
+
+        <p>The first is <strong>indirect: shaping incentives</strong>. When people know that their performance will be assessed using numbers drawn from an accounting system, they alter their behavior to conform to how they are being counted. Executives often have bonus plans tied to net income, return on assets, return on equities, or other figures that come straight out of the system. Compensation committees choose which accounting numbers to tie rewards to, and that choice shapes what managers pay attention to. This is fundamentally a backward-looking exercise &mdash; it is about evaluating someone as a steward of the resources entrusted to them. Did they manage those resources well? The accounting system provides the structured picture against which that judgment is made.</p>
+
+        <p>The second mechanism is <strong>direct: contractual and regulatory triggers</strong>. Here the accounting numbers themselves have legal teeth. A debt covenant might specify that if a company&rsquo;s ratio of debt to equities exceeds a certain threshold, the lender can demand immediate repayment &mdash; the company is in technical default. A bank regulator might require that a financial institution maintain capital above a certain level; if the accounting numbers show it has fallen below, the regulator intervenes. These are not incentives designed to nudge behavior. They are tripwires. The numbers cross a line, and consequences follow automatically.</p>
+
+        <p>Notice that both mechanisms depend on the system being credible and shared. If the executive could choose which accounting numbers to be evaluated against, the incentive disappears. If the borrower and lender were using different systems, the covenant would be unenforceable.</p>
+
+        <!-- Gjesdal rabbit hole -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            Stewardship vs. decision-usefulness &mdash; a deeper tension
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>The distinction between informing decisions and evaluating stewardship is not just a matter of emphasis &mdash; it can pull the system&rsquo;s design in different directions.</p>
+            <p>If your goal is to evaluate a steward, you want numbers that are verifiable, hard to manipulate, and firmly tied to what actually happened. Historical cost anchored in arm&rsquo;s-length transactions serves this purpose well. If your goal is to predict future cash flows, you might prefer numbers that are more timely, more forward-looking, adjusted for current conditions &mdash; even if those numbers involve more estimation and judgment.</p>
+            <p>You cannot always have both. A number that is maximally useful for predicting the future is not always the same number that is most reliable for holding someone accountable for the past. This is a genuine tension in the design of every accounting system.</p>
+            <p>Froystein Gjesdal formalized this insight in his 1979 Stanford doctoral dissertation and a 1981 article in the <em>Journal of Accounting Research</em>. His work showed that the information content most useful for decision-making and the information content most useful for stewardship evaluation are, in general, different &mdash; and that a system optimized for one purpose will not, in general, be optimal for the other. This is one of the deep reasons why the design of accounting systems involves tradeoffs that cannot be eliminated.</p>
+          </div>
+        </div>
+
+        <h3 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 16px; color: var(--primary); margin: 24px 0 10px;">Enabling coordination</h3>
+
+        <p>This is the purpose that ties everything together. An organization of any real scale involves many people making decisions, evaluating performance, enforcing contracts, and assessing obligations &mdash; all at the same time, often in tension with one another. They can only do this if they are working from a common picture.</p>
+
+        <p>Much of this coordination is between the organization itself and the people it interacts with. A company and its lender both consult the same accounting reports to determine whether a debt covenant has been met. A company and the tax authority both work from the same structured picture to settle what is owed. Inside the organization, managers across divisions rely on the same system to allocate resources, assess performance, and make plans that fit together. The system is what allows all of these parties &mdash; inside and outside the firm &mdash; to act on a common understanding of the same economic reality.</p>
+
+        <p>Consider what happens without that common picture. If the board uses one set of numbers to evaluate the CEO, and the lender uses a different set to monitor the debt covenant, and the company itself uses a third set for internal planning, there is no shared basis for any of their interactions. Disputes become unresolvable. Contracts become unenforceable. Coordination breaks down.</p>
+
+        <p>This is why accounting systems evolved as <em>shared</em> systems with standardized rules. The compression that the system performs &mdash; taking the vast complexity of an organization&rsquo;s economic activity and producing a structured picture &mdash; only works if everyone drawing on that picture is looking at the same compression. The system does not just inform individuals. It creates a common frame of reference that makes coordination possible &mdash; between the organization and the people who depend on it, and among those people themselves.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">3</span>
+        Common Architecture, Different Rules
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p>As we saw in Module 1, accounting systems around the world share a common architecture &mdash; double-entry bookkeeping, the self-balancing identity, financial statements that present different views of the same underlying data, and the input boundary. That shared architecture is what makes coordination possible across borders, across industries, across time.</p>
+
+        <p>But the specific rules vary. US GAAP, written by FASB, governs how American for-profit companies report. IFRS, written by the IASB, covers most of the rest of the world. Separate rules exist for governments, nonprofits, and tax reporting. Each of these is an instance of the shared architecture &mdash; a specific set of choices about when to recognize an economic event, how to quantify it, and what to disclose.</p>
+
+        <p>And this is not arbitrary. The reason different instances exist is that different uses pull the design in different directions. Tax systems skew toward cash-based recognition &mdash; the tax authority wants to know when money actually moved, because that is what it is taxing. Financial reporting under GAAP, by contrast, moves increasingly toward accrual &mdash; recognizing economic events as they occur, even before cash changes hands &mdash; because investors and lenders want a picture of economic activity as it happens, not just when cash arrives or departs. Same underlying architecture, but the instance choices reflect which purposes are dominant.</p>
+
+        <p>But different instances do not mean different databases. At the transaction level &mdash; the same purchase, the same sale, the same loan payment &mdash; every instance draws on the same recorded events. Transactions are the common foundation: discrete, documented events that every accounting system recognizes. A company does not maintain one record-keeping system for financial reporting and a completely separate one for tax. It starts from the same transaction data and applies different recognition and quantification rules to produce different outputs. This is a kind of economy of scope &mdash; the investment in recording transactions pays off across multiple uses.</p>
+
+        <p>Where instances diverge is in what they recognize <em>beyond</em> transactions. When GAAP requires a company to adjust an asset&rsquo;s carrying amount to reflect a change in market worth, or to recognize an expected credit loss before any cash has actually been lost, that adjustment creates new source data &mdash; appraisals, estimates, models &mdash; that the tax system may not require or recognize at all. The economy of scope is strongest at the transaction base. It narrows as instances call for recognizing different things above that base.</p>
+
+        <!-- Rabbit hole: economy of scope and its tensions -->
+        <div class="rabbit-hole">
+          <button class="rabbit-hole-trigger" onclick="toggleRabbitHole(this)">
+            <span class="rh-icon">&#128007;</span>
+            One database, many rule sets &mdash; the tensions this creates
+            <span class="rh-chevron">&#9654;</span>
+          </button>
+          <div class="rabbit-hole-body">
+            <p>Running multiple instances off the same transaction data is efficient, but it is not frictionless. Even at the transaction level, instances can diverge in timing &mdash; recognizing revenue at different points, allowing different depreciation schedules. Above the transaction level, the divergence grows wider: GAAP may require fair-worth adjustments, impairment write-downs, or expected loss provisions that the tax code ignores entirely.</p>
+            <p>Organizations must track all of these differences. They show up in the financial statements as deferred tax assets and deferred tax liabilities &mdash; artifacts of the fact that the same underlying economic reality, processed through two different instance rule sets, produces different numbers at any given point in time. This is a recurring source of complexity in practice, and it is worth recognizing early: the efficiency of sharing a common transaction base across instances comes with the cost of reconciling the differences those instances produce above it.</p>
+          </div>
+        </div>
+
+        <p>The users we just discussed are all working within one or more of these instances. An investor reading CVS Health&rsquo;s annual report is seeing the architecture as implemented through US GAAP. A tax authority auditing the same company is seeing the architecture as implemented through the Internal Revenue Code. Same organization, same underlying economic activity, same deep structure &mdash; but different instance choices, shaped by different purposes.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">4</span>
+        What This Tells Us About System Design
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p>Here is the tension. The system must serve investors predicting the future <em>and</em> boards evaluating the past. It must serve lenders monitoring covenants <em>and</em> managers making resource allocation choices. It must serve tax authorities in one jurisdiction <em>and</em> regulators in another. All of them are drawing on the same compressed picture.</p>
+
+        <p>You cannot optimize for every question at once. A design choice that makes the system more useful for one purpose will, in general, make it less useful for another. Every choice about what to include in the system, how to quantify it, and when to recognize it is a tradeoff.</p>
+
+        <p>That is the subject of Module 3: the conventions, the tradeoffs, and the limits that follow inevitably from the fact that one system must serve many users with different questions.</p>
+      </div>
+    </div>
+
+  </div><!-- /accordion -->
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="index.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 1: Welcome and Orientation</span>
+    </a>
+    <a href="reflect2.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Pause and Reflect</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  initPage(2);
+</script>
+
+</body>
+</html>

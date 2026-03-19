@@ -20,7 +20,125 @@
     line-height: 1.7;
   }
 
-  /* Banner */
+  /* ===== NAV BAR ===== */
+  .nav {
+    background: white;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 44px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  .nav-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .nav-home {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+  }
+  .nav-home:hover { text-decoration: underline; }
+  .nav-sep { color: #ccc; font-size: 11px; }
+  .nav-current {
+    color: #888;
+    font-size: 13px;
+  }
+  .nav-right {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .nav-btn {
+    background: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-family: inherit;
+    font-size: 12px;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .nav-btn:hover { background: #f5f5f5; border-color: #bbb; }
+
+  /* Module dropdown */
+  .nav-modules {
+    position: relative;
+  }
+  .nav-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    min-width: 280px;
+    padding: 6px 0;
+    margin-top: 4px;
+    z-index: 60;
+  }
+  .nav-modules.open .nav-dropdown { display: block; }
+  .nav-dropdown a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #2a2a2a;
+    font-size: 13px;
+    transition: background 0.1s;
+  }
+  .nav-dropdown a:hover { background: var(--primary-faint); }
+  .nav-dropdown a.current { font-weight: 600; color: var(--primary); }
+  .nav-dd-num {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 600;
+    color: #888;
+    flex-shrink: 0;
+  }
+  .nav-dropdown a.current .nav-dd-num {
+    background: var(--accent);
+    color: white;
+  }
+  .nav-dropdown a.completed .nav-dd-num {
+    background: #22c55e;
+    color: white;
+  }
+
+  /* ===== PROGRESS BAR ===== */
+  .progress-strip {
+    height: 3px;
+    background: #eee;
+  }
+  .progress-fill {
+    height: 100%;
+    background: var(--accent);
+    transition: width 0.4s ease;
+  }
+
+  /* ===== BANNER ===== */
   .banner {
     background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
     color: white;
@@ -67,7 +185,7 @@
     margin-top: 1px;
   }
 
-  /* Content */
+  /* ===== CONTENT ===== */
   .content {
     max-width: 720px;
     margin: 0 auto;
@@ -213,13 +331,8 @@
     color: #2a2a2a;
     margin-top: 1px;
   }
-  .roadmap-title a {
-    color: inherit;
-    text-decoration: none;
-  }
-  .roadmap-title a:hover {
-    color: var(--primary);
-  }
+  .roadmap-title a { color: inherit; text-decoration: none; }
+  .roadmap-title a:hover { color: var(--primary); }
   .roadmap-desc {
     font-size: 13.5px;
     color: #888;
@@ -246,46 +359,6 @@
     line-height: 1.6;
   }
 
-  /* Quiz links */
-  .quiz-link {
-    display: flex;
-    align-items: center;
-    background: white;
-    border: 1px solid #dce4ee;
-    border-radius: 5px;
-    padding: 14px 18px;
-    margin: 10px 0;
-    text-decoration: none;
-    color: #2a2a2a;
-    transition: border-color 0.2s;
-  }
-  .quiz-link:hover { border-color: var(--primary-light); }
-  .quiz-icon {
-    width: 32px; height: 32px;
-    background: var(--primary);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-weight: bold;
-    font-size: 15px;
-    flex-shrink: 0;
-    margin-right: 14px;
-  }
-  .quiz-title {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--primary);
-  }
-  .quiz-desc {
-    font-size: 12.5px;
-    color: #999;
-    margin-top: 1px;
-  }
-
   /* Transition */
   .transition {
     font-style: italic;
@@ -295,10 +368,7 @@
     border-top: 1px solid #e0e0e0;
     font-size: 15px;
   }
-  .transition a {
-    color: var(--primary);
-    text-decoration: none;
-  }
+  .transition a { color: var(--primary); text-decoration: none; }
   .transition a:hover { text-decoration: underline; }
 
   /* Transcript toggle */
@@ -323,9 +393,7 @@
     transition: transform 0.2s;
     vertical-align: middle;
   }
-  .transcript-toggle.open::before {
-    transform: rotate(90deg);
-  }
+  .transcript-toggle.open::before { transform: rotate(90deg); }
   .transcript-box {
     display: none;
     max-width: 600px;
@@ -343,13 +411,149 @@
     overflow-y: auto;
   }
   .transcript-box.open { display: block; }
-  .transcript-box p {
-    margin-bottom: 14px;
-  }
+  .transcript-box p { margin-bottom: 14px; }
   .transcript-box p:last-child { margin-bottom: 0; }
+
+  /* ===== GLOSSARY OVERLAY ===== */
+  .glossary-overlay {
+    display: none;
+    position: fixed;
+    top: 0; right: 0; bottom: 0;
+    width: 360px;
+    background: white;
+    border-left: 1px solid #ddd;
+    box-shadow: -4px 0 20px rgba(0,0,0,0.08);
+    z-index: 100;
+    flex-direction: column;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+  .glossary-overlay.open {
+    display: flex;
+  }
+  .glossary-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid #eee;
+  }
+  .glossary-header h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .glossary-close {
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: #999;
+    cursor: pointer;
+    padding: 4px 8px;
+    line-height: 1;
+  }
+  .glossary-close:hover { color: #555; }
+  .glossary-search {
+    padding: 12px 20px;
+    border-bottom: 1px solid #eee;
+  }
+  .glossary-search input {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .glossary-search input:focus { outline: none; border-color: var(--primary); }
+  .glossary-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px 0;
+  }
+  .glossary-item {
+    padding: 12px 20px;
+    border-bottom: 1px solid #f5f5f5;
+  }
+  .glossary-term {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 3px;
+  }
+  .glossary-def {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.5;
+  }
+  .glossary-item.hidden { display: none; }
+
+  /* Glossary backdrop for mobile */
+  .glossary-backdrop {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.3);
+    z-index: 99;
+  }
+  .glossary-backdrop.open { display: block; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 600px) {
+    .banner { padding: 24px 20px 20px; }
+    .banner-text h1 { font-size: 22px; }
+    .content { padding: 28px 16px 60px; }
+    .glossary-overlay { width: 100%; }
+    .nav { padding: 0 12px; }
+  }
 </style>
 </head>
 <body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 1: Welcome</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown">
+        <a href="index.html" class="current">
+          <span class="nav-dd-num">1</span> Welcome and Orientation
+        </a>
+        <a href="module2.html">
+          <span class="nav-dd-num">2</span> Why Accounting Systems Exist
+        </a>
+        <a href="module3.html">
+          <span class="nav-dd-num">3</span> Worth, Quantification, and Limits
+        </a>
+        <a href="module4.html">
+          <span class="nav-dd-num">4</span> The Architecture Itself
+        </a>
+        <a href="module5.html">
+          <span class="nav-dd-num">5</span> CVS Health: Balance Sheets
+        </a>
+        <a href="module6.html">
+          <span class="nav-dd-num">6</span> CVS Health: Income Statement
+        </a>
+        <a href="module7.html">
+          <span class="nav-dd-num">7</span> CVS Health: Cash Flows
+        </a>
+        <a href="module8.html">
+          <span class="nav-dd-num">8</span> The Analyst's Toolkit
+        </a>
+      </div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 12.5%;"></div>
+</div>
 
 <!-- Banner -->
 <div class="banner">
@@ -464,23 +668,45 @@
 
   <div class="info-box">
     <h3>Some accounting background?</h3>
-    <p>Take the diagnostic below to see where you can move quickly. But don't skip the framing &mdash; the information system perspective will be new, even if the mechanics are familiar.</p>
+    <p>There&rsquo;s a diagnostic before Module 4 to help you figure out where to go deep and where to move quickly. But don&rsquo;t skip the framing &mdash; the information system perspective will be new, even if the mechanics are familiar.</p>
   </div>
 
   <div class="info-box">
     <h3>For everyone</h3>
-    <p>The quizzes are diagnostics, not tests. They don't count toward any grade. They exist to help you figure out where to spend your time.</p>
+    <p>The diagnostics are not tests. They don&rsquo;t count toward any grade. They exist to help you figure out where to spend your time.</p>
   </div>
 
   <!-- Transition -->
   <p class="transition">
-    When you're ready, <a href="module2.html">Module 2</a> begins with the question every information system must answer first: who uses it, and why? &rarr;
+    When you're ready, Module 2 begins with the question every information system must answer first: who uses it, and why?
   </p>
+
+  <!-- Next module navigation -->
+  <div style="display: flex; justify-content: flex-end; margin-top: 24px;">
+    <a href="module2.html" style="display: flex; flex-direction: column; text-decoration: none; padding: 16px 20px; border: 1px solid #e0e0e0; border-radius: 6px; transition: border-color 0.15s, background 0.15s; text-align: right; min-width: 260px;">
+      <span style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; color: #999; margin-bottom: 4px;">Next &rarr;</span>
+      <span style="font-size: 15px; color: var(--primary); font-weight: 500;">Module 2: Why Accounting Systems Exist</span>
+    </a>
+  </div>
 
 </div>
 
-<!-- Transcript toggle -->
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
 <script>
+// Transcript toggle
 function toggleTranscript() {
   var box = document.getElementById('transcriptBox');
   var btn = document.getElementById('transcriptToggle');
@@ -488,18 +714,128 @@ function toggleTranscript() {
   btn.classList.toggle('open', isOpen);
   btn.textContent = isOpen ? 'Hide transcript' : 'Read transcript';
 }
+
+// Module nav dropdown
+function toggleModuleNav() {
+  document.getElementById('navModules').classList.toggle('open');
+}
+// Close dropdown when clicking outside
+document.addEventListener('click', function(e) {
+  var nav = document.getElementById('navModules');
+  if (!nav.contains(e.target)) nav.classList.remove('open');
+});
+
+// Glossary
+var GLOSSARY = [
+  { term: "Accounting system", def: "A shared information system that compresses the economic complexity of an organization into structured reports that many different people can consult for different purposes." },
+  { term: "Architecture", def: "The deep structure shared by accounting systems around the world: the self-balancing identity, double-entry bookkeeping, the four financial statements, and the input boundary. The architecture does not vary across instances." },
+  { term: "Instance", def: "A specific set of rules written by a rule-making body for a particular class of organizations. US GAAP, IFRS, and governmental accounting standards are each instances of the shared architecture." },
+  { term: "Accounting identity", def: "A self-imposed balancing requirement at the center of every accounting system: Assets = Liabilities + Equities. Not derived or discovered \u2014 chosen, because of what imposing it makes possible." },
+  { term: "Equities", def: "The definitional residual: Assets minus Liabilities. Always plural. Not \"what\u2019s left for the owners\" except in the special case of full liquidation. The meaning of Equities is limited by the same conventions that limit the recording of Assets and Liabilities." },
+  { term: "Asset", def: "The present right to an economic benefit. Not a physical thing, but a right to receive future benefits." },
+  { term: "Liability", def: "A present obligation of an entity to transfer an economic benefit. An obligation is not optional \u2014 it must be fulfilled." },
+  { term: "Double-entry bookkeeping", def: "A recording method in which every economic event is entered in two places, maintaining the balance of the accounting identity. Evolved in medieval Italy; now used by most accounting systems worldwide." },
+  { term: "Financial statements", def: "The four output channels of the accounting system: the balance sheet, income statement, statement of changes in equities, and statement of cash flows. Four windows onto one structure, not four independent documents." },
+  { term: "US GAAP", def: "Generally Accepted Accounting Principles. The instance of the accounting architecture written by FASB for US for-profit entities. The instance studied in this prework." },
+  { term: "IFRS", def: "International Financial Reporting Standards. The instance written by the IASB for entities in most countries outside the United States." },
+  { term: "FASB", def: "Financial Accounting Standards Board. The body that writes US GAAP \u2014 the accounting rules for US for-profit entities." },
+  { term: "Instance choice", def: "A decision made by a rule-making body (FASB, IASB, GASB) that could have been made differently. Whenever a GAAP-specific rule appears in the prework, it is identified as an instance choice." },
+  { term: "Tradeoff", def: "Every design choice in the accounting system gains something and loses something. There is no tradeoff-free accounting system \u2014 that would be reality itself." },
+  { term: "Compression", def: "What every accounting system does: takes the vast complexity of an organization\u2019s economic activity and produces something structured enough for human minds to work with. Compression requires choices, and choices involve tradeoffs." },
+  { term: "Input boundary", def: "The line that determines which economic events enter the accounting system and which do not. There is too much data to include it all. What falls outside the boundary \u2014 human capital, internally generated brands, relational assets \u2014 is invisible to the system." },
+  { term: "Journal entry notation", def: "The language of debits and credits used to analyze and record transactions. The first step in accounting for any transaction is to analyze it: what changed, where do the effects land, does everything still balance?" },
+  { term: "Historical cost", def: "The amount recorded at the time of an arm\u2019s-length transaction \u2014 the strongest epistemic anchor for worth, because two independent parties looked at the same thing and agreed on a price." },
+  { term: "Balance sheet", def: "The financial statement that shows the accounting identity at a point in time: what the entity has recorded as assets, what it owes (liabilities), and the residual (equities)." },
+  { term: "Income statement", def: "The financial statement that explains one category of change in equities: operations. What the entity earned and what it spent during a period." },
+  { term: "Statement of cash flows", def: "The financial statement that tracks cash inflows and outflows. Under the indirect method, it is a reconciliation between the change in equities and the change in cash." }
+];
+
+// Sort alphabetically
+GLOSSARY.sort(function(a, b) { return a.term.localeCompare(b.term); });
+
+function renderGlossary() {
+  var list = document.getElementById('glossaryList');
+  list.innerHTML = '';
+  GLOSSARY.forEach(function(g, i) {
+    var item = document.createElement('div');
+    item.className = 'glossary-item';
+    item.setAttribute('data-index', i);
+    item.innerHTML = '<div class="glossary-term">' + g.term + '</div><div class="glossary-def">' + g.def + '</div>';
+    list.appendChild(item);
+  });
+}
+
+function toggleGlossary() {
+  var overlay = document.getElementById('glossaryOverlay');
+  var backdrop = document.getElementById('glossaryBackdrop');
+  var isOpen = overlay.classList.toggle('open');
+  backdrop.classList.toggle('open', isOpen);
+  if (isOpen) {
+    document.getElementById('glossarySearchInput').value = '';
+    filterGlossary('');
+    document.getElementById('glossarySearchInput').focus();
+  }
+}
+
+function filterGlossary(query) {
+  var q = query.toLowerCase();
+  var items = document.querySelectorAll('.glossary-item');
+  items.forEach(function(item) {
+    var i = parseInt(item.getAttribute('data-index'));
+    var match = GLOSSARY[i].term.toLowerCase().indexOf(q) !== -1 || GLOSSARY[i].def.toLowerCase().indexOf(q) !== -1;
+    item.classList.toggle('hidden', !match);
+  });
+}
+
+// Progress tracking (localStorage-based)
+function getProgress() {
+  try {
+    return JSON.parse(localStorage.getItem('prework_progress') || '{}');
+  } catch(e) { return {}; }
+}
+
+function markModuleVisited(moduleNum) {
+  var progress = getProgress();
+  if (!progress[moduleNum]) {
+    progress[moduleNum] = { visited: true, timestamp: Date.now() };
+    localStorage.setItem('prework_progress', JSON.stringify(progress));
+  }
+  updateProgressBar();
+  updateModuleDropdown();
+}
+
+function updateProgressBar() {
+  var progress = getProgress();
+  var visited = Object.keys(progress).length;
+  var total = 8;
+  var pct = Math.round((visited / total) * 100);
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+function updateModuleDropdown() {
+  var progress = getProgress();
+  var links = document.querySelectorAll('.nav-dropdown a');
+  links.forEach(function(link, i) {
+    var mod = i + 1;
+    if (progress[mod] && !link.classList.contains('current')) {
+      link.classList.add('completed');
+    }
+  });
+}
+
+// Init
+renderGlossary();
+markModuleVisited(1);
 </script>
 
 <!-- Config-driven theming -->
 <script src="config.js"></script>
 <script>
 (function() {
-  // Bail gracefully if config not loaded
   if (typeof SITE_CONFIG === 'undefined') return;
-  const C = SITE_CONFIG;
-  const r = document.documentElement.style;
+  var C = SITE_CONFIG;
+  var r = document.documentElement.style;
 
-  // Colors
   if (C.colors) {
     if (C.colors.primary)      r.setProperty('--primary', C.colors.primary);
     if (C.colors.primaryLight)  r.setProperty('--primary-light', C.colors.primaryLight);
@@ -507,25 +843,20 @@ function toggleTranscript() {
     if (C.colors.accent)        r.setProperty('--accent', C.colors.accent);
   }
 
-  // Page title
   document.title = C.courseTitle || 'Accounting Pre-Work';
-
-  // Course title
   document.getElementById('courseTitle').textContent = C.courseTitle || 'Accounting Pre-Work';
+  document.getElementById('navHome').textContent = C.courseTitle ? C.courseTitle.split(' ')[0] : 'Prework';
 
-  // Author line
-  const parts = [];
+  var parts = [];
   if (C.instructor && C.instructor.name) parts.push(C.instructor.name);
   if (C.instructor && C.instructor.title) parts.push(C.instructor.title);
   document.getElementById('authorLine').textContent = parts.join(' \u00B7 ');
 
-  // Institution
   if (C.institution) {
     document.getElementById('institutionLine').textContent = C.institution;
   }
 
-  // Logo
-  const logoEl = document.getElementById('bannerLogo');
+  var logoEl = document.getElementById('bannerLogo');
   if (C.logo) {
     if (C.logo.type === 'letter' && C.logo.value) {
       logoEl.textContent = C.logo.value;
@@ -534,16 +865,14 @@ function toggleTranscript() {
     }
   }
 
-  // Welcome text
   if (C.welcomeText) {
-    const wt = document.getElementById('welcomeText');
+    var wt = document.getElementById('welcomeText');
     wt.textContent = C.welcomeText;
     wt.classList.add('visible');
   }
 
-  // Mascot
   if (C.mascot) {
-    const m = document.getElementById('mascot');
+    var m = document.getElementById('mascot');
     document.getElementById('mascotImg').src = C.mascot;
     m.classList.add('visible');
   }

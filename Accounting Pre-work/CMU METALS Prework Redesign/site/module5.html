@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 5: CVS Health: Balance Sheets</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Module header -->
+  <div class="module-header">
+    <div class="module-label">Module 5</div>
+    <h2>CVS Health: Balance Sheets</h2>
+    <p class="module-subtitle">The architecture applied to a real company</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Opening prose -->
+  <p class="prose">
+    We now apply the architecture we've learned to a real company. CVS Health is a large, complex healthcare and pharmacy business. Its balance sheet reveals what the company owns and owes, and these numbers reveal patterns about how the business is financed and what it has invested in.
+  </p>
+
+  <!-- Accordion sections -->
+  <div class="accordion">
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">1</span>
+        Why CVS Health?
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section explains why CVS Health is used as the running example throughout the course: size, complexity, recognizable business model, and real-world complications.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">2</span>
+        Reading the Balance Sheet
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section walks through CVS Health's actual balance sheet, identifying key assets, liabilities, and equity accounts and explaining what each represents.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">3</span>
+        What the Numbers Tell You
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section draws patterns from the balance sheet: the balance between current and long-term assets, the composition of liabilities, and what these structures reveal about CVS Health's business model and financial strategy.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">4</span>
+        What the Numbers Don't Tell You
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section returns to the limits explored in Module 3: intangible assets like brand value, the quality of relationships with suppliers and customers, management talent, and regulatory risk all matter but fall outside the balance sheet's scope.</p>
+      </div>
+    </div>
+
+  </div><!-- /accordion -->
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="module4.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 4: The Architecture Itself</span>
+    </a>
+    <a href="module6.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 6: CVS Health: Income Statement</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  initPage(5);
+</script>
+
+</body>
+</html>

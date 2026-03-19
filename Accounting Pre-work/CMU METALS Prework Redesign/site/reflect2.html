@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  /* Reflection-specific styles */
+  .reflect-intro {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .reflect-note {
+    font-size: 14px;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 32px;
+  }
+  .prompt-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 24px;
+    margin-bottom: 20px;
+    transition: border-color 0.2s;
+  }
+  .prompt-card.has-response {
+    border-color: #22c55e;
+  }
+  .prompt-card .prompt-number {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .prompt-card .prompt-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .prompt-card textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2a2a2a;
+    resize: vertical;
+    transition: border-color 0.2s;
+  }
+  .prompt-card textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+  }
+  .prompt-card textarea::placeholder {
+    color: #bbb;
+    font-style: italic;
+  }
+  .prompt-card .char-hint {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    color: #bbb;
+    margin-top: 6px;
+    text-align: right;
+  }
+  .progress-summary {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 24px;
+    padding: 12px 16px;
+    background: var(--primary-faint);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .progress-summary .check-count {
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .save-notice {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #22c55e;
+    font-weight: 500;
+    opacity: 0;
+    transition: opacity 0.3s;
+    margin-left: 8px;
+  }
+  .save-notice.visible {
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 2: Pause and Reflect</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <div class="module-header">
+    <div class="module-label">Module 2</div>
+    <h2>Pause and Reflect</h2>
+    <p class="module-subtitle">Why Accounting Systems Exist</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- React mounts here -->
+  <div id="react-root"></div>
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="module2.html" class="prev">
+      <span class="nav-direction">&larr; Back to reading</span>
+      <span class="nav-label">Module 2: Why Accounting Systems Exist</span>
+    </a>
+    <a href="module3.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 3: Worth, Quantification, and Limits</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts: shared infrastructure -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  // Use initPage with module 2 (reflection is part of module 2)
+  renderGlossary();
+  markModuleVisited(2);
+  buildModuleDropdown(2);
+  applyConfig();
+  updateProgressBar();
+</script>
+
+<!-- React via CDN -->
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<script type="text/babel">
+const { useState, useEffect, useCallback, useRef } = React;
+
+// ===== PROMPT DATA BY AUDIENCE =====
+const PROMPTS = {
+  executive: [
+    'Have you ever had a bonus, raise, or performance review tied to numbers drawn from an accounting system \u2014 net income, return on assets, a budget target?',
+    'Have you ever seen a debt covenant, regulatory threshold, or contractual trigger where crossing a number had immediate consequences?',
+    'Have you ever consulted financial reports when deciding whether to fund a project, enter a market, or extend credit?',
+    'Have you ever watched people change their behavior because they knew how they were being counted?'
+  ],
+  'pre-experience': [
+    'Has a club, team, or organization you were part of ever had a budget? Did the budget change how people spent?',
+    'Have you ever looked at a company\u2019s financial reports \u2014 even briefly \u2014 when making a decision? Choosing between job offers, evaluating an investment, researching a company?',
+    'Have you ever been in a situation where the way something was counted changed how people acted? (Think about grades, rankings, quotas \u2014 any system where the numbers shaped behavior.)',
+    'Can you think of a situation where two people disagreed about the financial health of the same organization? What would it take for them to resolve that disagreement?'
+  ],
+  mixed: [
+    'Think about an organization you know \u2014 a company, a nonprofit, a government agency. How many different people rely on its financial information? What different questions might they bring?',
+    'Have you ever been in a situation where the way something was counted changed how people acted?',
+    'Have you ever consulted financial reports when making a decision \u2014 about a job, an investment, a project, a purchase?',
+    'Can you think of an example where accounting numbers had direct consequences \u2014 not just informing a choice, but triggering one automatically?'
+  ]
+};
+
+const STORAGE_KEY = 'prework_reflect2';
+
+// ===== INDIVIDUAL PROMPT CARD =====
+function PromptCard({ index, text, savedResponse, onSave }) {
+  const [value, setValue] = useState(savedResponse || '');
+  const [saveNotice, setSaveNotice] = useState(false);
+  const timerRef = useRef(null);
+
+  const handleChange = useCallback((e) => {
+    const newVal = e.target.value;
+    setValue(newVal);
+
+    // Auto-save after 800ms of inactivity
+    if (timerRef.current) clearTimeout(timerRef.current);
+    timerRef.current = setTimeout(() => {
+      onSave(index, newVal);
+      if (newVal.trim().length > 0) {
+        setSaveNotice(true);
+        setTimeout(() => setSaveNotice(false), 1500);
+      }
+    }, 800);
+  }, [index, onSave]);
+
+  // Save on blur immediately
+  const handleBlur = useCallback(() => {
+    if (timerRef.current) clearTimeout(timerRef.current);
+    onSave(index, value);
+  }, [index, value, onSave]);
+
+  const hasResponse = value.trim().length > 0;
+
+  return (
+    <div className={`prompt-card ${hasResponse ? 'has-response' : ''}`}>
+      <div className="prompt-number">
+        Prompt {index + 1} of {PROMPTS.mixed.length}
+        <span className={`save-notice ${saveNotice ? 'visible' : ''}`}>Saved</span>
+      </div>
+      <div className="prompt-text">{text}</div>
+      <textarea
+        value={value}
+        onChange={handleChange}
+        onBlur={handleBlur}
+        placeholder="Write your response here..."
+      />
+      <div className="char-hint">
+        {value.length > 0 ? `${value.length} characters` : ''}
+      </div>
+    </div>
+  );
+}
+
+// ===== MAIN REFLECTION APP =====
+function ReflectionApp() {
+  const audience = (typeof SITE_CONFIG !== 'undefined' && SITE_CONFIG.audience) || 'mixed';
+  const prompts = PROMPTS[audience] || PROMPTS.mixed;
+
+  // Load saved responses from localStorage
+  const [responses, setResponses] = useState(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      return saved;
+    } catch (e) {
+      return {};
+    }
+  });
+
+  const handleSave = useCallback((index, value) => {
+    setResponses(prev => {
+      const updated = { ...prev, [index]: value };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(updated));
+      return updated;
+    });
+  }, []);
+
+  const answeredCount = Object.values(responses).filter(v => v && v.trim().length > 0).length;
+
+  return (
+    <div>
+      <p className="reflect-intro">
+        Before moving on, take a moment to connect what you just read to your own experience.
+      </p>
+      <p className="reflect-note">
+        These are not test questions and there are no right answers. Your responses are saved locally on your device and are not submitted anywhere.
+      </p>
+
+      <div className="progress-summary">
+        <span className="check-count">{answeredCount} of {prompts.length}</span> prompts answered
+      </div>
+
+      {prompts.map((prompt, i) => (
+        <PromptCard
+          key={i}
+          index={i}
+          text={prompt}
+          savedResponse={responses[i] || ''}
+          onSave={handleSave}
+        />
+      ))}
+    </div>
+  );
+}
+
+// ===== MOUNT =====
+const root = ReactDOM.createRoot(document.getElementById('react-root'));
+root.render(<ReflectionApp />);
+</script>
+
+</body>
+</html>

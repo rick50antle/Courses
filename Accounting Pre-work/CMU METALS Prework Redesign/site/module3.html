@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accounting Pre-Work</title>
+<link rel="stylesheet" href="shared.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="nav">
+  <div class="nav-left">
+    <a href="index.html" class="nav-home" id="navHome">Prework</a>
+    <span class="nav-sep">&#8250;</span>
+    <span class="nav-current" id="navCurrent">Module 3: Worth, Quantification, and Limits</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-modules" id="navModules">
+      <button class="nav-btn" onclick="toggleModuleNav()">Modules &#9662;</button>
+      <div class="nav-dropdown" id="moduleDropdown"></div>
+    </div>
+    <button class="nav-btn" onclick="toggleGlossary()" title="Glossary">&#128214; Glossary</button>
+  </div>
+</nav>
+
+<!-- Progress Bar -->
+<div class="progress-strip">
+  <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+</div>
+
+<!-- Banner -->
+<div class="banner">
+  <div class="banner-logo" id="bannerLogo"></div>
+  <div class="banner-text">
+    <h1 id="courseTitle">Accounting Pre-Work</h1>
+    <div class="author" id="authorLine"></div>
+    <div class="institution" id="institutionLine"></div>
+  </div>
+</div>
+
+<!-- Main content -->
+<div class="content">
+
+  <!-- Module header -->
+  <div class="module-header">
+    <div class="module-label">Module 3</div>
+    <h2>Worth, Quantification, and Limits</h2>
+    <p class="module-subtitle">Conventions, tradeoffs, and what the system can and cannot see</p>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Opening prose -->
+  <p class="prose">
+    An accounting system compresses reality into numbers. But not everything can be quantified, and not every quantification is neutral. This module examines what accounting can measure and the deliberate choices embedded in how it measures them.
+  </p>
+
+  <!-- Accordion sections -->
+  <div class="accordion">
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">1</span>
+        What Counts as Worth?
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>This section will explore how "value" is defined in accounting systems and why market price is treated as the primary measure of worth.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">2</span>
+        The Input Boundary
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>Not everything an organization owns or cares about appears on its financial statements; this section examines what falls inside and outside the system's scope.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">3</span>
+        Quantification Choices
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>When an item is included, managers and accountants still make choices about how to measure it; this section explores methods like historical cost, fair value, and their consequences.</p>
+      </div>
+    </div>
+
+    <div class="accordion-section">
+      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+        <span class="section-num">4</span>
+        Tradeoffs Are Unavoidable
+        <span class="chevron">&#9654;</span>
+      </button>
+      <div class="accordion-body">
+        <p><em>[Content to be drafted.]</em></p>
+        <p>Every choice about what to include and how to measure it involves giving up something else; this section examines the tradeoffs between relevance, reliability, simplicity, and comparability.</p>
+      </div>
+    </div>
+
+  </div><!-- /accordion -->
+
+  <!-- Prev / Next navigation -->
+  <div class="module-nav">
+    <a href="reflect2.html" class="prev">
+      <span class="nav-direction">&larr; Previous</span>
+      <span class="nav-label">Module 2: Why Accounting Systems Exist</span>
+    </a>
+    <a href="module4.html" class="next">
+      <span class="nav-direction">Next &rarr;</span>
+      <span class="nav-label">Module 4: The Architecture Itself</span>
+    </a>
+  </div>
+
+</div><!-- /content -->
+
+<!-- Glossary Overlay -->
+<div class="glossary-backdrop" id="glossaryBackdrop" onclick="toggleGlossary()"></div>
+<div class="glossary-overlay" id="glossaryOverlay">
+  <div class="glossary-header">
+    <h3>Glossary</h3>
+    <button class="glossary-close" onclick="toggleGlossary()">&times;</button>
+  </div>
+  <div class="glossary-search">
+    <input type="text" placeholder="Search terms..." oninput="filterGlossary(this.value)" id="glossarySearchInput">
+  </div>
+  <div class="glossary-list" id="glossaryList"></div>
+</div>
+
+<!-- Scripts -->
+<script src="config.js"></script>
+<script src="shared.js"></script>
+<script>
+  initPage(3);
+</script>
+
+</body>
+</html>
