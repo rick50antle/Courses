@@ -10,6 +10,16 @@ This document collects language decisions — words and phrases to use, and word
 
 ## Active Constraints
 
+### Accounting systems evolved — don't say they were "designed"
+
+Accounting systems did not emerge from a blueprint. They evolved over centuries — merchants solving practical problems long before anyone articulated a theory of what the records were capturing. Luca Pacioli described double-entry bookkeeping in 1494, but he was documenting an existing practice, not inventing one. The conceptual frameworks we use today are attempts to retroactively articulate the goals of a system that was already centuries old. Saying the system was "designed" implies someone sat down and drew up a plan. No one did.
+
+This does not mean that nothing in the system is a design choice. Conventions are chosen. The identity is imposed. The decomposition of equities into components is deliberate. Within the evolved system, specific features reflect intentional decisions. The distinction matters: the *architecture* evolved; the *conventions* adopted within that architecture are design choices.
+
+**Use instead:** "evolved," "emerged," "developed." Reserve "design choice" for specific features — conventions, the identity, decomposition categories — not for the system as a whole.
+
+---
+
 ### Never use "measurement" or "measure"
 
 Accounting does not measure. A scale measures weight — a single, well-defined physical property that exists independent of the instrument. Accounting quantifies, estimates, expresses, assesses, allocates. Each of these words carries an honest acknowledgment that judgment and convention are involved.
@@ -127,6 +137,12 @@ The prework does not deliver a complete package for the student to receive. It s
 **Example:**
 - Wrong: "This prework teaches you how the system works."
 - Right: "That is what this prework is about." Or: "This prework is where that journey begins."
+
+---
+
+### Dividends are "declared and paid"
+
+In the prework, always say dividends are "declared and paid" rather than treating declaration and payment as separate events. In practice, declaring a dividend (which debits retained earnings and creates a liability) and paying it (which debits the liability and credits cash) are distinct steps. But that distinction is a level of detail that would distract from the structural points the prework is making. Treating them as simultaneous is clean and honest — it doesn't hide the declaration step, it just doesn't separate it.
 
 ---
 
