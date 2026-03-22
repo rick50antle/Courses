@@ -116,6 +116,18 @@ Present A = L + E first — it is the form students will encounter everywhere. T
 
 ---
 
+### Don't generalize "flow" beyond cash — use "decomposition"
+
+"Cash flow statement" is an honest name: cash actually moves. It comes in, it goes out, you can count it. But generalizing "flow" to the other statements is misleading. A fair value write-up runs a gain through the income statement, but nothing flowed. Depreciation puts expense on the income statement, but nothing moved — the system allocated part of a past expenditure to the current period based on a convention. The word "flow" invites the student to imagine movement, and it breaks down precisely at the points where conventions are doing the most work — which is exactly where students should be paying the closest attention.
+
+When referring to the statements as a group, call them "the decompositions" or "the decomposition statements," not "the flow statements." Talk about changes, increases, and decreases — not flows. Reserve "flow" for cash, where it is accurate.
+
+**Use:** "decomposition," "change," "increase," "decrease," "the income statement decomposes the change in retained earnings"
+**Avoid:** "flow statement" as a collective term, "income flows," "flows through the income statement"
+**Exception:** "Cash flow statement" is the proper name and is accurate — cash does flow.
+
+---
+
 ### Never frame a question as "if you could only see one number"
 
 This implies a false choice. The whole point of the architecture is that you read the numbers *together*. The gap between two numbers is where the information lives. Questions should ask what the set of numbers tells you, not which one you would pick.
